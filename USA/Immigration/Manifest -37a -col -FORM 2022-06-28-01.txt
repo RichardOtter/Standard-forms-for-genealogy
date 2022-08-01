@@ -1,0 +1,185 @@
+FORM:2022-06-28-01
+37 columns
+National Archives: 1924-1948-immigration.pdf
+
+check cols 14 & 18 to get correct std form
+
+
+===========================================DIV50==
+<FULL_TEXT_FORM:START>
+<PAGE_FRONT>
+
+Form 500 B
+U.S. Department of Labor
+Immigration Service
+
+List or Manifest of Alien Passengers for the United States Immigration Officer at port of arrival 
+
+All Aliens arriving at a port of continental United States from a foreign port or to a port of the insular possessions of the United States, and all aliens arriving at a port of said insular possession from a foreign port, a port of continental United States, or part of another insular possession, in whatsoever class they travel, MUST be fully listed and the master or commanding officer of each such vessel carrying such passengers must upon arrival deliver lists thereof to the immigration officer.
+This (white) sheet is for the listing of STEERAGE PASSENGERS ONLY
+
+The entries on this list shall be typewritten or printed.
+
+List ____
+
+S.S. ____ sailing from ____, ____, 19____, Arriving at Port of ____, 19____
+
+1     No. on List
+2     Head-Tax Status  (This column for use of Government officials only.)
+3     Name in Full <nl>
+        Family Name
+        Given Name
+4     Age <nl>
+        Yrs.
+        Mos.
+5     Sex
+6     Married or single
+7     Calling or occupation
+8     Able to: <nl>
+        Read
+        Read what language (or if exemption is claimed, on what ground)
+        Write
+9     Nationality (Country of which citizen or subject.)
+10    ‡ Race or people
+11    * Place of birth <nl>
+         Country
+         City or town, State, Province or District
+12     Immigration Visa, Passport Visa, or Reentry Permit number (Prefix number with <?????> )
+13     Issued at--
+14     Date
+15     * Last permanent residence <nl>
+         Country
+         City or town, State, Province or District
+<some instances have blank column after 15 labeled ""U.S. Head Tax Collected">
+16     No. on list
+17     The name and complete address of nearest relative or friend in country whence alien came, or if none there, then in country of which a citizen or subject.
+18     Final destination (*Intended future permanent residence.) <nl>
+           State
+           City or town
+19     Whether having a ticket to such final destination
+20     By whom was passage paid? (Whether alien paid his own passage, whether paid by relative, whether paid by any other person, or by any corporation, society, municipality, or government.)
+21     Whether in possession of $50, and if less, how much?
+22     Whether ever before in the United States, and if so, when and where? (Last residence only) <nl>
+       Yes or No
+         If yes-- <nl>
+           Year or period of years
+           Where?
+           Date of last departure
+23     Whether going to join a relative or friend; and if so, what relative or friend, and his name and complete address, and if relative, exact relationship
+24     Purpose of coming to United States <nl>
+         Whether alien intends to return to country whence he came after engaging temporarily in laboring pursuits in the United States.
+         Length of time alien intends to remain in the United States.
+         Whether alien intends to become a citizen of the United States.
+25     Ever in prison or almshouse, or institution for care and treatment of the insane, or supported by charity? If so, which?
+26     Whether a Polygamist?
+27     Whether an anarchist?
+28     Whether a person who believes in or advocates the overthrow by force or violence of the Government of the United States or all forms of law, etc. (See footnote for full text of this question.)
+29     Whether coming by reason of any offer, solicitation, promise, or agreement, expressed or implied, to labor in the United States.
+30     Whether excluded and deported within one year.
+31     Whether arrested and deported at any time
+32     Condition of health, mental and physical
+33     Deformed or Crippled, Nature, length of time, and cause.
+34     Height <nl>
+         Feet
+         Inches
+35     Complexion
+36     Color of-- <nl>
+         Hair
+         Eyes
+37     Marks of identification
+
+<30 empty lines for data>
+
+<Below data lines>
+
+Total passengers    ____
+U.S. citizens       ____
+Aliens              ____
+
+* Permanent residence within the meaning of this manifest shall be actual or intended residence of one year or more.
+‡ List of races will be found on back of this sheet.
+
+NOTE. - Full text of question 24 is as follows: Whether a person who believes in or advocates the overthrow by force or violence of the Government of the United States or all forms of law, or who disbelieves in or is opposed to organized government, or who advocates the assassination of public officials, or who advocates or teaches the unlawful destruction of property, or is a member of or affiliated with any organization entertaining and teaching disbelief in or opposition to organized government or which teaches the unlawful destruction of property, or who advocates or teaches the duty, necessity, or propriety of the unlawful assaulting or killing or any officer or officers, either of specific individuals or of officers generally, of the Government of the United States or of any other organized government because of his or their official character.
+
+<PAGE_BACK>
+<TODO not done>
+
+<FULL_TEXT_FORM:END>
+
+===========================================DIV50==
+<DATA:START:FORM:06-28-01>
+
+S.S.                
+Sailing from        
+Departure date      
+Arriving at         
+Arrival date        
+List                
+Class               
+
+Total passengers    
+U.S. citizens       
+Aliens              
+
+1     No                                
+2     Head-Tax Status                   
+3a    Family Name                       
+3b    Given Name                        
+4a    Age Yrs                           
+4b    Mos.                              
+5     Sex                               
+6     Married or single                 
+7     Occupation                        
+8a    Able: Read                        
+8b    Read language                     
+8c    Write                             
+9     Nationality                       
+10    Race                              
+11a   Place birth Country               
+11b   City or town                      
+12    Visa Number                       
+13    Issued at -                       
+14    Date                              
+15a   Last perm res Country             
+15b   City or town                      
+16    No on list                        
+17    contact old country               
+18a   State                             
+18b   City or town                      
+19    ticket ?                          
+20    who paid?                         
+21    $50                               
+22    ever before in the US             
+22a   If yes, Years                     
+22b   Where                             
+22c   Date last depart                  
+23    join who                          
+24a   intends to return                 
+24b   time intends in US                
+24c   intends citizen US                
+25    Ever in prison?                   
+26    Polygamist?                       
+27    anarchist?                        
+28    overthrow of Gov                  
+29    coming to labor                   
+30    previously excluded               
+31    previously arrested               
+32    health                            
+33    Deformed                          
+34a   Height Feet                       
+34b   Inches                            
+35    Complexion                        
+36a   Color of Hair                     
+36b   Eyes                              
+37    Marks of ID                       
+
+<DATA: end>
+
+===========================================DIV50==
+used in 
+
+combo 2-2
+27 Nov 1931
+Honolulu
+Hana Yoshitake
+https://www.ancestry.com/discoveryui-content/view/2433282:1502

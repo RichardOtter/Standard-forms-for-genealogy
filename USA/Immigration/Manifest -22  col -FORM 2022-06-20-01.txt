@@ -1,0 +1,112 @@
+FORM:2022-06-20-01
+Standard form: National Archives: 1903-1907-immigration.pdf
+22 columns
+
+===========================================DIV50==
+<FULL_TEXT_FORM:START>
+<PAGE_FRONT>
+
+IMMIGRATION SERVICE
+Form 1500-B.<?>
+
+Saloon, Cabin, and Steerage Aliens must be completely manifested.
+This sheet is for steerage passengers.
+
+LIST OR MANIFEST OF ALIEN IMMIGRANTS FOR THE U.S IMMIGRATION OFFICER AT PORT OF ARRIVAL
+
+Required by the regulations of the Secretary of the Treasury of the United States, under Act of Congress approved March 3, 1903, to be delivered to the U.S. Immigration Officer by the Commanding
+Officer of any vessel having such passengers on board upon arrival at a port in the United States.
+
+List ____
+
+S.S. ____ sailing from ____, ____, 190____  Arriving at Port of ____, 190____
+
+1     No. on List
+2     NAME IN FULL.
+3     Age <nl>
+       Yrs.
+       Mos.
+4     Sex.
+5     Married or Single.
+6     Calling or Occupation
+7     Able to- <nl>
+       Read.
+       Write.
+8     Nationality. (Country of last permanent residence.)
+9     * Race or People.
+10    Last Residence. (Province, City, or Town.)
+11    Final Destination. (State, City, or Town.)
+12    Whether having a ticket to such final destination.
+13    By whom was passage paid?
+14    Whether in possession of $50, and if less, how much?
+15    Whether ever before in the United States; and if so, when and where?
+16    Whether going to join a relative or friend; and if so, what relative or friend and his name and complete address.
+17    Ever in prison or almshouse, or institution for care and treatment of the insane, or supported by charity? If so, which?
+18    Whether a Polygamist.
+19    Whether an Anarchist.
+20    Whether coming by reason of any offer, solicitation, promise, or agreement, express or implied, to labor in the United States.
+21    Condition of Health, Mental and Physical.
+22    Deformed or Crippled. Nature, length of time, and cause.
+
+<30 numbered empty lines for data>
+
+
+<PAGE_BACK>
+<TODO not done>
+
+<FULL_TEXT_FORM:END>
+
+===========================================DIV50==
+<DATA:FORM:2022-06-20-01>
+
+S.S.                
+Sailing from        
+Departure date      
+Arriving at         
+Arrival date        
+List                
+Class               
+
+1     No. on List                       
+2     Name in Full                      
+3a    Age Years                         
+3b    Months                            
+4     Sex                               
+5     Married or Single                 
+6     Occupation                        
+7a    Able to Read                      
+7b    Able to Write                     
+8     Nationality                       
+9     Race or people                    
+10    Last residence                    
+11    Final destination                 
+12    Ticket to destination             
+13    Who paid?                         
+14    Money                             
+15    In USA before                     
+16    Join someone                      
+17    Prison, etc.                      
+18    Polygamist?                       
+19    Anarchist?                        
+20    Labor offer                       
+21    Health                            
+22    Deformed                          
+
+<DATA: end>
+
+===========================================DIV50==
+used in
+
+21 September 1903
+NYC
+Max Stamm
+https://www.ancestry.com/discoveryui-content/view/4003194278:7488
+
+2 Nov 1903
+Honolulu
+Tatsuji Kawachi, Haya
+https://www.ancestry.com/discoveryui-content/view/2472596:1502
+https://www.ancestry.com/discoveryui-content/view/2472597:1502
+
+
+
