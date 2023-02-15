@@ -11,29 +11,30 @@ DEPARTMENT OF COMMERCE-BUREAU OF THE CENSUS
 SIXTEENTH CENSUS OF THE UNITED STATES: 1940
 POPULATION SCHEDULE
 
-STATE ____
-COUNTY ____
+State ____
+County ____
+U.S. GOVERNMENT PRINTING OFFICE  16-11576
 
-INCORPORATED PLACE ____
-TOWNSHIP OR OTHER DIVISION OF COUNTY ____
+Incorporated place ____
+Township or other division of county ____
 
-WARD OF CITY ____
-BLOCK Nos. ____
+Ward of city ____
+Block Nos. ____
 
-UNINCORPORATED PLACE ____
+Unincorporated place ____
     Name of unincorporated place having 100 or more inhabitants)
-INSTITUTION ____
+Institution ____
     (Name of institution and lines on which entries are made)
 
-Sheet No. ____A
 S.D. No. ____
 E.D. No. ____
-ENUMERATED BY ME ON ____, 1940
-____, Enumerator/
+Enumerated by me on ____, 1940.
+____, Enumerator.
 
 16-252 A
+Sheet No. ____
 
-U.S. GOVERNMENT PRINTING OFFICE  16-11576
+<COLUMN HEADINGS>
 
 
 0    Line No.
@@ -140,116 +141,101 @@ Line No.
 
 
 
+<50 BLANK DATA LINES, SHEET A 1-50 or SHEET B 51-100>
+
+
+
+
 SYMBOLS AND EXPLANATORY NOTES
 
-COL. 5. VALUE OF HOME, IF OWNED: 
-Where owner’s household
-occupies only a part of a
-structure, estimate value of
-portion occupied by owner’s
-household. Thus the value of the
-unit occupied by the owner of a
-two-family house might be
-approximately one-half the total
-value of the structure.
+Col. 5. VALUE OF HOME, IF OWNED: 
+Where owner’s household occupies 
+only a part of a structure, 
+estimate value of portion occupied 
+by owner’s household. Thus the 
+value of the unit occupied by the 
+owner of a two-family house 
+might be approximately one-half 
+the total value of the structure.
 
-COL. 10. COLOR OR RACE: 
-White_____________W
-Negro_____________Neg
-Indian____________In
-Chinese___________Chi
-Japanese__________Jp
-Filipino__________Fil
-Hindu_____________Hin
-Korean____________Kor
+Col. 10. COLOR OR RACE: 
+White             W
+Negro             Neg
+Indian            In
+Chinese           Chi
+Japanese          Jp
+Filipino          Fil
+Hindu             Hin
+Korean            Kor
 Other race, spell out in full.
 
-COL. 11. AGE AT LAST BIRTHDAY:
+Col. 11. AGE AT LAST BIRTHDAY:
 Enter age of children born on or after April 1, 1939, as follows. Born in: 
-April 1939_____________ 11/12
-May 1939_____________ 10/12
-June 1939_____________ 9/12
-July 1939______________ 8/12
-August 1939___________ 7/12
-September 1939________ 6/12
-October 1939__________ 5/12
-November 1939________ 4/12
-December 1939________ 3/12
-January 1939__________ 2/12
-February 1939_________ 1/12
-March 1939___________ 0/12
+April 1939            11/12
+May 1939              10/12
+June 1939              9/12
+July 1939              8/12
+August 1939            7/12
+September 1939         6/12
+October 1939           5/12
+November 1939          4/12
+December 1939          3/12
+January 1939           2/12
+February 1939          1/12
+March 1939             0/12
 (Do not include children born on or after April 1, 1940.)
 
-COL. 14. HIGHEST GRADE OF SCHOOL COMPLETED: 
-None __________________________________ C
-Elementary school, 1st to 8th grade ____1,2,et., to 8
-High school, 1st to 4th year ___________H-1, H-2, H-3, H-4
-College, 1st to 4th year ______________C-1, C-2, C-3, C-4
-College, 5th or subsequent year _______C-5
-Naturalized____
-Having first pap
-Alien_________
-American citizen
-April 1939_____________ 11/12
-May 1939_____________ 10/12
-June 1939_____________ 9/12
-July 1939______________ 8/12
-August 1939___________ 7/12
-September 1939________ 6/12
-October 1939__________ 5/12
-November 1939________ 4/12
-December 1939________ 3/12
-January 1939__________ 2/12
-February 1939_________ 1/12
-March 1939___________ 0/12
+Col. 14. HIGHEST GRADE OF SCHOOL COMPLETED: 
+None                                   0
+Elementary school, 1st to 8th grade    1,2,et., to 8
+High school, 1st to 4th year           H-1, H-2, H-3, H-4
+College, 1st to 4th year               C-1, C-2, C-3, C-4
+College, 5th or subsequent year        C-5
 
-COL. 16. CITIZENSHIP OF THE FOREIGN BORN:
-Naturalized______________________Na
-Having first papers______________Pa
-Alien____________________________Al
-American citizen born abroad______Am Cit
+Col. 16. CITIZENSHIP OF THE FOREIGN BORN:
+Naturalized                      Na
+Having first papers              Pa
+Alien                            Al
+American citizen born abroad     Am Cit
 
-COL. 21. WAS THIS PERSON AT WORK?
+Col. 21. WAS THIS PERSON AT WORK?
 Enter “Yes” for persons at work
 for pay or profit in private or
-nonemergency Goverment work.
-Include unpaid family workers -
-that is, related members of the
-family working without money
-wages or salary on work (other
-than house work or incidental
-chores) which contributed to the
-family income.
+nonemergency Government 
+work. Include unpaid family 
+workers - that is, related members 
+of the family working 
+without money wages or salary on 
+work (other than house work or 
+incidental chores) which contributed 
+to the family income.
 
-COL. 24. DID THIS PERSON HAVE A JOB?
+Col. 24. DID THIS PERSON HAVE A JOB?
 Enter “Yes” for person (not seeking
 work) who had a job, business, or
 professional enterprise, but did not
 work during week of March 24-30 for
 any of the following reason: Vacation;
-temporary illness; industrial dispute;
-layoff not exceeding 4 weeks with
-instructions to return to work at a
-specific date; layoff due to temporarily
+temporary illness; industrial 
+dispute; layoff not exceeding 4 weeks 
+with instructions to return to work at 
+a specific date; layoff due to temporarily
 bad weather conditions.
 
-COLS. 30 AND 47. CLASS OF WORKER:
-Wage or salary worker in private work________PW
-Wage or salary worker in Government work_____GW
-Employer______________________________________E
-Working on own account_______________________OA
-Unpaid family worker_________________________NP
+Cols. 30 and 47. CLASS OF WORKER:
+Wage or salary worker in private work        PW
+Wage or salary worker in Government work     GW
+Employer                                      E
+Working on own account                       OA
+Unpaid family worker                         NP
 
-COL. 41. WAR OR MILITARY SERVICE:
-World War_________________________________________________________________________W
-Spanish-American War, Philippine Insurrection, or Boxer Rebellion_________________S
-Spanish-American War and World War________________________________________________SW
-Regular establishment (Army, Navy, or Marine Corps) peace-time service only_______R
-Other war or expedition___________________________________________________________Ot
+Col. 41. WAR OR MILITARY SERVICE:
+World War                                                                         W
+Spanish-American War, Philippine Insurrection, or Boxer Rebellion                 S
+Spanish-American War and World War                                                SW
+Regular establishment (Army, Navy, or Marine Corps) peace-time service only       R
+Other war or expedition                                                           Ot
 
-
-<PAGE_BACK>
-<TODO not done>
 
 <FULL_TEXT_FORM:END>
 

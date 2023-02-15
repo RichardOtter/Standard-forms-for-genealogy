@@ -28,10 +28,10 @@ Name of institution ____
 Enumeration District No. ____
 Representative District No. ____
 Precinct No. ____
+Enumerated by me on ____, 1940.  ____, Enumerator.
 
 SHEET No. ____
 
-Enumerated by me on ____, 1940.  ____, Enumerator
 
 <COLUMN HEADINGS>
 
