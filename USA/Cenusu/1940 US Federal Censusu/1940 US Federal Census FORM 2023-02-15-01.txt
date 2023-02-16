@@ -5,7 +5,7 @@ FORM:2023-02-15-01
 <FULL_TEXT_FORM:START>
 <PAGE_FRONT>
 
-Your report is required by Act of Congress. This Act makes also it unlawful for the Bureau to disclose any facts, including names or identity, from your census reports. Only sworn census employees will see your statements. Data collected will be used solely for preparing statistical information concerning the Nationís population, resources, and business activities. Your Census Reports Cannot Be Used for Purposes of Taxation, Regulation, or Investigation.
+Your report is required by Act of Congress. This Act makes also it unlawful for the Bureau to disclose any facts, including names or identity, from your census reports. Only sworn census employees will see your statements. Data collected will be used solely for preparing statistical information concerning the Nation‚Äôs population, resources, and business activities. Your Census Reports Cannot Be Used for Purposes of Taxation, Regulation, or Investigation.
 
 DEPARTMENT OF COMMERCE-BUREAU OF THE CENSUS
 SIXTEENTH CENSUS OF THE UNITED STATES: 1940
@@ -36,123 +36,187 @@ Sheet No. ____
 
 <COLUMN HEADINGS>
 
+     Line No.
+LOCATION
+1    Street, avenue, road, etc.
+2    House number (in cities and towns)
 
-0    Line No.
-    LOCATION
-1     Street, Avenue, road, etc.
-2     House Number
-    HOUSEHOLD DATA
-3     No. of Household in order of visitation
-4     Home owned (O) or rented (R)
-5     Value of home or Monthly rental if rented.
-6     Farm? (Yes or No)
+HOUSEHOLD DATA
+3    Number of household in order of visitation
+4    Home owned (O) or rented (R)
+5    Value of home or Monthly rental if rented.
+6    Does this household live on a farm? (Yes or No)
 
-    NAME
-    Name of each person whose usual place of residence on April 1, 1940, was in this household.
+NAME
+7   Name of each person whose usual place of residence on April 1, 1940, was in this household. 
     BE SURE TO INCLUDE:
-    1. Persons temporarily absent from household. Write -Ab? after names of such persons.
+    1. Persons temporarily absent from household. Write "Ab" after names of such persons.
     2. Children under 1 year of age. Write -Infant? if child has not been given a first name.
-    Enter x after name of person furnishing information.
-7   
+    Enter X <circled X> after name of person furnishing information.
 
-    RELATION
-    Relationship of this person to the head of the household, as wife, daughter, father, mother-in-law, grandson, lodger, lodgerís wife, servant, hired hand, etc.
-8    
-8A    CODE (Leave Blank)
+RELATION
+8   Relationship of this person to the head of the household, as wife, daughter, father, mother-in-law, grandson, lodger, lodger‚Äôs wife, servant, hired hand, etc.
+A   CODE (Leave Blank)
 
-    PERSONAL DESCRIPTION
-9     Sex -Male (M), Female (F)
-10    Color or Race
-11    Age at Last Birthday
-12    Does this household live on a farm? (Yes or No)
+PERSONAL DESCRIPTION
+9    Sex -Male (M), Female (F)
+10   Color or Race
+11   Age at Last Birthday
+12   Marital Status‚Äì Single (S), Married (M) Widowed (Wd), Divorced (D)
 
-    EDUCATION
-13    Attended school or college at any time since March 1, 1940?
-14    Highest grade of school completed
-14B   CODE (Leave Blank)
+EDUCATION
+13   Attended school or college at any time since March 1, 1940?
+14   Highest grade of school completed
+B    CODE (Leave Blank)
 
-    PLACE OF BIRTH
-If born in U.S. give state, territory or possession.
-If foreign born, give country in which birthplace was situated on Jan. 1, 1937.
-Distinguish: Canada-French from Canada-English and Irish Free State from Northern Ireland.
-15    
-15C  CODE (Leave Blank)
+PLACE OF BIRTH
+15   If born in U.S. give State, Territory or possession.
+     If foreign born, give country in which birthplace was situated on Jan. 1, 1937.
+     Distinguish: Canada-French from Canada-English and Irish Free State from Northern Ireland.
+C    CODE (Leave Blank)
 
-    CITIZENSHIP
-16    Citizenship of the foreign born
+CITIZENSHIP
+16   Citizenship of the foreign born
 
-    RESIDENCE, APRIL 1, 1935
-17   City, town, or village having 2,600 or more inhabitants If less, enter -R.?
-18   County
-19   State (or Territory or foreign country)
+RESIDENCE, APRIL 1, 1935
+IN WHAT PLACE DID THIS PERSON LIVE ON APRIL 1, 1935?
+For a person who, on April 1, 1935, was living in the same house as at present, enter in Col. 17 ‚ÄúSame house,‚Äù and for one living in a different house but in the same city or town, enter, ‚ÄúSame place,‚Äù leaving Cols. 18, 19, and 20 blank, in both instances.
+For a person who lived in a different place, enter city or town, county, and State, as directed in the instructions. (Enter actual place of residence, which may differ from mail address.)
+17   City, town, or village having 2,500 or more inhabitants Enter ‚ÄúR‚Äù for all other places.
+18   COUNTY
+19   STATE (or Territory or foreign country)
 20   On a Farm? (Y or N)
-20D  CODE (Leave Blank)
-
-    PERSONS 14 YEARS OLD AND OVERñEMPLOYMENT STATUS
+D    CODE (Leave Blank)
 
 
+
+PERSONS 14 YEARS OLD AND OVER ‚Äì EMPLOYMENT STATUS
 
 21   Was this person AT WORK for pay or profit in private or non-emergency Govt. work during week of March 24-30? (Yes or No)
-
 22   If not, was he at work on, or assigned to, public EMERGENCY WORK (WPA, NYA, CCC, etc.) during week of March 24-30 (Yes or No)
 
-If neither at work nor assigned to public emergency work. (îNoî in Cols. 21 and 22)
-
+If neither at work nor assigned to public emergency work. (‚ÄùNo‚Äù in Cols. 21 and 22)
 23   Was this person SEEKING WORK? (Yes or No)
-
 24   If not seeking work, did he HAVE A JOB, business, etc.?  (Yes or No)
 
-For persons answering ìNoî to quest. 21, 22, 23, and 24
-
+For persons answering ‚ÄúNo‚Äù to quest. 21, 22, 23, and 24 
 25   Indicate whether engaged in home housework (H), in school (S), unable to work (U) or other (Ot)
+E    CODE
 
-25E  CODE
-
-If at private or nonemergency Government work. (îYesî in Col. 21) 
+If at private or nonemergency Government work. (‚ÄùYes‚Äù in Col. 21) 
 26   Number of hours worked during week of March 24-30, 1940
 
+If seeking work or assigned to public emergency work. (‚ÄùYes‚Äù in Col. 22 or 23)
+27  Duration of unemployment up to March 30, 1940 - in weeks
 
 OCCUPATION, INDUSTRY, AND CLASS OF WORKER
-For a person at work, assigned to public emergency work, or with a job (îYesî in Col. 21,
+For a person at work, assigned to public emergency work, or with a job (‚ÄùYes‚Äù in Col. 21,
 22, or 24), enter present occupation, industry, and class of worker.
-For a person seeking work (îYesî in Col 23): (a) IF he has previous work experience, enter
+For a person seeking work (‚ÄùYes‚Äù in Col 23): (a) IF he has previous work experience, enter
 last occupation, industry, and class of worker: or (b) if he does not have previous work
-experience, enter ìNewworkerî in Col. 28, and leave Cols. 29 and 30 blank.
+experience, enter ‚ÄúNew worker‚Äù in Col. 28, and leave Cols. 29 and 30 blank.
 
 28   OCCUPATION Trade, profession, or particular kind of work, as - frame spinner salesman laborer rivet heater music teacher
-
 29   INDUSTRY Industry or business, as - cotton mill retail grocery farm shipyard public school
-
 30   Class of worker
-
-30F   CODE (Leave blank)
+F    CODE (Leave blank)
 
 31   Number of weeks worked in 1939 (Equivalent full-time weeks)
 
-INCOME IN 1939 (12 months ending December 31, 1939)
-
-32   Amount of money wages or  salary received (Including commissions)
-
+INCOME IN 1939 (12 months ending December 31, 1939)       
+32   Amount of money wages or salary received (Including commissions)
 33   Did this person receive income of $50 or more from sources other than money wages or salary? (Yes or No)
+
 
 34   Number of Farm Schedule
 
 Line No.
 
 
-
 <50 BLANK DATA LINES, SHEET A 1-50 or SHEET B 51-100>
 
 
+SUPPLEMENTARY QUESTIONS
+For Persons Enumerated on Lines 55 and 68
+
+Line No.
+
+35   NAME
+
+FOR PERSONS OF ALL AGES
+
+PLACE OF BIRTH OF FATHER AND MOTHER
+If born in the United States, give State, Territory, or possession
+If foreign born, give country in which birthplace was situated on January 1, 1937
+Distinguish Canada-French from Canada-English and Irish Free State (Eire) from
+Northern Ireland
+36   FATHER
+27   MOTHER
+G    CODE (leave blank)
+
+MOTHER TOUNGE (OR NATIVE LANGUAGE)
+38   Language spoken in home in earliest childhood
+H    CODE (leave blank)
+
+VETERANS
+Is this person a veteran of the United States military forces; or the wife, widow, or under 18-year-old child of a veteran?
+39   If so, enter ‚ÄúYes‚Äù
+40   If child, is veteran-father dead? (Yes or No)
+41   War or military service
+I    CODE (leave blank)
+
+
+FOR PERSONS 14 YEARS OLD AND OVER
+
+SOCIAL SECURITY
+42  Does this person have a Federal Social Security Number? (Yes or No)
+43  Were deductions for Federal Old-Age Insurance or Railroad Retirement made from this person‚Äôs wages or salary in 1939? (Yes or No)
+44  If so, were deductions made from (1) all, (2) one-half or more, (3) part, but less than half, of wages or salary?
+
+
+USUAL OCCUPATION, INDUSTRY, AND CLASS OF WORKER
+Enter that occupation which the person regards as his usual occupation and at which he is physically able to work. If the person is unable to determine this, enter that occupation at which he has worked longest during the past 10 years and at which he is physically able to work. 
+Enter also usual industry and usual class of worker.
+For a person without previous work experience, enter "None" in Col. 45 and leave Cols. 46 and 47 blank.
+45  USUAL OCCUPATION
+46  USUAL INDUSTRY
+47  Usual class of worker
+J   CODE (Leave blank)
+
+
+FOR ALL WOMEN WHO ARE OR  HAVE BEEN MARRIED
+48   Has this woman been married more than once? (Yes or No)
+49   Age at first marriage
+50   Number of children ever born. (Do not include stillbirths)
+
+FOR OFFICE USE ONLY - DO NOT WRITE IN THESE COLUMNS
+K   Ten (4)
+L   V-R (5)
+M   Fm. res. and Sex (6 and 9)
+N   Color and nat. (10, 15, 56, an d 37)
+O   Age (11)
+P   Mar. st. (12)
+Q   Gr. Com. (B)
+R   Cit. (16)
+S   Wrk. st. (E)
+T   Hrs. wkd. or Dur. un. (26 or 27)
+U   Occupation, industry, and class of worker (F)
+V   Wks. wkd. (31)
+W   Wages (32)
+X   Ot. inc. (33)
+Y   
+Z   
+
+Line No.
 
 
 SYMBOLS AND EXPLANATORY NOTES
 
 Col. 5. VALUE OF HOME, IF OWNED: 
-Where ownerís household occupies 
+Where owner‚Äôs household occupies 
 only a part of a structure, 
 estimate value of portion occupied 
-by ownerís household. Thus the 
+by owner‚Äôs household. Thus the 
 value of the unit occupied by the 
 owner of a two-family house 
 might be approximately one-half 
@@ -199,7 +263,7 @@ Alien                            Al
 American citizen born abroad     Am Cit
 
 Col. 21. WAS THIS PERSON AT WORK?
-Enter ìYesî for persons at work
+Enter ‚ÄúYes‚Äù for persons at work
 for pay or profit in private or
 nonemergency Government 
 work. Include unpaid family 
@@ -211,7 +275,7 @@ incidental chores) which contributed
 to the family income.
 
 Col. 24. DID THIS PERSON HAVE A JOB?
-Enter ìYesî for person (not seeking
+Enter ‚ÄúYes‚Äù for person (not seeking
 work) who had a job, business, or
 professional enterprise, but did not
 work during week of March 24-30 for

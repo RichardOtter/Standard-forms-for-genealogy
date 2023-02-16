@@ -130,10 +130,10 @@ Line No.
 SYMBOLS AND EXPLANATIONS:
 
 Col. 5. VALUE OF HOME, IF OWNED: 
-Where ownerís household
+Where owner‚Äôs household
 occupies only a part of a
 structure, estimate value of
-portion occupied by ownerís
+portion occupied by owner‚Äôs
 household. 
 
 Col. 9. COLOR OR RACE: 
@@ -195,7 +195,7 @@ aliens "Al" in col 15). (See Instructions
 to Enumerators, pars, 202-203.)
 
 Col. 16. AT WORK WEEK OF MARCH 24-30?
-ìYesî for persons at work for pay or profit
+‚ÄúYes‚Äù for persons at work for pay or profit
 including unpaid members of the family
 (except those doing housework or incidental
 chores) engaged on work which
@@ -205,7 +205,7 @@ emergency work (WPA, NYA, CCC, etc.),
 whether at work or not.
 
 Col. 18. DID THIS PERSON HAVE A JOB?
-ìYesî for a person (not seeking work) who 
+‚ÄúYes‚Äù for a person (not seeking work) who 
 had a job, business, or a professional 
 enterprise, but did not work during week 
 of March 24-30 for any of the following 
