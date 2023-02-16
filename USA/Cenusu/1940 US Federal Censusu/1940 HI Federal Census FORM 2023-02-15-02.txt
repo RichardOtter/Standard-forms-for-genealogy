@@ -237,57 +237,62 @@ Public emergency employment (WPA, NYA, CCC, etc,)          E
 
 ===========================================DIV50==
 <DATA:FORM:2023-02-15-02>
-1940 HI
-                              
-                                                       
-                                                                                 
-County                        
-Island                        
-Census tract                  
-City, town or village         
-Name of institution           
-Enumeration Dist. No.         
-Representative Dist. No.      
-Precinct No.                  
-Date                          
-Enumerator                    
-Sheet No.                     
+CENSUS 1940 US HI
 
-    Line #                    
-1   Street                    
-2   House #                   
-3   Household S#              
-3a  Live on farm? (Y/N)       
-4   Own/rent (O/R)            
-5   Price home                
-
-6   Name                      
-7   Relationship              
-8   Sex (M/F)                 
-9   Race (code)               
-10  Age                       
-11  Martial status (code)     
-12  Attended school? (Y/N)    
-13  Highest grade             
-14  Birth place               
-15  US Citz stat (code)       
-15A Territorial citz? (Y/N)   
-
-16  At work? (Y/N)            
-17  Seeking work (Y/N)        
-18  Had a job? (Y/N)          
-19  # hours worked in week    
-20  Dur. of unemployment      
-20  Occupation                
-22  Industry                  
-23  Class of worker (code)    
-24  Source of wage/salary     
-25  # weeks worked            
-26  Income                    
-27  Other income?             
-28  # of farm report          
-    Line #                    
+County                       |          |
+Island                       |          |
+Census tract                 |          |
+City, town or village        |          |
+Name of institution          |          |
+Enumeration Dist. No.        |          |
+Representative Dist. No.     |          |
+Precinct No.                 |          |
+Date                         |          |
+Enumerator                   |          |
+Sheet No.                    |          |
+                             |          |
+    Line #                   |          |
+1   Street                   |          |
+2   House #                  |          |
+3   Household S#             |          |
+3a  Live on farm? (Y/N)      |          |
+4   Own/rent (O/R)           |          |
+5   Price home               |          |
+6   Name                     |          |
+7   Relationship             |          |
+8   Sex (M/F)                |          |
+9   Race (code)              |          |
+10  Age                      |          |
+11  Martial status (code)    |          |
+12  Attended school? (Y/N)   |          |
+13  Highest grade            |          |
+14  Birth place              |          |
+15  US Citz stat (code)      |          |
+15A Territorial citz? (Y/N)  |          |
+16  At work? (Y/N)           |          |
+17  Seeking work (Y/N)       |          |
+18  Had a job? (Y/N)         |          |
+19  # hours worked in week   |          |
+20  Dur. of unemployment     |          |
+20  Occupation               |          |
+22  Industry                 |          |
+23  Class of worker (code)   |          |
+24  Source of wage/salary    |          |
+25  # weeks worked           |          |
+26  Income                   |          |
+27  Other income?            |          |
+28  # of farm report         |          |
+    Line #                   |          |
 
 <DATA:END>
+
+===========================================DIV50==
+
+Codes
+<X>    informant (circled X)
+<?>    not legible
+<bl>   blank
+<c>    continued, as in "street name" 
+<d>    ditto mark
 
 ===========================================DIV50==
