@@ -100,7 +100,7 @@ Trade, profession, or particular kind of work as cannery worker, salesman, forem
 
 INDUSTRY
 Industry or business, as pineapple cannery, dry goods store, sugar-cane plantation, etc.
-22   Industry	
+22   Industry
 
 23   Class of worker
 
@@ -116,7 +116,7 @@ C    (For office use only. Do not write in this column)
 25   Number of weeks worked during 12 months ending December 31, 1939 (equivalent full-time weeks)
 
 INCOME  (12 months ending Dec 31, 1929)
-26   Amount of money, wages or salary received	
+26   Amount of money, wages or salary received
 27   Did this person receive income amounting to $60 or more from sources other than money wages or salary? (Yes or No)
 
 28   Number of farm report, if any, "in order of visitation"
@@ -237,58 +237,54 @@ Public emergency employment (WPA, NYA, CCC, etc,)          E
 
 ===========================================DIV50==
 <DATA:FORM:2023-02-15-02>
+1940 HI
 
-Form	H-100
+County                        
+Island                        
+Census tract                  
+City, town or village         
+Name of institution           
+Enumeration Dist. No.         
+Representative Dist. No.      
+Precinct No.                  
+Date                          
+Enumerator                    
+Sheet No.                     
 
-Island	
-County	
-City, Town, Village	
-Census tract	
-Representative District No.	
-Institution	<b>
-Precinct No.	<b>
-Enumeration District	
-Sheet No	
-Date	April 22, 1940
-Enumerator	
-	
-Line #	
-1 Street	<b>
-2 House #	<b>
-3 Household #	
-3a Live on farm?	
-4 Own/rent	
-5 Value of home or rent	
-6 Name	
-7 Relation	
-8 Sex	
-9 Race	
-9A	
-10 Age	
-11 Martial stat	
-12 Attended school?	
-13 Highest grade	
-14 Birth place	
-14B 	
-15 US Citizen?	
-15A Territorial citizen?	
-16 At work?	
-17 How long seeking work	
-18 Had a job?	
-19 # hours worked in week	
-20 Duration of unemployment	
-20 Occupation	
-22 Industry	
-23 Class of worker	
-24 Source of wage/salary	
-24C a	
-24C b	
-24C c	
-25 # weeks worked	
-26 income	
-27 other income?	
-28 # of farm report	
-<end of form>	
+    Line #                              
+1   Street                              
+2   House #                             
+3   Household S#                        
+3a  Live on farm? (Y/N)                
+4   Own/rent (O/R)                      
+5   Price home                          
+
+6   Name                                
+7   Relationship                        
+8   Sex (M/F)                           
+9   Race (code)                         
+10  Age                                 
+11  Martial status (code)               
+12  Attended school? (Y/N)              
+13  Highest grade                       
+14  Birth place                         
+15  US Citizen stat (code)              
+15A Territorial citizen? (Y/N)          
+
+16  At work? (Y/N)                      
+17  Seeking work (Y/N)                  
+18  Had a job? (Y/N)                    
+19  # hours worked in week              
+20  Duration of unemployment            
+20  Occupation                          
+22  Industry                            
+23  Class of worker (code)              
+24  Source of wage/salary               
+25  # weeks worked                      
+26  Income                              
+27  Other income?                       
+28  # of farm report                    
+    Line #                              
 
 <DATA:END>
 

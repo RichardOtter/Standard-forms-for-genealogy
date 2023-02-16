@@ -59,18 +59,18 @@ RELATION
 A   CODE (Leave Blank)
 
 PERSONAL DESCRIPTION
-9    Sex -Male (M), Female (F)
+9    Sex - Male (M), Female (F)
 10   Color or Race
 11   Age at Last Birthday
 12   Marital Status– Single (S), Married (M) Widowed (Wd), Divorced (D)
 
 EDUCATION
-13   Attended school or college at any time since March 1, 1940?
+13   Attended school or college at any time since March 1, 1940? (Yes or No)
 14   Highest grade of school completed
 B    CODE (Leave Blank)
 
 PLACE OF BIRTH
-15   If born in U.S. give State, Territory or possession.
+15   If born in the United States give State, Territory or possession.
      If foreign born, give country in which birthplace was situated on Jan. 1, 1937.
      Distinguish: Canada-French from Canada-English and Irish Free State from Northern Ireland.
 C    CODE (Leave Blank)
@@ -80,9 +80,10 @@ CITIZENSHIP
 
 RESIDENCE, APRIL 1, 1935
 IN WHAT PLACE DID THIS PERSON LIVE ON APRIL 1, 1935?
-For a person who, on April 1, 1935, was living in the same house as at present, enter in Col. 17 “Same house,” and for one living in a different house but in the same city or town, enter, “Same place,” leaving Cols. 18, 19, and 20 blank, in both instances.
+For a person who, on April 1, 1935, was living in the same house as at present, enter in Col. 17 "Same house,” and for one living in a different house but in the same city or town, enter, "Same place,” leaving Cols. 18, 19, and 20 blank, in both instances.
 For a person who lived in a different place, enter city or town, county, and State, as directed in the instructions. (Enter actual place of residence, which may differ from mail address.)
-17   City, town, or village having 2,500 or more inhabitants Enter “R” for all other places.
+
+17   City, town, or village having 2,500 or more inhabitants Enter "R” for all other places.
 18   COUNTY
 19   STATE (or Territory or foreign country)
 20   On a Farm? (Y or N)
@@ -95,26 +96,26 @@ PERSONS 14 YEARS OLD AND OVER – EMPLOYMENT STATUS
 21   Was this person AT WORK for pay or profit in private or non-emergency Govt. work during week of March 24-30? (Yes or No)
 22   If not, was he at work on, or assigned to, public EMERGENCY WORK (WPA, NYA, CCC, etc.) during week of March 24-30 (Yes or No)
 
-If neither at work nor assigned to public emergency work. (”No” in Cols. 21 and 22)
+If neither at work nor assigned to public emergency work. ("No" in Cols. 21 and 22)
 23   Was this person SEEKING WORK? (Yes or No)
 24   If not seeking work, did he HAVE A JOB, business, etc.?  (Yes or No)
 
-For persons answering “No” to quest. 21, 22, 23, and 24 
+For persons answering "No" to quest. 21, 22, 23, and 24 
 25   Indicate whether engaged in home housework (H), in school (S), unable to work (U) or other (Ot)
 E    CODE
 
-If at private or nonemergency Government work. (”Yes” in Col. 21) 
+If at private or nonemergency Government work. ("Yes" in Col. 21) 
 26   Number of hours worked during week of March 24-30, 1940
 
-If seeking work or assigned to public emergency work. (”Yes” in Col. 22 or 23)
+If seeking work or assigned to public emergency work. ("Yes" in Col. 22 or 23)
 27  Duration of unemployment up to March 30, 1940 - in weeks
 
 OCCUPATION, INDUSTRY, AND CLASS OF WORKER
-For a person at work, assigned to public emergency work, or with a job (”Yes” in Col. 21,
+For a person at work, assigned to public emergency work, or with a job ("Yes" in Col. 21,
 22, or 24), enter present occupation, industry, and class of worker.
-For a person seeking work (”Yes” in Col 23): (a) IF he has previous work experience, enter
+For a person seeking work ("Yes" in Col 23): (a) IF he has previous work experience, enter
 last occupation, industry, and class of worker: or (b) if he does not have previous work
-experience, enter “New worker” in Col. 28, and leave Cols. 29 and 30 blank.
+experience, enter "New worker" in Col. 28, and leave Cols. 29 and 30 blank.
 
 28   OCCUPATION Trade, profession, or particular kind of work, as - frame spinner salesman laborer rivet heater music teacher
 29   INDUSTRY Industry or business, as - cotton mill retail grocery farm shipyard public school
@@ -133,11 +134,11 @@ INCOME IN 1939 (12 months ending December 31, 1939)
 Line No.
 
 
-<50 BLANK DATA LINES, SHEET A 1-50 or SHEET B 51-100>
+<40 BLANK DATA LINES, SHEET A 1-40 or SHEET B 41-80>
 
 
 SUPPLEMENTARY QUESTIONS
-For Persons Enumerated on Lines 55 and 68
+For Persons Enumerated on Lines 14 & 29 <or 55 & 68>
 
 Line No.
 
@@ -160,7 +161,7 @@ H    CODE (leave blank)
 
 VETERANS
 Is this person a veteran of the United States military forces; or the wife, widow, or under 18-year-old child of a veteran?
-39   If so, enter “Yes”
+39   If so, enter "Yes"
 40   If child, is veteran-father dead? (Yes or No)
 41   War or military service
 I    CODE (leave blank)
@@ -263,7 +264,7 @@ Alien                            Al
 American citizen born abroad     Am Cit
 
 Col. 21. WAS THIS PERSON AT WORK?
-Enter “Yes” for persons at work
+Enter "Yes" for persons at work
 for pay or profit in private or
 nonemergency Government 
 work. Include unpaid family 
@@ -275,7 +276,7 @@ incidental chores) which contributed
 to the family income.
 
 Col. 24. DID THIS PERSON HAVE A JOB?
-Enter “Yes” for person (not seeking
+Enter "Yes" for person (not seeking
 work) who had a job, business, or
 professional enterprise, but did not
 work during week of March 24-30 for
@@ -306,93 +307,82 @@ Other war or expedition                                                         
 
 ===========================================DIV50==
 <DATA:FORM:2023-02-15-01>
-
 1940 US
-Form16-11576
 
-State
-County
-Incorporated place
-Township or other division
-Ward of city
-Block Nos.
-Unincorporated place<b>
-Institution<b>
-S.D. No.
-E.D. No.
-Date
-Sheet No
-Enumerator
+State                         
+County                        
+Incorporated                  
+Township or other             
+Ward of city                  
+Block Nos.                    
+Unincorporated place          
+Institution                   
+S.D. No.                      
+E.D. No.                      
+Date                          
+Sheet No                      
+Enumerator                    
 
-Line #
+      Line #                            
 1     Street                            
 2     House #                           
-3     Household #                       
-4     Own/rent                          
-5     Value of home or rent             
-6     Live on farm?                     
-7      Name                             
-8     Relation                          
-8     A                                 
-9     Sex                               
-10    Race                              
+3     Household S#                      
+4     Own/rent (O/R)                    
+5     Price home                        
+6     Live on farm? (Y/N)               
+
+7     Name                              
+8     Relationship                      
+9     Sex (M/F)                         
+10    Race (code)                       
 11    Age                               
-12    Martial stat                      
-13    Attended school?                  
+12    Martial status (code)             
+13    Attended school? (Y/N)            
 14    Highest grade                     
-14    B                                 
 15    Birth place                       
-15    C                                 
-16    US Citizen?                       
-17    Residence 4/1 City                
+16    US Citizen stat (code)            
+
+17    Residence City, 1935              
 18    County                            
 19    State                             
-20    On a farm?                        
-20    D                                 
-21    At work? Y/N                      
-22    if not Y/N                        
-23    seeking work? Y/N                 
+20    On a Farm? (Y/N)                  
+
+21    At work? (Y/N)                    
+22    Emergency work? (Y/N)             
+23    Seeking work? (Y/N)               
 24    Had a job? Y/N                    
-25    kind of work H,S,U,Ot             
-25    E                                 
+25    Kind of work (H,S,U,Ot)           
 26    # hours worked in week            
 27    Duration of unemployment          
 28    Occupation                        
 29    Industry                          
-30    Class of worker                   
-30    F-1                               
-30    F-2                               
-30    F-3                               
+30    Class of worker (code)            
 31    # weeks worked                    
-32    income                            
-33    other income?                     
+32    Income                            
+33    Other income?                     
 34    # of farm schedule                
 
-<for persons on lines 14 & 29>          
+<SUPPLEMENTARY for persons on lines 14 & 29 or 55 & 68>
 35    Name                              
 36    Father place of birth             
 37    Mother place of birth             
-37    G                                 
 38    Native Language                   
-38    H                                 
-39    Veteran? Y                        
-40    if child, is Vet father dead?     
-41    War or military service           
-41    I                                 
-42    Has SSN ?                         
-43    Paid SS tax?                      
-44    from fraction of wages?           
+39    Veteran? (Y/N)                    
+40    Is Vet father dead? (Y/N)         
+41    War or military service (code)    
+
+42    Has SSN ? (Y/N)                   
+43    Paid SS tax? (Y/N)                
+44    From fraction of wages? (code)    
 45    Usual occupation                  
 46    Usual industry                    
 47    Usual class of worker             
-47    J-1                               
-48    female married more than once?    
-47    J-2                               
+48    Female married >once ? (Y/N)      
 49    Age at first marriage             
 50    # children ever born              
+      Line #                            
 
 <DATA:END>
 
 ===========================================DIV50==
-
 
