@@ -185,7 +185,7 @@ For a person without previous work experience, enter "None" in Col. 45 and leave
 J   CODE (Leave blank)
 
 
-FOR ALL WOMEN WHO ARE OR  HAVE BEEN MARRIED
+FOR ALL WOMEN WHO ARE OR HAVE BEEN MARRIED
 48   Has this woman been married more than once? (Yes or No)
 49   Age at first marriage
 50   Number of children ever born. (Do not include stillbirths)
@@ -308,7 +308,10 @@ Other war or expedition                                                         
 ===========================================DIV50==
 <DATA:FORM:2023-02-15-01>
 1940 US
-
+                              
+                                                       
+                                                                                 
+Form                          
 State                         
 County                        
 Incorporated                  
@@ -323,64 +326,66 @@ Date
 Sheet No                      
 Enumerator                    
 
-      Line #                            
-1     Street                            
-2     House #                           
-3     Household S#                      
-4     Own/rent (O/R)                    
-5     Price home                        
-6     Live on farm? (Y/N)               
+      Line #                  
+1     Street                  
+2     House #                 
+3     Household S#            
+4     Own/rent (O/R)          
+5     Price home              
+6     Live on farm? (Y/N)     
+                              
+7     Name                    
+8     Relationship            
+9     Sex (M/F)               
+10    Race (code)             
+11    Age                     
+12    Martial stat (code)     
+13    Attended school? (Y/N)  
+14    Highest grade           
+15    Birth place             
+16    US Citz stat (code)     
+                              
+17    Residence City, 1935    
+18    County                  
+19    State                   
+20    On a Farm? (Y/N)        
+                              
+21    At work? (Y/N)          
+22    Emerg. work? (Y/N)      
+23    Seeking work? (Y/N)     
+24    Had a job? Y/N          
+25    Kind of work (code)     
+26    # hrs worked in week    
+27    Dur. unemployment       
+28    Occupation              
+29    Industry                
+30    Class of worker (code)  
+31    # weeks worked          
+32    Income                  
+33    Other income?           
+34    # of farm schedule      
+                              
+<SUPPLEMENTARY for persons on 
+lines 14 & 29 or 55 & 68>     
 
-7     Name                              
-8     Relationship                      
-9     Sex (M/F)                         
-10    Race (code)                       
-11    Age                               
-12    Martial status (code)             
-13    Attended school? (Y/N)            
-14    Highest grade                     
-15    Birth place                       
-16    US Citizen stat (code)            
+35    Name                    
+36    Father place of birth   
+37    Mother place of birth   
+38    Native Language         
+39    Veteran? (Y/N)          
+40    Vet father dead? (Y/N)  
+41    War service (code)      
 
-17    Residence City, 1935              
-18    County                            
-19    State                             
-20    On a Farm? (Y/N)                  
-
-21    At work? (Y/N)                    
-22    Emergency work? (Y/N)             
-23    Seeking work? (Y/N)               
-24    Had a job? Y/N                    
-25    Kind of work (H,S,U,Ot)           
-26    # hours worked in week            
-27    Duration of unemployment          
-28    Occupation                        
-29    Industry                          
-30    Class of worker (code)            
-31    # weeks worked                    
-32    Income                            
-33    Other income?                     
-34    # of farm schedule                
-
-<SUPPLEMENTARY for persons on lines 14 & 29 or 55 & 68>
-35    Name                              
-36    Father place of birth             
-37    Mother place of birth             
-38    Native Language                   
-39    Veteran? (Y/N)                    
-40    Is Vet father dead? (Y/N)         
-41    War or military service (code)    
-
-42    Has SSN ? (Y/N)                   
-43    Paid SS tax? (Y/N)                
-44    From fraction of wages? (code)    
-45    Usual occupation                  
-46    Usual industry                    
-47    Usual class of worker             
-48    Female married >once ? (Y/N)      
-49    Age at first marriage             
-50    # children ever born              
-      Line #                            
+42    Has SSN ? (Y/N)         
+43    Paid SS tax? (Y/N)      
+44    Fr frct wage ? (code)   
+45    Usual occupation        
+46    Usual industry          
+47    Usual class of worker   
+48    Female marr >1 ? (Y/N)  
+49    Age at first marriage   
+50    # children ever born    
+      Line #                  
 
 <DATA:END>
 
