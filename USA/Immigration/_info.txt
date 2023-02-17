@@ -30,7 +30,7 @@ Purpose of these files-
 * When transcribing data from these forms, one doesn't want to include data that doesn't change between instances of the form. The data extraction form gives a short summary of the column names etc. The summary terms listed are arbitrary.
 When using the data extraction forms in your text files, be sure to include the delimiters-
 <DATA:START:FORM:YYYY-MM-DD-NN>
-<DATA: end>
+<DATA: END>
 so you will know which full transcription the summary references.
 
 
@@ -58,5 +58,8 @@ are used when there are only minor differences between forms-
 one variant contains TEXT A, the other TEXT B.
 
 
+May convert to true XML sometime in the future.
 
-
+Reference-
+Forms at the national archives-
+https://www.archives.gov/research/genealogy/charts-forms
