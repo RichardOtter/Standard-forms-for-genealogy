@@ -3,7 +3,6 @@ FORM:2023-02-15-01
 
 ===========================================DIV50==
 <FULL_TEXT_FORM:START>
-<PAGE_FRONT>
 
 Your report is required by Act of Congress. This Act makes also it unlawful for the Bureau to disclose any facts, including names or identity, from your census reports. Only sworn census employees will see your statements. Data collected will be used solely for preparing statistical information concerning the Nation’s population, resources, and business activities. Your Census Reports Cannot Be Used for Purposes of Taxation, Regulation, or Investigation.
 
@@ -90,7 +89,6 @@ For a person who lived in a different place, enter city or town, county, and Sta
 D    CODE (Leave Blank)
 
 
-
 PERSONS 14 YEARS OLD AND OVER – EMPLOYMENT STATUS
 
 21   Was this person AT WORK for pay or profit in private or non-emergency Govt. work during week of March 24-30? (Yes or No)
@@ -128,10 +126,8 @@ INCOME IN 1939 (12 months ending December 31, 1939)
 32   Amount of money wages or salary received (Including commissions)
 33   Did this person receive income of $50 or more from sources other than money wages or salary? (Yes or No)
 
-
 34   Number of Farm Schedule
-
-Line No.
+     Line No.
 
 
 <40 BLANK DATA LINES, SHEET A 1-40 or SHEET B 41-80>
@@ -141,7 +137,6 @@ SUPPLEMENTARY QUESTIONS
 For Persons Enumerated on Lines 14 & 29 <or 55 & 68>
 
 Line No.
-
 35   NAME
 
 FOR PERSONS OF ALL AGES
@@ -152,7 +147,7 @@ If foreign born, give country in which birthplace was situated on January 1, 193
 Distinguish Canada-French from Canada-English and Irish Free State (Eire) from
 Northern Ireland
 36   FATHER
-27   MOTHER
+37   MOTHER
 G    CODE (leave blank)
 
 MOTHER TOUNGE (OR NATIVE LANGUAGE)
@@ -166,14 +161,12 @@ Is this person a veteran of the United States military forces; or the wife, wido
 41   War or military service
 I    CODE (leave blank)
 
-
 FOR PERSONS 14 YEARS OLD AND OVER
 
 SOCIAL SECURITY
 42  Does this person have a Federal Social Security Number? (Yes or No)
 43  Were deductions for Federal Old-Age Insurance or Railroad Retirement made from this person’s wages or salary in 1939? (Yes or No)
 44  If so, were deductions made from (1) all, (2) one-half or more, (3) part, but less than half, of wages or salary?
-
 
 USUAL OCCUPATION, INDUSTRY, AND CLASS OF WORKER
 Enter that occupation which the person regards as his usual occupation and at which he is physically able to work. If the person is unable to determine this, enter that occupation at which he has worked longest during the past 10 years and at which he is physically able to work. 
@@ -183,7 +176,6 @@ For a person without previous work experience, enter "None" in Col. 45 and leave
 46  USUAL INDUSTRY
 47  Usual class of worker
 J   CODE (Leave blank)
-
 
 FOR ALL WOMEN WHO ARE OR HAVE BEEN MARRIED
 48   Has this woman been married more than once? (Yes or No)
@@ -207,8 +199,7 @@ W   Wages (32)
 X   Ot. inc. (33)
 Y   
 Z   
-
-Line No.
+    Line No.
 
 
 SYMBOLS AND EXPLANATORY NOTES
@@ -301,7 +292,6 @@ Spanish-American War and World War                                              
 Regular establishment (Army, Navy, or Marine Corps) peace-time service only       R
 Other war or expedition                                                           Ot
 
-
 <FULL_TEXT_FORM:END>
 
 
@@ -372,7 +362,7 @@ Enumerator                   |          |
 41    War service (code)     | 
 42    Has SSN ? (Y/N)        | 
 43    Paid SS tax? (Y/N)     | 
-44    Fr frct wage ? (code)  | 
+44    Fr fract wage? (code)  | 
 45    Usual occupation       | 
 46    Usual industry         | 
 47    Usual class of worker  | 

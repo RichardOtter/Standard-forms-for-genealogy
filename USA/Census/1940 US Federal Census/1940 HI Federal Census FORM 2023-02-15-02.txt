@@ -4,7 +4,6 @@ FORM:2023-02-15-02
 
 ===========================================DIV50==
 <FULL_TEXT_FORM:START>
-<PAGE_FRONT>
 
 Your report is required by Act of Congress. This Act also makes it unlawful for the Bureau to disclose any facts, including names or identity, from your census reports. Only sworn census employees will see your statements. Data collected will be used solely for preparing statistical information concerning the Nation's population, resources, and business activities. Your Census Reports
 Cannot be Used for Purposes of Taxation, Regulation, or Investigation.
@@ -14,7 +13,7 @@ SIXTEENTH CENSUS OF THE UNITED STATES:  1940
 POPULATION - HAWAII
 16-288
 
-Form Bo, H-100
+Form No. H-100
 
 County ____
 Island ____
@@ -274,7 +273,7 @@ Sheet No.                    |          |
 18  Had a job? (Y/N)         |          |
 19  # hours worked in week   |          |
 20  Dur. of unemployment     |          |
-20  Occupation               |          |
+21  Occupation               |          |
 22  Industry                 |          |
 23  Class of worker (code)   |          |
 24  Source of wage/salary    |          |

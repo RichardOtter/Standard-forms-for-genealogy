@@ -1,0 +1,155 @@
+FORM:2023-02-16-02
+1930 US Federal Census HAWAII Population
+
+===========================================DIV50==
+<FULL_TEXT_FORM:START>
+
+Form 15-70
+DEPARTMENT OF COMMERCE - BUREAU OF THE CENSUS
+FIFTEENTH CENSUS OF THE UNITED STATES: 1930
+POPULATION - HAWAII
+
+County ____
+Island ____
+Institution ____
+(Inset name of institution, if any, and indicate the lines on which the entries are made. See instructions.)
+
+Election District ____
+City, town or village ____
+
+Enumeration District No. ____
+Representative District No. ____
+Precinct No. ____
+Enumerated by me on ____, 1930, ____, Enumerator.
+
+Sheet No. ____
+
+     <Line number>
+
+PLACE OF ABODE
+1    Street, avenue, road, etc.
+2    House number (in cities and towns)
+3    Number of dwelling house in order of visitation
+4    Number of family in order of visitation
+
+NAME
+5    of each person whose place of abode on April 1, 1930, was in this family
+Enter surname first, then the given name and middle initial, if any
+Include every person living on April 1, 1930. Omit children born since April 1, 1930.
+
+RELATION
+6    Relationship of this person to the head of the family
+
+TENURE
+7    Home owned or rented
+8    If owned, free or mortgaged
+
+PERSONAL DESCRIPTION
+9    Sex
+10   Race
+11   Age at last birthday
+12   Marital condition
+
+EDUCATION
+13   Attended school or college any time since Sept. 1, 1929
+14   Whether able to read and write
+
+PLACE OF BIRTH
+Place of birth of each person enumerated and of ho or her parents. If born
+in the United States, give the State or Territory. If of foreign birth, 
+give the country in which birthplace is now situated. 
+15   PERSON
+16   FATHER
+17   MOTHER
+
+MOTHER TOUNGE (OR NATIVE LANGUAGE) OF FOREIGN BORN
+18   Language spoken in home before coming to the United States
+CODE (For office use only. Do not write in these columns)
+A   State or M.T.
+B   Country
+C   Nativity
+
+CITIZENSHIP
+19   Year of immigration to Hawaii or the United States
+20   Naturalization
+21   Whether able to speak English
+
+OCCUPATION AND INDUSTRY
+OCCUPATION
+22   Trade, profession, or particular kind of work, as foreman, salesman, carpenter, etc.
+INDUSTRY
+23   Industry or business, as pineapple cannery, dry goods store, sugarcane plantation, etc.
+D    CODE (For office use only. Do not write in this column)
+24   Class of Worker
+
+UNEMPLOYMENT
+25   Does this person usually work at a gainful occupation?  (Yes or No)
+26   Is this person now out of a job?
+E    CODE (For office use only.)
+27   If so, how many weeks has he been out of a job?
+
+28   No. of farm schedule
+     <Line number>
+
+
+<FULL_TEXT_FORM:END>
+
+===========================================DIV50==
+<DATA:FORM:2023-02-16-02>
+CENSUS 1930 US HAWAII
+
+County                       |          |
+Island                       |          |
+Institution                  |          |
+Election Dist.               |          |
+City, town or village        |          |
+Enumeration Dist. No.        |          |
+Representative Dist. No.     |          |
+Precinct No.                 |          |
+Date                         |          |
+Enumerator                   |          |
+Sheet No.                    |          |
+                             |          |
+    Line #                   |          |
+1   Street                   |          |
+2   House #                  |          |
+3   Household S#             |          |
+4   Family S#                |          |
+5   Name                     |          |
+6   Relationship             |          |
+7   Own/rent (O/R)           |          |
+8   Free or mortgaged?       |          |
+9   Sex (M/F)                |          |
+10  Race                     |          |
+11  Age                      |          |
+12  Marital status           |          |
+13  Attended school? (Y/N)   |          |
+14  Read & write?            |          |
+15  Person Birth place       |          |
+16  Father Birth place       |          |
+17  Mother Birth place       |          |
+18  Native language          |          |
+19  Immigration year         |          |
+20  Naturalization           |          |
+21  Speak English ? (Y/N)    |          |
+22  Occupation               |          |
+23  Industry                 |          |
+24  Class of worker (code)   |          |
+25  Usually gainful? (Y/N)   |          |
+26  Out of a job? (Y/N)      |          |
+27  # weeks out of a job     |          |
+28  # of farm report         |          |
+    Line #                   |          |
+
+<DATA:END>
+
+===========================================DIV50==
+
+Codes
+<X>    informant (circled X)
+<?>    not legible
+<bl>   blank
+<c>    continued, as in "street name" 
+<d>    ditto mark
+
+===========================================DIV50==
