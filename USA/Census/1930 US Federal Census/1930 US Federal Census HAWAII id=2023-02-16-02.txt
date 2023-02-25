@@ -1,8 +1,6 @@
-FORM:2023-02-16-02
-1930 US Federal Census HAWAII Population
-
-===========================================DIV50==
-<FULL_TEXT_FORM:START>
+<FORM ID="2023-02-16-02" REV="1" NAME="1930 US Federal Census HAWAII">
+<FORM_TEXT>
+1930 US Federal Census HAWAII
 
 Form 15-70
 DEPARTMENT OF COMMERCE - BUREAU OF THE CENSUS
@@ -24,8 +22,10 @@ Enumerated by me on ____, 1930, ____, Enumerator.
 
 Sheet No. ____
 
-     <Line number>
 
+►Column Headings◄
+
+     ►Line number◄
 PLACE OF ABODE
 1    Street, avenue, road, etc.
 2    House number (in cities and towns)
@@ -62,12 +62,12 @@ give the country in which birthplace is now situated.
 16   FATHER
 17   MOTHER
 
-MOTHER TOUNGE (OR NATIVE LANGUAGE) OF FOREIGN BORN
+MOTHER TONGUE (OR NATIVE LANGUAGE) OF FOREIGN BORN
 18   Language spoken in home before coming to the United States
 CODE (For office use only. Do not write in these columns)
-A   State or M.T.
-B   Country
-C   Nativity
+A    State or M.T.
+B    Country
+C    Nativity
 
 CITIZENSHIP
 19   Year of immigration to Hawaii or the United States
@@ -89,14 +89,16 @@ E    CODE (For office use only.)
 27   If so, how many weeks has he been out of a job?
 
 28   No. of farm schedule
-     <Line number>
+     ►Line number◄
 
 
-<FULL_TEXT_FORM:END>
+►50 Blank Data Lines: Sheet A: lines 1-50, Sheet B: lines 51-100◄
+
+</FORM_TEXT>
 
 ===========================================DIV50==
-<DATA:FORM:2023-02-16-02>
-CENSUS 1930 US HAWAII
+<FORM_DATA>
+1930 US Federal Census HAWAII
 
 County                       |          |
 Island                       |          |
@@ -109,7 +111,7 @@ Precinct No.                 |          |
 Date                         |          |
 Enumerator                   |          |
 Sheet No.                    |          |
-                             |          |
+
     Line #                   |          |
 1   Street                   |          |
 2   House #                  |          |
@@ -124,7 +126,7 @@ Sheet No.                    |          |
 11  Age                      |          |
 12  Marital status           |          |
 13  Attended school? (Y/N)   |          |
-14  Read & write?            |          |
+14  Read and write?          |          |
 15  Person Birth place       |          |
 16  Father Birth place       |          |
 17  Mother Birth place       |          |
@@ -138,18 +140,22 @@ Sheet No.                    |          |
 25  Usually gainful? (Y/N)   |          |
 26  Out of a job? (Y/N)      |          |
 27  # weeks out of a job     |          |
-28  # of farm report         |          |
+28  # of Farm Schedule       |          |
     Line #                   |          |
 
-<DATA:END>
+</FORM_DATA>
 
 ===========================================DIV50==
-
 Codes
-<X>    informant (circled X)
-<?>    not legible
-<bl>   blank
-<c>    continued, as in "street name" 
-<d>    ditto mark
+► text ◄  explanatory text not in original document
+►?◄       not legible
+►b◄       blank
+►c◄       continued, as in "street name" 
+►d◄       ditto mark
+
+example:
+https://www.ancestry.com/discoveryui-content/view/104003072:6224
+https://www.familysearch.org/ark:/61903/3:1:33S7-9RZL-L3M?i=44
 
 ===========================================DIV50==
+</FORM>

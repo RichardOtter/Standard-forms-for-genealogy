@@ -1,0 +1,75 @@
+
+Example of multiple person household on one data extraction form.
+===========================================DIV50==
+
+<FORM ID="2023-02-23-01" REV="1" NAME="1910 US Federal Census">
+<FORM_DATA>
+1910 US Federal Census
+
+State                        | New York                          |
+County                       | Kings                             |
+Township                     | ►b◄                               |
+Institution                  | ►b◄                               |
+Incorporated place           | Borough of Brooklyn New York City |
+Sheet No.                    | 8 A                               |
+Supervisor's Dist. No.       | 2                                 |
+Enumeration Dist. No.        | 880                               |
+Ward of city                 | 28 part of                        |
+Date                         | 23 April 1910                     |
+Enumerator                   | John N Muntagh                    |
+
+    Line #                   | 10             | 11             | 12             | 13             | 14             | 15              |
+A   Street                   | Linden St. ►c◄ | Linden St. ►c◄ | Linden St. ►c◄ | Linden St. ►c◄ | Linden St. ►c◄ | Linden St. ►c◄  |
+B   House #                  | 388 ►c◄        | 388 ►c◄        | 388 ►c◄        | 388 ►c◄        | 388 ►c◄        | 388 ►c◄         |
+1   Dwelling S#              | 44 ►c◄         | 44 ►c◄         | 44 ►c◄         | 44 ►c◄         | 44 ►c◄         | 44 ►c◄          |
+2   Family S#                | 148            | 148 ►c◄        | 148 ►c◄        | 148 ►c◄        | 148 ►c◄        | 148 ►c◄         |
+3   Name                     | Menig Joseph M | -- Barbara     | -- Frank T     | -- Arthur      | -- Leo         | -- Lillian      |
+4   Relationship             | Head           | Wife           | Son            | Son            | Son            | Daughter        |
+5   Sex (M/F)                | M              | F              | M              | M              | M              | F               |
+6   Race                     | W              | W              | W              | W              | W              | W               |
+7   Age                      | 47             | 42             | 18             | 17             | 14             | 11              |
+8   Marital status           | M              | M              | S              | S              | S              | S               |
+9   Marriage years           | 20             | 20             | ►b◄            | ►b◄            | ►b◄            | ►b◄             |
+10  Mother of # children     | ►b◄            | 6              | ►b◄            | ►b◄            | ►b◄            | ►b◄             |
+11  Living children          | ►b◄            | 4              | ►b◄            | ►b◄            | ►b◄            | ►b◄             |
+12  Person birth place       | Germany German | Germany German | New York       | New York       | New York       | New York        |
+13  Father birth place       | German Germany | Germany German | Germany German | Germany German | Germany German | Germany German  |
+14  Mother birth place       | German Germany | Germany German | Germany German | Germany German | Germany German | Germany German  |
+15  Immigration year         | 1884           | 1886           | ►b◄            | ►b◄            | ►b◄            | ►b◄             |
+16  Naturalized or alien     | Na             | ►b◄            | ►b◄            | ►b◄            | ►b◄            | ►b◄             |
+17  Speak English or other   | English        | English        | English        | English        | English        | English         |
+18  Occupation               | ►?◄            | none           | Clerk          | Clerk          | none           | none            |
+19  Industry                 | None ►?◄       | ►b◄            | Surety Co. ►?◄ | Law office     | ►b◄            | ►b◄             |
+20  Class of worker (code)   | ►b◄            | ►b◄            | W              | W              | ►b◄            | ►b◄             |
+21  Out of work (Y/N)        | no             | ►b◄            | no             | no             | ►b◄            | ►b◄             |
+22  # weeks out of work      | 0              | ►b◄            | 0              | 0              | ►b◄            | ►b◄             |
+23  Able to read ?           | Yes            | Yes            | Yes            | Yes            | Yes            | Yes             |
+24  Able to write ?          | Yes            | Yes            | Yes            | Yes            | Yes            | Yes             |
+25  Attended school?         | ►check mark◄   | ►b◄            | ►b◄            | ►b◄            | Yes            | Yes             |
+26  Own/rent (O/R)           | O              | ►b◄            | ►b◄            | ►b◄            | ►b◄            | ►b◄             |
+27  Free or mortgaged        | m              | ►b◄            | ►b◄            | ►b◄            | ►b◄            | ►b◄             |
+28  Farm or house            | H              | ►b◄            | ►b◄            | ►b◄            | ►b◄            | ►b◄             |
+29  # of Farm Schedule       | 19             | ►b◄            | 10             | 10             | ►b◄            | ►b◄             |
+30  Civil war army           | 9              | ►b◄            | 7              | 7              | ►b◄            | ►b◄             |
+31  Blind                    | X              | ►b◄            | 1              | 6              | ►b◄            | ►b◄             |
+32  Deaf                     | X              | ►b◄            | X              | X              | ►b◄            | ►b◄             |
+    Line #                   | 10             | 11             | 12             | 13             | 14             | 15              |
+
+</FORM_DATA>
+</FORM>
+
+===========================================DIV50==
+
+
+Note that the <FORM> tag is included, and end requires closure of both </FORM_DATA> and </FORM>.
+
+If the family continues onto the next page, add a second column for the sheet info (top part) and use 
+correct line numbers in the bottom part
+
+Keeping the XML tags is optional.
+If used, then be sure to follow XML format requirements, which for text are
+Less than "<" and ampersand "&" are forbidden. Must use &lt; and &amp; instead.
+
+
+
+

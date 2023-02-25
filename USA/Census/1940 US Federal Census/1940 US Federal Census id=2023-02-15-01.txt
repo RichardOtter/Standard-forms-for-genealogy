@@ -1,8 +1,5 @@
-FORM:2023-02-15-01
-1940 US Federal Census
-
-===========================================DIV50==
-<FULL_TEXT_FORM:START>
+<FORM ID="2023-02-15-01" REV="1" NAME="1940 US Federal Census">
+<FORM_TEXT>
 
 Your report is required by Act of Congress. This Act makes also it unlawful for the Bureau to disclose any facts, including names or identity, from your census reports. Only sworn census employees will see your statements. Data collected will be used solely for preparing statistical information concerning the Nation’s population, resources, and business activities. Your Census Reports Cannot Be Used for Purposes of Taxation, Regulation, or Investigation.
 
@@ -33,7 +30,8 @@ ____, Enumerator.
 16-252 A
 Sheet No. ____
 
-<COLUMN HEADINGS>
+
+►Column Headings◄
 
      Line No.
 LOCATION
@@ -47,15 +45,15 @@ HOUSEHOLD DATA
 6    Does this household live on a farm? (Yes or No)
 
 NAME
-7   Name of each person whose usual place of residence on April 1, 1940, was in this household. 
-    BE SURE TO INCLUDE:
-    1. Persons temporarily absent from household. Write "Ab" after names of such persons.
-    2. Children under 1 year of age. Write -Infant? if child has not been given a first name.
-    Enter X <circled X> after name of person furnishing information.
+7    Name of each person whose usual place of residence on April 1, 1940, was in this household. 
+     BE SURE TO INCLUDE:
+     1. Persons temporarily absent from household. Write "Ab" after names of such persons.
+     2. Children under 1 year of age. Write -Infant? if child has not been given a first name.
+     Enter X ►circled X◄ after name of person furnishing information.
 
 RELATION
-8   Relationship of this person to the head of the household, as wife, daughter, father, mother-in-law, grandson, lodger, lodger’s wife, servant, hired hand, etc.
-A   CODE (Leave Blank)
+8    Relationship of this person to the head of the household, as wife, daughter, father, mother-in-law, grandson, lodger, lodger’s wife, servant, hired hand, etc.
+A    CODE (Leave Blank)
 
 PERSONAL DESCRIPTION
 9    Sex - Male (M), Female (F)
@@ -90,7 +88,6 @@ D    CODE (Leave Blank)
 
 
 PERSONS 14 YEARS OLD AND OVER – EMPLOYMENT STATUS
-
 21   Was this person AT WORK for pay or profit in private or non-emergency Govt. work during week of March 24-30? (Yes or No)
 22   If not, was he at work on, or assigned to, public EMERGENCY WORK (WPA, NYA, CCC, etc.) during week of March 24-30 (Yes or No)
 
@@ -106,7 +103,7 @@ If at private or nonemergency Government work. ("Yes" in Col. 21)
 26   Number of hours worked during week of March 24-30, 1940
 
 If seeking work or assigned to public emergency work. ("Yes" in Col. 22 or 23)
-27  Duration of unemployment up to March 30, 1940 - in weeks
+27   Duration of unemployment up to March 30, 1940 - in weeks
 
 OCCUPATION, INDUSTRY, AND CLASS OF WORKER
 For a person at work, assigned to public emergency work, or with a job ("Yes" in Col. 21,
@@ -130,13 +127,12 @@ INCOME IN 1939 (12 months ending December 31, 1939)
      Line No.
 
 
-<40 BLANK DATA LINES, SHEET A 1-40 or SHEET B 41-80>
-
+►40 Blank Data Lines: Sheet A: lines 1-40, Sheet B: lines 41-80◄
 
 SUPPLEMENTARY QUESTIONS
-For Persons Enumerated on Lines 14 & 29 <or 55 & 68>
+For Persons Enumerated on Lines 14 and 29 ►or 55 and 68◄
 
-Line No.
+     Line No.
 35   NAME
 
 FOR PERSONS OF ALL AGES
@@ -150,7 +146,7 @@ Northern Ireland
 37   MOTHER
 G    CODE (leave blank)
 
-MOTHER TOUNGE (OR NATIVE LANGUAGE)
+MOTHER TONGUE (OR NATIVE LANGUAGE)
 38   Language spoken in home in earliest childhood
 H    CODE (leave blank)
 
@@ -164,18 +160,18 @@ I    CODE (leave blank)
 FOR PERSONS 14 YEARS OLD AND OVER
 
 SOCIAL SECURITY
-42  Does this person have a Federal Social Security Number? (Yes or No)
-43  Were deductions for Federal Old-Age Insurance or Railroad Retirement made from this person’s wages or salary in 1939? (Yes or No)
-44  If so, were deductions made from (1) all, (2) one-half or more, (3) part, but less than half, of wages or salary?
+42   Does this person have a Federal Social Security Number? (Yes or No)
+43   Were deductions for Federal Old-Age Insurance or Railroad Retirement made from this person’s wages or salary in 1939? (Yes or No)
+44   If so, were deductions made from (1) all, (2) one-half or more, (3) part, but less than half, of wages or salary?
 
 USUAL OCCUPATION, INDUSTRY, AND CLASS OF WORKER
 Enter that occupation which the person regards as his usual occupation and at which he is physically able to work. If the person is unable to determine this, enter that occupation at which he has worked longest during the past 10 years and at which he is physically able to work. 
 Enter also usual industry and usual class of worker.
 For a person without previous work experience, enter "None" in Col. 45 and leave Cols. 46 and 47 blank.
-45  USUAL OCCUPATION
-46  USUAL INDUSTRY
-47  Usual class of worker
-J   CODE (Leave blank)
+45   USUAL OCCUPATION
+46   USUAL INDUSTRY
+47   Usual class of worker
+J    CODE (Leave blank)
 
 FOR ALL WOMEN WHO ARE OR HAVE BEEN MARRIED
 48   Has this woman been married more than once? (Yes or No)
@@ -183,25 +179,26 @@ FOR ALL WOMEN WHO ARE OR HAVE BEEN MARRIED
 50   Number of children ever born. (Do not include stillbirths)
 
 FOR OFFICE USE ONLY - DO NOT WRITE IN THESE COLUMNS
-K   Ten (4)
-L   V-R (5)
-M   Fm. res. and Sex (6 and 9)
-N   Color and nat. (10, 15, 56, an d 37)
-O   Age (11)
-P   Mar. st. (12)
-Q   Gr. Com. (B)
-R   Cit. (16)
-S   Wrk. st. (E)
-T   Hrs. wkd. or Dur. un. (26 or 27)
-U   Occupation, industry, and class of worker (F)
-V   Wks. wkd. (31)
-W   Wages (32)
-X   Ot. inc. (33)
-Y   
-Z   
-    Line No.
+K    Ten (4)
+L    V-R (5)
+M    Fm. res. and Sex (6 and 9)
+N    Color and nat. (10, 15, 56, an d 37)
+O    Age (11)
+P    Mar. st. (12)
+Q    Gr. Com. (B)
+R    Cit. (16)
+S    Wrk. st. (E)
+T    Hrs. wkd. or Dur. un. (26 or 27)
+U    Occupation, industry, and class of worker (F)
+V    Wks. wkd. (31)
+W    Wages (32)
+X    Ot. inc. (33)
+Y    
+Z    
+     Line No.
 
 
+►Instructions◄
 SYMBOLS AND EXPLANATORY NOTES
 
 Col. 5. VALUE OF HOME, IF OWNED: 
@@ -215,44 +212,44 @@ might be approximately one-half
 the total value of the structure.
 
 Col. 10. COLOR OR RACE: 
-White             W
-Negro             Neg
-Indian            In
-Chinese           Chi
-Japanese          Jp
-Filipino          Fil
-Hindu             Hin
-Korean            Kor
+White     W
+Negro     Neg
+Indian    In
+Chinese   Chi
+Japanese  Jp
+Filipino  Fil
+Hindu     Hin
+Korean    Kor
 Other race, spell out in full.
 
 Col. 11. AGE AT LAST BIRTHDAY:
 Enter age of children born on or after April 1, 1939, as follows. Born in: 
-April 1939            11/12
-May 1939              10/12
-June 1939              9/12
-July 1939              8/12
-August 1939            7/12
-September 1939         6/12
-October 1939           5/12
-November 1939          4/12
-December 1939          3/12
-January 1939           2/12
-February 1939          1/12
-March 1939             0/12
+April 1939     11/12
+May 1939       10/12
+June 1939       9/12
+July 1939       8/12
+August 1939     7/12
+September 1939  6/12
+October 1939    5/12
+November 1939   4/12
+December 1939   3/12
+January 1939    2/12
+February 1939   1/12
+March 1939      0/12
 (Do not include children born on or after April 1, 1940.)
 
 Col. 14. HIGHEST GRADE OF SCHOOL COMPLETED: 
-None                                   0
-Elementary school, 1st to 8th grade    1,2,et., to 8
-High school, 1st to 4th year           H-1, H-2, H-3, H-4
-College, 1st to 4th year               C-1, C-2, C-3, C-4
-College, 5th or subsequent year        C-5
+None                                 0
+Elementary school, 1st to 8th grade  1,2,et., to 8
+High school, 1st to 4th year         H-1, H-2, H-3, H-4
+College, 1st to 4th year             C-1, C-2, C-3, C-4
+College, 5th or subsequent year      C-5
 
 Col. 16. CITIZENSHIP OF THE FOREIGN BORN:
-Naturalized                      Na
-Having first papers              Pa
-Alien                            Al
-American citizen born abroad     Am Cit
+Naturalized                   Na
+Having first papers           Pa
+Alien                         Al
+American citizen born abroad  Am Cit
 
 Col. 21. WAS THIS PERSON AT WORK?
 Enter "Yes" for persons at work
@@ -279,25 +276,24 @@ a specific date; layoff due to temporarily
 bad weather conditions.
 
 Cols. 30 and 47. CLASS OF WORKER:
-Wage or salary worker in private work        PW
-Wage or salary worker in Government work     GW
-Employer                                      E
-Working on own account                       OA
-Unpaid family worker                         NP
+Wage or salary worker in private work     PW
+Wage or salary worker in Government work  GW
+Employer                                   E
+Working on own account                    OA
+Unpaid family worker                      NP
 
 Col. 41. WAR OR MILITARY SERVICE:
-World War                                                                         W
-Spanish-American War, Philippine Insurrection, or Boxer Rebellion                 S
-Spanish-American War and World War                                                SW
-Regular establishment (Army, Navy, or Marine Corps) peace-time service only       R
-Other war or expedition                                                           Ot
+World War                                                                    W
+Spanish-American War, Philippine Insurrection, or Boxer Rebellion            S
+Spanish-American War and World War                                           SW
+Regular establishment (Army, Navy, or Marine Corps) peace-time service only  R
+Other war or expedition                                                      Ot
 
-<FULL_TEXT_FORM:END>
-
+</FORM_TEXT>
 
 ===========================================DIV50==
-<DATA:FORM:2023-02-15-01>
-CENSUS 1940 US
+<FORM_DATA>
+1940 US Federal Census
 
 State                        |          |
 County                       |          |
@@ -313,73 +309,76 @@ E.D. No.                     |          |
 Date                         |          |
 Sheet No                     |          |
 Enumerator                   |          |
-                             |          |
-      Line #                 |          |
-1     Street                 |          |
-2     House #                |          |
-3     Household S#           |          |
-4     Own/rent (O/R)         |          |
-5     Price home             |          |
-6     Live on farm? (Y/N)    |          |
-7     Name                   |          |
-8     Relationship           |          |
-9     Sex (M/F)              |          |
-10    Race (code)            |          |
-11    Age                    |          |
-12    Martial stat (code)    |          |
-13    Attended school? (Y/N) |          |
-14    Highest grade          |          |
-15    Birth place            |          |
-16    US Citz stat (code)    |          |
-17    Residence City, 1935   |          |
-18    County                 |          |
-19    State                  |          |
-20    On a Farm? (Y/N)       |          |
-21    At work? (Y/N)         |          |
-22    Emerg. work? (Y/N)     |          |
-23    Seeking work? (Y/N)    |          |
-24    Had a job? Y/N         |          |
-25    Kind of work (code)    |          |
-26    # hrs worked in week   |          |
-27    Dur. unemployment      |          |
-28    Occupation             |          |
-29    Industry               |          |
-30    Class of worker (code) |          |
-31    # weeks worked         |          |
-32    Income                 |          |
-33    Other income?          |          |
-34    # of farm schedule     |          |
-                             | 
-<SUPPLEMENTARY>              | 
-      line # <14,29,55,68>   | 
-                             | 
-35    Name                   | 
-36    Father place of birth  | 
-37    Mother place of birth  | 
-38    Native Language        | 
-39    Veteran? (Y/N)         | 
-40    Vet father dead? (Y/N) | 
-41    War service (code)     | 
-42    Has SSN ? (Y/N)        | 
-43    Paid SS tax? (Y/N)     | 
-44    Fr fract wage? (code)  | 
-45    Usual occupation       | 
-46    Usual industry         | 
-47    Usual class of worker  | 
-48    Female marr >1 ? (Y/N) | 
-49    Age at first marriage  | 
-50    # children ever born   | 
-      Line #                 | 
 
-<DATA:END>
+    Line #                   |          |
+1   Street                   |          |
+2   House #                  |          |
+3   Household S#             |          |
+4   Own/rent (O/R)           |          |
+5   Price home               |          |
+6   Live on farm? (Y/N)      |          |
+7   Name                     |          |
+8   Relationship             |          |
+9   Sex (M/F)                |          |
+10  Race (code)              |          |
+11  Age                      |          |
+12  Martial stat (code)      |          |
+13  Attended school? (Y/N)   |          |
+14  Highest grade            |          |
+15  Birth place              |          |
+16  US citz stat (code)      |          |
+17  Residence City, 1935     |          |
+18  County                   |          |
+19  State                    |          |
+20  On a Farm? (Y/N)         |          |
+21  At work? (Y/N)           |          |
+22  Emerg. work? (Y/N)       |          |
+23  Seeking work? (Y/N)      |          |
+24  Had a job? Y/N           |          |
+25  Kind of work (code)      |          |
+26  # hrs worked in week     |          |
+27  Dur. unemployment        |          |
+28  Occupation               |          |
+29  Industry                 |          |
+30  Class of worker (code)   |          |
+31  # weeks worked           |          |
+32  Income                   |          |
+33  Other income?            |          |
+34  # of farm schedule       |          |
+
+    Line # (14,29,55,68)     |          |
+35  Name                     |          |
+36  Father place of birth    |          |
+37  Mother place of birth    |          |
+38  Native Language          |          |
+39  Veteran? (Y/N)           |          |
+40  Vet father dead? (Y/N)   |          |
+41  War service (code)       |          |
+42  Has SSN ? (Y/N)          |          |
+43  Paid SS tax? (Y/N)       |          |
+44  Fr fract wage? (code)    |          |
+45  Usual occupation         |          |
+46  Usual industry           |          |
+47  Usual class of worker    |          |
+48  ♀ mar more than 1? (Y/N) |          |
+49  ♀ age at 1st marriage    |          |
+50  # children ever born     |          |
+    Line #                   |          |
+
+</FORM_DATA>
 
 ===========================================DIV50==
-
 Codes
-<X>    informant (circled X)
-<?>    not legible
-<bl>   blank
-<c>    continued, as in "street name" 
-<d>    ditto mark
+► text ◄  explanatory text not in original document
+►X◄       informant (circled X)
+►?◄       not legible
+►b◄       blank
+►c◄       continued, as in "street name" 
+►d◄       ditto mark
+
+Example:
+https://www.ancestry.com/discoveryui-content/view/4864839:2442
+https://www.familysearch.org/ark:/61903/3:1:3QS7-L9MR-CPTD
 
 ===========================================DIV50==
+</FORM>

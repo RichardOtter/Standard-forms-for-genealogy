@@ -1,8 +1,5 @@
-FORM:2023-02-16-01
-1930 United States Federal Census
-
-===========================================DIV50==
-<FULL_TEXT_FORM:START>
+<FORM ID="2023-02-16-01" REV="1" NAME="1930 US Federal Census">
+<FORM_TEXT>
 
 Form 15-6
 DEPARTMENT OF COMMERCE - BUREAU OF THE CENSUS
@@ -30,8 +27,9 @@ Enumerated by me on ____, 1930, ____, Enumerator.
 Sheet No. ____
 
 
-     <Line number>
+►Column Headings◄
 
+     ►Line number◄
 PLACE OF ABODE
 1    Street, avenue, road, etc.
 2    House number (in cities and towns)
@@ -72,12 +70,12 @@ countries
 19   FATHER
 20   MOTHER
 
-MOTHER TOUNGE (OR NATIVE LANGUAGE) OF FOREIGN BORN
+MOTHER TONGUE (OR NATIVE LANGUAGE) OF FOREIGN BORN
 21   Language spoken in home before coming to the United States
 CODE (For office use only. Do not write in these columns)
-A   State or M.T.
-B   Country
-C   Nativity
+A    State or M.T.
+B    Country
+C    Nativity
 
 CITIZENSHIP
 22   Year of immigration to the United States
@@ -102,13 +100,16 @@ Whether a veteran of the U.S. military or naval forces mobilized for any war or 
 31   What war or expedition?
 
 32   No. of farm schedule
-     <Line number>
+     ►Line number◄
 
-<FULL_TEXT_FORM:END>
+
+►50 Blank Data Lines: Sheet A: lines 1-50, Sheet B: lines 51-100◄
+
+</FORM_TEXT>
 
 ===========================================DIV50==
-<DATA:FORM:2023-02-16-01>
-CENSUS 1930 US
+<FORM_DATA>
+1930 US Federal Census
 
 State                        |          |
 County                       |          |
@@ -123,7 +124,7 @@ Supervisor's Dist. No.       |          |
 Date                         |          |
 Enumerator                   |          |
 Sheet No.                    |          |
-                             |          |
+
     Line #                   |          |
 1   Street                   |          |
 2   House #                  |          |
@@ -141,7 +142,7 @@ Sheet No.                    |          |
 14  Marital status           |          |
 15  Age at 1st marriage      |          |
 16  Attended school? (Y/N)   |          |
-17  Read & write?            |          |
+17  Read and write?          |          |
 18  Person Birth place       |          |
 19  Father Birth place       |          |
 20  Mother Birth place       |          |
@@ -156,18 +157,22 @@ Sheet No.                    |          |
 29  Unemployment Sched. L#   |          |
 30  Veteran? (Y/N)           |          |
 31  What war?                |          |
-32  # of farm report         |          |
+32  # of Farm Schedule       |          |
     Line #                   |          |
 
-<DATA:END>
+</FORM_DATA>
 
 ===========================================DIV50==
-
 Codes
-<X>    informant (circled X)
-<?>    not legible
-<bl>   blank
-<c>    continued, as in "street name" 
-<d>    ditto mark
+► text ◄  explanatory text not in original document
+►?◄       not legible
+►b◄       blank
+►c◄       continued, as in "street name" 
+►d◄       ditto mark
+
+example:
+https://www.ancestry.com/discoveryui-content/view/117609205:6224
+https://www.familysearch.org/ark:/61903/3:1:33SQ-GRZC-NJY?i=5
 
 ===========================================DIV50==
+</FORM>

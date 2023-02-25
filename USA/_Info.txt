@@ -1,0 +1,11 @@
+
+Many forms available in formatted version, similar
+to layout of original forms at the US National Archives-
+https://www.archives.gov/research/genealogy/charts-forms
+
+
+and at Ancestry.com-
+https://support.ancestry.com/s/article/Census-Forms-for-the-U-S-UK-and-Canada?language=en_US
+
+Not helpful when transcribing data and saving in a database. They were very helpful
+in creating the full text transcription of the original form.

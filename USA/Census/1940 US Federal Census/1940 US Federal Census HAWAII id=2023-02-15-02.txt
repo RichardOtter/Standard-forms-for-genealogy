@@ -1,9 +1,5 @@
-FORM:2023-02-15-02
-1940 US Federal Census  HAWAII Population
-
-
-===========================================DIV50==
-<FULL_TEXT_FORM:START>
+<FORM ID="2023-02-15-02" REV="1" NAME="1940 US Federal Census HAWAII">
+<FORM_TEXT>
 
 Your report is required by Act of Congress. This Act also makes it unlawful for the Bureau to disclose any facts, including names or identity, from your census reports. Only sworn census employees will see your statements. Data collected will be used solely for preparing statistical information concerning the Nation's population, resources, and business activities. Your Census Reports
 Cannot be Used for Purposes of Taxation, Regulation, or Investigation.
@@ -32,9 +28,9 @@ Enumerated by me on ____, 1940.  ____, Enumerator.
 SHEET No. ____
 
 
-<COLUMN HEADINGS>
+►Column Headings◄
 
-Line No.
+     Line No.
 LOCATION
 1    Street, avenue, road, etc.
 2    House number (in cities and towns)
@@ -60,7 +56,7 @@ RELATION
 PERSONAL DESCRIPTION
 8    Sex (M for male, F for female)
 9    Color or race
-A   CODE (For office use only. Do not write in this column)
+A    CODE (For office use only. Do not write in this column)
 10   Age (in completed years at last birthday, except under 1 year)
 11   Martial status
 
@@ -70,7 +66,7 @@ EDUCATION
 
 PLACE OF BIRTH
 14   If born in United States, give name of State, Territory, or possession; if foreign born, give name of country in which birthplace was situated on January 1, 1937
-B  CODE (For office use only. Do not write in this column)
+B    CODE (For office use only. Do not write in this column)
 
 CITIZENSHIP
 15   U.S. CITIZENSHIP STATUS of foreign born
@@ -119,13 +115,12 @@ INCOME  (12 months ending Dec 31, 1929)
 27   Did this person receive income amounting to $60 or more from sources other than money wages or salary? (Yes or No)
 
 28   Number of farm report, if any, "in order of visitation"
-
-Line No.
-
-<50 BLANK DATA LINES, SHEET A 1-50 or SHEET B 51-100>
+     Line No.
 
 
+►50 Blank Data Lines: Sheet A: lines 1-50, Sheet B: lines 51-100◄
 
+►Instructions◄
 SYMBOLS AND EXPLANATIONS:
 
 Col. 5. VALUE OF HOME, IF OWNED: 
@@ -232,11 +227,11 @@ Public emergency employment (WPA, NYA, CCC, etc,)          E
 
 16-11693  U. S. GOVERNMENT PRINTING OFFICE
 
-<FULL_TEXT_FORM:END>
+</FORM_TEXT>
 
 ===========================================DIV50==
-<DATA:FORM:2023-02-15-02>
-CENSUS 1940 US HI
+<FORM_DATA>
+1940 US Federal Census HAWAII
 
 County                       |          |
 Island                       |          |
@@ -249,7 +244,7 @@ Precinct No.                 |          |
 Date                         |          |
 Enumerator                   |          |
 Sheet No.                    |          |
-                             |          |
+
     Line #                   |          |
 1   Street                   |          |
 2   House #                  |          |
@@ -283,15 +278,20 @@ Sheet No.                    |          |
 28  # of farm report         |          |
     Line #                   |          |
 
-<DATA:END>
+</FORM_DATA>
 
 ===========================================DIV50==
-
 Codes
-<X>    informant (circled X)
-<?>    not legible
-<bl>   blank
-<c>    continued, as in "street name" 
-<d>    ditto mark
+► text ◄  explanatory text not in original document
+►X◄       informant (circled X)
+►?◄       not legible
+►b◄       blank
+►c◄       continued, as in "street name" 
+►d◄       ditto mark
+
+example:
+https://www.ancestry.com/discoveryui-content/view/78948371:2442
+https://www.familysearch.org/ark:/61903/3:1:3QS7-L9MB-LCVF
 
 ===========================================DIV50==
+</FORM>
