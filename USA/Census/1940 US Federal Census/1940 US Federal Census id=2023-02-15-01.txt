@@ -1,7 +1,8 @@
 <FORM ID="2023-02-15-01" REV="1" NAME="1940 US Federal Census">
 <FORM_TEXT>
 
-Your report is required by Act of Congress. This Act makes also it unlawful for the Bureau to disclose any facts, including names or identity, from your census reports. Only sworn census employees will see your statements. Data collected will be used solely for preparing statistical information concerning the Nation’s population, resources, and business activities. Your Census Reports Cannot Be Used for Purposes of Taxation, Regulation, or Investigation.
+Your report is required by Act of Congress. This Act makes also it unlawful for the Bureau to disclose any facts, including names or identity, from your census reports. Only sworn census employees will see your statements. Data
+collected will be used solely for preparing statistical information concerning the Nation’s population, resources, and business activities. Your Census Reports Cannot Be Used for Purposes of Taxation, Regulation, or Investigation.
 
 DEPARTMENT OF COMMERCE-BUREAU OF THE CENSUS
 SIXTEENTH CENSUS OF THE UNITED STATES: 1940
@@ -18,7 +19,7 @@ Ward of city ____
 Block Nos. ____
 
 Unincorporated place ____
-    Name of unincorporated place having 100 or more inhabitants)
+    (Name of unincorporated place having 100 or more inhabitants)
 Institution ____
     (Name of institution and lines on which entries are made)
 
@@ -77,13 +78,19 @@ CITIZENSHIP
 
 RESIDENCE, APRIL 1, 1935
 IN WHAT PLACE DID THIS PERSON LIVE ON APRIL 1, 1935?
-For a person who, on April 1, 1935, was living in the same house as at present, enter in Col. 17 "Same house,” and for one living in a different house but in the same city or town, enter, "Same place,” leaving Cols. 18, 19, and 20 blank, in both instances.
-For a person who lived in a different place, enter city or town, county, and State, as directed in the instructions. (Enter actual place of residence, which may differ from mail address.)
+For a person who, on April 1, 1935, was living in the same house as at present, enter in
+Col. 17 "Same house," and for one living in a different house but in the same city or
+town, enter, "Same place,” leaving Cols. 18, 19, and 20 blank, in both instances.
 
-17   City, town, or village having 2,500 or more inhabitants Enter "R” for all other places.
+For a person who lived in a different place, enter city or town, county, and State, as
+directed in the instructions. (Enter actual place of residence, which may differ from
+mail address.)
+
+17   City, town, or village having 2,500 or more inhabitants.
+     Enter "R” for all other places.
 18   COUNTY
 19   STATE (or Territory or foreign country)
-20   On a Farm? (Y or N)
+20   On a Farm? (Yes or No)
 D    CODE (Leave Blank)
 
 
@@ -106,20 +113,26 @@ If seeking work or assigned to public emergency work. ("Yes" in Col. 22 or 23)
 27   Duration of unemployment up to March 30, 1940 - in weeks
 
 OCCUPATION, INDUSTRY, AND CLASS OF WORKER
-For a person at work, assigned to public emergency work, or with a job ("Yes" in Col. 21,
-22, or 24), enter present occupation, industry, and class of worker.
+For a person at work, assigned to public emergency work, or with a job ("Yes" in
+Col. 21, 22, or 24), enter present occupation, industry, and class of worker.
+
 For a person seeking work ("Yes" in Col 23): (a) IF he has previous work experience, enter
 last occupation, industry, and class of worker: or (b) if he does not have previous work
 experience, enter "New worker" in Col. 28, and leave Cols. 29 and 30 blank.
 
 28   OCCUPATION Trade, profession, or particular kind of work, as - frame spinner salesman laborer rivet heater music teacher
-29   INDUSTRY Industry or business, as - cotton mill retail grocery farm shipyard public school
+29   INDUSTRY Industry or business, as -
+     cotton mill
+     retail grocery
+     farm
+     shipyard
+     public school
 30   Class of worker
 F    CODE (Leave blank)
 
 31   Number of weeks worked in 1939 (Equivalent full-time weeks)
 
-INCOME IN 1939 (12 months ending December 31, 1939)       
+INCOME IN 1939 (12 months ending December 31, 1939)
 32   Amount of money wages or salary received (Including commissions)
 33   Did this person receive income of $50 or more from sources other than money wages or salary? (Yes or No)
 
@@ -127,7 +140,7 @@ INCOME IN 1939 (12 months ending December 31, 1939)
      Line No.
 
 
-►40 Blank Data Lines: Sheet A: lines 1-40, Sheet B: lines 41-80◄
+►40 Blank Data Lines; Sheet A: lines 1-40, Sheet B: lines 41-80◄
 
 SUPPLEMENTARY QUESTIONS
 For Persons Enumerated on Lines 14 and 29 ►or 55 and 68◄

@@ -1,0 +1,158 @@
+<FORM ID="2023-02-26-01" REV="1" NAME="1900 US Federal Census">
+<FORM_TEXT>
+
+7-224.
+
+TWELFTH CENSUS OF THE UNITED STATES.
+SCHEDULE No. 1. - POPULATION
+
+
+State ____
+County ____
+Supervisor's District No. ____
+Enumeration District No. ____
+          A  ►or B◄ 
+Sheet No. ____
+
+Township or other division of county, ____
+(Insert name of township, town, precinct, district, or other civil division, as the case may be. See instructions.)
+Name of institution, ____
+Name of incorporated city, town, or village, within the above-named division, ____
+(Insert proper name and also name of class, as city, village, town, or borough. See instructions.)
+Ward of city, ____
+Enumerated by me on the ____ day of June, 1900, ____, Enumerator.
+
+
+►Column Headings◄
+
+     ►Line number◄
+LOCATION.
+  IN CITIES.
+     Street.
+     House number.
+1    Number of dwelling house, in the order of visitation.
+2    Number of family, in the order of visitation.
+
+NAME
+3    of each person whose place of abode on June 1, 1900, was in this family.
+     Enter surname first, then the given name and middle initial, if any.
+     Include every person living on June 1, 1900. 
+     Omit children born since June 1, 1900.
+
+RELATION.
+4    Relationship of each person to the head of the family.
+
+PERSONAL DESCRIPTION.
+5    Color or race.
+6    Sex.
+  DATE OF BIRTH.
+7    Month.
+7    Year.
+8    Age at last birthday.
+9    Whether single, married, widowed, or divorced.
+10   Number of years married.
+11   Mother of how many children.
+12   Number of these children living.
+
+NATIVITY.
+Place of birth of each person and parents of each person enumerated. If born in the United
+States, give the state or territory; if of foreign birth, give the Country only.
+13   Place of birth of this Person.
+14   Place of birth of Father of this person.
+15   Place of birth of Mother of this person.
+
+CITIZENSHIP.
+16   Year of immigration to the United States.
+17   Number of years in the United States.
+18   Naturalization.
+
+OCCUPATION, TRADE, OR PROFESSION
+of each person TEN YEATS of age and over.
+19   Occupation
+20   Months not employed.
+
+EDUCATION.
+21   Attended school (in months).
+22   Can read.
+23   Can write.
+24   Can speak English.
+
+OWNERSHIP OF HOME.
+25   Owned or rented.
+26   Owned free or mortgaged.
+27   Farm or house.
+28   Number of farm schedule.
+     ►Line number◄
+
+►50 Blank Data Lines; Sheet A: lines 1-50, Sheet B: lines 51-100◄
+
+</FORM_TEXT>
+
+===========================================DIV50==
+<FORM_DATA>
+1900 US Federal Census
+
+State                        |          |
+County                       |          |
+Supervisor's Dist. No.       |          |
+Enumeration Dist. No.        |          |
+Sheet No.                    |          |
+Township                     |          |
+Institution                  |          |
+Incorporated place           |          |
+Ward of city                 |          |
+Date                         |          |
+Enumerator                   |          |
+
+    Line #                   |          |
+A   Street                   |          |
+B   House #                  |          |
+1   Dwelling S#              |          |
+2   Family S#                |          |
+3   Name                     |          |
+4   Relationship             |          |
+5   Race                     |          |
+6   Sex (M/F)                |          |
+7   Month of birth           |          |
+7   Year of birth            |          |
+8   Age                      |          |
+9   Marital status           |          |
+10  Marriage years           |          |
+11  Mother of # children     |          |
+12  Living children          |          |
+13  Person birth place       |          |
+14  Father birth place       |          |
+15  Mother birth place       |          |
+16  Immigration year         |          |
+17  # years in US            |          |
+18  Naturalized or alien     |          |
+19  Occupation               |          |
+20  # months out of job      |          |
+21  Attended school months   |          |
+22  Able to read ?           |          |
+23  Able to write ?          |          |
+24  Speak English            |          |
+25  Own/rent (O/R)           |          |
+26  Free or mortgaged        |          |
+27  Farm or house            |          |
+28  # of Farm Schedule       |          |
+    Line #                   |          |
+
+
+
+</FORM_DATA>
+
+===========================================DIV50==
+Codes
+► text ◄  explanatory text not in original document
+►?◄       not legible
+►b◄       blank
+►c◄       continued, as in "street name" 
+►d◄       ditto mark
+
+example:
+https://www.ancestry.com/discoveryui-content/view/38928948:7602
+https://www.familysearch.org/ark:/61903/3:1:S3HT-DYK7-GC2?i=50
+
+===========================================DIV50==
+</FORM>

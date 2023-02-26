@@ -32,7 +32,7 @@ Sheet No. ____
      ►Line number◄
 PLACE OF ABODE
 1    Street, avenue, road, etc.
-2    House number (in cities and towns)
+2    House number (in cities or towns)
 3    Number of dwelling house in order of visitation
 4    Number of family in order of visitation
 
@@ -62,10 +62,10 @@ EDUCATION
 17   Whether able to read and write
 
 PLACE OF BIRTH
-Place of birth of each person and parents of each person enumerated. If born
-in the United States, give the State or Territory. If of foreign birth, give the
-country of birth. See Instructions for additional entries required for certain
-countries
+Place of birth of each person enumerated and of his or her parents. If born in
+the United States, give State or Territory. If of foreign birth, give country in
+which birthplace is now situated. (See Instructions.) Distinguish Canada-
+French from Canada-English, and Irish Free State from Northern Ireland.
 18   PERSON
 19   FATHER
 20   MOTHER
@@ -103,7 +103,7 @@ Whether a veteran of the U.S. military or naval forces mobilized for any war or 
      ►Line number◄
 
 
-►50 Blank Data Lines: Sheet A: lines 1-50, Sheet B: lines 51-100◄
+►50 Blank Data Lines; Sheet A: lines 1-50, Sheet B: lines 51-100◄
 
 </FORM_TEXT>
 

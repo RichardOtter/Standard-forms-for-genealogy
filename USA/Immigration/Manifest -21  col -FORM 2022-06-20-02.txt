@@ -24,7 +24,7 @@ S.S. ____ sailing from ____, ____, 1____  arriving at Port of ____, 1____
 4    SEX.
 5    Married or single.
 6    Calling or Occupation
-7    Able to- <nl>
+7    ABLE TO-
       Read.
       Write.
 8    Nationality.

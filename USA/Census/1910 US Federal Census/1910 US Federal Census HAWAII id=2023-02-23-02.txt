@@ -53,10 +53,11 @@ Mother of how many children.
 11   Number now living.
 
 NATIVITY.
-Place of birth of each person and parents of each person enumerated. If born in the United States, give the state or territory. If of foreign birth, give the country.
+Place of birth of each person and parents of each person enumerated. If born in the United States,
+give the state or territory. If of foreign birth, give the country.
 12   Place of birth of this Person.
-13   Place of birth of Father of this Person.
-14   Place of birth of Mother of this Person.
+13   Place of birth of Father of this person.
+14   Place of birth of Mother of this person.
 
 CITIZENSHIP.
 15   Year of immigration to Hawaii, or other part of United States.
@@ -89,7 +90,7 @@ OWNERSHIP OF HOME.
      ►Line number◄
 
 
-►25 Blank Data Lines: Sheet A: lines 1-25, Sheet B: lines 26-50◄
+►25 Blank Data Lines; Sheet A: lines 1-25, Sheet B: lines 26-50◄
 
 </FORM_TEXT>
 

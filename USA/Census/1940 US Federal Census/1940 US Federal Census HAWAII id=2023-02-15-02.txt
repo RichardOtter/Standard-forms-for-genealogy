@@ -44,11 +44,13 @@ HOME DATA  (for head of household)
 5    Value of home if owned; or monthly rental, if rented
 
 NAME
-6    Name of each person whose usual place or residence on April 1, 1940, was in this household
-   BE SURE TO INCLUDE:
-  (1) Persons temporarily absent from household.
-      Write "Ab" after names of such persons.
-  (2) Children under 1 year of age. Write "Infant" if child has not been given a first name
+6    Name of each person whose usual place or residence on 
+     April 1, 1940, was in this household
+     BE SURE TO INCLUDE:
+     (1) Persons temporarily absent from household.
+         Write "Ab" after names of such persons
+     (2) Children under 1 year of age. Write "Infant" if
+         child has not been given a first name
 
 RELATION
 7    Relationship of this person to head of household, as wife, son, daughter,father, mother-in-law, grandson, lodger, servant, etc.
@@ -61,7 +63,7 @@ A    CODE (For office use only. Do not write in this column)
 11   Martial status
 
 EDUCATION
-12   Attended school (including kindergarten) or college any time since March 1, 940 (Yes or No)
+12   Attended school (including kindergarten) or college any time since March 1, 1940? (Yes or No)
 13   Highest grade of school completed
 
 PLACE OF BIRTH
@@ -84,21 +86,19 @@ For persons seeking work ("Yes" in col. 17)
 20   Duration of unemployment - number of weeks seeking work before April 1, 1940
 
 OCCUPATION AND INDUSTRY
-For a person at work or with a job ("Yes" in either col. 16 or col. 18), enter present occupation, industry, and class of worker; and if he is a wage or salary worker, enter source of wages or salary
+For a person at work or with a job ("Yes" in either col. 16 or col. 18), enter present occupation,
+  industry, and class of worker; and if he is a wage or salary worker, enter source of wages or salary
+
 For a person seeking work ("Yes" in col. 17):
 If he has previous work experience, enter last occupation, industry, etc.
-If a new worker (one with no previous work experience), enter "New worker" in col. 21 and leave cols. 22, 23, and 24 blank.
+If a new worker (one with no previous work experience), enter "New worker" in col. 21 and
+  leave cols. 22, 23, and 24 blank.
 
 OCCUPATION
-Trade, profession, or particular kind of work as cannery worker, salesman, foreman, etc.
-21   Occupation
-
+21   Trade, profession, or particular kind of work as cannery worker, salesman, foreman, etc.
 INDUSTRY
-Industry or business, as pineapple cannery, dry goods store, sugar-cane plantation, etc.
-22   Industry
-
+22   Industry or business, as pineapple cannery, dry-goods store, sugar-cane plantation, etc.
 23   Class of worker
-
 For wage or salary workers ("W" in col 23)
 24   Source of wages or salary
 
@@ -112,13 +112,13 @@ C    (For office use only. Do not write in this column)
 
 INCOME  (12 months ending Dec 31, 1929)
 26   Amount of money, wages or salary received
-27   Did this person receive income amounting to $60 or more from sources other than money wages or salary? (Yes or No)
+27   Did this person receive income amounting to $50 or more from sources other than money wages or salary? (Yes or No)
 
 28   Number of farm report, if any, "in order of visitation"
      Line No.
 
 
-►50 Blank Data Lines: Sheet A: lines 1-50, Sheet B: lines 51-100◄
+►50 Blank Data Lines; Sheet A: lines 1-50, Sheet B: lines 51-100◄
 
 ►Instructions◄
 SYMBOLS AND EXPLANATIONS:

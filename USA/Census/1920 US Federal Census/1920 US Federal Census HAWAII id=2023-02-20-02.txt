@@ -57,9 +57,9 @@ CITIZENSHIP.
 15   If naturalized, year of naturalization.
 
 EDUCATION.
-16   Attended school or college any time since Sept. 1, 1919.
-17   Able to read.
-18   Able to write.
+16   Attended school any time since Sept. 1, 1919.
+17   Whether able to read.
+18   Whether able to write.
 
 NATIVITY AND MOTHER TONGUE.
 Place of birth of each person enumerated. If born in the United States, give the state or territory. If of foreign birth, give the place of birth
@@ -74,18 +74,18 @@ MOTHER.
 23   Place of birth.
 24   Mother Tongue.
 
-25   Able to speak English.
+25   Whether able to speak English.
 
 OCCUPATION.
-26   Trade, profession or particular kind of work done, as spinner, salesman, laborer, etc.
-27   Industry, business or establishment in which at work, as cotton mill, dry goods store, farm, etc.
+26   Trade, profession or particular kind of work done, as foreman, salesman, laborer, etc.
+27   Industry, business or establishment in which at work, as sugar mill, dry goods store, farm, etc.
 28   Employer, salary or wage worker, or working on own account.
 
-29   No. of farm schedule.
+29   Number of farm schedule.
      ►Line number◄
 
 
-►25 Blank Data Lines: Sheet A: lines 1-25, Sheet B: lines 26-50◄
+►25 Blank Data Lines; Sheet A: lines 1-25, Sheet B: lines 26-50◄
 
 </FORM_TEXT>
 

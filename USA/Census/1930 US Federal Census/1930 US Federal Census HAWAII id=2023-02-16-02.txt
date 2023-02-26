@@ -28,7 +28,7 @@ Sheet No. ____
      ►Line number◄
 PLACE OF ABODE
 1    Street, avenue, road, etc.
-2    House number (in cities and towns)
+2    House number (in cities or towns)
 3    Number of dwelling house in order of visitation
 4    Number of family in order of visitation
 
@@ -55,9 +55,9 @@ EDUCATION
 14   Whether able to read and write
 
 PLACE OF BIRTH
-Place of birth of each person enumerated and of ho or her parents. If born
+Place of birth of each person enumerated and of his or her parents. If born
 in the United States, give the State or Territory. If of foreign birth, 
-give the country in which birthplace is now situated. 
+give the country in which birthplace is now situated
 15   PERSON
 16   FATHER
 17   MOTHER
@@ -78,9 +78,9 @@ OCCUPATION AND INDUSTRY
 OCCUPATION
 22   Trade, profession, or particular kind of work, as foreman, salesman, carpenter, etc.
 INDUSTRY
-23   Industry or business, as pineapple cannery, dry goods store, sugarcane plantation, etc.
+23   Industry or business, as pineapple cannery, dry goods store, sugar-cane plantation, etc.
 D    CODE (For office use only. Do not write in this column)
-24   Class of Worker
+24   Class of worker
 
 UNEMPLOYMENT
 25   Does this person usually work at a gainful occupation?  (Yes or No)
@@ -88,11 +88,11 @@ UNEMPLOYMENT
 E    CODE (For office use only.)
 27   If so, how many weeks has he been out of a job?
 
-28   No. of farm schedule
+28   Number of farm schedule
      ►Line number◄
 
 
-►50 Blank Data Lines: Sheet A: lines 1-50, Sheet B: lines 51-100◄
+►50 Blank Data Lines; Sheet A: lines 1-50, Sheet B: lines 51-100◄
 
 </FORM_TEXT>
 

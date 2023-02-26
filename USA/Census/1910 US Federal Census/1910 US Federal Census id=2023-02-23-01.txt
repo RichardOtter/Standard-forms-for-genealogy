@@ -1,8 +1,8 @@
 <FORM ID="2023-02-23-01" REV="1" NAME="1910 US Federal Census">
 <FORM_TEXT>
 
-DEPARTMENT OF COMMERCE AND LABOR-BUREAU OF THE CENSUS
-THIRTEENTH CENSUS OF THE UNITED STATES: 1910 POPULATION
+DEPARTMENT OF COMMERCE AND LABOR - BUREAU OF THE CENSUS
+THIRTEENTH CENSUS OF THE UNITED STATES: 1910 - POPULATION
 s11-3211
 
 STATE ____
@@ -52,10 +52,11 @@ Mother of how many children.
 11   Number now living.
 
 NATIVITY.
-Place of birth of each person and parents of each person enumerated. If born in the United States, give the state or territory. If of foreign birth, give the country.
+Place of birth of each person and parents of each person enumerated. If born in the United States,
+give the state or territory. If of foreign birth, give the country.
 12   Place of birth of this Person.
-13   Place of birth of Father of this Person.
-14   Place of birth of Mother of this Person.
+13   Place of birth of Father of this person.
+14   Place of birth of Mother of this person.
 
 CITIZENSHIP.
 15   Year of immigration to the United States.
@@ -88,7 +89,7 @@ OWNERSHIP OF HOME.
      ►Line number◄
 
 
-►50 Blank Data Lines: Sheet A: lines 1-50, Sheet B: lines 51-100◄
+►50 Blank Data Lines; Sheet A: lines 1-50, Sheet B: lines 51-100◄
 
 </FORM_TEXT>
 
