@@ -164,7 +164,8 @@ Sheet No.                    |          |
 
 ===========================================DIV50==
 Codes
-► text ◄  explanatory text not in original document
+►text◄  explanatory text not in original document
+►CO'text crossed out'◄
 ►?◄       not legible
 ►b◄       blank
 ►c◄       continued, as in "street name" 

@@ -412,7 +412,8 @@ Sample Line  ►lines 5, 10, 15, 20, 25 and 30◄
 
 ===========================================DIV50==
 Codes
-► text ◄  explanatory text not in original document
+►text◄  explanatory text not in original document
+►CO'text crossed out'◄
 ►X◄       informant (circled X)
 ►?◄       not legible
 ►b◄       blank
