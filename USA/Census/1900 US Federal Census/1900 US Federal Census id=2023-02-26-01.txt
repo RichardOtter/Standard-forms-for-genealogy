@@ -90,7 +90,6 @@ OWNERSHIP OF HOME.
 
 ===========================================DIV50==
 <FORM_DATA>
-1900 US Federal Census
 
 State                        |          |
 County                       |          |

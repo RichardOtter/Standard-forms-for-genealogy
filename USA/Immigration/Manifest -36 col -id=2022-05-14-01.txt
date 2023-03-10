@@ -1,10 +1,7 @@
-FORM:2022-05-14-01
-36 columns
-National Archives: 1924-1948-immigration.pdf    but with 36 columns  ???
+<FORM ID="2022-05-14-01" REV="1" NAME="Manifest -36 col">
+<FORM_TEXT>
 
-===========================================DIV50==
-<FULL_TEXT_FORM:START>
-<PAGE_FRONT>
+►PAGE_FRONT◄ 
 
 Form 500 B
 U.S. Department of Labor
@@ -12,86 +9,121 @@ Immigration Service
 
 The entries on this list shall be typewritten or printed.
 
-List ____ <on left hand page>
+List ____ ►on left hand page◄
 
 LIST OR MANIFEST OF ALIEN PASSENGERS FOR THE UNITED STATES IMMIGRATION OFFICER AT PORT OF ARRIVAL 
 
 ALL ALIENS arriving at a port of continental United States from a foreign port or to a port of the insular possessions of the United States, and all aliens arriving at a port of said insular possession from a foreign port, a port of continental United States, or part of another insular possession, in whatsoever class they travel, MUST be fully listed and the master or commanding officer of each such vessel carrying such passengers must upon arrival deliver lists thereof to the immigration officer.
 
-<---------------------------->
+►----------------------------◄ 
 This (yellow) sheet is for the listing of SECOND-CABIN PASSENGERS ONLY
-<-------------OR------------->
+►-------------OR-------------◄ 
 This (white) sheet is for the listing of STEERAGE PASSENGERS ONLY
-<---------------------------->
+►----------------------------◄ 
 
 S.S. ____ Passengers sailing from ____, ____, 19____          Arriving at Port of ____, ____, 19____
 
 1     No. on List
+
 2     Head-Tax Status  (This column for use of Government officials only.)
-3     Name in Full <nl>
-        Family Name
-        Given Name
-4     Age <nl>
-        Yrs
+
+3     Name in Full
+        Family name
+        Given name
+
+4     Age
+        Yrs.
         Mos.
+
 5     Sex
+
 6     Married or single
+
 7     Calling or occupation
-8     Able to-- <nl>
+
+8     Able to--
         Read
         Read what language (or if exemption is claimed, on what ground)
         Write
-9     Nationality (Country of which citizen or subject.)
+
+9     Nationality (Country of which citizen or subject)
+
 10    ‡ Race or people
-11    * Place of birth <nl>
+
+11    * Place of birth
           Country
           City or town
+
 12     Immigration Visa Number
+
 13     Issued at -
+
 14     Date 
-15     * Last permanent residence <nl>
+
+15     * Last permanent residence
          Country
          City or town
-16     No. on list
+
+16     No. on List
+
 17     The name and complete address of nearest relative or friend in country whence alien came.
-18     Final destination (*Intended future permanent residence.) <nl>
+
+18     Final destination (*Intended future permanent residence.)
          State
          City or town
+
 19     Whether having a ticket to such final destination
+
 20     By whom was passage paid? (Whether alien paid his own passage, whether paid by relative, whether paid by any other person, or by any corporation, society, municipality, or government.)
+
 21     Whether in possession of $50, and if less, how much?
-22     Whether ever before in the United States, and if so, when and where? <nl>
+
+22     Whether ever before in the United States, and if so, when and where?
        Yes or No
-         If yes <nl>
+         If yes
            Year or period of years
            Where?
+
 23     Whether going to join a relative or friend; and if so, what relative or friend, and his name and complete address
-24     Purpose of coming to United States <nl>
+
+24     Purpose of coming to United States
          Whether alien intends to return to country whence he came after engaging temporarily in laboring pursuits in the United States
          Length of time alien intends to remain in the United States
          Whether alien intends to become a citizen of the United States
+
 25     Ever in prison or almshouse, or institution for care and treatment of the insane, or supported by charity? If so, which?
+
 26     Whether a Polygamist?
+
 27     Whether an Anarchist?
+
 28     Whether a person who believes in or advocates the overthrow by force or violence of the Government of the United States or all forms of law, etc. (See footnote for full text of this question)
+
 29     Whether coming by reason of any offer, solicitation, promise, or agreement, expressed or implied, to labor in the United States
+
 30     Whether alien has been previously deported within one year
+
 31     Condition of health, mental and physical
+
 32     Deformed or crippled. Nature, length of time, and cause
-33     Height <nl>
+
+33     Height
          Feet
          Inches
+
 34     Complexion
-35     Color of-- <nl>
+
+35     Color of--
          Hair
          Eyes
+
 36     Marks of identification
 
-List ____ <on right hand page>
+List ____ ►on right hand page◄
 
-<30 numbered empty lines for data>
 
-<Below data lines>
+►30 numbered blank data lines◄
+
 
 Total passengers    ____
 U.S. citizens       ____
@@ -102,82 +134,95 @@ Aliens              ____
 
 NOTE. - Full text of question 24 is as follows: Whether a person who believes in or advocates the overthrow by force or violence of the Government of the United States or all forms of law, or who disbelieves in or is opposed to organized government, or who advocates the assassination of public officials, or who advocates or teaches the unlawful destruction of property, or is a member of or affiliated with any organization entertaining and teaching disbelief in or opposition to organized government or which teaches the unlawful destruction of property, or who advocates or teaches the duty, necessity, or propriety of the unlawful assaulting or killing or any officer or officers, either of specific individuals or of officers generally, of the Government of the United States or of any other organized government because of his or their official character.
 
-<PAGE_BACK>
-<TODO not done>
+►PAGE_BACK◄ 
 
-<FULL_TEXT_FORM:END>
+►TODO not done◄ 
 
-===========================================DIV50==
-<DATA:START:FORM:2022-05-14-01>
 
-S.S.                
-Sailing from        
-Departure date      
-Arriving at         
-Arrival date        
-List                
-Class               
-
-Total passengers    
-U.S. citizens       
-Aliens              
-
-1     No. on list                       
-2     Head-Tax                          
-3a    Family Name                       
-3b    Given Name                        
-4a    Age Years                         
-4b    Age Months                        
-5     Sex                               
-6     Married or single                 
-7     Occupation                        
-8a    Able to read                      
-8b    Read language                     
-8c    Able to write                     
-9     Nationality                       
-10    Race or people                    
-11a   Birth place country               
-11b   Birth place city or town          
-12    Visa Number                       
-13    Issued place                      
-14    Issued date                       
-15a   Last perm res Country             
-15b   Last City or town                 
-16    No. on list                       
-17    Contact old country               
-18a   Final dest. State                 
-18b   Dest. city or town                
-19    Ticket                            
-20    Who paid                          
-21    Money                             
-22a   Ever before in the US             
-22b   If yes- Years                     
-22c   If yes- where?                    
-23    Join who                          
-24a   Intends to return                 
-24b   Time intends in US                
-24c   Intends citizen US                
-25    Prison?                           
-26    Polygamist                        
-27    Anarchist                         
-28    Overthrow of Gov                  
-29    Labor                             
-30    Deported                          
-31    Health                            
-32    Deformed                          
-33a   Height Feet                       
-33b   Height Inches                     
-34    Complexion                        
-35a   Color of Hair                     
-35b   Color of Eyes                     
-36    Marks                             
-
-<DATA:END>
+</FORM_TEXT>
 
 ===========================================DIV50==
-used in 
+<FORM_DATA>
 
-21 Dec 1926
+S.S.                |         |
+Sailing from        |         |
+Departure date      |         |
+Arriving at         |         |
+Arrival date        |         |
+List                |         |
+Class               |         |
+
+Total passengers    |         |
+U.S. citizens       |         |
+Aliens              |         |
+
+1     No. on list                       |         |
+2     Head-Tax                          |         |
+3a    Name- Family                      |         |
+3b    Name- Given                       |         |
+4a    Age- Years                        |         |
+4b    Age- Months                       |         |
+5     Sex                               |         |
+6     Married or Single                 |         |
+7     Occupation                        |         |
+8a    Able to- Read                     |         |
+8b    Read language                     |         |
+8c    Able to- Write                    |         |
+9     Nationality                       |         |
+10    Race or people                    |         |
+11a   Birth place- Country              |         |
+11b   Birth place- City or town         |         |
+12    Visa- Number                      |         |
+13    Visa- Place                       |         |
+14    Visa- Date                        |         |
+15a   Last perm res.- Country           |         |
+15b   Last perm res.- City or town      |         |
+16    No. on list                       |         |
+17    Contact old country               |         |
+18a   Final dest.- State                |         |
+18b   Final dest.- City or town         |         |
+19    Ticket                            |         |
+20    Who paid                          |         |
+21    Money                             |         |
+22a   Ever before in the US             |         |
+22b   If yes- Years                     |         |
+22c   If yes- Where                     |         |
+23    Join who                          |         |
+24a   Intends to return                 |         |
+24b   Time intends in US                |         |
+24c   Intends citizen US                |         |
+25    Prison                            |         |
+26    Polygamist                        |         |
+27    Anarchist                         |         |
+28    Overthrow of gov                  |         |
+29    Labor                             |         |
+30    Deported                          |         |
+31    Health                            |         |
+32    Deformed                          |         |
+33a   Height- Feet                      |         |
+33b   Height- Inches                    |         |
+34    Complexion                        |         |
+35a   Color of- Hair                    |         |
+35b   Color of- Eyes                    |         |
+36    Marks                             |         |
+
+</FORM_DATA>
+
+===========================================DIV50==
+Codes:
+
+see _info.txt file for meaning of ►◄ codes.
+
+===========================================DIV50==
+Notes:
+
+36 columns
+National Archives: 1924-1948-immigration.pdf    but with 36 columns  ???
+
+===========================================DIV50==
+Examples:
+
+21 Dec 1926       
 New York
 Erwin Heidenfelder, Mathilde, Otto
 https://www.ancestry.com/discoveryui-content/view/2039773842:7488
@@ -216,5 +261,9 @@ https://www.ancestry.com/discoveryui-content/view/2004474559:7488
 Honolulu
 Tsuya Imai, Herbert
 https://www.ancestry.com/discoveryui-content/view/15751846:1502
+
+===========================================DIV50==
+</FORM>
+
 
 

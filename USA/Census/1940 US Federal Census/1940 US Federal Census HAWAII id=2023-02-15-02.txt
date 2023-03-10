@@ -231,7 +231,6 @@ Public emergency employment (WPA, NYA, CCC, etc,)          E
 
 ===========================================DIV50==
 <FORM_DATA>
-1940 US Federal Census HAWAII
 
 County                       |          |
 Island                       |          |

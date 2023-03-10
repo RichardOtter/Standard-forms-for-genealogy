@@ -1,0 +1,153 @@
+<FORM ID="2022-06-22-01" REV="1" NAME="Manifest -21b col German">
+<FORM_TEXT>
+
+►PAGE_FRONT◄
+
+List or Manifest of Alien Immigrants for the Commissioner of Immigration
+
+Required by the regulations of the Secretary of the Treasury of the United States, under Act of Congress approved March 3, 1893, to be delivered to the Commissioner or Immigration by the Commanding Officer of any
+vessel having such passengers on board upon arrival at a port in the United States.
+
+List ____
+
+S.S. ____ sailing from ____, ____, 190____  Arriving at Port of ____, 190____ 
+
+
+►Column headings in English and German◄
+
+
+1    No on List
+     No. auf def List
+
+2    NAME IN FULL 
+     Vollstandige Namens-Aufgabe
+
+3    Age
+     Alte
+      Yrs.
+      Jahr
+      Mos.
+      Monate
+
+4    Sex.
+     Geschlecht
+
+5    Married or Single
+     Verheiratet oder leidig
+
+6    Calling or Occupation.
+     Stand oder Beruf.
+
+7    Able to
+     ob fähig zu
+      Read.
+      Lesen
+      Write.
+      Schreiben
+
+8    Nationality.
+     Nationalität 
+
+9    Last Residence.
+     Letzter Wohnort.
+
+10   Seaport for landing in the United States.
+     Ankunftshafen in des Vereinigten Staaten.
+
+11   Final destination in the United States. (State, City, or Town.)
+     Endgültiges Reiseziel in den Vereinigten Staaten.
+
+12   Whether having a ticket to such final destination.
+     Besitzen Sie ein Billet nach dem endgültiges Reiseziel.
+
+13   By whom was passage paid.
+     Wer hat das Reisegeld gezahlt.
+
+14   Whether in possession of money, if so, whether more than $30, and how much if $30 or less.
+     Sind Sie im Besitzes Geld, wenn ja ob mehr als $30 wie viel, ob $30, oder weniger.
+
+15   Whether ever before in the United States, and if so, when and where.
+     Waren Sie früher schon in dem Vereinigten Staaten falls wo uns wann.
+
+16   Whether going to join a relative; and if so, what relative, their name and address.
+     Ob Sie zu Verwandten gehen, zu welchen, Name und Wohnort derselben.
+
+17   Ever in Prison or Almshouse, or supported by charity? If yes, state which.
+     Ob jemals im Gefängnisse, Armenhaus, gewesen oder Armenunterstützung gewesen. 
+
+18   Whether a Polygamist.
+     Sind Sie Polygamist.
+
+19   Whether under contract express or implied to labor in the United States.
+     Nehmem Sie eines fresise Arbeitseautrast für die Vereinigten Staaten abgechiessen. ►?◄
+
+20   Condition of Health, Mental and Physical.
+     Gesundheitszustand, Geistig und Körperlich.
+
+21   Deformed or Crippled, Nature and Cause.
+     Sind Sie verwacheer oder verkrüppelt, welcher Art und Ursache.
+
+
+
+►PAGE_BACK◄
+
+►TODO not done◄
+
+</FORM_TEXT>
+
+===========================================DIV50==
+<FORM_DATA>
+
+S.S.                |         |
+Sailing from        |         |
+Departure date      |         |
+Arriving at         |         |
+Arrival date        |         |
+List                |         |
+Class               |         |
+
+1     No. on List                       |         |
+2     Name in Full                      |         |
+3a    Age- Years                        |         |
+3b    Age- Months                       |         |
+4     Sex                               |         |
+5     Married or Single                 |         |
+6     Occupation                        |         |
+7a    Able to- Read                     |         |
+7b    Able to- Write                    |         |
+8     Nationality                       |         |
+9     Last residence                    |         |
+10    Seaport to US                     |         |
+11    Final destination                 |         |
+12    Ticket to destination             |         |
+13    Who paid                          |         |
+14    Money                             |         |
+15    In USA before                     |         |
+16    Join someone                      |         |
+17    Prison, etc.                      |         |
+18    Polygamist                        |         |
+19    Labor offer                       |         |
+20    Health                            |         |
+21    Deformed                          |         |
+
+</FORM_DATA>
+
+===========================================DIV50==
+Codes:
+
+see _info.txt file for meaning of ►◄ codes.
+
+===========================================DIV50==
+Notes:
+
+===========================================DIV50==
+Examples:
+
+August 22 1902
+Carl Ufer
+https://www.ancestry.com/discoveryui-content/view/4005682139:7488
+
+===========================================DIV50==
+</FORM>
+
+

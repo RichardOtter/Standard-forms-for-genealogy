@@ -372,7 +372,6 @@ on this sheet        items on this sheet         enumerated on this sheet
 
 ===========================================DIV50==
 <FORM_DATA>
-1950 US Federal Census
 
 a State                      |          |
 b County                     |          |

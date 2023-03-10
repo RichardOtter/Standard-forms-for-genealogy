@@ -1,25 +1,23 @@
-FORM:2022-06-21-02
-11 unnumbered columns
+<FORM ID="2022-06-21-02" REV="1" NAME="Oath -11 col">
+<FORM_TEXT>
 
-Steamship company form
+►PAGE_FRONT◄ 
 
-===========================================DIV50==
-<FULL_TEXT_FORM:START>
-<PAGE_FRONT>
-<Header info only on first page>
+►Header info only on first page◄ 
+
 
 The Passenger act 1887
 (Art. 171-172 Customs Regulations of 1899)
-As Amended by Circular No 65 of March 27,1902
+As Amended by Circular No 65 of March 27, 1902
 Department of Commerce and Labor
 
 TOYO KISEN KAISHA
 
 OATH TO INWARD PASSENGER LIST
 I,  ____, Master of the ____, do solemnly, sincerely and truly swear that the 
-following List or Manifest, subscribed by me and now delivered to the Collector of Customs of this <I.L.> and correct LIST OF ALL THE PASSENGERS taken on
+following List or Manifest, subscribed by me and now delivered to the Collector of Customs of this ►?◄ and correct LIST OF ALL THE PASSENGERS taken on
 board the said vessel at any foreign port or place and destined for, or in transit through, the United States that the said list specifies separately the cabin passengers and the
-immigrant passengers or passengers other than cabin passenger, <illegible> age, (if a child eight years or under) sex, married or single, whether a citizen of the United
+immigrant passengers or passengers other than cabin passenger, ►?◄ age, (if a child eight years or under) sex, married or single, whether a citizen of the United
 States, the port of embarkation, and the number of pieces of baggage belonging to each; and also, in response to passengers other than cabin passengers, said List further
 specifies the location of the compartment or space occupied by each of such passengers during the voyage; and, if any passenger died on the voyage, this List specifies the
 name, age, and cause of death of each deceased passenger. So help me God.
@@ -34,65 +32,93 @@ List of all Passengers taken on board the ____
 (burthen ____ tons), whereof ____ is Master,
 from ____, and destined for or in transit through, the United States.
 
-<columns not numbered>
 
-<1>   <blank>  <used for line number>
-<2>   NAME
-<3>   AGE If a child 8 years or under. <nl>
+►columns not numbered◄
+
+
+►1◄   ►blank column used for line number◄
+
+►2◄   NAME
+
+►3◄   AGE If a child 8 years or under.
        Yrs.
        Mos.
-<4>   SEX
-<5>   MARRIED OR SINGLE
-<6>   Whether a Citizen of the United States
-<7>   PORT OF EMBARKATION
-<8>   No. of pieces of baggage
-<9>   INTENDED DESTINATION IF AN ALIEN IN TRANSIT
-<10>  Location of Compartment occupied by Passenger other than Cabin Passengers
-<11>  Date, Age and Cause of Death of Passengers who Died on the Voyage
+
+►4◄   SEX
+
+►5◄   MARRIED OR SINGLE
+
+►6◄   Whether a Citizen of the United States
+
+►7◄   PORT OF EMBARKATION
+
+►8◄   No. of pieces of baggage
+
+►9◄   INTENDED DESTINATION IF AN ALIEN IN TRANSIT
+
+►10◄  Location of Compartment occupied by Passenger other than Cabin Passengers
+
+►11◄  Date, Age and Cause of Death of Passengers who Died on the Voyage
 
 
-<about 42 blank lines for data>
+►blank space for data lines◄
 
 Masters must keep a correct LIST OF ALL PASSENGERS on hand for inspection by passengers and customs officers. 
 Two Copies are required for Custom House, and one copy for Commissioner of Immigration.
 The names of children (including infants) must be fully specified. Masters must sign at the end of this list.
 
-<PAGE_BACK>
-<TODO not done>
+►PAGE_BACK◄ 
 
-<FULL_TEXT_FORM:END>
+►TODO not done◄ 
 
-===========================================DIV50==
-<DATA:START:FORM:2022-06-21-02>
 
-S.S.                
-Sailing from        
-Departure date      
-Arriving at         
-Arrival date        
-List                
-Class               
-
-1     Line                              
-2     Name                              
-3a    Age Years                         
-3b    Months                            
-4     Sex                               
-5     Married or single                 
-6     Citizen of US                     
-7     Embarkation port                  
-8     Pieces of baggage                 
-9     Intended destination              
-10    Compartment occupied              
-11    Death of passenger                
-
-<DATA:END>
+</FORM_TEXT>
 
 ===========================================DIV50==
+<FORM_DATA>
+Oath -11 col
 
-used in 
+S.S.                |         |
+Sailing from        |         |
+Departure date      |         |
+Arriving at         |         |
+Arrival date        |         |
+List                |         |
+Class               |         |
+
+1     No. on list.                      |         |
+2     Name                              |         |
+3a    Age- Years                        |         |
+3b    Age- Months                       |         |
+4     Sex                               |         |
+5     Married or single                 |         |
+6     Citizen of US                     |         |
+7     Embarkation port                  |         |
+8     Pieces of baggage                 |         |
+9     Intended destination              |         |
+10    Compartment occupied              |         |
+11    Death of passenger                |         |
+
+</FORM_DATA>
+
+===========================================DIV50==
+Codes:
+
+see _info.txt file for meaning of ►◄ codes.
+
+===========================================DIV50==
+Notes:
+
+11 unnumbered columns
+Steamship company form
+
+===========================================DIV50==
+Examples:
 
 Satoru Kurisu   15 Sep 1908
 https://www.ancestry.com/discoveryui-content/view/2362628:1502
+
+===========================================DIV50==
+</FORM>
 
 

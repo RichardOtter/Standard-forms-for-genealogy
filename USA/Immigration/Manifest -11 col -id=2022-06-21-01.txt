@@ -1,0 +1,108 @@
+<FORM ID="2022-06-21-01" REV="1" NAME="Manifest -11 col">
+<FORM_TEXT>
+
+►PAGE_FRONT◄ 
+The Passenger Act 1882
+
+DISTRICT OF THE CITY OF NEW YORK - PORT OF NEW YORK 
+I, ____ Master of the ____ do solemnly, sincerely and truly ____
+that the following List or Manifest, subscribed by me, and now delivered by me to the Collector of Customs of the Collection District of the City of New York, is a
+full and perfect list of all the passengers taken on board the said vessel at ____ from which port said vessel has now arrived; and that
+on said list is truly designated the age, the sex, and the calling of each of said passengers, the location of the compartment or space occupied by each during the passage, the
+country of citizenship of each, and also the destination or location intended by each, and that said List or Manifest truly sets forth the number of said passengers who
+have died on said voyage, and the dates, and the causes of death, and the names and ages of those who died, also, of the pieces of baggage of each, also a true statement, so
+far as can be ascertained, with reference to the intention of each alien passenger, as to a protracted sojourn in this country. So help me God
+
+Sworn to this ____ before me ____
+
+List or Manifest of all the Passengers taken on board the ____, whereof
+____ is Master from ____    burthen ____ tons.
+
+►unnumbered columns◄
+
+►1◄     No.
+
+►2◄     NAME
+
+►3◄     AGE
+►3a◄      Years
+►3b◄      Mths.
+
+►4◄     SEX
+
+►5◄     CALLING
+
+►6◄     The country of which they are citizens
+
+►7◄     Intended destination or location
+
+►8◄     Location of compartment or space occupied
+
+►9◄     Number of pieces of baggage
+
+►10◄    Whether in transit or intended protracted sojourn
+
+►11◄    Date and cause of Death.
+
+
+►blank space for data lines◄
+
+
+►PAGE_BACK◄ 
+►TODO not done◄ 
+
+</FORM_TEXT>
+
+===========================================DIV50==
+<FORM_DATA>
+
+S.S.                |         |
+Sailing from        |         |
+Departure date      |         |
+Arriving at         |         |
+Arrival date        |         |
+List                |         |
+Class               |         |
+
+1     No. on list.                      |         |
+2     Name                              |         |
+3a    Age- Years                        |         |
+3b    Age- Months                       |         |
+4     Sex                               |         |
+5     Married or Single                 |         |
+6     Citizen of US                     |         |
+7     Embarkation port                  |         |
+8     Pieces of baggage                 |         |
+9     Intended destination              |         |
+10    Compartment occupied              |         |
+11    Death of passenger                |         |
+
+</FORM_DATA>
+
+===========================================DIV50==
+Codes:
+
+see _info.txt file for meaning of ►◄ codes.
+
+===========================================DIV50==
+Notes:
+
+Seems to be the same as the Oath form, 11 cols. This is not in use.
+
+similar to National Archives: 1882-1903-immigration.pdf
+but New York district and is missing several cols
+see 
+http://immigrantships.net/v3/1800v3/belgenland18830531_1.html
+for transcription
+
+
+===========================================DIV50==
+Examples:
+
+31 May 1883
+NYC   11 columns
+Menig, Joseph -Passenger List 1883 -1of2.jpg
+https://www.ancestry.com/discoveryui-content/view/12473778:7488
+
+===========================================DIV50==
+</FORM>

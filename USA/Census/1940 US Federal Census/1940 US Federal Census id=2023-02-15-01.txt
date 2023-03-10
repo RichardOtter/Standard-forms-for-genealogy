@@ -306,7 +306,6 @@ Other war or expedition                                                      Ot
 
 ===========================================DIV50==
 <FORM_DATA>
-1940 US Federal Census
 
 State                        |          |
 County                       |          |

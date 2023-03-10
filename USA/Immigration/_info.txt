@@ -1,65 +1,102 @@
 
 Each file is a text transcription of a Passenger Manifest variant found on Ancestry.com and FamilySearch.
 
-Each file contains a transcription of the form, with as much detail as possible along with a shorter section containing a Data Extraction form.
-
-The files start with the name of the form-
-FORM:YYYY-MM-DD-NN
-NN columns
-
-For now, the name of the form is just a date stamp for when it was first created in this list.
-The second line indicates the number of columns in the form. 
-While not definitive, it provides a quick finding aid.; to determine which form an image is using.
+Each file contains a text format transcription of the form, with as much detail as possible along with a shorter section containing a Data Extraction form.
 
 
+Document structure
+In order to structure these files/documents, XML format is used.
 
-The full transcription is between the markers-
+The files start with a root XML tag, containing the form ID number, revision number and form name.
+<FORM ID="2022-05-16-01" REV="1" NAME="List,US Citizens -08 col">
 
-<FULL_TEXT_FORM:START>
-<FULL_TEXT_FORM:END>
+Next comes the full text transcription of the blank form. It is in the <FORM_TEXT> section of the document.
 
-The data extraction form is between the markers-
-<DATA:START:FORM:YYYY-MM-DD-NN>
-<DATA: end>
+Next comes the shorter, data extraction summary form. It is in the <FORM_DATA> section.
 
-where FORM:YYYY-MM-DD-NN is the same form name as at the start of the file.
+Some divider lines and explanatory text is in the <FORM> section, between the FORM_TEXT and after the FORM_DATA sections.
 
 
-Purpose of these files-
+Form and file names
+The name of the form is just a date stamp for when it was first created for this collection.
+
+Name of the form indicates the number of columns in the form. It seems the easiest way to describe the many variants. Some variants have the same number of columns, so other details are added.
+
+
+
+Purpose of these files
 * The print of the original form is often difficult or impossible to read in the on-line images. The full transcription provides help.
 * When transcribing data from these forms, one doesn't want to include data that doesn't change between instances of the form. The data extraction form gives a short summary of the column names etc. The summary terms listed are arbitrary.
+
+To maintain XML format-
 When using the data extraction forms in your text files, be sure to include the delimiters-
-<DATA:START:FORM:YYYY-MM-DD-NN>
-<DATA: END>
-so you will know which full transcription the summary references.
+<FORM> <FORM_DATA>, </FORM_DATA> </FORM> if you want to maintain XML compatibility.
+Maintaining XML compatibility is very optional and may not serve any purpose for you.
+
+Be sure that your data doesn't contain < or &. If so, escape them with &lt; and &amp;
+
+To use relaxed, non XML format-
+Be sure to include at least the <FORM> tag that has the ID, Name and Rev numbers with the data extraction form that has your data. That way, you'll be able to identify the data extraction from used. Any characters may be used.
 
 
 General Notes:
 
-* Text in pointy brackets does not appear in the original printed form.
+* Text in pointy symbols does not appear in the original printed form.
+►sample text◄
+Note these symbols require unicode text, (UTF-8). Use of < and > would violate XML format rules.
 
 * Divider lines-
 ===========================================DIV50==
 are provided to make the file easier to parse by eye.
 
-* The "used in" section at the end of the file should give an example of
+* The "Examples:" section at the end of the file should give an example of
 where the form can be found in use.
 
 * Tab characters are not used, only space characters.
 Mono-spaced fonts show the columns aligned. Proportional spaced fonts do not. 
 
 * sections of text that include these line-
-<---------------------------->
+►----------------------------◄
 TEXT A
-<-------------OR------------->
+►-------------OR-------------◄
 TEXT B
-<---------------------------->
+►----------------------------◄
 are used when there are only minor differences between forms-
 one variant contains TEXT A, the other TEXT B.
 
 
-May convert to true XML sometime in the future.
-
 Reference-
 Forms at the national archives-
 https://www.archives.gov/research/genealogy/charts-forms
+
+
+
+===========================================DIV50==
+Codes:
+
+►d_'text'◄       ditto mark and implied text
+►c_'text'◄       continued and implied text
+►co_'text'◄      text which is crossed out
+►text◄           explanatory text not in original document
+►cm◄             check mark
+►b◄              blank
+►nl◄             new line
+►?◄              not legible
+►sic◄            transcribed as written, perhaps unexpected.
+
+Alternate Text:
+►----------------------------◄
+text a
+►-------------OR-------------◄
+text b
+►----------------------------◄
+
+===========================================DIV50==
+Notes:
+
+===========================================DIV50==
+Examples:
+
+===========================================DIV50==
+</FORM>
+

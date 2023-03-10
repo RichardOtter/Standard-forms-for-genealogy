@@ -96,7 +96,6 @@ OWNERSHIP OF HOME.
 
 ===========================================DIV50==
 <FORM_DATA>
-1910 US Federal Census HAWAII
 
 County                       |          |
 Island                       |          |

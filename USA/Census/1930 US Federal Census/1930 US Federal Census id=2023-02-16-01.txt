@@ -109,7 +109,6 @@ Whether a veteran of the U.S. military or naval forces mobilized for any war or 
 
 ===========================================DIV50==
 <FORM_DATA>
-1930 US Federal Census
 
 State                        |          |
 County                       |          |

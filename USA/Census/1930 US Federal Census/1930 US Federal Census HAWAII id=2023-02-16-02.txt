@@ -98,7 +98,6 @@ E    CODE (For office use only.)
 
 ===========================================DIV50==
 <FORM_DATA>
-1930 US Federal Census HAWAII
 
 County                       |          |
 Island                       |          |

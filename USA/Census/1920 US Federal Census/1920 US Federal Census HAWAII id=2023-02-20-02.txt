@@ -91,7 +91,6 @@ OCCUPATION.
 
 ===========================================DIV50==
 <FORM_DATA>
-1920 US Federal Census HAWAII
 
 County                       |          |
 Island                       |          |

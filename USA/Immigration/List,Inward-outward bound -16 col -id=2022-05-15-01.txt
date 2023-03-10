@@ -1,20 +1,18 @@
-FORM:2022-05-15-01
-16 columns
+<FORM ID="2022-05-15-01" REV="1" NAME="List,Inward-outward bound -16 col">
+<FORM_TEXT>
 
-===========================================DIV50==
-<FULL_TEXT_FORM:START>
-<PAGE_FRONT>
+►PAGE_FRONT◄
 
-FORM <???> (OVERPRINTED <??>
+FORM ►?◄  (OVERPRINTED ►?◄ )
 U.S. DEPARTMENT OF LABOR
 IMMIGRATION AND
 NATURALIZATION SERVICE
 
-<---------------------------->
+►----------------------------◄ 
 LIST OR MANIFEST OF OUTWARD-BOUND PASSENGERS (ALIENS AND CITIZENS) FOR IMMIGRATION OFFICIALS AT PORT OF DEPARTURE
-<-------------OR------------->
+►-------------OR-------------◄ 
 LIST OR MANIFEST OF INWARD-BOUND PASSENGERS CITIZENS) FOR IMMIGRATION OFFICIALS AT PORT OF ARRIVAL
-<---------------------------->
+►----------------------------◄ 
 
 All passengers sailing from a port of continental United States bound for a foreign port or a port of the insular possessions of the United States, or sailing from a port of said insular possessions bound for a
 foreign port, a port of continental United States, or a port of another insular possession, in whatsoever class they travel, must be fully listed or manifested according to the headings printed at top of columns and
@@ -30,52 +28,70 @@ All aliens, and such citizens as intend to reside permanently in a foreign count
 All citizens intending to reside permanently in a foreign country, should answer questions 15 or 16.
 
 1     No. on list.
-2     Name in full. <nl>
-       Family name.
-       Given Name.
+
+2     Name in full.
+        Family name.
+        Given name.
+
 3     Age.
+
 4     Sex.
+
 5     Country of which citizen or subject (nationality).
+
 6     Country where you are going to live (future permanent residence).
+
 7     Country of birth.
+
 8     Country where you lived before coming to the United States.
+
 9     *Last arrival; in continental United States or insular possessions.
-       Date.
-       Port.
+        Date.
+        Port.
+
 10    Where you last lived (last permanent residence) in the United States or insular possessions thereof.
-       City or town.
-       State.
+        City or town.
+        State.
+
 11    Race or people.
+
 12    Calling or occupation.
+
 13    Married or single.
-14    Whether able to- <nl>
+
+14    Whether able to-
        Read.
        Write.
-15    If native born, give place and date of birth. <nl>
+
+15    If native born, give place and date of birth.
        City or town.
        State.
        Date.
-16    If naturalized, where. <nl>
+
+16    If naturalized, where.
        City or town.
        State.
+
+
+►30 numbered blank data lines◄
+
 
 * Depending on which place passenger is sailing from.
 See instructions on back hereof.
 
-<PAGE_BACK>
 
+►PAGE_BACK◄ 
 
 AFFADAVIT OF THE MASTER OR COMMANDING OFFICER, OR FIRST OR SECOND OFFICER
 I, __ __(Name), __  __(Title) of the __  __, bound for
-<TODO more not transcribed>
+►TODO more not transcribed◄ 
 
 
 INSTRUCTIONS FOR RECORDING ANSWERS ON FRON OF MANIFEST
-<TODO more not transcribed>
-
+►TODO more not transcribed◄ 
 
 LIST OF RACES OR PEOPLES
-<TODO more not transcribed>
+►TODO more not transcribed◄ 
 
 
 SUMMARY OF PASSENGERS AS TO CLASSES
@@ -91,67 +107,77 @@ Women                ____            ____
 Children             ____            ____
 
 
-<FULL_TEXT_FORM:END>
+</FORM_TEXT>
 
 ===========================================DIV50==
-<DATA:START:FORM:2022-05-15-01>
+<FORM_DATA>
 
-S.S.                
-Sailing from        
-Departure date      
-Arriving at         
-Arrival date        
-List                
-Class               
+S.S.                |         |
+Sailing from        |         |
+Departure date      |         |
+Arriving at         |         |
+Arrival date        |         |
+List                |         |
+Class               |         |
 
-1     No. on List                       
-2a    Name- Last                        
-2b    Name First                        
-3     Age                               
-4     Sex                               
-5     Nationality                       
-6     Future perm residence             
-7     Birth country                     
-8     Prev residence country            
-9a    Date last arrival                 
-9b    Port last arrival                 
-10    Last perm resi- town              
-10    Last perm resi- state             
-11    Race                              
-12    Occupation                        
-13    Married or single                 
-14a   Able to read                      
-14b   Able to write                     
-15a   Birth town                        
-15b   Birth state                       
-15c   Birth date                        
-16a   Naturalization place              
-16b   Naturalization state              
+1     No. on List                       |         |
+2a    Name- Last                        |         |
+2b    Name- First                       |         |
+3     Age                               |         |
+4     Sex                               |         |
+5     Nationality                       |         |
+6     Future perm residence             |         |
+7     Birth country                     |         |
+8     Prev residence country            |         |
+9a    Last arrival- Date                |         |
+9b    Last arrival- Port                |         |
+10    Last perm resi- Town              |         |
+10    Last perm resi- State             |         |
+11    Race                              |         |
+12    Occupation                        |         |
+13    Married or Single                 |         |
+14a   Able to- Read                     |         |
+14b   Able to- Write                    |         |
+15a   Birth- Town                       |         |
+15b   Birth- State                      |         |
+15c   Birth- Date                       |         |
+16a   Naturalization- Place             |         |
+16b   Naturalization- State             |         |
 
+              | Alien | Citiz |
+First Class   |       |       |
+Second Class  |       |       |
+Third Class   |       |       |
+Cabin         |       |       |
+Tourist       |       |       |
+    Total     |       |       |
+Men           |       |       |
+Women         |       |       |
+Children      |       |       |
 
-                    Aliens        Citizens
-First Class          ____            ____
-Second Class         ____            ____
-Third Class          ____            ____
-Cabin
-Tourist
-    Total            ____            ____
-Men                  ____            ____
-Women                ____            ____
-Children             ____            ____
-
-<DATA:END>
+</FORM_DATA>
 
 ===========================================DIV50==
-used in
+Codes:
+
+see _info.txt file for meaning of ►◄ codes.
+
+===========================================DIV50==
+Notes:
+
+===========================================DIV50==
+Examples:
 
 18 Mar 1932		outward
 Honolulu
 Tsuya Imai, Masao
 https://www.ancestry.com/discoveryui-content/view/3447633:1502
 
-
 22 Jan 1946		inward
 Honolulu
 Herbert Saito
 https://www.ancestry.com/discoveryui-content/view/15508191:1502
+
+===========================================DIV50==
+</FORM>
+
