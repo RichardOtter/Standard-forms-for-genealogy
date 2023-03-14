@@ -16,6 +16,7 @@ List No. ____
 
 S.S. ____ sailing from ____, ____, 1____  arriving at Port of ____, 1____ 
 
+►Column Headings◄
 
 1    No on List.
 

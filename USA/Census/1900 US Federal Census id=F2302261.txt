@@ -1,7 +1,4 @@
 <FORM ID="F2302261" REV="1" NAME="1900 US Federal Census">
-
-Previous ID=="2023-02-26-01"
-
 <FORM_TEXT>
 
 7-224.
@@ -24,10 +21,10 @@ Name of incorporated city, town, or village, within the above-named division, __
 Ward of city, ____
 Enumerated by me on the ____ day of June, 1900, ____, Enumerator.
 
-
 ►Column Headings◄
 
      ►Line number◄
+
 LOCATION.
   IN CITIES.
      Street.
@@ -84,6 +81,7 @@ OWNERSHIP OF HOME.
 26   Owned free or mortgaged.
 27   Farm or house.
 28   Number of farm schedule.
+
      ►Line number◄
 
 ►50 Blank Data Lines; Sheet A: lines 1-50, Sheet B: lines 51-100◄

@@ -1,7 +1,4 @@
 <FORM ID="F2302271" REV="1" NAME="1950 US Federal Census">
-
-Previous ID="2023-02-27-01"
-
 <FORM_TEXT>
 
 (S3)
@@ -35,7 +32,6 @@ h. CHECKED BY ____ ON ____, 1950
    (Crew leader)
 
 SHEET NUMBER ____
-
 
 ►Column Headings◄
 

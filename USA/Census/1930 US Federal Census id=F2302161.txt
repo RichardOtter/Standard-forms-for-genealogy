@@ -1,7 +1,4 @@
 <FORM ID="F2302161" REV="1" NAME="1930 US Federal Census">
-
-Previous ID="2023-02-16-01"
-
 <FORM_TEXT>
 
 Form 15-6
@@ -29,10 +26,10 @@ Enumerated by me on ____, 1930, ____, Enumerator.
 
 Sheet No. ____
 
-
 ►Column Headings◄
 
      ►Line number◄
+
 PLACE OF ABODE
 1    Street, avenue, road, etc.
 2    House number (in cities or towns)
@@ -103,6 +100,7 @@ Whether a veteran of the U.S. military or naval forces mobilized for any war or 
 31   What war or expedition?
 
 32   No. of farm schedule
+
      ►Line number◄
 
 

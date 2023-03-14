@@ -1,7 +1,4 @@
 <FORM ID="F2302162" REV="1" NAME="1930 US Federal Census HAWAII">
-
-Previous ID="2023-02-16-02"
-
 <FORM_TEXT>
 
 1930 US Federal Census HAWAII
@@ -26,10 +23,10 @@ Enumerated by me on ____, 1930, ____, Enumerator.
 
 Sheet No. ____
 
-
 ►Column Headings◄
 
      ►Line number◄
+
 PLACE OF ABODE
 1    Street, avenue, road, etc.
 2    House number (in cities or towns)
@@ -93,6 +90,7 @@ E    CODE (For office use only.)
 27   If so, how many weeks has he been out of a job?
 
 28   Number of farm schedule
+
      ►Line number◄
 
 

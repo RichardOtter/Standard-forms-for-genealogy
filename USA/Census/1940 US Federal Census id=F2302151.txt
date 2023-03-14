@@ -1,7 +1,4 @@
 <FORM ID="F2302151" REV="1" NAME="1940 US Federal Census">
-
-Previous ID="2023-02-15-01"
-
 <FORM_TEXT>
 
 Your report is required by Act of Congress. This Act makes also it unlawful for the Bureau to disclose any facts, including names or identity, from your census reports. Only sworn census employees will see your statements. Data
@@ -34,10 +31,10 @@ ____, Enumerator.
 16-252 A
 Sheet No. ____
 
-
 ►Column Headings◄
 
      Line No.
+
 LOCATION
 1    Street, avenue, road, etc.
 2    House number (in cities and towns)
@@ -96,7 +93,6 @@ mail address.)
 20   On a Farm? (Yes or No)
 D    CODE (Leave Blank)
 
-
 PERSONS 14 YEARS OLD AND OVER – EMPLOYMENT STATUS
 21   Was this person AT WORK for pay or profit in private or non-emergency Govt. work during week of March 24-30? (Yes or No)
 22   If not, was he at work on, or assigned to, public EMERGENCY WORK (WPA, NYA, CCC, etc.) during week of March 24-30 (Yes or No)
@@ -140,6 +136,7 @@ INCOME IN 1939 (12 months ending December 31, 1939)
 33   Did this person receive income of $50 or more from sources other than money wages or salary? (Yes or No)
 
 34   Number of Farm Schedule
+
      Line No.
 
 

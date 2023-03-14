@@ -1,7 +1,4 @@
 <FORM ID="F2302201" REV="1" NAME="1920 US Federal Census">
-
-Previous ID="2023-02-20-01"
-
 <FORM_TEXT>
 
 9-137      [D1-578]
@@ -26,7 +23,6 @@ ENUMERATION DISTRICT NO. ____
 WARD OF CITY ____
 
 ENUMERATED BY ME ON THE ____ DAY OF ____, 1920. ____, ENUMERATOR.
-
 
 ►Column Headings◄
 
@@ -89,6 +85,7 @@ OCCUPATION.
 28   Employer, salary or wage worker, or working on own account.
 
 29   Number of farm schedule.
+
      ►Line number◄
 
 

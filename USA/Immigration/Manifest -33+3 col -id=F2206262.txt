@@ -25,112 +25,112 @@ This (white) sheet is for the listing of STEERAGE PASSENGERS ONLY
 
 S.S. ____ Passengers sailing from ____, ____, 19____, Arriving at Port of ____, ____, 19____
 
-1     No. on List.
+►Column Headings◄
 
-2     HEAD-TAX STATUS. (This column for use of Government officials only.)
+1    No. on List.
 
-3     NAME IN FULL.
-        Family name.
-        Given name.
+2    HEAD-TAX STATUS. (This column for use of Government officials only.)
 
-4     Age.
+3    NAME IN FULL.
+       Family name.
+       Given name.
+
+4    Age.
        Yrs.
        Mos.
 
-5     Sex.
+5    Sex.
 
-6     Married or single.
+6    Married or single.
 
-7     Calling or occupation.
+7    Calling or occupation.
 
-8     Able to--
-        Read.
-        Read what language (or, if exemption claimed, on what ground).
-        Write.
+8    Able to--
+       Read.
+       Read what language (or, if exemption claimed, on what ground).
+       Write.
 
-9     Nationality. (Country of which citizen or subject.)
+9    Nationality. (Country of which citizen or subject.)
 
-10    ‡ Race or people
+10   ‡ Race or people
 
-11    * Last permanent residence.
-        Country.
-        City or town.
+11   * Last permanent residence.
+       Country.
+       City or town.
 
-12    The name and complete address of nearest relative or friend in country whence alien came.
+12   The name and complete address of nearest relative or friend in country whence alien came.
 
-13    Final destination. (*Intended future permanent residence.)
-        State.
-        City or town.
+13   Final destination. (*Intended future permanent residence.)
+       State.
+       City or town.
 
-14    No. on list.
+14   No. on list.
 
-15    Whether having a ticket to such final destination.
+15   Whether having a ticket to such final destination.
 
-16    By whom was passage paid? (Whether alien paid his own passage, whether paid by relative, whether paid by any other person, or by any corporation, society, municipality, or government.)
+16   By whom was passage paid? (Whether alien paid his own passage, whether paid by relative, whether paid by any other person, or by any corporation, society, municipality, or government.)
 
-17    Whether in possession of $50, and if less, how much?
+17   Whether in possession of $50, and if less, how much?
 
-18    Whether ever before in the United States; and if so, when and where?
-        Yes or No.
-        If yes-
-          Year or period of years.
-          Where?
+18   Whether ever before in the United States; and if so, when and where?
+       Yes or No.
+       If yes-
+         Year or period of years.
+         Where?
 
-19    Whether going to join a relative or friend; and if so, what relative or friend, and his name and complete address.
+19   Whether going to join a relative or friend; and if so, what relative or friend, and his name and complete address.
 
-20    Purpose of coming to United States.
-        Whether alien intends to return to country whence he came after engaging temporarily in laboring pursuits in the United States.
-        Length of time alien intends to remain in the United States.
-        Whether alien intends to become a citizen of the United States.
+20   Purpose of coming to United States.
+       Whether alien intends to return to country whence he came after engaging temporarily in laboring pursuits in the United States.
+       Length of time alien intends to remain in the United States.
+       Whether alien intends to become a citizen of the United States.
 
-21    Ever in prison or almshouse, or institution for care and treatment of the insane, or supported by charity? If so, which?
+21   Ever in prison or almshouse, or institution for care and treatment of the insane, or supported by charity? If so, which?
 
-22    Whether a polygamist.
+22   Whether a polygamist.
 
-23    Whether an anarchist.
+23   Whether an anarchist.
 
-24    Whether a person who believes in or advocates the overthrow by force or violence of the Government of the United States or all forms of law, etc. (See footnote for full text of this question.)
+24   Whether a person who believes in or advocates the overthrow by force or violence of the Government of the United States or all forms of law, etc. (See footnote for full text of this question.)
 
-25    Whether coming by reason of any offer, solicitation, promise, or agreement, expressed or implied, to labor in the United States.
+25   Whether coming by reason of any offer, solicitation, promise, or agreement, expressed or implied, to labor in the United States.
 
-26    Whether alien had been previously deported within one year.
+26   Whether alien had been previously deported within one year.
 
-27    Condition of health, mental and physical.
+27   Condition of health, mental and physical.
 
-28    Deformed or crippled. Nature, length of time, and cause.
+28   Deformed or crippled. Nature, length of time, and cause.
 
-29    Height.
-        Feet.
-        Inches.
+29   Height.
+       Feet.
+       Inches.
 
-30    Complexion.
+30   Complexion.
 
-31    Color of--
-        Hair.
-        Eyes.
+31   Color of--
+       Hair.
+       Eyes.
 
-32    Marks of identification.
+32   Marks of identification.
 
-33    Place of birth.
-        Country.
-        City or town.
+33   Place of birth.
+       Country.
+       City or town.
 
 ►----------------------------◄ 
-       No. on List.
+     No. on List.
 
-34     Immigration Visa Number.
+34   Immigration Visa Number.
 
-35     Issued at-
+35   Issued at-
 
-36     Date.
+36   Date.
 
 ►-------------OR-------------◄ 
-       Immigration Visa
-34       Date
-
-35       Place of Issuance
-
-36       Number
+     Immigration Visa
+34   Date
+35   Place of Issuance
+36   Number
 
 ►----------------------------◄ 
 

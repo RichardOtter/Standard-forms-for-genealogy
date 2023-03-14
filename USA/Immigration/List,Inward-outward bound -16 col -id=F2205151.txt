@@ -1,7 +1,4 @@
 <FORM ID="F2205151" REV="1" NAME="List,Inward-outward bound -16 col">
-
-Previous ID="2022-05-15-01"
-
 <FORM_TEXT>
 
 ►PAGE_FRONT◄
@@ -30,48 +27,50 @@ All passengers (aliens and citizens) should answer questions 2 to 6.
 All aliens, and such citizens as intend to reside permanently in a foreign country, should answer questions 7 to 14.
 All citizens intending to reside permanently in a foreign country, should answer questions 15 or 16.
 
-1     No. on list.
+►Column Headings◄
 
-2     Name in full.
-        Family name.
-        Given name.
+1    No. on list.
 
-3     Age.
+2    Name in full.
+       Family name.
+       Given name.
 
-4     Sex.
+3    Age.
 
-5     Country of which citizen or subject (nationality).
+4    Sex.
 
-6     Country where you are going to live (future permanent residence).
+5    Country of which citizen or subject (nationality).
 
-7     Country of birth.
+6    Country where you are going to live (future permanent residence).
 
-8     Country where you lived before coming to the United States.
+7    Country of birth.
 
-9     *Last arrival; in continental United States or insular possessions.
-        Date.
-        Port.
+8    Country where you lived before coming to the United States.
 
-10    Where you last lived (last permanent residence) in the United States or insular possessions thereof.
-        City or town.
-        State.
+9    *Last arrival; in continental United States or insular possessions.
+       Date.
+       Port.
 
-11    Race or people.
+10   Where you last lived (last permanent residence) in the United States or insular possessions thereof.
+       City or town.
+       State.
 
-12    Calling or occupation.
+11   Race or people.
 
-13    Married or single.
+12   Calling or occupation.
 
-14    Whether able to-
+13   Married or single.
+
+14   Whether able to-
        Read.
        Write.
 
-15    If native born, give place and date of birth.
+15   If native born, give place and date of birth.
        City or town.
        State.
        Date.
 
-16    If naturalized, where.
+16   If naturalized, where.
        City or town.
        State.
 

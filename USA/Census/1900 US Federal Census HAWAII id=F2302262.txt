@@ -1,7 +1,4 @@
 <FORM ID="F2302262" REV="1" NAME="1900 US Federal Census HAWAII">
-
-Previous ID=="2023-02-26-02"
-
 <FORM_TEXT>
 
 7-300.
@@ -24,10 +21,10 @@ Name of Institution ____
 
 Enumerated by me on the ____ day of June, 1900, ____, Special Agent.
 
-
 ►Column Headings◄
 
      ►Line number◄
+
 LOCATION.
   IN CITIES.
      Street.
@@ -86,6 +83,7 @@ OWNERSHIP OF HOME.
 26   Owned or rented.
 27   Owned free or mortgaged.
 28   Homestead lot, kuleana, or house.
+
      ►Line number◄
 
 ►25 Blank Data Lines; Sheet A: lines 1-25, Sheet B: lines 26-50◄

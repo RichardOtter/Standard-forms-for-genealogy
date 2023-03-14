@@ -1,7 +1,4 @@
 <FORM ID="F2302272" REV="1" NAME="1950 US Federal Census HAWAII">
-
-Previous ID="2023-02-27-02"
-
 <FORM_TEXT>
 
 (S3)
@@ -37,11 +34,9 @@ h. CHECKED BY ____ ON ____, 1950
 
 SHEET NUMBER ____
 
-
 ►Column Headings◄
 
      LINE NUMBER
-     ►pre-printed numbers◄
 
      Name of street, avenue, or road
 1    ____
@@ -203,6 +198,7 @@ C    LEAVE BLANK
 
 
 ►30 Blank Data Lines◄
+
 HOUSEHOLD CONTINUED ON NEXT SHEET  ►check box◄
 
 

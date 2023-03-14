@@ -1,7 +1,4 @@
 <FORM ID="F2302202" REV="1" NAME="1920 US Federal Census HAWAII">
-
-Previous ID="2023-02-20-02"
-
 <FORM_TEXT>
 
 9-147      [E1-582]
@@ -25,7 +22,6 @@ SHEET NO. ____
 
 ENUMERATION DISTRICT NO. ____
 WARD OR DISTRICT OF CITY ____
-
 
 ►Column Headings◄
 

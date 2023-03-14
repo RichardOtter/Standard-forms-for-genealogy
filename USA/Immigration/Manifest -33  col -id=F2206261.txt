@@ -26,95 +26,97 @@ List ____
 
 S.S. ____ Passengers sailing from ____, ____, 19____, Arriving at Port of ____, ____, 19____
 
-1     No. on List.
+►Column Headings◄
 
-2     HEAD-TAX STATUS. (This column for use of Government officials only.)
+1    No. on List.
 
-3     NAME IN FULL.
-        Family name.
-        Given name.
+2    HEAD-TAX STATUS. (This column for use of Government officials only.)
 
-4     Age.
-        Yrs.
-        Mos.
+3    NAME IN FULL.
+       Family name.
+       Given name.
 
-5     Sex.
+4    Age.
+       Yrs.
+       Mos.
 
-6     Married or single.
+5    Sex.
 
-7     Calling or occupation.
+6    Married or single.
 
-8     Able to--
-        Read.
-        Read what language (or, if exemption claimed, on what ground).
-        Write.
+7    Calling or occupation.
 
-9     Nationality. (Country of which citizen or subject.)
+8    Able to--
+       Read.
+       Read what language (or, if exemption claimed, on what ground).
+       Write.
 
-10     ‡ Race or people
+9    Nationality. (Country of which citizen or subject.)
 
-11    * Last permanent residence.
-        Country.
-        City or town.
+10   ‡ Race or people
 
-12    The name and complete address of nearest relative or friend in country whence alien came.
+11  * Last permanent residence.
+      Country.
+      City or town.
 
-13    Final destination. (*Intended future permanent residence.)
-        State.
-        City or town.
+12   The name and complete address of nearest relative or friend in country whence alien came.
 
-14    No. on List.
+13   Final destination. (*Intended future permanent residence.)
+       State.
+       City or town.
 
-15    Whether having a ticket to such final destination.
+14   No. on List.
 
-16    By whom was passage paid? (Whether alien paid his own passage, whether paid by relative, whether paid by any other person, or by any corporation, society, municipality, or government.)
+15   Whether having a ticket to such final destination.
 
-17    Whether in possession of $50, and if less, how much?
+16   By whom was passage paid? (Whether alien paid his own passage, whether paid by relative, whether paid by any other person, or by any corporation, society, municipality, or government.)
 
-18    Whether ever before in the United States; and if so, when and where?
-        Yes or No.
-        If yes-
-          Year or period of years.
-          Where?
+17   Whether in possession of $50, and if less, how much?
 
-19    Whether going to join a relative or friend; and if so, what relative or friend, and his name and complete address.
+18   Whether ever before in the United States; and if so, when and where?
+       Yes or No.
+       If yes-
+         Year or period of years.
+         Where?
 
-20    Purpose of coming to United States.
-        Whether alien intends to return to country whence he came after engaging temporarily in laboring pursuits in the United States.
-        Length of time alien intends to remain in the United States.
-        Whether alien intends to become a citizen of the United States.
+19   Whether going to join a relative or friend; and if so, what relative or friend, and his name and complete address.
 
-21    Ever in prison or almshouse, or institution for care and treatment of the insane, or supported by charity? If so, which?
+20   Purpose of coming to United States.
+       Whether alien intends to return to country whence he came after engaging temporarily in laboring pursuits in the United States.
+       Length of time alien intends to remain in the United States.
+       Whether alien intends to become a citizen of the United States.
 
-22    Whether a polygamist.
+21   Ever in prison or almshouse, or institution for care and treatment of the insane, or supported by charity? If so, which?
 
-23    Whether an anarchist.
+22   Whether a polygamist.
 
-24    Whether a person who believes in or advocates the overthrow by force or violence of the Government of the United States or all forms of law, etc. (See footnote for full text of this question.)
+23   Whether an anarchist.
 
-25    Whether coming by reason of any offer, solicitation, promise, or agreement, expressed or implied, to labor in the United States.
+24   Whether a person who believes in or advocates the overthrow by force or violence of the Government of the United States or all forms of law, etc. (See footnote for full text of this question.)
 
-26    Whether alien had been previously deported within one year.
+25   Whether coming by reason of any offer, solicitation, promise, or agreement, expressed or implied, to labor in the United States.
 
-27    Condition of health, mental and physical.
+26   Whether alien had been previously deported within one year.
 
-28    Deformed or crippled. Nature, length of time, and cause.
+27   Condition of health, mental and physical.
 
-29    Height.
-        Feet.
-        Inches.
+28   Deformed or crippled. Nature, length of time, and cause.
 
-30    Complexion.
+29   Height.
+       Feet.
+       Inches.
 
-31    Color of--
-        Hair.
-        Eyes.
+30   Complexion.
 
-32    Marks of identification.
+31   Color of--
+       Hair.
+       Eyes.
 
-33    Place of birth.
-        Country.
-        City or town.
+32   Marks of identification.
+
+33   Place of birth.
+       Country.
+       City or town.
 
 
 ►30 numbered blank data lines◄
@@ -129,7 +131,6 @@ Aliens            ____
 ‡ List of races will be found on back of this sheet.
 
 NOTE. - Full text of question 24 is as follows: Whether a person who believes in or advocates the overthrow by force or violence of the Government of the United States or all forms of law, or who disbelieves in or is opposed to organized government, or who advocates the assassination of public officials, or who advocates or teaches the unlawful destruction of property, or is a member of or affiliated with any organization entertaining and teaching disbelief in or opposition to organized government or which teaches the unlawful destruction of property, or who advocates or teaches the duty, necessity, or propriety of the unlawful assaulting or killing or any officer or officers, either of specific individuals or of officers generally, of the Government of the United States or of any other organized government because of his or their official character.
-
 
 
 ►PAGE_BACK◄ 

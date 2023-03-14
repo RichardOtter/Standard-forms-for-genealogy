@@ -1,7 +1,4 @@
 <FORM ID="F2206212" REV="1" NAME="Oath -11 col">
-
-Previous ID="2022-06-21-02"
-
 <FORM_TEXT>
 
 ►PAGE_FRONT◄ 
@@ -35,33 +32,31 @@ List of all Passengers taken on board the ____
 (burthen ____ tons), whereof ____ is Master,
 from ____, and destined for or in transit through, the United States.
 
+►Column Headings not numbered◄
 
-►columns not numbered◄
+►1◄    ►blank column used for line number◄
 
+►2◄    NAME
 
-►1◄   ►blank column used for line number◄
+►3◄    AGE If a child 8 years or under.
+         Yrs.
+         Mos.
 
-►2◄   NAME
+►4◄    SEX
 
-►3◄   AGE If a child 8 years or under.
-       Yrs.
-       Mos.
+►5◄    MARRIED OR SINGLE
 
-►4◄   SEX
+►6◄    Whether a Citizen of the United States
 
-►5◄   MARRIED OR SINGLE
+►7◄    PORT OF EMBARKATION
 
-►6◄   Whether a Citizen of the United States
+►8◄    No. of pieces of baggage
 
-►7◄   PORT OF EMBARKATION
+►9◄    INTENDED DESTINATION IF AN ALIEN IN TRANSIT
 
-►8◄   No. of pieces of baggage
+►10◄   Location of Compartment occupied by Passenger other than Cabin Passengers
 
-►9◄   INTENDED DESTINATION IF AN ALIEN IN TRANSIT
-
-►10◄  Location of Compartment occupied by Passenger other than Cabin Passengers
-
-►11◄  Date, Age and Cause of Death of Passengers who Died on the Voyage
+►11◄   Date, Age and Cause of Death of Passengers who Died on the Voyage
 
 
 ►blank space for data lines◄

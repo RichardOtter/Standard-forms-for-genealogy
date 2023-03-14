@@ -18,7 +18,6 @@ S.S. ____ sailing from ____, ____, 190____  Arriving at Port of ____, 190____
 
 ►Column headings in English and German◄
 
-
 1    No on List
      No. auf def List
 
@@ -27,10 +26,10 @@ S.S. ____ sailing from ____, ____, 190____  Arriving at Port of ____, 190____
 
 3    Age
      Alte
-      Yrs.
-      Jahr
-      Mos.
-      Monate
+       Yrs.
+       Jahr
+       Mos.
+       Monate
 
 4    Sex.
      Geschlecht
@@ -43,10 +42,10 @@ S.S. ____ sailing from ____, ____, 190____  Arriving at Port of ____, 190____
 
 7    Able to
      ob fähig zu
-      Read.
-      Lesen
-      Write.
-      Schreiben
+       Read.
+       Lesen
+       Write.
+       Schreiben
 
 8    Nationality.
      Nationalität 
@@ -76,20 +75,19 @@ S.S. ____ sailing from ____, ____, 190____  Arriving at Port of ____, 190____
      Ob Sie zu Verwandten gehen, zu welchen, Name und Wohnort derselben.
 
 17   Ever in Prison or Almshouse, or supported by charity? If yes, state which.
-     Ob jemals im Gefängnisse, Armenhaus, gewesen oder Armenunterstützung gewesen. 
+     Ob jemals im Gefängnisse, Armenhaus, gewesen oder Armenunterstützung gewesen. ►?◄
 
 18   Whether a Polygamist.
      Sind Sie Polygamist.
 
 19   Whether under contract express or implied to labor in the United States.
-     Nehmem Sie eines fresise Arbeitseautrast für die Vereinigten Staaten abgechiessen. ►?◄
+     Nehmen Sie eines fressise Arbeitseautrast für die Vereinigten Staaten abgechlessen. ►?◄
 
 20   Condition of Health, Mental and Physical.
      Gesundheitszustand, Geistig und Körperlich.
 
 21   Deformed or Crippled, Nature and Cause.
-     Sind Sie verwacheer oder verkrüppelt, welcher Art und Ursache.
-
+     Sind Sie verwachser oder verkrüppelt, welcher Art und Ursache. ►?◄
 
 
 ►PAGE_BACK◄

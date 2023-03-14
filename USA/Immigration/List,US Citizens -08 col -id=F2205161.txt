@@ -1,7 +1,4 @@
 <FORM ID="F2205161" REV="1" NAME="List,US Citizens -08 col">
-
-Previous ID="2022-05-16-01"
-
 <FORM_TEXT>
 
 ►PAGE_FRONT◄
@@ -19,29 +16,31 @@ Number ____
 
 S.S. ____ sailing from ____, ____, 19____, Arriving at Port of ____, 19____
 
-► 1◄  No. on List.
+►Column Headings not numbered◄
 
-► 2◄  NAME IN FULL.
-       Family Name.
-       Given Name.
+► 1◄    No. on List.
 
-► 3◄  AGE.
-       Yrs.
-       Mos.
+► 2◄    NAME IN FULL.
+          Family Name.
+          Given Name.
 
-► 4◄  Sex.
+► 3◄    AGE.
+         Yrs.
+         Mos.
 
-► 5◄  Married or Single.
+► 4◄    Sex.
+
+► 5◄    Married or Single.
 
 ►----------------------------◄
-► 6◄  IF NATIVE OF UNITED STATES, GIVE DATE AND PLACE OF BIRTH (CITY OR TOWN AND STATE).
+► 6◄    IF NATIVE OF UNITED STATES, GIVE DATE AND PLACE OF BIRTH (CITY OR TOWN AND STATE).
 ►-------------OR-------------◄
-► 6◄  IF NATIVE OF UNITED STATES INSULAR POSSESSION OR IF NATIVE OF UNITED STATES, GIVE DATE AND PLACE OF BIRTH (CITY OR TOWN AND STATE).
+► 6◄    IF NATIVE OF UNITED STATES INSULAR POSSESSION OR IF NATIVE OF UNITED STATES, GIVE DATE AND PLACE OF BIRTH (CITY OR TOWN AND STATE).
 ►----------------------------◄
 
-► 7◄  IF NATURALIZED, GIVE NAME AND LOCATION OF COURT WHICH ISSUED NATURALIZATION PAPERS, AND DATE OF PAPERS.
+► 7◄    IF NATURALIZED, GIVE NAME AND LOCATION OF COURT WHICH ISSUED NATURALIZATION PAPERS, AND DATE OF PAPERS.
 
-► 8◄  ADDRESS IN UNITED STATES
+► 8◄    ADDRESS IN UNITED STATES
 
 
 ►30 numbered blank data lines◄

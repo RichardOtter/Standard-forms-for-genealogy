@@ -1,7 +1,4 @@
 <FORM ID="F2206231" REV="1" NAME="Manifest -20 col">
-
-Previous ID="2022-06-23-01"
-
 <FORM_TEXT>
 
 ►PAGE_BACK◄
@@ -22,51 +19,53 @@ List ____
 
 S.S. ____ sailing from ____, ____, 190____  Arriving at Port of ____, 190____ 
 
-1     No on List
+►Column Headings◄
 
-2     NAME IN FULL.
+1    No on List
 
-3     Age.
+2    NAME IN FULL.
+
+3    Age.
        Yrs
        Mos.
 
-4     Sex.
+4    Sex.
 
-5     Married or Single.
+5    Married or Single.
 
-6     Calling or Occupation.
+6    Calling or Occupation.
 
-7     Able to
+7    Able to
        Read.
        Write.
 
-8     Nationality.
+8    Nationality.
        Country.
        * Race or People.
 
-9     Last Residence.
+9    Last Residence.
 
-10    Final Destination. (State, City, or Town.)
+10   Final Destination. (State, City, or Town.)
 
-11    Whether having a ticket to such final destination.
+11   Whether having a ticket to such final destination.
 
-12    By whom was passage paid?
+12   By whom was passage paid?
 
-13    Whether in possession of $30 or upward, and if less, how much?
+13   Whether in possession of $30 or upward, and if less, how much?
 
-14    Whether ever before in the United States, and if so, when and where. 
+14   Whether ever before in the United States, and if so, when and where. 
 
-15    Whether going to join a relative; and if so, what relative, their name and address.
+15   Whether going to join a relative; and if so, what relative, their name and address.
 
-16    Ever in prison or almshouse, or supported by charity? If yes, state which.
+16   Ever in prison or almshouse, or supported by charity? If yes, state which.
 
-17    Whether a Polygamist.
+17   Whether a Polygamist.
 
-18    Whether under Contract, express or implied, to labor in the United States.
+18   Whether under Contract, express or implied, to labor in the United States.
 
-19    Condition of Health, Mental and Physical.
+19   Condition of Health, Mental and Physical.
 
-20    Deformed or Crippled. Nature and Cause.
+20   Deformed or Crippled. Nature and Cause.
 
 
 ►30 numbered blank data lines◄

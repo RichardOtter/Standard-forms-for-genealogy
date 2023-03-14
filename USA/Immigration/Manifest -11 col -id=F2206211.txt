@@ -1,7 +1,4 @@
 <FORM ID="F2206211" REV="1" NAME="Manifest -11 col">
-
-Previous ID="2022-06-21-01"
-
 <FORM_TEXT>
 
 ►PAGE_FRONT◄ 
@@ -21,31 +18,31 @@ Sworn to this ____ before me ____
 List or Manifest of all the Passengers taken on board the ____, whereof
 ____ is Master from ____    burthen ____ tons.
 
-►unnumbered columns◄
+►Column Headings not numbered◄
 
-►1◄     No.
+►1◄    No.
 
-►2◄     NAME
+►2◄    NAME
 
-►3◄     AGE
-►3a◄      Years
-►3b◄      Mths.
+►3◄    AGE
+►3a◄     Years
+►3b◄     Mths.
 
-►4◄     SEX
+►4◄    SEX
 
-►5◄     CALLING
+►5◄    CALLING
 
-►6◄     The country of which they are citizens
+►6◄    The country of which they are citizens
 
-►7◄     Intended destination or location
+►7◄    Intended destination or location
 
-►8◄     Location of compartment or space occupied
+►8◄    Location of compartment or space occupied
 
-►9◄     Number of pieces of baggage
+►9◄    Number of pieces of baggage
 
-►10◄    Whether in transit or intended protracted sojourn
+►10◄   Whether in transit or intended protracted sojourn
 
-►11◄    Date and cause of Death.
+►11◄   Date and cause of Death.
 
 
 ►blank space for data lines◄

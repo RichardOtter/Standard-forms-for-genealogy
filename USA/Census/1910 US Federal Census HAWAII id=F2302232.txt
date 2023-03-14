@@ -1,7 +1,4 @@
 <FORM ID="F2302232" REV="1" NAME="1910 US Federal Census HAWAII">
-
-Previous ID="2023-02-23-02"
-
 <FORM_TEXT>
 
 DEPARTMENT OF COMMERCE AND LABOR - BUREAU OF THE CENSUS
@@ -27,10 +24,10 @@ SHEET NO. ____
 ENUMERATION DISTRICT NO. ____
 WARD OR DISTRICT OF CITY ____
 
-
 ►Column Headings◄
 
      ►Line number◄
+
 LOCATION.
      Street, avenue, road, etc.
      House number (In cities or towns).
@@ -88,8 +85,11 @@ OWNERSHIP OF HOME.
 29   Number of farm schedule.
 
 30   Whether a survivor of the Union or Confederate Army or Navy.
+
 31   Whether blind (both eyes).
+
 32   Whether deaf and dumb.
+
      ►Line number◄
 
 

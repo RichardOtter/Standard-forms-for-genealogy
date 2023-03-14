@@ -1,7 +1,4 @@
 <FORM ID="F2303131" REV="1" NAME="1880 US Federal Census">
-
-Previous ID="2023-03-13-01"
-
 <FORM_TEXT>
 
 [7-296.]
@@ -20,7 +17,6 @@ SCHEDULE 1. - Inhabitants in ____, in the County of ____, State of ____
 enumerated by me on the ____ day of June, 1880.
 ____ Enumerator.
 
-
 ►Column Headings◄
 
      ►Line number◄
@@ -30,7 +26,9 @@ ____ Enumerator.
      House number.
 
 1    Dwelling houses numbered in order of visitation.
+
 2    Families numbered in order of visitation.
+
 3    The Name of each person whose place of abode on 1st day of June, 1880, was in this family.
 
 Personal Description.
@@ -38,8 +36,8 @@ Personal Description.
 5    Sex- Male, M,; Female, F.
 6    Age at last birthday prior to June 1,1880. If under 1 year, give months in fractions, thus: 3/12.
 
-
 7    If born within the Census year, give the month.
+
 8    Relationship of each person to the head of this family- whether wife, son, daughter, servant, boarder, or other.
 
 Civil Condition.

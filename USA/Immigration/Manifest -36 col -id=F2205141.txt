@@ -1,6 +1,6 @@
 <FORM ID="F2205141" REV="1" NAME="Manifest -36 col">
 
-Previous ID="2022-05-14-01
+Previous ID="2022-05-14-01"
 
 <FORM_TEXT>
 
@@ -26,103 +26,105 @@ This (white) sheet is for the listing of STEERAGE PASSENGERS ONLY
 
 S.S. ____ Passengers sailing from ____, ____, 19____          Arriving at Port of ____, ____, 19____
 
-1     No. on List
+►Column Headings◄
 
-2     Head-Tax Status  (This column for use of Government officials only.)
+1    No. on List
 
-3     Name in Full
-        Family name
-        Given name
+2    Head-Tax Status  (This column for use of Government officials only.)
 
-4     Age
-        Yrs.
-        Mos.
+3    Name in Full
+       Family name
+       Given name
 
-5     Sex
+4    Age
+       Yrs.
+       Mos.
 
-6     Married or single
+5    Sex
 
-7     Calling or occupation
+6    Married or single
 
-8     Able to--
-        Read
-        Read what language (or if exemption is claimed, on what ground)
-        Write
+7    Calling or occupation
 
-9     Nationality (Country of which citizen or subject)
+8    Able to--
+       Read
+       Read what language (or if exemption is claimed, on what ground)
+       Write
 
-10    ‡ Race or people
+9    Nationality (Country of which citizen or subject)
 
-11    * Place of birth
-          Country
-          City or town
+10   ‡ Race or people
 
-12     Immigration Visa Number
+11   * Place of birth
+        Country
+        City or town
 
-13     Issued at -
+12   Immigration Visa Number
 
-14     Date 
+13   Issued at -
 
-15     * Last permanent residence
-         Country
-         City or town
+14   Date 
 
-16     No. on List
+15  * Last permanent residence
+      Country
+      City or town
 
-17     The name and complete address of nearest relative or friend in country whence alien came.
+16   No. on List
 
-18     Final destination (*Intended future permanent residence.)
-         State
-         City or town
+17   The name and complete address of nearest relative or friend in country whence alien came.
 
-19     Whether having a ticket to such final destination
+18   Final destination (*Intended future permanent residence.)
+       State
+       City or town
 
-20     By whom was passage paid? (Whether alien paid his own passage, whether paid by relative, whether paid by any other person, or by any corporation, society, municipality, or government.)
+19   Whether having a ticket to such final destination
 
-21     Whether in possession of $50, and if less, how much?
+20   By whom was passage paid? (Whether alien paid his own passage, whether paid by relative, whether paid by any other person, or by any corporation, society, municipality, or government.)
 
-22     Whether ever before in the United States, and if so, when and where?
+21   Whether in possession of $50, and if less, how much?
+
+22   Whether ever before in the United States, and if so, when and where?
        Yes or No
          If yes
            Year or period of years
            Where?
 
-23     Whether going to join a relative or friend; and if so, what relative or friend, and his name and complete address
+23   Whether going to join a relative or friend; and if so, what relative or friend, and his name and complete address
 
-24     Purpose of coming to United States
-         Whether alien intends to return to country whence he came after engaging temporarily in laboring pursuits in the United States
-         Length of time alien intends to remain in the United States
-         Whether alien intends to become a citizen of the United States
+24   Purpose of coming to United States
+       Whether alien intends to return to country whence he came after engaging temporarily in laboring pursuits in the United States
+       Length of time alien intends to remain in the United States
+       Whether alien intends to become a citizen of the United States
 
-25     Ever in prison or almshouse, or institution for care and treatment of the insane, or supported by charity? If so, which?
+25   Ever in prison or almshouse, or institution for care and treatment of the insane, or supported by charity? If so, which?
 
-26     Whether a Polygamist?
+26   Whether a Polygamist?
 
-27     Whether an Anarchist?
+27   Whether an Anarchist?
 
-28     Whether a person who believes in or advocates the overthrow by force or violence of the Government of the United States or all forms of law, etc. (See footnote for full text of this question)
+28   Whether a person who believes in or advocates the overthrow by force or violence of the Government of the United States or all forms of law, etc. (See footnote for full text of this question)
 
-29     Whether coming by reason of any offer, solicitation, promise, or agreement, expressed or implied, to labor in the United States
+29   Whether coming by reason of any offer, solicitation, promise, or agreement, expressed or implied, to labor in the United States
 
-30     Whether alien has been previously deported within one year
+30   Whether alien has been previously deported within one year
 
-31     Condition of health, mental and physical
+31   Condition of health, mental and physical
 
-32     Deformed or crippled. Nature, length of time, and cause
+32   Deformed or crippled. Nature, length of time, and cause
 
-33     Height
-         Feet
-         Inches
+33   Height
+       Feet
+       Inches
 
-34     Complexion
+34   Complexion
 
-35     Color of--
-         Hair
-         Eyes
+35   Color of--
+       Hair
+       Eyes
 
-36     Marks of identification
+36   Marks of identification
 
-List ____ ►on right hand page◄
+List ____  ►on right hand page◄
 
 
 ►30 numbered blank data lines◄

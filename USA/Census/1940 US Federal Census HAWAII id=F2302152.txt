@@ -1,7 +1,4 @@
 <FORM ID="F2302152" REV="1" NAME="1940 US Federal Census HAWAII">
-
-Previous ID="2023-02-15-02"
-
 <FORM_TEXT>
 
 Your report is required by Act of Congress. This Act also makes it unlawful for the Bureau to disclose any facts, including names or identity, from your census reports. Only sworn census employees will see your statements. Data collected will be used solely for preparing statistical information concerning the Nation's population, resources, and business activities. Your Census Reports
@@ -30,10 +27,10 @@ Enumerated by me on ____, 1940.  ____, Enumerator.
 
 SHEET No. ____
 
-
 ►Column Headings◄
 
      Line No.
+
 LOCATION
 1    Street, avenue, road, etc.
 2    House number (in cities and towns)
@@ -118,6 +115,7 @@ INCOME  (12 months ending Dec 31, 1929)
 27   Did this person receive income amounting to $50 or more from sources other than money wages or salary? (Yes or No)
 
 28   Number of farm report, if any, "in order of visitation"
+
      Line No.
 
 

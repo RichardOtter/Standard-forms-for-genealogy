@@ -1,7 +1,4 @@
 <FORM ID="F2303141" REV="1" NAME="1870 US Federal Census">
-
-Previous ID=none
-
 <FORM_TEXT>
 
 ►Hand pointing right symbol◄ Inquires numbered 7, 16, and 17 are not to be asked in respect to infants. Inquiries numbered 11, 12, 15, 16, 17, 19, and 20 are
@@ -13,7 +10,6 @@ Enumeration Dist. No. ____
 SCHEDULE 1. - Inhabitants in ____, in the County of ____, State
 of ____, enumerated by me on the ____ day of ____, 1870.
 Post Office: ____    ____, Ass't Marshal.
-
 
 ►Column Headings◄
 

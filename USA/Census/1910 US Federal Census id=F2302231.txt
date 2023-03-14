@@ -1,7 +1,4 @@
 <FORM ID="F2302231" REV="1" NAME="1910 US Federal Census">
-
-Previous ID="2023-02-23-01"
-
 <FORM_TEXT>
 
 DEPARTMENT OF COMMERCE AND LABOR - BUREAU OF THE CENSUS
@@ -50,7 +47,7 @@ PERSONAL DESCRIPTION.
 7    Age at last birthday.
 8    Whether single, married, widowed or divorced.
 9    Number of years of present marriage.
-Mother of how many children.
+  Mother of how many children.
 10   Number born.
 11   Number now living.
 
@@ -87,8 +84,11 @@ OWNERSHIP OF HOME.
 29   Number of farm schedule.
 
 30   Whether a survivor of the Union or Confederate Army or Navy.
+
 31   Whether blind (both eyes).
+
 32   Whether deaf and dumb.
+
      ►Line number◄
 
 

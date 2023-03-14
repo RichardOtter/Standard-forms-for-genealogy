@@ -21,53 +21,55 @@ List ____
 
 S.S. ____ sailing from ____, ____, 190____  Arriving at Port of ____, 190____
 
-1     No. on List.
+►Column Headings◄
 
-2     NAME IN FULL.
+1    No. on List.
 
-3     Age.
+2    NAME IN FULL.
+
+3    Age.
        Yrs.
        Mos.
 
-4     Sex.
+4    Sex.
 
-5     Married or Single.
+5    Married or Single.
 
-6     Calling or Occupation.
+6    Calling or Occupation.
 
-7     Able to-
+7    Able to-
        Read.
        Write.
 
-8     Nationality. (Country of last permanent residence.)
+8    Nationality. (Country of last permanent residence.)
 
-9     * Race or People.
+9    * Race or People.
 
-10    Last Residence. (Province, City, or Town.)
+10   Last Residence. (Province, City, or Town.)
 
-11    Final Destination. (State, City, or Town.)
+11   Final Destination. (State, City, or Town.)
 
-12    Whether having a ticket to such final destination.
+12   Whether having a ticket to such final destination.
 
-13    By whom was passage paid?
+13   By whom was passage paid?
 
-14    Whether in possession of $50, and if less, how much?
+14   Whether in possession of $50, and if less, how much?
 
-15    Whether ever before in the United States; and if so, when and where?
+15   Whether ever before in the United States; and if so, when and where?
 
-16    Whether going to join a relative or friend; and if so, what relative or friend and his name and complete address.
+16   Whether going to join a relative or friend; and if so, what relative or friend and his name and complete address.
 
-17    Ever in prison or almshouse, or institution for care and treatment of the insane, or supported by charity? If so, which?
+17   Ever in prison or almshouse, or institution for care and treatment of the insane, or supported by charity? If so, which?
 
-18    Whether a Polygamist.
+18   Whether a Polygamist.
 
-19    Whether an Anarchist.
+19   Whether an Anarchist.
 
-20    Whether coming by reason of any offer, solicitation, promise, or agreement, express or implied, to labor in the United States.
+20   Whether coming by reason of any offer, solicitation, promise, or agreement, express or implied, to labor in the United States.
 
-21    Condition of Health, Mental and Physical.
+21   Condition of Health, Mental and Physical.
 
-22    Deformed or Crippled. Nature, length of time, and cause.
+22   Deformed or Crippled. Nature, length of time, and cause.
 
 
 ►30 blank numbered data lines◄
