@@ -87,6 +87,42 @@ B   House #                  | 388 ►c◄        | 388 ►c◄        | 388 ►
 
 ===========================================DIV50==
 
+Codes:
+
+►X◄              informant (circled X)
+►d_'text'◄       ditto mark and implied text
+►c_'text'◄       continued and implied text
+►co_'text'◄      text which is crossed out
+►text◄           explanatory text not in original document
+►cm◄             check mark
+►b◄              blank
+►nl◄             new line
+►?◄              not legible
+►sic◄            transcribed as written, perhaps unexpected.
+►/◄              slash symbol in 1880 census means affirmative
+
+Alternate Text:
+►----------------------------◄
+text a
+►-------------OR-------------◄
+text b
+►----------------------------◄
+
+
+template for end of forms
+===========================================DIV50==
+Codes:
+
+See "_info.txt" file for the key to the meaning of ► ◄ codes.
+
+===========================================DIV50==
+Notes:
+
+===========================================DIV50==
+Examples:
+
+===========================================DIV50==
+
 
 
 

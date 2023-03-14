@@ -1,0 +1,127 @@
+<FORM ID="F2303141" REV="1" NAME="1870 US Federal Census">
+
+Previous ID=none
+
+<FORM_TEXT>
+
+►Hand pointing right symbol◄ Inquires numbered 7, 16, and 17 are not to be asked in respect to infants. Inquiries numbered 11, 12, 15, 16, 17, 19, and 20 are
+
+Page No. ____
+Supervisor's Dist. No. ____
+Enumeration Dist. No. ____
+
+SCHEDULE 1. - Inhabitants in ____, in the County of ____, State
+of ____, enumerated by me on the ____ day of ____, 1870.
+Post Office: ____    ____, Ass't Marshal.
+
+
+►Column Headings◄
+
+     ►Line number◄
+
+1    Dwelling houses numbered in the order of visitation.
+
+2    Families numbered in order of visitation.
+
+3    The name of each person whose place of abode on the first day of June 1870, was in this family.
+
+DESCRIPTION.
+4    Age at last birthday. If under 1 year, give months in fractions, thus: 3/12.
+5    Sex- Male, (M.), Female (F.)
+6    Color- White (W.), Black (B.), Mulatto (M.), Chinese (C.), Indian (I.)
+
+7    Profession, Occupation or Trade of each person, male or female.
+
+VALUE OF REAL ESTATE OWNED
+8    Value of Real Estate.
+9    Value of Personal Estate.
+
+10   Place of Birth, naming State or Territory of U.S.; or the Country, if of foreign birth.
+
+PARENTAGE.
+11   Father of foreign birth.
+12   Mother of foreign birth.
+
+13   If born within the year, state month (Jan,, Feb., &c.)
+
+14   If married within the year, state month (Jan,, Feb., &c.)
+
+15   Attended school within the Census year, /.
+
+EDUCATION.
+16   Cannot read.
+17   Cannot write.
+
+18   Whether deaf and dumb, blind, insane, or idiotic.
+
+CONSTITUTIONAL RELATIONS.
+19   Male Citizens of U.S. of 21 years of age and upwards.
+20   Male Citizens of U.S. of 21 years of age and upwards, whose right to vote is denied or abridged on other grounds than rebellion or other crime.
+
+     ►Line number◄
+
+
+►40 Blank Numbered Data Lines◄
+
+     No. of dwellings, ____            No. of white females, ____              No. of males, foreign born, ____
+►d_'No. of'◄ families, ____      ►d_'No. of'◄ colored males, ____  ►d_'No. of'◄ females, ►d_'foreign born'◄ ____
+►d_'No. of'◄ white males, ____ ►d_'No. of colored'◄ females, ____                       ►d_'No. of'◄ blind, ____
+
+No. of insane, ____
+
+</FORM_TEXT>
+
+===========================================DIV50==
+<FORM_DATA>
+
+Page No.                      |         |
+Supervisor's Dist. No.        |         |
+Enumeration Dist. No.         |         |
+Place                         |         |
+County                        |         |
+State                         |         |
+Day, month of June 1870       |         |
+Post Office                   |         |
+Ass't Marshal                 |         |
+
+    Line #                    |         |
+1   Dwelling S#               |         |
+2   Family S#                 |         |
+3   Name                      |         |
+4   Age                       |         |
+5   Sex (M/F)                 |         |
+6   Race                      |         |
+7   Occupation                |         |
+8   Value- Real estate        |         |
+9   Value- Personal estate    |         |
+10  Birth place               |         |
+11  Foreign birth- Father     |         |
+12  Foreign birth- Mother     |         |
+13  Month- birth              |         |
+14  Month- marriage           |         |
+15  Attended school           |         |
+16  Cannot- Read              |         |
+17  Cannot- Write             |         |
+18  Deaf, blind, etc.         |         |
+19  Male citz. 21             |         |
+20  Male citz. 21 vote right  |         |
+    Line #                    |         |
+
+</FORM_DATA>
+
+===========================================DIV50==
+Codes:
+
+See "_info.txt" file for the key to the meaning of ► ◄ codes.
+
+===========================================DIV50==
+Notes:
+
+===========================================DIV50==
+Examples:
+
+https://www.ancestry.com/discoveryui-content/view/23934206:7163
+https://www.familysearch.org/ark:/61903/1:1:M6K8-7BB
+
+===========================================DIV50==
+</FORM>

@@ -1,0 +1,159 @@
+<FORM ID="F2302262" REV="1" NAME="1900 US Federal Census HAWAII">
+
+Previous ID=="2023-02-26-02"
+
+<FORM_TEXT>
+
+7-300.
+
+Twelfth Census of the United States.
+CENSUS OF THE HAWAIIAN ISLANDS.
+SCHEDULE No. 1. - POPULATION
+
+          A  ►or B◄
+SHEET No. ____
+____ DISTRICT
+SPECIAL AGENT No. ____
+
+E. D. 69
+          A  ►or B◄
+SHEET No. ____
+
+INHABITANTS IN ____ District, Island of ____.
+Name of Institution ____
+
+Enumerated by me on the ____ day of June, 1900, ____, Special Agent.
+
+
+►Column Headings◄
+
+     ►Line number◄
+LOCATION.
+  IN CITIES.
+     Street.
+     House number.
+1    Number of dwelling house, in the order of visitation.
+2    Number of family, in the order of visitation.
+
+NAME
+3    of each person whose place of abode on June 1, 1900, was in this family.
+     Enter surname first, then the given name and middle initial, if any.
+     Include every person living on June 1, 1900. 
+     Omit children born since June 1, 1900.
+
+RELATION.
+4    Relationship of each person to the head of the family.
+
+PERSONAL DESCRIPTION.
+5    Race.
+6    Sex.
+  DATE OF BIRTH.
+7    Month.
+7    Year.
+8    Age at last birthday.
+9    Whether single, married, widowed, or divorced.
+10   Number of years married.
+11   Mother of how many children.
+12   Number of these children living.
+
+NATIVITY.
+Place of birth of each person and parents of each person enumerated. If born in the United
+States, give the state or territory; if of foreign birth, give the Country only.
+13   Place of birth of this Person.
+     ►empty column◄
+14   Place of birth of Father of this person.
+15   Place of birth of Mother of this person.
+
+CITIZENSHIP.
+16   Year of immigration to the Hawaiian Islands.
+17   Number of years in the Hawaiian Islands.
+18   Naturalized or denizen.
+     ►empty column◄
+
+OCCUPATION, TRADE, OR PROFESSION
+of each person TEN YEATS of age and over.
+19   Occupation
+20   Months not employed.
+
+EDUCATION.
+21   Attended school (in months).
+22   Can read.
+23   Can write.
+24   Can speak English.
+25   Can speak Hawaiian.
+
+OWNERSHIP OF HOME.
+26   Owned or rented.
+27   Owned free or mortgaged.
+28   Homestead lot, kuleana, or house.
+     ►Line number◄
+
+►25 Blank Data Lines; Sheet A: lines 1-25, Sheet B: lines 26-50◄
+
+</FORM_TEXT>
+
+===========================================DIV50==
+<FORM_DATA>
+
+Sheet No.                     |         |
+District                      |         |
+Special Agent #               |         |
+Sheet No.                     |         |
+District                      |         |
+Island                        |         |
+Institution                   |         |
+Date                          |         |
+Enumerator                    |         |
+
+    Line #                    |         |
+A   Street                    |         |
+B   House #                   |         |
+1   Dwelling S#               |         |
+2   Family S#                 |         |
+3   Name                      |         |
+4   Relationship              |         |
+5   Race                      |         |
+6   Sex (M/F)                 |         |
+7   Month of birth            |         |
+7   Year of birth             |         |
+8   Age                       |         |
+9   Marital status            |         |
+10  Marriage years            |         |
+11  Mother of # children      |         |
+12  Living children           |         |
+13  Person birth place        |         |
+14  Father birth place        |         |
+15  Mother birth place        |         |
+16  Immigration HI year       |         |
+17  # years in HI             |         |
+18  Naturalized or denizen    |         |
+19  Occupation                |         |
+20  # months out of job       |         |
+21  Attended school months    |         |
+22  Able to read ?            |         |
+23  Able to write ?           |         |
+24  Speak English             |         |
+25  Speak Hawaiian            |         |
+26  Own/rent (O/R)            |         |
+27  Free or mortgaged         |         |
+28  HomeLot, kuleana, house   |         |
+    Line #                    |         |
+
+</FORM_DATA>
+
+===========================================DIV50==
+Codes:
+
+See "_info.txt" file for the key to the meaning of ► ◄ codes.
+
+===========================================DIV50==
+Notes:
+
+===========================================DIV50==
+Examples:
+
+https://www.ancestry.com/discoveryui-content/view/74605957:7602
+
+===========================================DIV50==
+</FORM>
+

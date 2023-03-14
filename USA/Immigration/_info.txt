@@ -91,6 +91,14 @@ text a
 text b
 ►----------------------------◄
 
+
+
+template for end of forms
+===========================================DIV50==
+Codes:
+
+See "_info.txt" file for the key to the meaning of ► ◄ codes.
+
 ===========================================DIV50==
 Notes:
 
@@ -98,5 +106,4 @@ Notes:
 Examples:
 
 ===========================================DIV50==
-</FORM>
 

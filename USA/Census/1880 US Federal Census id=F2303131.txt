@@ -1,0 +1,147 @@
+<FORM ID="F2303131" REV="1" NAME="1880 US Federal Census">
+
+Previous ID="2023-03-13-01"
+
+<FORM_TEXT>
+
+[7-296.]
+►Page letter: A, B, C or D◄
+
+Page No. ____
+Supervisor's Dist. No. ____
+Enumeration Dist. No. ____
+
+Note A.- The Census Year begins June 1, 1879, and ends May 31, 1880.
+Note B.- All persons will be included in the Enumeration who were living on the 1st day of June, 1880. No others will. Children BORN SINCE
+June 1, 1880, will be OMITTED. Members of families who have DIED SINCE June 1, 1880, will be INCLUDED.
+Note C.- Questions Nos. 13, 14, 22 and 23 are not to be asked in respect to persons under 10 years of age.
+
+SCHEDULE 1. - Inhabitants in ____, in the County of ____, State of ____
+enumerated by me on the ____ day of June, 1880.
+____ Enumerator.
+
+
+►Column Headings◄
+
+     ►Line number◄
+
+  IN CITIES.
+     Name of Street.
+     House number.
+
+1    Dwelling houses numbered in order of visitation.
+2    Families numbered in order of visitation.
+3    The Name of each person whose place of abode on 1st day of June, 1880, was in this family.
+
+Personal Description.
+4    Color- White, W,; Black, B; Mulatto, Mu.; Chinese, C.; Indian, I.
+5    Sex- Male, M,; Female, F.
+6    Age at last birthday prior to June 1,1880. If under 1 year, give months in fractions, thus: 3/12.
+
+
+7    If born within the Census year, give the month.
+8    Relationship of each person to the head of this family- whether wife, son, daughter, servant, boarder, or other.
+
+Civil Condition.
+9    Single, /.
+10   Married, /.
+11   Widowed, /. Divorced, D.
+
+12   Married during Census year, /.
+
+Occupation.
+13   Profession, Occupation or Trade of each person, male or female.
+14   Number of months this person has been unemployed during the Census year.
+
+Health.
+15   Is the person [on the day of the Enumerator's visit] sick or temporarily disabled, so as to be unable to attend to ordinary business or duties?
+     If so, what is the sickness or disability?
+16   Blind, /.
+17   Deaf and Dumb, /.
+18   Idiotic, /.
+19   Insane, /.
+20   Maimed, Crippled, Bedridden, or otherwise disabled, /.
+
+Education.
+21   Attended school within the Census year, /.
+22   Cannot read, /.
+23   Cannot write, /.
+
+Nativity.
+24   Place of Birth of this person, naming State or Territory of United States, or the Country, if of foreign birth.
+25   Place of Birth of the FATHER of this person, naming the State or Territory of United States, or the Country, if of foreign birth.
+26   Place of Birth of the MOTHER of this person, naming the State or Territory of United States, or the Country, if of foreign birth.
+
+     ►Line number◄
+
+
+►50 Blank Numbered Data Lines◄
+
+Note D.- In making entries in columns 9, 10, 11, 12,16 and 23, an affirmative mark only will be used- thus /., except in the case of divorced persons, column 11, where the letter "D" is to be used.
+Note E.- Question No, 12 will only be asked in cases where an affirmative answer has been given either to question 10 or to question 11.
+Note F.- Question No, 14 will only be asked in cases where a gainful occupation has been reported in column 13.
+Note G.- In column 7 an abbreviation in the month may be used, as Jan., Apr., Dec.
+
+</FORM_TEXT>
+
+===========================================DIV50==
+<FORM_DATA>
+
+Page No.                      |         |
+Supervisor's Dist. No.        |         |
+Enumeration Dist. No.         |         |
+Place                         |         |
+County                        |         |
+State                         |         |
+Day of June 1880              |         |
+Enumerator                    |         |
+
+    Line #                    |         |
+A   Street                    |         |
+B   House #                   |         |
+1   Dwelling S#               |         |
+2   Family S#                 |         |
+3   Name                      |         |
+4   Race                      |         |
+5   Sex (M/F)                 |         |
+8   Age                       |         |
+7   Month                     |         |
+9   Civil- Single             |         |
+10  Civil- Married            |         |
+11  Civil- Wid, Div           |         |
+12  Married in last year      |         |
+13  Occupation                |         |
+14  # months out of job       |         |
+15  Sick, disabled            |         |
+16  Blind                     |         |
+17  Deaf                      |         |
+18  Idiotic                   |         |
+19  Insane                    |         |
+20  Disabled                  |         |
+21  Attended school           |         |
+22  Cannot- Read              |         |
+23  Cannot- Write             |         |
+24  Birth place- Person       |         |
+25  Birth place- Father       |         |
+26  Birth place- Mother       |         |
+    Line #                    |         |
+
+</FORM_DATA>
+
+===========================================DIV50==
+Codes:
+
+See "_info.txt" file for the key to the meaning of ► ◄ codes.
+
+===========================================DIV50==
+Notes:
+
+===========================================DIV50==
+Examples:
+
+https://www.ancestry.com/discoveryui-content/view/2967893:6742
+https://www.ancestry.com/discoveryui-content/view/20320820:6742
+https://www.ancestry.com/discoveryui-content/view/6413727:6742
+
+===========================================DIV50==
+</FORM>
