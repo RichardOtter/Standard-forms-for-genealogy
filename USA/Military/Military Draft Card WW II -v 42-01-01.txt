@@ -1,0 +1,173 @@
+<FORM ID="F2302172" REV="1" NAME="Military Draft Card WW II -v 42-01-01">
+<FORM_TEXT>
+
+►Page 1◄
+REGISTRATION CARD-(Men born on or after February 17, 1897 and on or before December 31, 1921)
+
+Serial Number
+    T ____
+
+ORDER NUMBER
+   T ____
+
+
+1.  Name (Print)
+    ____
+  (First)  Middle)  (Last)
+
+
+2.  Place of Residence (Print) 
+      ____
+  (Number and street)  (Town, township, village, or city)  (County)  (State)
+
+  (THE PLACE OF RESIDENCE GIVEN ON THE LINE ABOVE WILL DETERMINE LOCAL BOARD
+  JURISDICTION; LINE 2 OF REGISTRATION CERTIFICATE WILL BE IDENTICAL)
+
+
+3.  Mailing Address
+      ____
+  (Mailing address if other that place indicated on line 2. If same insert word same)
+
+
+4.  Telephone 
+    ____
+    ____
+  (Exchange)  (Number)
+
+
+5.  Age in Years
+    ____
+    Date of Birth
+    ____
+  (Mo.) (Day) (Yr.)
+
+
+6.  Place of Birth
+    ____
+  (Town or county)
+    ____
+  (State or country)
+
+
+7.  Name and Address of Person Who Will Always Know Your Address
+    ____
+
+
+8.  Employer's Name and Address
+    ____
+
+
+9.  Place of Employment or Business
+    ____
+  (Number and street or R.F.D number)  (Town)  (County)  (State)
+
+
+I Affirm That I Have Verified Above Answers and That They Are True.
+    ____
+  (Registrant's signature)  
+
+
+D.S.S. Form 1
+(Revised 1-1-42)
+over   GPO   16-21630-1
+
+►Page 2◄
+REGISTRAR'S REPORT
+
+DESCRIPTION OF REGISTRANT
+
+RACE
+White     ____
+Negro     ____
+Oriental  ____
+Indian    ____
+Filipino  ____
+
+HEIGHT (Approx.)
+    ____
+
+WEIGHT (Approx.)
+    ____
+
+EYES
+Blue   ____
+Gray   ____
+Hazel  ____
+Brown  ____
+Black  ____
+
+HAIR
+Blonde ____
+Red    ____
+Brown  ____
+Black  ____
+Gray   ____
+Bald   ____
+
+COMPLEXION
+Sallow       ____
+Light        ____
+Ruddy        ____
+Dark         ____
+Freckled     ____
+Light brown  ____
+Dark brown   ____
+Black        ____
+
+
+Other obvious physical characteristics that will aid in identification ____
+    ____
+    ____
+
+
+I certify that my answers are true; that the person registered has read or has had
+read to him his own answers; that I have witnessed his signature or mark and that
+all of his answers of which I have knowledge are true; except as follows: 
+    ____
+    ____
+
+    ____
+  (Signature of registrar)
+
+
+Registrar for Local Board    ____
+  (Number)  (City or county)  (State)
+
+
+Date of registration    ____
+
+►printed box to contain stamp◄
+  (STAMP OF LOCAL BOARD)
+  (The stamp of the Local Board having jurisdiction of the registrant
+  shall be placed in the above space)
+
+
+U.S. Government Printing Office  16-21630
+
+</FORM_TEXT>
+
+===========================================DIV50==
+<FORM_DATA>
+
+</FORM_DATA>
+
+===========================================DIV50==
+Codes:
+
+See "_info.txt" file for the key to the meaning of ► ◄ codes.
+
+===========================================DIV50==
+Notes:
+
+D.S.S. Form 1  (Revised 1-1-42)
+Case of preprinted text is not preserved. Most of it is large/small upper case.
+
+===========================================DIV50==
+Examples:
+
+Hohei Asano -b1900
+
+===========================================DIV50==
+
+</FORM>
+

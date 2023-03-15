@@ -1,0 +1,178 @@
+<FORM ID="F2302171" REV="1" NAME="Military Draft Card WW II -v 0">
+<FORM_TEXT>
+
+►Page 1◄
+
+Serial Number
+    ____
+
+ORDER NUMBER
+    ____
+
+
+1.  Name (Print)
+    ____
+  (First)  Middle)  (Last)
+
+
+2.  Address (Print) 
+      ____
+    (Number and street or R.F.D number)  (Town)  (County)  (State)
+
+
+3.  Telephone 
+    ____
+    ____
+  (Exchange)  (Number)
+
+
+4.  Age in Years
+    ____
+    Date of Birth
+    ____
+  (Mo.) (Day) (Yr.)
+
+
+5.  Place of Birth
+    ____
+  (Town or county)
+    ____
+  (State or country)
+
+
+6.  Country of Citizenship
+    ____
+
+
+7.  Name of Person Who Will Always Know Your Address
+    ____
+  (Mr., Mrs.,Miss)   (First)  (Middle)  (Last)
+
+
+8.  Relationship of That Person
+    ____
+
+
+9.  Address of That Person
+    ____
+  (Number and street or R.F.D number)  (Town)  (County)  (State)
+
+
+10.  Employer's Name
+    ____
+
+
+11.  Place of Employment or Business
+    ____
+  (Number and street or R.F.D number)  (Town)  (County)  (State)
+
+
+I Affirm That I Have Verified Above Answers And that they Are True.
+    ____
+  (Registrant's signature)  
+
+
+REGISTRATION CARD
+D.S.S. Form 1     16-17105
+
+(over)
+
+►Page 2◄
+REGISTRAR'S REPORT
+
+DESCRIPTION OF REGISTRANT
+
+RACE
+White     ____
+Negro     ____
+Oriental  ____
+Indian    ____
+Filipino  ____
+
+HEIGHT (Approx.)
+    ____
+
+WEIGHT (Approx.)
+    ____
+
+EYES
+Blue   ____
+Gray   ____
+Hazel  ____
+Brown  ____
+Black  ____
+
+HAIR
+Blonde ____
+Red    ____
+Brown  ____
+Black  ____
+Gray   ____
+Bald   ____
+
+COMPLEXION
+Sallow       ____
+Light        ____
+Ruddy        ____
+Dark         ____
+Freckled     ____
+Light brown  ____
+Dark brown   ____
+Black        ____
+
+
+Other obvious physical characteristics that will aid in identification ____
+    ____
+    ____
+
+
+I certify that my answers are true; that the person registered has read or has had
+read to him his own answers; that I have witnessed his signature or mark and that
+all of his answers of which I have knowledge are true; except as follows: 
+    ____
+    ____
+
+    ____
+(Signature of registrar)
+
+
+Registrar for    ____
+  (Precinct)  (Ward)  (City or county)  (State)
+
+
+Date of registration        ____
+
+►printed box to contain stamp◄
+(STAMP OF LOCAL BOARD)
+(The stamp of the Local Board having jurisdiction of the registrant
+  shall be placed in the above space)
+
+
+</FORM_TEXT>
+
+===========================================DIV50==
+<FORM_DATA>
+
+</FORM_DATA>
+
+===========================================DIV50==
+Codes:
+
+See "_info.txt" file for the key to the meaning of ► ◄ codes.
+
+===========================================DIV50==
+Notes:
+
+D.S.S. Form 1
+Case of preprinted text is not preserved. Most of it is large/small upper case.
+
+===========================================DIV50==
+Examples:
+
+Wallace Takeo Aoki -b1911
+Alfred Bernal -b1914
+
+===========================================DIV50==
+
+</FORM>
+
