@@ -1,0 +1,51 @@
+<FORM ID="F2303158" REV="1" NAME="Erklärung">
+<FORM_TEXT>
+
+Erklärung.
+
+Die Gemeindeverwaltung von         
+hat unterm heutigen beschlußmäßig ausgesprochen:
+1) Der          
+geboren am               in             
+f. Bezirksamts         wohnhaft in         
+besißt in der Gemeinde       durch *)
+        das Heimatrecht;
+2) gegen Austellung des distriktspolizeilichen Zeugnisses zur Bereheilchung des
+genannten                mit der
+                
+geboren den            in       
+f. Bezirksamts         wohnhaft in         
+und beheimatet in           wird kein im
+Art. 32 des Gesetzes vom 16. April 1868 über Heimat, Berehelichung und Auf=
+enthalt in der Fassung vom Jahre 1899 begründetes Einspruchsrecht geltend
+gemacht.
+      . den         190  
+Die Gemeindeverwaltung.
+
+______________
+*)Abstammung oder Erwerbung. 
+
+</FORM_TEXT>
+
+===========================================DIV50==
+<FORM_DATA>
+
+
+</FORM_DATA>
+
+===========================================DIV50==
+Codes:
+
+See "_info.txt" file for the key to the meaning of ► ◄ codes.
+
+===========================================DIV50==
+Notes:
+
+Marriage Notice
+
+===========================================DIV50==
+Examples:
+
+===========================================DIV50==
+</FORM>
+

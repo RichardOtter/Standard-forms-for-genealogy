@@ -1,0 +1,114 @@
+<FORM ID="F2303165" REV="1" NAME="Protokoll Type 2">
+<FORM_TEXT>
+
+►Page 1◄
+
+Protokoll.
+
+In Gegenwart
+
+des           
+des           
+als Protokollführers.
+
+Geschehen
+          den    ten      18  
+
+Es findet sich heute ein
+Vor= und Zuname des Bräutigams:    Herr           
+Religion:              
+Ort, Tag, Monat und Jahr der Geburt:    geboren zu           
+Civilstand  (ob ledig, verwittwet oder geschieden):              
+Stand oder Gewerbe:              
+Wohnort:    wohnhaft zu           
+Heimat:    Heimathberechtigt in              
+Sohn des*)    Sohn des
+Vor= und Zuname des Vaters:              
+Stand:              
+Wohnort oder Sterbeort:              
+und dessen Ehefrau (Wittwe):    und dessen
+Angabe, ob am Leben oder verstorben:              
+Vor= und Zuname:              
+Wohnort, wenn Wittwe:              
+
+und erklärt, daß er sich mit
+mit (Fräulein, Frau):    mit
+Vor= und Zuname der Braut:              
+Religion:              .
+Ort, Tag, Monat und Jahr der Geburt:    geboren zu           
+–––––––––––
+*) Bei unehelichen Kindern ist Vor= und Zuname, Stand= und Wohn=, bezw. Sterbeort der Mutter anzugeben. 
+
+►Page 2◄
+Civilstand (ob ledig, verwittwet oder geschieden):        
+Stand oder Gewerbe:           
+bisheriger Wohnort:    bisher wohnhaft in      
+bisheriger Heinath:    bisher Heimathberechtigt zu      
+Tochter des *)    Tochter des
+Vor= und Zuname des Vaters:           
+Stand:          
+Wohnort oder Sterbeort:            
+und dessen Ehefrau (Wittwe):    und dessen        
+Angabe, ob am Leben oder verstorben:            
+Vor= und Zuname:            
+Wohnort, wenn Wittwe:             
+
+zu verehelichen beabsichtige, und stellt die Sitte, gegenwärtiges Gesuch zu prokla-
+miren und ihm das benöthigte Verehelichungs-Zeugniß durch die Distriktspolizei-
+Vehörde geneigtest auszustellen.
+Zur Erfüllung der gesetzlichen Voraussetzung erklärt derselbe und übergibt folgende Nachweise:
+
+A: für seine Person:
+1.    Nachweis, daß wegen der Militarpflicht der Ver
+ehelichung kein hinderniß entgegensteht.              
+
+2.    Dienstliche Bewilligung bei Beamten.            
+
+3.    Bei Witwern Nachtweis über die erfolgte gesetzliche
+Abfindung der allenfalls vorhandenen Kinder aus
+der vorigen Ehe und Angabe der Zeit des Todes
+der früheren Ehefrau.                
+
+4.    Bei geschiedenen Personen Nachweis der erfolgten
+Ehetrennung durch beglaubigte Abschrift des richter=
+lichen Endurtheiles.               
+
+5.    Erklärung ob und wie verwandt mit seiner Ver=
+lobten und daß er zu derselben nicht im Verhältnisse
+eines Vormundes steht.             
+
+6.    Einwilligung der Eltern oder des Vormundes, 
+(Biesetzung der Unterschrift der betheiligten Personen mit
+dem Beisatz „als Vater” „als Vormund” genügt.)
+insoferne der Bräutigam daß 25. Lebensjahr noch
+nicht zurückgelegt hat.                  
+
+–––––––––
+*) Bei unehelichen Kindern ist Vor= und Zuname, Stand= und Wohn=, bezw. Sterbeort der Mutter anzugeben. 
+
+►Page 3◄
+
+►copy from 7004 p 2R if the first two pages match this form◄
+
+
+</FORM_TEXT>
+
+===========================================DIV50==
+<FORM_DATA>
+
+
+</FORM_DATA>
+
+===========================================DIV50==
+Codes:
+
+See "_info.txt" file for the key to the meaning of ► ◄ codes.
+
+===========================================DIV50==
+Notes:
+
+===========================================DIV50==
+Examples:
+
+===========================================DIV50==
+</FORM>

@@ -1,0 +1,58 @@
+<FORM ID="F2303151" REV="1" NAME="Bekanntmachung Type 1">
+<FORM_TEXT>
+
+Bekanntmachung
+Vor= und Zuname des Bräutigams:	Herr ____
+ob ledig oder verwittwet ____
+Stand  ____
+Religion  ____
+Wohnort  ____
+Heimath  ____
+geboren zu  ____
+Sohn des (Name und Stand der Eltern)  ____
+beabsichtigt mit Fräulein (oder Frau)  ____
+Vor= und Zuname der Braut  ____
+ob ledig oder verwittwet  ____
+Religion  ____
+bisheriger Wohnort  ____
+    ""         Heimath  ____
+geboren zu  ____
+Tochter des  ____
+Name und Stand des Vaters und der Mutter
+  ____
+
+eine Ehe zu Schliessen.
+
+Personen, welche gegen Schliesung dieser Ehe auf Grund civilrechlicher Bestim=
+mungen Einspruch erheben wollen, haben Ihren Einspruch binnen 10 Tagen, von der Anheftung dieser
+Bekanntmachung an gerechnet, bei der unterzeichteten Gemeinde-Aussschusse oder bei dem f. Bezirts=
+Amte ____ gelend zu machen.
+____ den ____18____
+II. Wiedervorlage nach 10 Tagen mit dieser attestirten Bekanntmachung.
+G. m. o.
+Commission.
+
+►8 rows of fine print◄
+
+
+</FORM_TEXT>
+
+===========================================DIV50==
+<FORM_DATA>
+
+
+</FORM_DATA>
+
+===========================================DIV50==
+Codes:
+
+See "_info.txt" file for the key to the meaning of ► ◄ codes.
+
+===========================================DIV50==
+Notes:
+
+===========================================DIV50==
+Examples:
+
+===========================================DIV50==
+</FORM>

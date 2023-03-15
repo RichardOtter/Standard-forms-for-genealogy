@@ -1,0 +1,62 @@
+<FORM ID="F2303161" REV="1" NAME="Familienstands-Zeugniß Type 1">
+<FORM_TEXT>
+
+I
+Familienstands-Zeugniß.
+Von der unterfertigten Gemeindeverwaltung wird d______
+Vor= und Zuname:                     ______
+
+Stand:                               ______
+Wohnort:                             ______
+geboren zu:                          ______
+Tochter des                          ______ am ______
+
+hierdurch be Speinigt, daß sie, sowie ihr ______ Kind
+Vor= und Zuname:                     ______
+Alter:                               ______
+
+in der Gemeinde
+                                     ______
+
+heimathberechigt in.                 ______
+   Zugleich wird bestätigt, daß dieselbe mit ihrem Bräutigam ____ in
+seinem der im § 33 und § 37 des Reichßcivilgesetzes bezeichneten Verhältnisse steht.
+
+______ den ______ ten ______ 18______
+
+
+marital status certificate
+
+Die Gemeindeverwaltung    ____
+
+
+Franz Buttner's Verlag, Gerolzhofen  ab Form. 69.
+
+
+</FORM_TEXT>
+
+===========================================DIV50==
+<FORM_DATA>
+
+
+</FORM_DATA>
+
+===========================================DIV50==
+Codes:
+
+See "_info.txt" file for the key to the meaning of ► ◄ codes.
+
+===========================================DIV50==
+Notes:
+
+hereby confirms that she, as well as her ____ child
+
+===========================================DIV50==
+Examples:
+
+Gerolzhofen MR 8211
+https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS59-F3M7-N?i=263&cat=20571
+Maier    Nikolaus    Volkach        1883
+
+===========================================DIV50==
+</FORM>

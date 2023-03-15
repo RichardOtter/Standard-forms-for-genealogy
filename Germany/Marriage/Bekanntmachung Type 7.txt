@@ -1,0 +1,69 @@
+﻿<FORM ID="F2303157" REV="1" NAME="Bekanntmachung Type 7">
+<FORM_TEXT>
+
+Bekanntmachung.                        Formular V zu Art. 35
+
+Vor= und Zuname des Bräutigams      ______
+ob ledig oder verwittwet            ______
+Stand                               ______
+Religion                            ______
+Wohnort                             ______
+Heimat                              ______
+geboren zu                          ______
+Sohn des                            ______
+und der                             ______
+
+        beabsichtigt mit
+
+Vor und Zuname der Braut            ______
+ob ledig oder verwittwet            ______
+Religion                            ______
+bisheriger Wohnort                  ______
+bisherige heimat                    ______
+geboren zu                          ______
+Tochter des                         ______
+und der                             ______
+
+        eine Ehe zu schließen.
+
+Personen, welche gegen Schließung dieser Ehe auf Grund civilrechtlicher Bestimmungen 
+Einspruch erheben wollen, haben ihren Einspruch binnen 10 Tagen, von der Anheftung dieser Be=
+kanntmachung an gerechnet, bei der unterzeichneten Lokalbehörde, oder bei dem königlichen Bezirksamte
+______ geltend zu machen.
+
+______ den ______ ten ______ 18______
+
+
+Angeheftet    am ______ 18______
+Abgenommen    am ______ 18______
+
+Formular Nr. 09
+Carl Scheiner's Bertag, Würzburg
+
+
+</FORM_TEXT>
+
+===========================================DIV50==
+<FORM_DATA>
+
+
+</FORM_DATA>
+
+===========================================DIV50==
+Codes:
+
+See "_info.txt" file for the key to the meaning of ► ◄ codes.
+
+===========================================DIV50==
+Notes:
+
+Marriage Notice
+
+===========================================DIV50==
+Examples:
+
+Gerolzhofen SAW 8211  p1
+https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS59-F377-S?i=261&cat=20571
+
+===========================================DIV50==
+</FORM>

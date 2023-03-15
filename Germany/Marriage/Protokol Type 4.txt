@@ -1,0 +1,88 @@
+<FORM ID="F2303167" REV="1" NAME="Protokoll Type 4">
+<FORM_TEXT>
+
+►Page 1◄
+
+______ den ______ ten ______ 18 ______
+
+Protokoll
+
+im Betreiff der Verehelichung des ______
+              ______
+
+              ______
+
+bittet um Zustellung eines Verehelichungs=Zeugnisses
+nach § 33 des Gesetzes vom 16. April 1868, bean=
+tragt zu diesem Behufe die Aufnahme deines Besuches
+durch die Vokalbehörbe nach  Ziffer 16 der hohen
+Ministerial=Entschliesung vom 20. Juni 1868 (Nr.=
+Amtsbl. Nr. 90) und die Ausfertigung der Erklärung
+über das gemeindliche Einspruchsrecht aus Grund
+Artikel 36 und 37 des Gesetzes und gibt derselbe
+unter Vorlage der Nachweise über die persönlichen
+Verhältnisse an:
+
+     a) bezüglich seiner Person
+Alter ______ geboren am              ______
+zu                                   ______
+Königl. Bezirtsamts                  ______
+heimatlich zu                        ______
+wohnhaft zu                          ______
+Religion                             ______
+Stand                                ______
+Sohn des                             ______
+                                     ______
+zu                                   ______
+Königl. Bezirtsamts                  ______
+Militärpflicht erfüllt               ______
+                                     ______
+
+Formular Nr. 100
+Carl Scheiner's Verlag, Würzburg.
+
+►Page 2◄
+
+   b) bezüglich seiner Braut Namens  ______
+Alter ______ geboren am              ______
+zu                                   ______
+königl. Bezirkstamts                 ______
+heimath                              ______
+wohhaft seither in                   ______
+Religion                             ______
+Stand                                ______
+Tochter des                          ______
+                                     ______
+zu                                   ______
+königl. Bezirtsamts                  ______
+
+Ferner gibt Gesuchsteller an, daß
+
+</FORM_TEXT>
+
+===========================================DIV50==
+<FORM_DATA>
+
+
+</FORM_DATA>
+
+===========================================DIV50==
+Codes:
+
+See "_info.txt" file for the key to the meaning of ► ◄ codes.
+
+===========================================DIV50==
+Notes:
+
+===========================================DIV50==
+Examples:
+
+Nicholas Maier & Katharina Duerr
+8211-02 DGS-008256711 img-263 .jpg        RIGHT SIDE = PAGE 1
+https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS59-F373-H?i=262&cat=20571
+
+8211-03 DGS-008256711 img-264 .jpg        LEFT SIDE = PAGE 2
+https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS59-F3M7-N?i=263&cat=20571
+
+===========================================DIV50==
+</FORM>

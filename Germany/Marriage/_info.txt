@@ -1,0 +1,106 @@
+﻿Standard forms encountered while transcribing
+German civil marriage records
+
+Template:
+
+Form
+   still deciding on best way to format Forms
+    probably best to avoid Tab chars
+    ignore columns
+    be sure characters used for form blanks start and end are searchable
+
+
+Where used
+
+
+
+
+Lohr marriage records
+
+
+___filled in text___	when text is entered
+______     shown not filled in
+
+Preserve space chars in original.
+
+
+ 
+Glossary
+Abbüsung	expiration
+Abfindung 	settlement
+Abgenommen	taken down (as in a notice is taken down after posting)
+Ablebens	death, decease
+Abschrift	transcript, duplicate
+allenfalls 	if need be, possibly
+angaben	state, specify, declare
+Angabe	declaration
+Anheftung	posting (as in post a notice)
+Aufschlüss	information
+Aussschusse 	panel, committee
+ausstellen	execute a document
+beabsichtigen	intend
+Beamten	officer
+beglaubigen	certify, confirm
+Beifaße
+Beisetzung 	funeral
+Bekanntmachung	notice, proclamation
+benötigte	required
+betheiligten	have an interest in, a share in
+Bewilligung 	license, permission
+Bezüglich	relating to
+Beisetzung 	funeral
+bestätigen	confirm, attest, certify
+binnen	within
+Bräutigams	bridegroom
+Curatel 	probation
+dienstliche	official
+Ehe	marriage
+Ehefrau	married woman
+Ehehindernisse	impediment to marriage
+Ehetrennung	judicial separation
+Einspruch	objection
+Einwilligung 	consent
+Endurt(h)eiles	final decision
+entgegen stehen	stand in the way of
+erfolgen	ensue, result
+Erfüllung	compliance
+Erklärrung	notice
+Ert(h)eilung 	granting
+folgende	following
+gegenwärtig	present
+geltend zu machen	make valid
+geneigten	good will, well disposed
+Geschehen	executed (as in a contract is executed at a specific time)
+gesetzlichen 	statutory
+Gesuch	(formal) request, petition
+Gewerbe	profession or trade
+Grund	grounds
+Heimathberechtigt 	authorized home
+hinderniß 	impediment or hindrance, obstacle
+In Gegenwart	in witness
+insoferne 	in so far as
+Militarpflicht 	compulsory military service
+Nachweise	proof, evidence, certificate, inventory
+obwalten	exist
+Protokollführer	secretary or court clerk
+richterlich	judicial
+schließung	contract (as in marriage contract)
+Sitte	custom
+Stand	occupation
+Trennung	separation
+übergeben	submit a matter to the court, hand over 
+Unterschrift	signature
+Vehörde	examination or interrogation
+Verhältnisse	condition, status
+Verlobten	engaged to be married
+Verstimmung	disagreement
+verwandt	related
+Voraussetzung	prerequisite (die Voraussetzung erfüllen- meet the requirements)
+vorhandenen	present, at hand
+vorig	previous
+Vormund	guardian
+vorstehende	above, preceding, foregoing, aforesaid
+wegen	because of
+Witwer	Widower
+zurüdgelegen	lay aside, completed, to reach
+

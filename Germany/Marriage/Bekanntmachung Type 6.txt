@@ -1,0 +1,63 @@
+<FORM ID="F2303156" REV="1" NAME="Bekanntmachung Type 6">
+<FORM_TEXT>
+
+Bekanntmachung.
+
+Vor= und Zuname des Bräutigams  Herr         ____
+ob ledig oder verwittwet                     ____
+Stand                                        ____
+Religion                                     ____
+Wohnort                                      ____
+Heimath                                      ____
+geboren zu                                   ____.
+Sohn des (Name und Stand der Eltern)         ____
+beabsichtigt mit Fräulein (oder Frau ) Vor und Zuname der Braut     ____
+ob ledig oder verwittwet                    ____
+Religion                                    ____
+bisheriger Wohnort                          ____
+" Heimats                                   ____
+geboren zu                                  ____
+Tochter des  Name und Stand des Vaters und der Mutter          ____
+eine Ehe zu schliessen.
+
+Personen, welche gegen Schliesung dieser Ehe auf Grund zivilrechtlicher Bestim
+mungen 
+Einspruch erheben wollen, haben ihren Einspruch binnen 10 Tagen, von der Anheftung dieser
+Bekanntmachung 
+an gerechnet, bie der unterzeichneten Geneinde-Ausschusse oder bei dem k.Bezirksamte:
+geltend zu machen.
+
+       den ____ten ____ 18____
+Der Gemeinde-Ausschluß.
+
+Angeheftet am   ____ 18____
+Ubgenommen an   ____ 18____
+
+Die unterzeichnete Gemeinde-Verwaltung  bestätigt, daß die vorstehende Bekanntmachung  10 Tage in der Gemeinde öffentlich angeheftet war.
+Zugleich wird bemerrt, daß sein Einspruch bei der unterzeichneten Gemeinde=Verwaltung  erhoben wurde.
+
+        den  ____ten ____ 18____
+Der Gemeinde-Ausschlus
+
+
+</FORM_TEXT>
+
+===========================================DIV50==
+<FORM_DATA>
+
+
+</FORM_DATA>
+
+===========================================DIV50==
+Codes:
+
+See "_info.txt" file for the key to the meaning of ► ◄ codes.
+
+===========================================DIV50==
+Notes:
+
+===========================================DIV50==
+Examples:
+
+===========================================DIV50==
+</FORM>

@@ -1,0 +1,58 @@
+<FORM ID="F2303163" REV="1" NAME="Mitteilung Type 2">
+<FORM_TEXT>
+
+Mitteilung
+
+des Standesbeamten über die beabsichtigte Eheschließung eines in den Landesteilen rechts des Rheines
+beheimateten Mannes wegen Ausstellung des Verehelichungszeugnisses.
+
+Der unterzeichnete Standesbeamte teilt behufs weiterer Behandlung im Sinne des Art. 31 ff. des Gesetzes über
+Heimat, Verehelichung und Aufenthalt vom 16. April 1868 in der Tassung vom Jahre 1899 mit, daß
+
+Vor= und Zuname des Bräutigams:    Herr         
+Religion:          
+Ort, Tag, Monat und Jahr der Geburt:    geboren zu        
+Civilstand (ob ledig, verwitiwet oder geschieden):         
+Stand oder Gewerbe:          
+Wohnort:    wohnshaft zu        
+Heimat:    heimatberechtigt in       
+Vor und Zuname der Braut:           
+Religion:          
+Ort, Tag, Monat und Jahr der Geburt:    geboren zu       
+Civilstand (ob ledig, verwitiwet oder geschieden):         
+Stand oder Gewerbe:          
+bisheriger Wohnort:    bisher wohnshaft in       
+bisherige Heimat:    heimatberechtigt zu         
+beabsichtigen, die Ehe mit einander zu schließen
+
+Das vom Bräutigam dahier vorgelegte Gesuch um Ausstellung des distriktspolizeisichen Verehlichungszeugnisses
+nebst den Geimatscheimen und Geburtszeugnissen der Verlobten (eventuell und der Erklärung der Geimatgemeinde nach
+Art. 33 Abj. 1 des Geimatgeießcs) rufen an,
+
+     , den       19  
+Der Standesbeamte.
+             
+
+das k. Bezirksamt
+
+</FORM_TEXT>
+
+===========================================DIV50==
+<FORM_DATA>
+
+
+</FORM_DATA>
+
+===========================================DIV50==
+Codes:
+
+See "_info.txt" file for the key to the meaning of ► ◄ codes.
+
+===========================================DIV50==
+Notes:
+
+===========================================DIV50==
+Examples:
+
+===========================================DIV50==
+</FORM>

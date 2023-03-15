@@ -1,0 +1,60 @@
+<FORM ID="F2303166" REV="1" NAME="Protokoll Type 3">
+<FORM_TEXT>
+
+Protokoll.
+
+In Gegenwart
+
+des           
+des           
+als Protokollführers.
+
+Geschehen
+          den    ten      18  
+
+Es findet sich heute ein
+Vor= und Zuname des Bräutigams:              
+Ledig oder verwittwet               
+Religion:              
+Stand:              
+Wohnort:              
+Heimath:              
+geboren zu           
+Sohn des:              
+und der:                  genorne           
+Stand der Eltern:              
+wohnhaft zu:              
+
+und erklärt, daß er sich mit
+Vor= und Zuname der Braut:              
+Ledig oder verwittwet               
+Religion:              .
+bisheriger Wohnort:              
+bisherige Heimath:              
+geboren zu           
+Tocheter des:            
+und der:           
+Stand der Eltern:              
+wohnhaft zu:              
+
+</FORM_TEXT>
+
+===========================================DIV50==
+<FORM_DATA>
+
+
+</FORM_DATA>
+
+===========================================DIV50==
+Codes:
+
+See "_info.txt" file for the key to the meaning of ► ◄ codes.
+
+===========================================DIV50==
+Notes:
+
+===========================================DIV50==
+Examples:
+
+===========================================DIV50==
+</FORM>

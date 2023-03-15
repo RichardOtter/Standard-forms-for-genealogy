@@ -1,0 +1,64 @@
+<FORM ID="F2303152" REV="1" NAME="Bekanntmachung Type 2">
+<FORM_TEXT>
+
+Bekanntmachung.
+Vor= und Zuname des Bräutigams Herr
+ob ledig oder verwittwet
+Stand                   ____
+Religion                   ____ 
+Wohnort                   ____
+Heimath                   ____
+geboren zu                   ____
+Sohn des (Name und Stand der Eltern)                   ____
+beabsichtigt mit Fräulein (oder Frau)
+Vor= und Zuname der Braut                   ____
+ob ledig oder verwittwet                   ____
+Religion                   ____
+bisheriger Wohnort                   ____
+" Heimath                   ____
+geboren zu                   ____
+Tochter des                   ____
+Name und Stand des Vatters und der Mutter
+
+eine Ehe zu schließen.
+Personen, welche gegen Schließung dieser Ehe auf Grund civilrechtlicher Bestimmungen
+Einspruch erheben wollen, haben ihren Einspruch binnen 10 Tagen von der Anheftung dieser Be=
+kanntmachung an gerechnet, bei der unterzeichneten Gemeinde=Verwaltung oder bei dem f. Bezirts=Amte
+____ geltend zu machen
+____ den ____ten ____ 188____
+
+Die Gemeinde=Verwaltung.
+
+Angeheftet am ____ 188____
+bgenommen am ____ 188____
+
+Die unterzeichnete Gemeinde=Verwaltung bestätigt, daß die vorstesrende Bekanntmachung 10 Tage
+in der Gemeinde öffentlich angeheftet war.
+Zuglich wird bemekt, daß kein Einspruch bei der unterzeichneten Gemeinde=Verwaltung erhoben wurde.
+
+____ den _____ ten ____ 18____
+
+Die Gemeinde=Verwaltung.
+
+
+</FORM_TEXT>
+
+===========================================DIV50==
+<FORM_DATA>
+
+
+</FORM_DATA>
+
+===========================================DIV50==
+Codes:
+
+See "_info.txt" file for the key to the meaning of ► ◄ codes.
+
+===========================================DIV50==
+Notes:
+
+===========================================DIV50==
+Examples:
+
+===========================================DIV50==
+</FORM>

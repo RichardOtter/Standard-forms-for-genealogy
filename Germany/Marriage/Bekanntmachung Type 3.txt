@@ -1,0 +1,88 @@
+<FORM ID="F2303153" REV="1" NAME="Bekanntmachung Type 3">
+<FORM_TEXT>
+
+►page 1◄
+
+Bekanntmachung.
+
+Vor= und Zuname des Bräutigams: Herr   ____
+Religion:   ____
+Ort, Tag Monat u. Jahr der Geburt:    geboren zu   ____
+Civilstand  (ob ledig, verwittwet oder geschieden):   ____
+Stand oder Gewerbe:   ____
+Wohnort:    wohnhaft zu   ____
+Heimat:	Heimathberechtigt in   ____
+Sohn des*)    Sohn des
+Vor= und Zuname des Vaters:   ____
+Stand:   ____
+Wohnort oder Sterbeort:   ____
+und dessen Ehefrau (Wittwe):  und dessen
+Angabe, ob am Leben oder versterben:   ____
+Vor= und Zuname:   ____
+Wohnort, wenn Wittwe:   ____
+beabsichtigt mit (Fräulein, Frau):
+Vor= und Zuname der Braut:   ____
+Religion:   ____
+Ort, Tag, Monatr und Jahr der Geburt:  geboren   ____
+Civilstand	(ob ledig,verwittwet oder gesliieden):   ____
+Stand oder Gewerbe:   ____
+bisheriger Wohnort:	bisher wohnhaft in   ____
+bisheriger Heimath:	bisher Heimathberechtigt zu   ____
+Tochter des *)   Tochter des
+Vor= und Zuname des Vaters:   ____
+Stand:   ____
+Wohnor oder Sterbeort:   ____
+und dessen Ehefrau (Wittwe):    und dessen
+Angabe, ob am Leben oder verstorben:   ____
+Vor= und Zuname:   ____
+Wohnort, wenn Wittwe:   ____
+eine Ehe zu schließen.
+
+–––––––––––
+*) Bei unehelichen Kindern ist Vor= und Zuname, Stand= und Wohn=., bezw. Sterbeort der Mutter anzugeben. 
+
+►page 2◄
+
+Personen, welche gegen Schliesung dieser Ehe auf Grund zivilrechtlicher Bestim
+mungen Einspruch erheben wollen, haben ihren Einspruch binnen 10 Tagen, von der Anheftung dieser
+Bekanntmachung an gerechnet, bie der unterzeichneten Geneinde-Verwaltung oder bei dem königlichen
+Bezirksamte:   ____   geltend zu machen
+____ den ____ 18____
+
+Die Gemeinde=Verwaltung
+
+Angeheftet am ____18____
+Abgenommen an ____18____
+
+Die unterzeichnete Gemeinde=Verwaltung bestätigt, daß die vorsthende Bekanntmachung
+10 Tage in der Gemeinde öffentlich angeheftet war.
+Zugleich wird bemerkt, daß kein Einspruch bei der unterzeichneten Gemeinde-Verwaltung
+erhoben wurde, --- welcher
+ ____ den ____ten ____ 18____
+
+Die Gemeinde-Verwaltung
+
+Berechnet. Gebuhren-Register Nr.____
+
+
+</FORM_TEXT>
+
+===========================================DIV50==
+<FORM_DATA>
+
+
+</FORM_DATA>
+
+===========================================DIV50==
+Codes:
+
+See "_info.txt" file for the key to the meaning of ► ◄ codes.
+
+===========================================DIV50==
+Notes:
+
+===========================================DIV50==
+Examples:
+
+===========================================DIV50==
+</FORM>
