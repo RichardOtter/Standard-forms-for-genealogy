@@ -1,0 +1,78 @@
+<FORM ID="F2303171" REV="1" NAME="Declaration of Intent 1921">
+<FORM_TEXT>
+
+U.S. Department of Labor
+Naturalization Service
+No. ____
+Original
+
+United States of America
+Declaration of Intention
+
+Invalid for all purposes seven years after the date hereof
+
+State of New York
+County of Kings		SS:
+
+In the Supreme Court of Kings County
+
+I ____, aged ____ years,
+occupation ____, do declare on oath that my personal
+description is: Color ____, complexion ____, height ____ feet ____ inches,
+weight ____ pounds, color of hair ____, color of eyes ____
+other visible distinctive marks ____
+I was born in ____
+on the ____ day of ____ anno Domini 1____. I now reside
+at (Give number and street.) ____, Brooklyn, N.Y.
+I emigrated to the United States of America from ____
+on the vessel (If the alien arrived otherwise than a vessel, the character of conveyance or name of transportation company should be given.) ____; my last
+foreign residence was ____; I am ____ married; the name
+of my wife is ____, she was born at ____
+and now resides at ____
+It is my bona fide intention to renounce forever all allegiance and fidelity to any foreign
+prince, potentate, state, or sovereignty, and particularly to
+<_><_/>, of whom I am now a subject;
+I arrived at the port of ____, in the
+State of ____, on or about the ____ day
+of ____, anno Domini 1____. I am not an anarchist; I am not a
+polygamist nor a believer in the practice of polygamy; and it is my intention in good faith
+to become a citizen of the United States of America and to permanently reside therein:
+So help me god.
+____
+(original signature of declarant.)
+
+Subscribed and sworn to before me in the office of the Clerk of said Court
+at Brooklyn, N.Y., this ____ day of ____
+anno Domini 19____.
+[SEAL]
+____
+Clerk of the Supreme Court
+By ____, Deputy Clerk
+
+14-735
+
+</FORM_TEXT>
+
+===========================================DIV50==
+<FORM_DATA>
+
+</FORM_DATA>
+
+===========================================DIV50==
+Codes:
+
+See "_info.txt" file for the key to the meaning of ► ◄ codes.
+
+===========================================DIV50==
+Notes:
+
+Naturalization
+Declaration of Intent
+used in Brooklyn, Kings Co, NY in 1921
+
+===========================================DIV50==
+Examples:
+
+===========================================DIV50==
+
+</FORM>
