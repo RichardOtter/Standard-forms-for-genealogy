@@ -1,0 +1,102 @@
+<FORM ID="F2302181" REV="1" NAME="Passport Application for Naturalized Citizen">
+<FORM_TEXT>
+
+>DJLI.-K
+Application for Passport, Naturalized Citizen.-162
+[edition of July, 1888)			Julian Blumberg, Printer, Publisher and Mfg. Stationer, 23 Grand St, N.Y.
+No.     ____        Issued    ____
+
+
+    United States of America
+State of ____
+County of ____    SS.
+
+I, ____ a NATURALIZED AN LOYAL
+CITIZEN OF THE UNITED STATES, do hereby apply to the Department of State at Washington for a 
+passport for myself and wife, and my minor children as follows: ____
+born at ____ on the ____ day of ____ 1____, and
+    ____
+    ____
+    ____
+
+In support of the above application, I do solemnly swear that I was born at ____
+ ____ in ____ on or about the ____
+day of ____ 18____, that I emigrated to the United States, sailing on board
+the ____, from ____, on or about the ____ day
+of ____; that I resided ____ years, uninterruptedly, in the United States,
+from ____ to ____ at ____; that I was naturalized as a 
+citizen of the United States before the ____ Court of ____
+at ____, on the ____ day of ____ 1____, as
+shown by the accompanying Certificate of Naturalization, that I am the IDENTICAL PERSON described
+in said Certificate; that I am domiciled in the United States, my permanent residence being at
+ ____ in the State of ____
+where I follow the occupation of ____; that I am about to go abroad
+temporarily; and that I intend to return to the United States ____
+ ____, with the purpose of residing and performing the duties of citizenship therein.
+
+
+    OATH OF ALLEGIANCE
+Further, I do solemnly swear that I will support and defend the Constitution of the United
+States against all enemies, foreign and domestic; and I will bear true faith and allegiance to the same;
+and, that I take this obligation freely, without any mental reservation or purpose of evasion; So
+Help Me God.
+
+Sworn to before me, this ____ day
+of ____ 190____
+  ____
+
+
+    Notary Public
+    DESCRIPTION OF APPLICANT.
+Age:         ____ years                          Mouth:      ____
+Stature:     ____ feet,  ____ inches, Eng.       Chin:       ____
+Forehead:    ____                                Hair:       ____
+Eyes:        ____                                Complexion: ____
+Nose:        ____                                Face:       ____
+
+    IDENTIFICATION.
+    ____, 190____
+I hereby certify that I know the above named ____
+personally, and know him to be the identical person referred to in the within described Certificate of
+Naturalization, and that the facts stated in his affidavit are true to the best of my knowledge and belief.
+        ►signature◄  ____
+[Address of Witness] ____
+
+
+Applicant desires passport sent to following address:
+    ____
+    ____
+    ____
+
+When husband, wife, minor children and servants expect to travel together, as single passport for the whole will suffice.
+For any other person in the party a separate passport will be required.
+Address "Department of State, Passport Division." Washington, D.C.
+
+</FORM_TEXT>
+
+===========================================DIV50==
+<FORM_DATA>
+
+</FORM_DATA>
+
+===========================================DIV50==
+Codes:
+
+See "_info.txt" file for the key to the meaning of ► ◄ codes.
+
+===========================================DIV50==
+Notes:
+
+US Passport Application for Naturalized Citizen
+used in 1910
+
+===========================================DIV50==
+Examples:
+
+Max Stamm -b1880
+https://www.familysearch.org/ark:/61903/3:1:3QS7-89DD-LFDN?i=117
+
+===========================================DIV50==
+
+</FORM>
+

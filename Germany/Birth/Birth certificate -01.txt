@@ -1,0 +1,95 @@
+<FORM ID="F2205291" REV="1" NAME="Birth certificate -01">
+<FORM_TEXT>
+
+Nr. ____
+____ am ____ 18____
+
+Vor dem unterzeichneten Standesbeamten erschien heute, der
+Persönlichkeit nach ____
+____kannt,
+____
+wohnhaft zu ____
+____ Religion, und zeigte an, daß von der
+____
+____
+____
+____ Religion,
+wohnhaft ____
+____
+zu ____
+am ____ ten ____ des Jahres
+tausend acht hundert ____zig und ____
+um ____ Uhr, ein kind ____lichen
+Geschlechts geboren worden sei, welches ____ Vornamen
+____ erhalten habe
+____
+____
+____
+Vorgelesen, genehmigt und ____
+____
+____
+Der Standesbeamte.
+____
+____
+
+
+</FORM_TEXT>
+
+===========================================DIV50==
+<FORM_DATA>
+
+</FORM_DATA>
+
+===========================================DIV50==
+Codes:
+
+See "_info.txt" file for the key to the meaning of ? ? codes.
+
+===========================================DIV50==
+Notes:
+
+An example found via Google search-
+http://german.about.com/library/weekly/aa020830_doc1.htm    link broken
+
+Nr. 40 - Schlitz 
+am 20. Juli 1889
+
+Vor dem unterzeichneten Standesbeamten erschien heute, der 
+Persönlichkeit nach 
+bekannt, 
+Der Leinenweber Heinrich Kaufmann 
+wohnhaft zu Schlitz, 
+evangelischer Religion, und zeigte an, daß von der 
+Katharina Elisabetha Kaufmann geborenen Eisenberg, seiner Ehefrau, 
+evangelischer Religion, 
+wohnhaft bei ihm 
+zu Schlitz in seiner Wohnung 
+am sechszehnten  Juli des Jahres 
+tausend acht hundert achtzig und neun Vormittags 
+um elfdreiviertel Uhr ein Kind männlichen 
+Geschlechts geboren worden sei, welches den Vornamen 
+Heinrich erhalten habe.
+
+Vorgelesen, genehmigt und unterschrieben Heinrich Kaufmann
+
+Der Standesbeamte
+Zinßer
+
+English Translation (Birth Certificate)
+No. 40 - Schlitz on the 20th of July 1889
+
+Before the undersigned registry official today appeared, known by personality [in person], the linen weaver Heinrich Kaufmann, residing in Schlitz, of the Protestant [Lutheran] religion, and reported that - to Katharina Elisabetha Kaufmann nee Eisenberg, his wife, of the Protestant religion, living with him, was born in Schlitz in his residence on the 16th of July of the year one thousand eight hundred eighty-nine [1889] at eleven and three quarters [11:45] in the morning a child of the male gender, who was given the first name Heinrich.
+
+Read to, approved and signed Heinrich Kaufmann
+
+The Registry [Vital Statistics] Official Zinsser
+
+===========================================DIV50==
+Examples:
+
+Schwab, Anna Maria -b1886 -Birth Certificate.jpg
+
+
+===========================================DIV50==
+</FORM>
+
