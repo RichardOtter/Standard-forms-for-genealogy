@@ -1,4 +1,4 @@
-﻿<FORM ID="F2303157" REV="1" NAME="Bekanntmachung Type 7">
+<FORM ID="F2303157" REV="1" NAME="Bekanntmachung Type 7">
 <FORM_TEXT>
 
 Bekanntmachung.                        Formular V zu Art. 35
