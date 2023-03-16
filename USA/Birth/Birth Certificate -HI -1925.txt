@@ -1,0 +1,75 @@
+<FORM ID="F2204011" REV="1" NAME="Birth Certificate HAWAII 1925">
+<FORM_TEXT>
+
+Certificate of Birth
+Territory of Hawaii
+Bureau of Vital Statistics B No 58558
+Honolulu, T.H.
+
+I, the Registrar-General of Vital Statistics, do hereby certify the following to be a true and complete copy of the Certificate of Birth of
+____
+on file in the Bureau of Vital Statistics, Honolulu, office of the Board of Health of the Territory of Hawaii.
+
+Place of Birth
+County of ____
+Township of ____
+Village of ____
+Vol. No. ____
+Registered No. ____
+Full Name of Child ____
+Sex of Child ____
+Legitimate? ____
+Twins, Triplet or other? ____
+Date of Birth ____
+Father
+Full Name ____
+Residence ____
+Color or Race ____
+Age at last birthday ____ years
+Birthplace ____
+Occupation ____
+Mother
+Full Maiden Name ____
+Residence ____
+Color or Race ____
+Age at last birthday ____ years
+Birthplace ____
+Occupation ____
+
+Number of children born to this mother, including previous birth ____
+Number of children of this mother now living ____
+
+Certificate of Attending Physician or Midwife
+I hereby certify that I attended the birth of this child, who was ____ at ____ on the date above stated.
+Signature ____
+
+Informant
+Address ____
+Entered ____
+Filed ____
+Territorial Board of Health
+
+
+</FORM_TEXT>
+
+===========================================DIV50==
+<FORM_DATA>
+
+</FORM_DATA>
+
+===========================================DIV50==
+Codes:
+
+See "_info.txt" file for the key to the meaning of ► ◄ codes.
+
+===========================================DIV50==
+Notes:
+
+===========================================DIV50==
+Examples:
+
+Ethel Imai -b1925
+
+===========================================DIV50==
+</FORM>
+
