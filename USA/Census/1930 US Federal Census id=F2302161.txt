@@ -128,7 +128,7 @@ Sheet No.                    |          |
     Line #                   |          |
 1   Street                   |          |
 2   House #                  |          |
-3   Household S#             |          |
+3   Dwelling S#              |          |
 4   Family S#                |          |
 5   Name                     |          |
 6   Relationship             |          |

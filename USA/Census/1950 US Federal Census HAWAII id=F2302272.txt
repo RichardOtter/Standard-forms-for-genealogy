@@ -359,7 +359,7 @@ Sheet No.                    |          |
     Line #                   |          |
 1   Street                   |          |
 2   House #                  |          |
-3   Household S#             |          |
+3   Dwelling S#              |          |
 4   Farm or ranch? (Y/N)     |          |
 5   3 or more acres (Y/N)    |          |
 6   Agri Quest #             |          |
