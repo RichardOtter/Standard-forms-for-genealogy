@@ -1,0 +1,2152 @@
+vol	page	pseq	entry	M-FAMILY	M-GIVEN	M-PLACE	M-2nd place verb	M-2nd place	Event-Type	F-GIVEN	F-FAMILY	F-PLACE	event-date	comment
+1	1	1	1	Adler	Süß	Steinbach							1836	date=1836-1839
+1	1	2	2	Albert	Johann	Neuendorf							1845	date=1845-1846
+1	1	3	3	Amberg	Konstantin	Wiesen							1911	
+1	1	4	4	Amberg	Josef	Wiesen							1848	
+1	1	5	5	Amberg	Balthasar	Wiesen							1844	date=1844-1845
+1	1	6	6	Amberg	Gottfried	Wiesen							1849	
+1	1	7	7	Amend	Franz Josef	Ruppertshütten							1875	
+1	1	8	8	Amend	Josef Christian	Wiesenfeld							1913	
+1	1	9	9	Amend	Johann	Ruppertshütten							1849	
+1	1	10	10	Amend	Joh. Valentin	Partenstein							1848	
+1	1	11	11	Amend	Valtin	Partenstein							1866	
+1	1	12	12	Amrhein	Mich. Theodor	Frammersbach							1913	
+1	1	13	13	Amrhein	Joh. Jakob	Frammersbach							1841	date=1841-1842
+1	1	14	14	Amrhein	Kaspar	Bergrothenfels							1848	date=1848-1849
+1	1	15	15	Amrhein	Friedrich	Frammersbach							1892	
+1	1	16	16	Amrhein	Friedrich	Habichsthal							1845	
+1	1	17	17	Amrhein	Leonhard	Wiesen							1848	
+1	1	18	18	Aulmich	Max Kaspar	Lohr							1892	
+1	1	19	19	Aul	Lorenz Daniel	Frammersbach							1846	
+1	1	20	20	Aull	Joh. Michael	Frammersbach							1846	date=1846-1848
+1	1	21	21	Aull	Wilhelm	Frammersbach							1849	date=1849-1850
+1	1	22	22	Auth	Gottfried	Neustadt/M.							1913	
+1	1	23	23	Auth	Augustin	Frammersbach							1853	
+1	1	24	24	Bachmann	Johann	Rothenbuch							1892	
+1	1	25	25	Bald	Gg. Franz	Steinbach							1892	
+1	1	26	26	Baunach	Adam Josef	Neustadt/M.							1869	
+1	1	27	27	Bangert	Alois	Wiesen							1873	
+1	1	28	28	Balling	Josef	Rothenbuch							1872	date=1872-1973
+1	1	29	29	Bachmann	Albin	Neuhütten							1868	date=1868-1869
+1	1	30	30	Bausenwein	Thomas	Ruppertshütten							1845	
+1	1	31	31	Badersbach	Karl	Erlach							1846	
+1	2	1	32	Bachmann	Franz	Neuhütten							1869	
+1	2	2	33	Bachmann	Hugo	Neuhütten							1869	
+1	2	3	34	Bachmann	Michael	Neuhütten							1869	
+1	2	4	35	Bachmann	Oskar Thadäus	Pflochsbach							1914	
+1	2	5	36	Bauer	Leo Anton	Pflochsbach							1914	
+1	2	6	37	Badersbach	Johann	Steinfeld							1866	date=1866-1868
+1	2	7	38	Back	Mich. Josef	Wombach							1844	date=1844-1845
+1	2	8	39	Bauer	Johann	Langenprozelten							1841	
+1	2	9	40	Bachmann	Andreas	Neuhütten							1845	date=1845-1846
+1	2	10	41	Badersbach	Andreas	Steinfeld							1873	
+1	2	11	42	Bauer	Pjilipp	Bergrothenfels							1873	
+1	2	12	43	Baunach	Joh. Georg	Neustadt/M.							1901	
+1	2	13	44	Behl	Joh. Georg	Unterwestern							1848	
+1	2	14	45	Berghahn	Joh. Gerhard	Lohr							1826	
+1	2	15	46	Betz	Heinrich	Langenprozelten							1827	
+1	2	16	47	Becker	Vinzens	Wiesen							1827	
+1	2	17	48	Bernhard	Andreas	Sackenbach							1914	
+1	2	18	49	Betz	Joh. Adam	Langenprozelten							1849	
+1	2	19	50	Betz	Heinrich	Langenprozelten							1826	
+1	2	20	51	Bernstein	Michael	Neustadt/M.							1868	date=1868-1869
+1	2	21	52	Bernard	Gregor	Rodenbach							1913	
+1	2	22	53	Bergmann	Alois	Lohr							1913	
+1	2	23	54	Becker	Johann	Wiesen							1913	
+1	2	24	55	Bils	Josef	Erlach							1868	
+1	2	25	56	Bils	Michael	Erlach							1868	
+1	2	26	57	Biebel	Anton	Sendelbach							1842	
+1	2	27	58	Bopp	Gottfried	Wiesthal							1868	
+1	2	28	59	Böger	Joh. Georg	Pflochsbach							1873	
+1	2	29	60	Born	Mich. Josef	Partenstein							1873	
+1	2	30	61	Born	Johann	Partenstein							1873	
+1	2	31	62	Born	Philipp	Partenstein							1826	
+1	2	32	63	Born	Michael	Partenstein							1913	
+1	2	33	64	Boller	Franz Anton	Lohr							1913	
+1	2	34	65	Breitenbach	Florian	Frammersbach							1842	
+1	2	35	66	Breitenbach	Johann	Frammersbach							1874	
+1	3	1	67	Breitenbach	Adam	Langenprozelten							1827	
+1	3	2	68	Breitenbach	Valentin	Wiesthal							1849	
+1	3	3	69	Breitenbach	Josef	Wiesthal							1848	date=1848-1849
+1	3	4	70	Breitenbach	Michael	Partenstein							1914	
+1	3	5	71	Breitenbach	Friedrich	Wiesthal							1849	
+1	3	6	72	Breitenbach	Joh. Peter	Partenstein							1845	
+1	3	7	73	Breitenbach	Johann	Partenstein							1868	
+1	3	8	74	Breitenbach	Johann	Frammersbach							1867	
+1	3	9	75	Brönner	Anton	Erlach							1873	
+1	3	10	76	Brönner	Agidius	Neustadt/M.							1914	
+1	3	11	77	Brönner	Josef	Erlach							1842	date=1842-1843
+1	3	12	78	Brönner	Frans Josef	Rodenbach							1913	
+1	3	13	79	Brönner	Andreas	Neustadt/M.							1873	
+1	3	14	80	Brönner	Alois	Lohr							1868	
+1	3	15	81	Brunn	Mansurt	Lohr							1873	
+1	3	16	82	Brühlmaier	Johann	Rothenfels							1868	
+1	3	17	83	Brunner	Anton	Frammersbach							1826	
+1	3	18	84	Brunn	Augustin	Steinbach							1826	
+1	3	19	85	Brunn	Michael	Waldzell							1859	
+1	3	20	86	Brunner	Valentin	Frammersbach							1867	
+1	3	21	87	Brand	Johann	Neustadt/M.							1873	
+1	3	22	88	Breitschafter	Jakob	Neustadt/M.							1896	
+1	3	23	89	Burk	Carl Philipp	Lohr							1873	
+1	3	24	90	Budion	Nikolaus	Rückersbach							1826	
+1	3	25	91	Buchberger	Gb. Johann	Ruppertshütten							1826	
+1	3	26	92	Burger	Caspar	Sendelbach							1868	
+1	3	27	93	Burger	Kaspar	Rodenbach							1868	
+1	3	28	94	Büdel	Johann	Frammersbach							1845	
+1	3	29	95	Büdel	Philipp	Frammersbach							1845	
+1	3	30	96	Büdel	.Friedrich Josef	Frammersbach							1846	
+1	3	31	97	Büdel	Joh. Damian	Wiesen							1846	
+1	3	32	98	Büdel	Karl	Wiesen							1873	
+1	3	33	99	Büdel	Michael	Wiesen							1827	
+1	3	34	100	Büdel	Johann	Wiesen							1849	
+1	3	35	101	Büdel	Balthasar	Ruppertshütten							1841	
+1	4	1	102	Büdel	Johann Kaspar	Frammersbach							1841	
+1	4	2	103	Büdel	Sebastian	Wiesen							1849	
+1	4	3	104	Büdel	Josef	Wiesenbach							1841	
+1	4	4	105	Büdel	Friedrich Josef	Frammersbach							1849	
+1	4	5	106	Büdel	Michael	Frammersbach							1913	
+1	4	6	107	Büdel	Matthäus	Wiesen							1913	
+1	4	7	108	Casimir	Josef	Rieneck							1873	
+1	4	8	109	Cassimir	Franz	Langenprozelten							1873	
+1	4	9	110	Damm	Mich. Josef	Rechtenbach							1839	
+1	4	10	111	Desch	Joh. Michael	Frammersbach							1868	
+1	4	11	112	Diel	Nicholaus	Sendelbach							1868	
+1	4	12	113	Dildey	Heinrich	Lohr							1913	
+1	4	13	114	Dildey	Adam	Lohr							1873	
+1	4	14	115	Drescher	Philipp	Frammersbach							1833	
+1	4	15	116	Driesler	Adam	Neustadt/M.							1849	
+1	4	16	117	Druschel	Franz	Wiesthal							1845	
+1	4	17	118	Durchholz	Gustav	Rechtenbach							1913	
+1	4	18	119	Durchholz	David	Rechtenbach							1849	
+1	4	19	120	Durchholz	Josef Adam	Rechtenbach							1827	
+1	4	20	121	Ebert	Joh. Georg	Neuendorf							1826	
+1	4	21	122	Ebert	Valentin	Neuendorf							1913	
+1	4	22	123	Ebert	Georg Kaspar	Rechtenbach							1827	
+1	4	23	124	Ebert	Aloysius	Neuendorf							1914	
+1	4	24	125	Ebert	Johann Mich.	Neuendorf							1842	
+1	4	25	126	Egert	Franz	Langenprozelten							1913	
+1	4	26	127	Ehrlich	Alois	Krommenthal							1868	
+1	4	27	128	Ehrlich	Anton	Wiesthal							1846	
+1	4	28	129	Eich	Georg	Wiesthal							1868	
+1	4	29	130	Elzinger	Andreas	Gössenheim							1868	
+1	5	1	131	Elsesser	Franz	Wiesen							1911	
+1	5	2	132	Elsesser	Joh. Adam	Wiesen							1849	
+1	5	3	133	Elsesser	Alois	Wiesen							1849	
+1	5	4	134	Elsesser	Peter	Wiesen							1844	
+1	5	5	134.1	Emmerich	David	Rodenbach							1868	
+1	5	6	135	Emmerich	Johann	Steinbach							1868	
+1	5	7	136	Emmerich	Valtin	Rodenbach							1826	
+1	5	8	137	Endres	Valtin	Bergrothenfels							1826	
+1	5	9	138	Endres	Michael	Bergrothenfels							1866	
+1	5	10	139	Endres	Georg	Rothenfels							1913	
+1	5	11	140	Endres	Sebastian	Waldzell							1825	
+1	5	12	141	Englert	Peter	Neuhütten							1868	
+1	5	13	142	Englert	Jakob	Neuhütten							1868	
+1	5	14	143	Englert	Ludwig	Wiesen							1844	date=1844-1845
+1	5	15	144	Englert	Johann	Wiesen							1846	
+1	5	16	145	Englert	Johann	Frammersbach							1868	
+1	5	17	145.1	Etzel	Friedrich	Rechtenbach							1868	
+1	5	18	146	Faßnacht	Franz	Sendelbach							1913	
+1	5	19	147	Fasel	Wilhelm	Rothenfels							1868	
+1	5	20	148	Fleckenstein	Sebastian	Wiesen							1832	
+1	5	21	149	Fleckenstein	Gg. Adam	Wiesthal							1857	
+1	5	22	150	Fleckenstein	Joh. Baptist	Wiesen							1837	
+1	5	23	151	Flach	Conrad	Bergrothenfels							1827	
+1	5	24	152	Friedel	Georg	Frammersbach							1866	
+1	5	25	153	Friedel	Stephan	Frammersbach							1866	
+1	5	26	154	Friedel	Johann	Frammersbach							1833	
+1	5	27	155	Fleckenstein	Caspar	Frammersbach							1833	
+1	5	28	156	Franz	Johann	Wiesen							1866	
+1	5	29	157	Franz	Augustin	Frammersbach							1831	
+1	5	30	158	Franz	Josef	Wiesen							1913	
+1	5	31	159	Franz	Josef	Sendelbach							1913	
+1	5	32	160	Franz	Philipp	Lohr							1869	
+1	5	33	161	Franz	Bertrand	Lohr							1869	
+1	5	34	162	Franz	Karl Josef	Lohr							1913	date=1913-1914
+1	5	35	163	Freitag	Klemens	Halsbach							1911	
+1	6	1	164	Freund	Anton	Neuhütten							1914	
+1	6	2	165	Friedel	Josef	Frammersbach							1836	date=1836-1837
+1	6	3	166	Friedel	Johannes	Frammersbach							1837	
+1	6	4	167	Fuchs	Johann	Sommerkahl							1831	
+1	6	5	168	Gail	Josef	Rothenfels							1825	date=1825-1833
+1	6	6	169	Gaßmann	Andreas	Frammersbach							1837	
+1	6	7	170	Gehres	Karl Hugo	Lohr							1914	
+1	6	8	171	Göbel	Johann	Frammersbach							1825	
+1	6	9	172	Götz	Emil	Wiesen							1913	
+1	6	10	173	Grist	Nikolaus	Pflochsbach							1825	
+1	6	11	174	Göber	Joh. Georg	Langenprozelten							1837	
+1	6	12	175	Goßmann	Martin	Frammersbach							1827	
+1	6	13	176	Goßmann	Josef	Habichsthal							1914	
+1	6	14	177	Grim	Johann	Partenstein							1826	
+1	6	15	178	Grim	Philipp Jakob	Partenstein							1831	
+1	6	16	179	Grim	Peter	Partenstein							1827	
+1	6	17	180	Grimm	Max	Krommenthal							1913	
+1	6	18	181	Grimm	Heinrich	Lohr							1913	
+1	6	19	182	Hasenstab	Eduard	Rothenbuch							1876	
+1	6	20	183	Hasenstab	Josef	Rothenbuch							1876	
+1	6	21	184	Hasenstab	Florian	Rothenbuch							1876	
+1	6	22	185	Hartung	Joh. Josef	Rothenbuch							1871	
+1	6	23	186	Hauth	Josef	Lohr							1871	
+1	6	24	187	Hart	Sbastian	Sackenbach							1913	
+1	6	25	188	Hasenstaub	Ignaz	Rothenbuch							1914	
+1	6	26	189	Handel	Nikolaus	Steinfeld							1913	
+1	6	27	190	Handel	Georg	Steinfeld							1876	
+1	6	28	191	Harth	Friedrich	Bergrothenfels							1876	
+1	6	29	192	Haas	Gg. Robert	Steinfeld							1876	
+1	6	30	193	Haun	Romauld	Krommenthal							1875	
+1	6	31	194	Haun	Michael	Partenstein							1866	
+1	7	1	195	Hauth	Melchior	Frammersbach							1829	
+1	7	2	196	Hanel	Johann	Sendelbach							1914	
+1	7	3	197	Haas	Franz	Steinfeld							1914	
+1	7	4	198	Hartmann	Christoph	Wiesen							1914	
+1	7	5	199	Haberberger	Jakob	Langenprozelten							1883	date=1883-1884
+1	7	6	200	Haberkorn	Johann	Frammersbach							1853	
+1	7	7	201	Herold	Lorenz	Sackenbach							1871	
+1	7	8	202	Herhammer	Jakob	Langenprozelten							1871	
+1	7	9	203	Herold	David	Lohr							1871	
+1	7	10	204	Helferich	Karl Nik.	Steinbach							1878	
+1	7	11	205	Heck	Franz	Ruppertshütten							1913	
+1	7	12	206	Hepp	Eduard	Langenprozelten							1913	
+1	7	13	207	Hehl	Theodor Ludwig	Rechtenbach							1913	
+1	7	14	208	Hellmann	Friedrich	Lohr							1876	
+1	7	15	209	Herr	Ferdinand	Lohr							1914	
+1	7	16	210	Heim	Philipp	Rodenbach							1876	
+1	7	17	211	Helferich	Jakob Wilh.	Nantenbach							1876	
+1	7	18	212	Hepp	Georg	Langenprozelten							1876	
+1	7	19	213	Herrmann	Josef	Steinfeld							1876	
+1	7	20	214	Heim	Gregor	Rodenbach							1976	
+1	7	21	215	Hepp	Philipp	Langenprozelten							1847	
+1	7	22	216	Herrbach	Lorenz	Langenprozelten							1847	
+1	7	23	217	Heidenfelder	Martin	Rodenbach							1876	
+1	7	24	218	Helfrich	Joh. Josef	Neuendorf							1876	
+1	7	25	219	Herrmann	Joh. Melchoir	Steinfeld							1914	
+1	7	26	220	Herrmann	Severin	Steinfeld							1914	
+1	7	27	221	Hegel	Adolf	Langenprozelten							1914	
+1	7	28	222	Herrmann	Michael	Steinfeld							1860	
+1	7	29	223	Herrbach	Floran	Lohr							1856	
+1	7	30	224	Heid	Valentin	Bergrothenfels							1853	
+1	7	31	225	Herrbach	Franz	Langenprozelten							1853	
+1	7	32	226	Helfrich	Nikolaus	Neuendorf							1853	
+1	7	33	227	Heil	David	Bergrothenfels							1826	
+1	7	34	228	Hofmann	Johann	Nantenbach							1825	
+1	7	35	229	Horn	Thaddäus	Langenprozelten							1913	
+1	8	1	230	Höfling	Alois	Rodenbach							1876	
+1	8	2	231	Hock	Benedikt	Bergrothenfels							1876	
+1	8	3	232	Hock	Andreas	Wiesthal							1847	
+1	8	4	233	Hübner	Eduard	Lohr							1876	
+1	8	5	234	Hüsam	Jakob	Rechtenbach							1852	
+1	8	6	235	Imhof	Johann	Sendelbach							1853	
+1	8	7	236	Imhof	Josef	Lohr							1871	
+1	8	8	237	Imhof	Franz	Frammersbach							1913	
+1	8	9	238	Imhof	Kaspar	Sendelbach							1876	
+1	8	10	239	Imhof	Valentin	Frammersbach							1863	
+1	8	11	240	Imhof	Johann	Langenprozelten							1845	
+1	8	12	241	Imhof	Joh. Baptist	Frammersbach							1892	
+1	8	13	242	Imhof	Michael	Frammersbach							1892	
+1	8	14	243	Imhof	Josef Andreas	Frammersbach							1892	
+1	8	15	244	Imhof	Carl Pius	Lohr							1871	
+1	8	16	245	Imhof	Friedrich Jakob	Frammersbach							1826	
+1	8	17	246	Imhof	Adam	Sendelbach							1827	
+1	8	19	248	Inderwies	Balthasar	Frammersbach							1863	
+1	8	20	249	Inderwies	Philipp	Frammersbach							1871	
+1	8	21	250	Jahn	Joh. Friedrich	Lohr							1892	
+1	8	22	251	Karl	Stephan	Neuhütten							1871	
+1	8	23	252	Kallenbach	Joh. Josef	Neustadt/M.							1892	
+1	8	24	253	Karl	Joh. Melchior	Rothenfels							1892	
+1	8	25	254	Karl	Ferdinand	Neuhütten							1872	
+1	8	26	255	Karl	Anton	Lohr							1871	
+1	8	27	256	Karl	Thomas	Neuhütten							1860	
+1	8	18	257	Inderwies	Stefan	Frammersbach							1913	
+1	8	28	257	Kallenbach	Karl Gustav	Neustadt/M.							1913	
+1	8	29	258	Kasimir	Philipp	Langenprozelten							1892	
+1	9	1	259	Karach	Johann Jörg	Nantenbach							1835	
+1	9	2	260	Keßler	Johann	Frammersbach							1895	
+1	9	3	261	Keßler	Franz Josef	Lohr							1867	
+1	9	4	262	Keller	Philipp	Lohr							1853	
+1	9	5	263	Kern	Peter	Lohr							1911	
+1	9	6	264	Kern	Anton	Neustadt/M.							1860	
+1	9	7	265	Kern	Hermann	Neustadt/M.							1892	
+1	9	8	266	Keller	Joh. Bernhard	Sendelbach							1892	
+1	9	9	267	Kessler	Kaspar	Sendelbach							1873	
+1	9	10	268	Kiefer	Kaspar	Lohr							1872	
+1	9	11	269	Kirsch	Joh. Michael	Frammersbach							1845	
+1	9	12	270	Kilchenstein	Mich.	Wiesen							1866	
+1	9	13	270	Kiefel									1841	
+1	9	14	272	Kissaner	Franz	Frammersbach							1820	
+1	9	15	273	Kissaner	Johann	Frammersbach							1853	
+1	9	16	274	Kissaner	Lorenz	Frammersbach							1913	
+1	9	17	275	Kissaner	Valentin	Frammersbach							1866	
+1	9	18	276	Klass	Franz	Rothenfels							1842	date=1842-1858
+1	9	19	277	Kleespies	Rich. Josef	Wiesen							1914	
+1	9	20	278	Klös	Adam	Rothenfels							1866	
+1	9	21	279	Körbel	Georg	Bergrothenfels							1869	
+1	9	22	280	Kurz	Ludwig	Rothenfels							1853	
+1	9	23	281	Köhler	Franz	Lohr							1873	date=1873-1874
+1	9	24	282	Körner	Johann	Lohr							1873	
+1	9	25	283	Krimm	Carl	Partenstein							1862	
+1	9	26	284	Krug	Jakob	Ruppertshütten							1827	
+1	9	27	285	Krug	Nikolaus	Langenprozelten							1853	
+1	9	28	286	Kraft	Philipp	Langenprozelten							1874	
+1	9	29	287	Krebs	Franz	Wiesen							1874	
+1	9	30	288	Krebs	Johann	Wiesen							1853	
+1	9	31	289	Krafft	Michael	Neuendorf							1853	
+1	9	32	290	Krimm	Michael	Partenstein							1872	
+1	9	33	291	Krebs	Stephan	Wiesen							1834	
+1	9	34	292	Kraft	Joh. Georg	Langenprozelten							1835	
+1	9	35	293	Kunkel	Andreas	Neuhütten							1871	
+1	10	1	294	Kunkel	Gustav	Neuhütten							1871	
+1	10	2	295	Kunkel	Michael	Neuhütten							1871	
+1	10	3	296	Kunkel	Johann	Neuhütten							1865	
+1	10	4	297	Kunkel	Florian	Neuhütten							1865	
+1	10	5	298	Kunkel	Conrad	Partenstein							1875	
+1	10	6	299	Kunkel	Eduard	Neuhütten							1874	
+1	10	7	300	Kunkel	Jakob	Wiesthal							1874	
+1	10	8	301	Kunkel	Josef	Frammersbach							1827	
+1	10	9	302	Kunkel	Philipp	Wiesthal							1827	
+1	10	10	303	Kunkel	Kaspar	Neuhütten							1888	
+1	10	11	304	Kunkel	Franz Adam	Neuhütten							1889	
+1	10	12	305	Kunkel	Leo	Neuhütten							1889	
+1	10	13	306	Kunkel	Johann	Neuhütten							1888	
+1	10	14	307	Kunkel	Johann	Partenstein							1866	
+1	10	15	308	Kunkel	Johann	Partenstein							1871	
+1	10	16	309	Kunkel	Joh. Friedrich	Neuhütten							1866	
+1	10	17	310	Kunkel	Isidor	Neuhütten							1860	
+1	10	18	311	Kunkel	Christoph	Neuhütten							1860	
+1	10	19	312	Kunkel	Franz	Neuhütten							1860	
+1	10	20	313	Kunkel	Roman	Wiesthal 							1877	
+1	10	21	314	Kunkel	Josef	Wiesthal							1853	
+1	10	22	315	Kunkel	Georg	Neuhütten							1853	
+1	10	23	316	Kunkel	Philipp Jakob	Heigenbrücken							1871	
+1	10	24	317	Kuhn	Michael	Lohr							1835	
+1	10	25	318	Kuhn	Joh. Adam	Bergrothenfels							1835	
+1	10	26	319	Kübert	Johann	Langenprozelten							1866	
+1	10	27	320	Kübert	Sebastian	Langenprozelten							1873	
+1	10	28	321	Lang	Nikolaus	Rothenfels							1877	
+1	10	29	322	Lang	Casimir	Ruppertshütten							1826	
+1	10	30	323	Lang	Joh. Adam	Marktheidenfeld							1827	
+1	10	31	324	Leber	Heinrich	Lohr							1875	
+1	10	32	325	Lermer	Josef	Rothenfels 							1877	
+1	10	33	326	Lichtenwald	Martin	Langenprozelten							1825	
+1	10	34	327	Lohmann	Joh.	Partenstein							1856	
+1	11	1	328	Lorasch	Heinrich	Lohr							1913	
+1	11	2	329	Lorasch	Conrad	Lohr							1875	
+1	11	3	330	Lutz	Michael	Langenprozelten							1835	
+1	11	4	331	Mayer	Anton	Lohr							1874	
+1	11	5	332	Markert	Joh. Adam	Wiesen							1873	
+1	11	6	333	Marcus	Sigmund	Steinbach							1850	
+1	11	7	334	Madre	Wilhelm	Rechtenbach							1835	
+1	11	8	335	Meyer	Emil Josef	Neuhütten							1877	
+1	11	9	336	Mangold	Mich. Josef	Lohr							1837	
+1	11	10	337	Martin	Edmund	Lohr							1873	
+1	11	11	338	Matre	Josef	Rechtenbach							1827	
+1	11	12	339	Matre	Georg	Rechtenbach							1827	
+1	11	13	340	Mehling	Adam	Waldzell							1872	
+1	11	14	341	Mehling	Michael	Waldzell							1826	
+1	11	15	342	Mehling	Franz	Lohr							1873	
+1	11	16	343	Mehling	Johann Georg	Lohr							1913	
+1	11	17	344	Mehling	Johann	Steinfeld							1877	
+1	11	18	345	Mehling	Johann	Steinfeld							1877	
+1	11	19	346	Mehrlich	Johann	Partenstein							1826	
+1	11	20	347	Mehrlich	Adam	Partenstein							1874	
+1	11	21	348	Mehrlich	Heinrich	Partenstein							1874	
+1	11	22	349	Merz	Peter	Sackenbach							1827	
+1	11	23	350	Merz	Johann	Sackenbach							1873	
+1	11	24	351	Merz	Josef	Sackenbach							1875	
+1	11	25	352	Merz	Anton	Neuhütten							1913	
+1	11	26	353	Merz	Johann	Sackenbach							1913	
+1	11	27	354	Merz	Andreas	Sackenbach							1908	
+1	11	28	355	Metzger	Johann	Rechtenbach							1908	
+1	11	29	356	Metzger	Gg. Gerhard	Lohr							1908	
+1	11	30	357	Metzger	Sebastian	Rechtenbach							1847	date=1847-1850
+1	11	31	358	Mill	Michael	Frammersbach							1873	
+1	11	32	359	Mill	Kaspar	Frammersbach							1913	
+1	11	33	360	Mill	Joachim	Lohr							1826	
+1	12	1	361	Molitor	Jacob	Lohr							1874	
+1	12	2	362	Molitor	Josef	Lohr							1873	
+1	12	3	363	Molitor	Josef	Lohr							1874	
+1	12	4	364	Möhler	Hermann	Waldzell							1913	
+1	12	5	365	Müller	Johann	Nantenbach							1853	
+1	12	6	366	Müller	Josef	Lohr							1913	
+1	12	7	367	Müller	Philipp	Partenstein							1914	
+1	12	8	368	Müller	Philipp	Ruppertshütten							1873	
+1	12	9	369	Müller	Adam	Lohr							1873	
+1	12	10	370	Münzenberger	Hainr.	Laufach							1826	
+1	12	11	371	Mützel	Friedr. Karl	Partenstein							1914	
+1	12	12	372	Nätscher	Georg	Wombach							1913	
+1	12	13	373	Nätscher	Sebastian	Sendelbach							1877	
+1	12	14	374	Nätscher	Josef	Wombach							1877	
+1	12	15	375	Nätscher	Michael	Lohr							1877	
+1	12	16	376	Nätscher	Gg. Adam	Wombach							1826	
+1	12	17	377	Nätscher	Georg	Lohr							1915	
+1	12	18	378	Nätscher	Georg	Sendelbach							1853	
+1	12	19	379	Nätscher	Johann	Sendelbach							1853	
+1	12	20	380	Nätscher	Josef	Wombach							1874	
+1	12	21	381	Nätscher	Georg	Lohr							1874	
+1	12	22	382	Neuf	Johann Peter	Partenstein							1873	
+1	12	23	383	Neuf	Johann Peter	Partenstein							1873	
+1	12	24	384	Neuf	Michael	Neuendorf							1877	
+1	12	25	385	Neuhaus	Ignaz	Rechtenbach							1877	
+1	12	26	386	Neun	Philipp	Heßdorf							1862	
+1	12	27	387	Neuf	Johann Josef	Partenstein							1853	
+1	12	28	388	Neeb	Valentin	Gemünden							1874	
+1	12	29	389	Noll	Joh. Adam	Rothenbuch							1973	
+1	12	30	390	Noll	Josef Arthur	Rothenbuch							1873	
+1	12	31	391	Nürnberger	Georg	Steinfeld							1872	
+1	13	1	392	Obert	Johann	Langenprozelten							1874	
+1	13	2	393	Obert	Georg	Langenprozelten							1874	
+1	13	3	394	Obert	Sebastian	Langenprozelten							1874	
+1	13	4	395	Obert	Emil	Langenprozelten							1913	
+1	13	5	396	Obert	Georg	Langenprozelten							1826	
+1	13	6	397	Obmann	Franz	Lohr							1877	
+1	13	7	398	Obmann	Philipp	Lohr							1977	
+1	13	8	399	Öhring	Johann	Waldzell							1974	
+1	13	9	400	Ott	Philipp	Neustadt/M.							1853	
+1	13	10	401	Otter	Johann	Waldzell							1925	
+1	13	11	402	Paul	Josef	Rothenfels							1853	
+1	13	12	403	Pabst	Sebastian	Langenprozelten							1840	
+1	13	13	404	Peter	Aloysius	Steinbach							1873	
+1	13	14	405	Pfülf	Joh. Adam	Langenprozelten							1840	
+1	13	15	406	Pfister	Jakob	Harbach							1853	
+1	13	16	407	Pitzl	Kaspar	Langenprozelten							1853	
+1	13	17	408	Plauding	Josef	Langenprozelten							1877	
+1	13	18	409	Platz	Joh. Adam	Frammersbach							1840	
+1	13	19	410	Pollert	Friedrich	Partenstein							1827	
+1	13	20	411	Preisendörfer	Johann	Lohr							1909	
+1	13	21	412	Michael	Michael	Wiesen							1871	
+1	13	22	413	Matheus	Matheus	Wiesen							1877	
+1	13	23	414	Sebastian	Sebastian	Wiesen							1840	
+1	14	1	423	Reinhart	Nikolaus	Langenprozelten 							1858	
+1	14	2	424	Reif	Michael	Wiesen							1858	
+1	14	3	425	Reinhard	Ignatz	Lohr							1877	
+1	14	4	426	Riedmann	Gg. Michael	Steinfeld							1889	
+1	14	5	427	Ritschel	Johann	Wiesen							1908	
+1	14	6	428	Riedmann	Karl	Steinbach							1877	
+1	14	7	429	Roth	Michael	Wombach							1889	
+1	14	8	430	Roth	Nikolaus	Bergrothenfels							1889	
+1	14	9	431	Roth	Anton	Ruppertshütten							1908	
+1	14	10	432	Roth	Johann	Bergrothenfels							1876	
+1	14	11	433	Roth	Eugen Jacob	Bergrothenfels							1876	
+1	14	12	434	Roth	Michael	Bergrothenfels							1827	
+1	14	13	435	Roth	Adam	Bergrothenfels							1844	
+1	14	14	436	Rosenberger	Andreas	Rechtenbach							1889	
+1	14	15	437	Röser	Wilhelm	Lohr							1874	
+1	14	16	438	Röcking	Joh. Otto	Frammersbach							1908	
+1	14	17	439	Röcking	Joh. Georg	Wiesen							1848	
+1	14	18	440	Ruf	Franz	Neustadt/M.							1889	
+1	14	19	441	Ruppel	Joh. Gg.	Frammersbach							1880	
+1	14	20	442	Ruppert	Alfons	Langenprozelten							1908	
+1	14	21	443	Ruf	Heinrich	Margarethen-Hof							1826	
+1	14	22	444	Rüppel	Lorenz	Frammersbach							1825	
+1	14	23	445	Rüth	Johann Adam	Frammersbach							1908	
+1	14	24	446	Üth	Wilhelm	Frammersbach							1908	
+1	14	25	447	Rüb	Gregor	Steinbach							1913	
+1	14	26	448	Rützel	Joh. Valentin	Wombach							1908	
+1	14	27	449	Rüb	Adam Josef	Langenprozelten							1826	
+1	14	28	450	Rüth	Aloysius	Ruppertshütten							1826	
+1	14	29	451	Üth	Philipp	Frammersbach							1826	
+1	14	30	452	Rüppel	Joh. Adam	Ruppertshütten							1827	
+1	14	31	453	Rüfer	Ludwig	Sackenbach							1827	
+1	14	32	454	Rüb	Georg	Nantenbach							1844	
+1	15	1	455	Salomon	Philipp	Bergrothenfels							1908	
+1	15	2	456	Sänger	Franz	Lohr							1869	
+1	15	3	457	Selig	Wolf	Steinbach							1834	
+1	15	4	458	Seufert	Johann	Steinfeld							1877	
+1	15	5	459	Senger	Theobald	Lohr							1877	
+1	15	6	460	Seberich	Andreas	Neustadt/M.							1859	date=1859-1861
+1	15	7	461	Siegler 	Andreas	Wombach							1825	
+1	15	8	462	Siegler	Josef	Sendelbach							1889	
+1	15	9	463	Siegler	Peter	Wombach							1848	
+1	15	10	464	Soeder	Lorenz	Lohr							1869	
+1	15	11	465	Spies	Johann	Habichsthal							1856	
+1	15	12	466	Spahn	Jacob	Lohr							1876	
+1	15	13	467	Schadler	Peter	Lohr							1889	
+1	15	14	468	Schäfer	Josef	Habichsthal							1875	
+1	15	15	469	Schäfer	Heinrich	Rothenbuch							1911	
+1	15	16	470	Schäfer	Johann	Habichsthal							1875	
+1	15	17	471	Schecher	Nikolaus	Wombach							1889	
+1	15	18	472	Schell	Franz	Langenprozelten							1887	
+1	15	19	473	Scheiner	Georg	Rothenfels							1825	
+1	15	20	474	Scheiner	Andreas	Steinfeld							1870	
+1	15	21	475	Scheiner	Bernhard	Steinfeld							1870	
+1	15	22	476	Schwerg	Franz	Steinbach							1825	
+1	15	23	477	Scherg	Lorenz	Lohr							1889	
+1	15	24	478	Scherg	Peter Karl	Sendelbach							1914	
+1	15	25	479	Schimler	Josef	Lohr							1887	
+1	15	26	480	Schleicher	Ludwig	Langenprozelten							1887	
+1	15	27	481	Schleicher	Georg	Rothenfels							1843	
+1	15	28	482	Schlapp	Balthasar	Lohr							1869	
+1	15	29	483	Schmitt	Gg. Adam	Lohr							1889	
+1	15	30	484	Schmitt	Josef	Lohr							1889	
+1	15	31	485	Schmitt	Vinzens Josef	Lohr							1913	
+1	15	32	486	Schmitt	Franz Josef	Lohr							1913	
+1	15	33	487	Schmitt	Josef	Lohr							1877	
+1	15	34	488	Schmitt	Heinrich	Rothenfels							1877	
+1	15	35	489	Schmitt	Georg	Langenprozelten							1869	
+1	16	1	490	Schmitt	Andreas	Langenprozelten							1869	
+1	16	2	491	Schmitt	Josef	Lohr							1869	
+1	16	3	492	Schmitt	Johann	Rechtenbach							1869	
+1	16	4	493	Schmid	Franz Anton	Neustadt/M.							1892	
+1	16	5	494	Schneider	Albin	Steinfeld							1911	
+1	16	6	495	Schneider	Alois	Ruppertshütten							1869	
+1	16	7	496	Schneider	Michael	Wombach							1826	
+1	16	8	497	Scholl	Georg	Rothenfels							1825	
+1	16	9	498	Schönmann	Franz	Pflochsbach 							1875	
+1	16	10	499	Schönmann	Adolph	Pflochsbach							1876	
+1	16	11	500	Schnurr	Georg	Lohr							1834	
+1	16	12	501	Schulz	Georg	Lohr							1913	
+1	16	13	502	Schüßler	August	Lohr							1876	
+1	16	14	503	Schubert	Joh. Nikolaus	Lohr							1876	
+1	16	15	504	Schuhmann	Andreas	Steinfeld							1877	
+1	16	16	505	Schuhmann	Paulus	Steinfeld							1863	date=1863-1865
+1	16	17	506	Schwind	Georg	Lohr							1886	
+1	16	18	507	Schwind	Michael	Lohr							1877	
+1	16	19	508	Schwind	Franz Wilhelm	Lohr							1877	
+1	16	20	509	Schwind	Friedrich	Lohr							1876	
+1	16	21	510	Schwaab	Michael	Rodenbach							1858	date=1858-1863
+1	16	22	511	Schwan	Franz Josef	Langenprozelten							1826	
+1	16	23	512	Schwarzkopf	Thomas	Frammersbach							1827	
+1	16	24	513	Schwarzkopf	Melchior	Wiesthal							1887	
+1	16	25	514	Stamm	Adolf	Steinfeld							1913	
+1	16	26	515	Staub	Sebastian	Frammersbach							1825	
+1	16	27	516	Stenger	Johann Michael	Frammersbach							1825	
+1	16	28	517	Stenger	Johann	Wiesthal							1887	
+1	16	29	518	Stenger	Josef	Wiesthal							1876	
+1	16	30	519	Stenger	Bernhard	Wiesthal							1877	
+1	16	31	520	Stenger	Anton	Wiesthal							1848	
+1	16	32	521	Stenger	Melchoir	Frammersbach							1827	
+1	16	33	522	Sterner	Moses	Steinbach							1834	date=1834-1835
+1	16	34	523	Stegerwald	Johann	Steinfeld							1913	
+1	16	35	524	Steigerwald	Franz	Neuhütten							1887	
+1	17	1	525	Steigerwald	Philipp	Partenstein							1913	
+1	17	2	526	Steigerwald	Andreas	Habichsthal							1889	
+1	17	3	527	Steigerwald	Joh. Franz	Frammersbach							1889	
+1	17	4	528	Steigerwald	Philipp	Partenstein							1887	
+1	17	5	529	Steigerwald	Rudolf	Habichsthal							1877	
+1	17	6	530	Steigerwald	Anton	Neuhütten							1877	
+1	17	7	531	Steigerwald	Joh. Konrad	Partenstein							1839	
+1	17	8	532	Steigerwald	Philipp	Partenstein							1869	
+1	17	9	533	Steigerwald	Joh. Peter	Partenstein							1869	
+1	17	10	534	Steigerwald	Johann	Partenstein							1869	
+1	17	11	535	Steigerwald	Jacob	Frammersbach							1827	
+1	17	12	536	Steigerwald	Johann	Frammersbach							1827	
+1	17	13	537	Stumpf	Johann	Frammersbach							1827	
+1	17	14	538	Steigerwald	Martin	Wiesen							1827	
+1	17	15	539	Straub	Franz	Langenprozelten							1834	
+1	17	16	540	Straub	Michael	Bergrothenfels							1856	
+1	17	17	541	Straub	Karl	Bergrothenfels							1877	
+1	17	18	542	Straub	Michael	Bergrothenfels							1825	
+1	17	19	543	Stürmer	Josef	Ruppertshütten							1889	
+1	17	20	544	Stürmer	Philipp	Langenprozelten							1877	
+1	17	21	545	Stürmer	Franz	Ruppertshütten							1877	
+1	17	22	546	Ullrich	Josef	Wombach							1830	
+1	17	23	547	Ulrich	Jakob	Lohr							1831	
+1	17	24	548	Ulrich	Peter	Sackenbach							1827	
+1	17	25	549	Umstetter	Johann	Rodenbach							1853	
+1	17	26	550	Vater	Michael	Rechtenbach							1853	date=1853-1861
+1	17	27	551	Vormwald	Andreas	Sackenbach							1827	
+1	17	28	552	Vormwald	Andreas	Sackenbach							1844	
+1	17	29	553	Vormwald	Augustin	Frammersbach							1870	
+1	17	30	554	Vormwald	Joh. Adam	Frammersbach							1870	
+1	17	31	555	Vollkommer	Nikolaus	Neuhütten							1887	
+1	18	1	556	Vogel	Alois	Rothenfels							1877	
+1	18	2	557	Vogel	Georg	Rothenfels							1913	
+1	18	3	558	Völker	Andreas Otto	Bergrothenfels							1887	
+1	18	4	559	Völker	Friedrich	Rodenbach							1870	
+1	18	5	560	Walter	Josef Joh.	Bergrothenfels							1877	
+1	18	6	561	Wachs	Philipp Franz	Rothenfels							1887	
+1	18	7	562	Wagner	Johann	Frammersbach							1877	
+1	18	8	563	Wagner	Anton	Frammersbach							1877	
+1	18	9	564	Waigand	Johann	Frammersbach							1840	
+1	18	10	565	Wagner	Sylvester	Frammersbach							1826	
+1	18	11	566	Waigand	Johann	Frammersbach							1826	
+1	18	12	567	Wagner	Michael	Frammersbach							1827	
+1	18	13	568	Wagner	Peter	Frammersbach							1870	
+1	18	14	569	Wack	Anton	Lohr							1870	
+1	18	15	570	Weigand	Lorenz	Frammersbach							1887	
+1	18	16	571	Weigand	Wilhelm	Partenstein							1887	
+1	18	17	572	Wiezenbach	Andreas	Sendelbach							1913	
+1	18	18	573	Welzenbach	Adam	Ruppertshütten							1877	
+1	18	19	574	Werner	Johann	Lohr							1913	
+1	18	20	575	Weis	Franz	Lohr							1877	
+1	18	21	576	Weiß	?	Frammersbach							1863	
+1	18	22	577	Werthmann	Ruppert	Ruppertshütten							1877	
+1	18	23	578	Werthmann	Georg	Ruppertshütten							1826	
+1	18	24	579	Welzenbach	Martin	Ruppertshütten							1826	
+1	18	25	580	Welzenbach	Johann	Nantenbach							1826	
+1	18	26	581	Werthmann	Georg	Ruppertshütten							1826	
+1	18	27	582	Weis	Johann	Ruppertshütten							1827	
+1	18	28	583	Weis	Johann	Frammersbach							1844	
+1	18	29	584	Weis	Franz	Ruppertshütten							1870	
+1	18	30	585	Werner	Michael	Lohr							1870	
+1	18	31	586	Weidner	Simplizius	Steinfeld							1870	
+1	18	32	587	Welpe	Gg. Josef	Erlach							1870	
+1	18	33	588	Werthmann	August	Ruppertshütten							1915	
+1	19	1	589	Weber	Frans	Lohr							1870	
+1	19	2	590	Welper	Johann	Erlach							1863	
+1	19	3	591	Wenzel	Ignats	Ruppertshütten							1873	
+1	19	4	592	Wenzel	Theodor	Ruppertshütten							1873	
+1	19	5	593	Wenzel	Sebastian	Ruppertshütten							1826	
+1	19	6	594	Wenzel	Matheus	Ruppertshütten							1827	
+1	19	7	595	Wenzel	Valtin	Ruppertshütten							1836	
+1	19	8	596	Wenzel	Jakob	Ruppertshütten							1870	
+1	19	9	597	Wenzel	Johann	Ruppertshütten							1840	
+1	19	10	598	Wirzberger	Emil	Neuhütten							1913	
+1	19	11	599	Winter	Johann	Langenprozelten							1861	
+1	19	12	600	Wirthmann	Georg	Frammersbach							1877	
+1	19	13	601	Winter	Balthasar	Langenprozelten							1877	
+1	19	14	602	Wittig	Michel	Frammersbach							1827	
+1	19	15	603	Wirth	Adam Anton	Ruppertshütten							1870	
+1	19	16	604	Wirthmann	Joh. Wilhelms	Rieneck							1827	
+1	19	17	605	Ziegler	Gg. Arnold	Neustadt/M.							1855	
+1	19	18	606	Zieroff	Peter	Wiesthal							1840	
+1	19	19	607	Zierof	Rudolf	Wiesthal							1915	
+1	19	20	608	Zügner	Jakob	Rieneck							1863	
+1	20	1	609	Abersfeller	Johann Anton	Obersinn			v	Josef	Preisendörfer	Obersinn	1879	
+1	20	2	610	Abt	August	Rechtenbach			v	Sophia	Bartel	Rechtenbach	1864	
+1	20	3	611	Abt	August	Bergrothenfels			v	Eva	Sendelbach	Karbach	1856	
+1	20	4	612	Abt	Georgg	Lohr							1862	
+1	20	5	613	Abt	Friedrich	Rechtenbach			v	Margareta	Imhof	Partenstein	1900	
+1	20	6	614	Abt	Michael	Bergrothenfels			v	Barbara	Väth	Bergrothenfels	1854	
+1	20	7	615	Abt	Michael	Waldzell			v	Elisabetha	Lang	Waldzell	1873	
+1	20	8	616	Abt	Philipp	Rothenfels			v	Magdalena	Senger	Lohr	1885	
+1	20	9	617	Abt	Philipp	Bergrothenfels			v	Maria Anna	Hepp	Bergrothenfels	1864	
+1	20	10	618	Adelon	Andreas	Wiesthal			v	Resina	Imhof	Wiesthal	1830	
+1	20	11	619	Adelon	Philipp	Wiesthal			v	Juliana	Kunkel	Schonungen	1857	
+1	20	12	620	Adlon	Andreas	Wiesthal			v	Margaretha	Niclaus	Schonungen	1902	
+1	20	13	621	Adlon	Anton	Wiesthal			v	Eva	Staab	Wiesthal	1864	
+1	21	1	622	Adlon	Christian	Wiesthal			v	Clara	Wirzberger	Neuhütten	1836	
+1	21	2	623	Adlon	Franz	Karlstadt			v	Dorothea	Schnabel	Karlstadt	1877	
+1	21	3	624	Adlon	Franz	Wiesthal			v	Ann Maria	Mahr	Karlstadt	1858	
+1	21	4	625	Adlon	Franz	Wiesthal			v	Josepha	Ansmann	Wiesthal	1870	
+1	21	5	626	Adlon	Franz	Wiesthal			v	Katharina	Steigerwald	Habichsthal	1891	
+1	21	6	627	Adler	Franz				v	Barbara Theresia	Endres	Bergrothenfels	1898	
+1	21	7	628	Adlon	Georg	Wiesthal			v	Klara Ehrlich		Wiesthal		
+1	21	8	629	Adlon	Georg	Wiesthal			v	Rosa	Steigerwald	Habichsthal	1895	
+1	21	9	630	Adlon	Joseph	Wiesthal			v	Elisabetha	Zierof	Wiesthal	1868	
+1	21	10	631	Adlon	Josef	Wiesthal			v	Hedwig	Lieber	Partenstein	1874	
+1	21	11	632	Adlon	Johann Anton	Wiesthal			v	Katharina	Merz	Wiesthal	1887	
+1	21	12	633	Adlon	Philipp	Wiesthal			v	Resina	Ansmann	Neuhütten	1889	(vgl. auch Nr 634)
+1	21	13	634	Adlon	Philipp	Wiesthal			v	Resina	Ansmann	Neuhütten	1889	
+1	22	1	635	Adorno	Franz	Lohr			v	Anna	Hörlein	Lohr	1896	
+1	22	2	636	Adorno	Jacob	Lohr			v	Babette	Koenig	Lohr (Riglasreuth)	1871	
+1	22	3	637	Albert	Bernhard	Buch/Ufr.			v	Margaretha	Krug	Langenprozelten	1847	date 1847/48
+1	22	4	638	Albert	Franz	Langenprozelten			v	Barbara	Ruppert	Rineck (Rieneck)	1907	
+1	22	5	639	Albert	Georg Jakob	Nantenbach			v	Maria Rosalia	Kuhn	Neuendorf	1886	
+1	22	6	640	Albert	Heinrich	Langenprozelten			v	Margaretha	Ils	Langenprozelten	1858	
+1	22	7	641	Albert	Heinrich	Nantenbach			v	Friederike	Schuhmann	Langenprozelten	1857	
+1	22	8	642	Albert	Johann	Nantenbach			v	Brigitta	Fröhlich	Obereschenbach	1887	
+1	22	9	643	Albert	Johann	Rothenfels			v	Adelheid	Hock	Rothenfels	1900	
+1	22	10	644	Albert	Kaspar	Langenprozelten			v 	Eva Margarteha	Lutz	Langenprozelten	1879	
+1	22	11	645	Albert	Michael	Nantenbach			v	Eva Maria	Heim	Weyersfeld	1855	
+1	23	1	646	Albert	Nikolaus	Langenprozelten			v	Ottilie	Kraft	Langenprozelten	1906	
+1	23	2	647	Albus	Karl Christian	Lohr			v 	Maria Elisabetha	Deußinger	Michelrieth	1908	
+1	23	3	648	Albus	Wilhelm	Lohr/M.			v	Magdalena	Lang	Wiesenbronn	1907	
+1	23	4	649	Alter	Peter Wilhelm	Lohr			a					(nur Ansässigmachung)
+1	23	5	650	Ambach	Franz Josef	Rothenfels			v	Maria Anna	Weidner	Zimmern	1888	
+1	23	6	651	Ambach	Konrad	Lohr			v	Amalie	Saueracker	Karbach	1886	
+1	23	7	652	Amberg	Adalbert	Wiesen			v	Rosa Elisabeta	Franz	Wiesen	1905	
+1	23	8	653	Amberg	Ägidius	Wiesen			v	Barbara	Staab	Wiesen	1905	
+1	23	9	654	Amberg	Augustin	Wiesen			v	Gertraud	Büdel	Wiesen	1839	
+1	23	10	655	Amberg	Balthasar	Wiesen			v	Rosina	Müller	Wiesen	1853	
+1	23	11	656	Amberg	Balthasar Karl	Wiesen			v	Elisabetha	Seidleder	Hof (u. Mautern)	1887	
+1	23	12	657	Amberg	Caspar	Wiesen			v	Magdalena	Desch	Oberndorf	1834	
+1	23	13	658	Amberg	Franz	Niederrad			v	Helene	Winson	Niederrad	1899	(Amberg Franz ist in Wiesen Beheimatet)
+1	23	14	659	Amberg	Franz									(vgl. Nr.658)
+1	24	1	660	Amberg	Franz Anton	Wiesen			v	Katharina	Elsesser	Wiesen	1839	
+1	24	2	661	Amberg	Franz Christian	Wiesen			v	Veronika	Fleckenstein	Großkahl	1905	
+1	24	3	662	Amberg	Georg	Wiesen			v	Anna Theressia	Wohlfahrt	Hohendorf b. Lichtenstein	1888	
+1	24	4	663	Amberg	Georg	Wiesen			v	Regina	Elsesser	Wiesen	1875	
+1	24	5	664	Amberg	Gottfried	Wiesen			v	Katharina	Krebs	Wiesen	1851	
+1	24	6	665	Amberg	Gottfried	Wiesen			v	Mechthilde	Freund	Wiesen	1906	
+1	24	7	666	Amberg	Gottfried	Wiesen			v	Maria	Amberg	Wiesen	1908	
+1	24	8	667	Amberg	Heinrich Jakob	Partenstein			v	Katharina	Wachinger	Landshut (Langgries)	1893	
+1	24	9	668	Amberg	Johann	Wiesen			v	Margaretha	Prasch	Wiesen	1870	
+1	24	10	669	Amberg	Johann	Wiesen			v	Maria Ursula	Fleckenstein	Wiesen	1858	
+1	24	11	670	Amberg	Johann	Wiesen			v	Christina	Elsesser	Wiesen	1867	date=1867/69
+1	24	12	671	Amberg	Joh. Adam	Wiesen			v	Anna Maria	Elsesser	Wiesen	1836	
+1	25	1	672	Amberg	Joh. Adam	Wiesen			v	Eva	Krebs	Wiesen	1868	
+1	25	2	673	Amberg	Johanna Alois	Wiesen			v	Katharina	Bedel	Schnappenbach	1869	
+1	25	3	674	Amberg	Joahnn Evangelist	Wiesen			v	Sophia Egrazia	Freund	Wiesen	1906	
+1	25	4	675	Amberg	Johann Franz	Wiesen			v	Maria Eva	Reis	Wiesen	1893	
+1	25	5	676	Amberg	Joahann Georg	Wiesen			v	Anna Maria Appolonia	Reif	Wiesen	1880	
+1	25	6	677	Amberg	Johann Mathäus	Wiesen			v	Gertraud	Anberg	Wiesen	1882	
+1	25	7	678	Amberg	Johann Mathäus	Wiesen			v	Rosa	Büdel	Wiesen	1884	
+1	25	8	679	Amberg	Johann Viktor	Wiesen			v	Regina	Förster	Herschfeld (auch Würzburg)		
+1	25	9	680	Amberg	Joseph	Wiesen			v	Anna Apollonia	Büdel	Wiesen	1893	
+1	25	10	681	Amberg	Joseph	Wiesen			v	Katharina	Fleckenstein	Wiesen	1840	
+1	25	11	682	Amberg	Lorenz	Partenstein			v	Anna	Eberlein	Gemünden	1863	
+1	25	12	683	Amberg	Ludwig	Wiesen			v	Magdalena	Krebs	Wiesen	1896	
+1	26	1	684	Amberg	Karl	Wiesen			v	Magdalena	Stäudtner	Deberndorf (auch Nürnberg)	1892	
+1	26	2	685	Amberg	Karl August	Wiesen			v	Rosina	Elsesser	Wiesen	1877	
+1	26	3	686	Amberg	Mathäus	Wiesen			v	Eva Maria	Elsesser	Wiesen	1878	date=1878/79
+1	26	4	687	Amberg	Mathäus	Wiesen			v	Agnes	Büdel	Wiesen	1877	
+1	26	5	688	Amberg	Mathäus	Wiesen			v	Anna Maria	Götz	Wiesen	1880	
+1	26	6	689	Amberg	Melchior	Wiesen			v	Katharina	Schnetter	Wiesen	1849	
+1	26	7	690	Amberg	Melchior	Wiesen			v	Anna Maria	Elsesser	Wiesen	1850	
+1	26	8	691	Amberg	Melchior	Wiesen			v	Franziska	Gruber	Hagenhausen/Mittelfrk.	1904	
+1	26	9	692	Amberg	Michael	Wiesen			v	Elisabetha	Elsesser	Wiesen	1844	
+1	26	10	693	Amberg	Michael	Wiesen			v	Maria Ann 	Witwe Paul Amberg geb. Müller		1858	
+1	26	11	694	Amberg	Michael	Wiesen			v	Appolonia	Amberg	Wiesen	1867	
+1	26	12	695	Amberg	Nikolaus	Wiesen			v	Margaretha	Steigerwald	Wiesen	1858	
+1	26	13	696	Amberg	Peter	Wiesen			v	Elisabetha	Fleckenstein	Heinrichsthal	1839	
+1	27	1	697	Amberg	Johann Peter	Wiesen  	vorm.	Albstadt	v	Klara	Englert	Wiesen	1874	
+1	27	2	698	Amberg	Peter	Wiesen			v	Christina	Elsesser	Wiesen	1885	
+1	27	3	699	Amberg	Rudolf	Wiesen			v	Gertraud	Amberg	Wiesen	1867	date=1867/1874
+1	27	4	700	Amberg	Sebastian	Wiesen			v	Sabine	Büdel	Wiesen	1872	date=1872/73
+1	27	5	701	Amberg	Urban	Wiesen			v	Maria	Möller	Giesen	1889	
+1	27	6	702	Amberg	Valentin	Wiesen			v	Walburga	Krebs	Wiesen	1880	
+1	27	7	703	Amberg	Valentin	Wiesen			v	Rosa	Amberg geb. Büdel	Wiesen	1886	
+1	27	8	704	Amberg	Valentin	Wiesen			v	Katharina	Amberg	Wiesen	1900	
+1	27	9	705	Amberg	Wilhelm	Heigenbrücken			v	Ida	Bau	Wedhterswinkel	1866	date=1866/1872
+1	27	10	706	Amend	Joh. Adam	Partenstein			v	Anna Elisab.	Amend	Partenstein	1896	
+1	27	11	707	Amend	Adolf	Partenstein			v	Anna Elisab. Christine 	Kunkel	Partenstein	1900	
+1	27	12	708	Amend	Andreas	Steinbach			v	Maria Eva	Betz	Halsbach	1824	
+1	28	1	709	Amend	Andreas	Partenstein			v	Elisabetha	Stürmer	Partenstein	1914	
+1	28	2	710	Amend	Anton	Halsbach			v	Theresia	Schwaiger	Langenbruck/Pfaffenhofen	1905	
+1	28	3	711	Amend	Johann Michael August	Partenstein			v	Magdalene	Fleckenstein	Weibersbrunn	1906	(auch Partenstein)
+1	28	4	712	Amend	Augustin	Ruppertshütten			v	Elisabetha	Werthmann	Ruppertshütten	1907	
+1	28	5	713	Amend	Nikolaus Franz	Ruppertshütten			v	Josepha	Werthamnn	Ruppertshütten	1858	
+1	28	6	714	Amend	Franz	Ruppertshütten			v	Regina	Rüth	Ruppertshütten	1860	
+1	28	7	715	Amend	Franz	Halsbach			v	Maria	Schmitt	Halsbach	1888	
+1	28	8	716	Amend	Franz Joseph	Ruppertshütten			v	Eulalia	Werthmann	Ruppertshütten	1903	
+1	28	9	717	Amend	Johann Friedrich	Partenstein			v	Anna Elisabetha Christine	Born	Partenstein	1906	
+1	28	10	718	Amend	Johann Georg	Steinfeld			v	Maria	Amend	Wiesenfeld	1861	
+1	28	11	719	Amend	Georg	Rettersbach			v	Anna Maria	Heidenfelder	Sendelbach	1864	
+1	29	1	720	Amend	Georg	Sendelbach			v	Eva Rosina	Willner	Sendelbach	1869	
+1	29	2	721	Amend	Georg	Partenstein			v	Christina Wilhelmine Friederike	Fischer	Flörsbach (Hessen/Amt Bieber)	1853	
+1	29	3	722	Amend	Georg Ludwig	Partenstein			v	Christina	Amend	Partenstein	1837	
+1	29	4	723	Amend	Franz Gregor	Halsbach			v					
+1	29	5	724	Amend	Jacob	Lohr			v					
+1	29	6	725	Amend	Johann	Partenstein			v					
+1	29	7	726	Amend	Joh.	Partenstein			v					
+1	29	8	727	Amend	Johann	Wiesenfelf			v					
+1	29	9	728	Amend	Johann	Partenstein			v					
+1	29	10	729	Amend	Johann 	Nantenbach			v					
+1	29	11	730	Amend	Johann	Partenstein			v					
+1	30	1	731	Amend	Johann	Partenstein			v	Anna Margaretha	Imhof	Partenstein	1877	
+1	30	2	732	Amend	Johann	Ruppertshütten			v	Eva	Wenzel	Ruppersthütten	1905	
+1	30	3	733	Amend	Johann	Neuendorf			v	Margaretha Valeria	Ebert	Neuendorf	1892	
+1	30	4	734	Amend	Johann	Partenstein			v	Elisabetha	Kunkel	Partenstein	1895	
+1	30	5	735	Amend	Johann	Partenstein			v	Elisabetha	Born	Partenstein	1897	
+1	30	6	736	Amend	Johann	Partenstein			v	Maria	Wenski	Essen	1902	
+1	30	7	737	Amend	Johann	Partenstein			v	Anna Charl.	Steigerwald	Partenstein	1868	
+1	30	8	738	Amend	Johann Adolf	Partenstein			v	Elisabetha	Amend	Partenstein	1868	
+1	30	9	739	Amend	Joh. Friedrich	Partenstein			v	Anna Maria	Baumann	Partenstein	1893	
+1	30	10	740	Amend	Johann Friedrich	Partenstein			v	Elise Auguste	Kunkel	Partenstein	1899	
+1	30	11	741	Amend	Johann Friedrich	Partenstein			v	Maria	Lang	Partenstein	1904	
+1	31	1	742	Amend	Johann Ignaz	Ruppertshütten			v	Marg.	Werthmann	Ruppertshütten	1859	
+1	31	2	743	Amend	Johann Karl	Partenstein			v	Christina	Steigerwald	Partenstein	1889	
+1	31	3	744	Amend	Johann Paulus	Halsbach			v	Pauline	Riedmann	Halsbach	1908	
+1	31	4	745	Amend	Johann Peter	Partenstein			v	Margaretha	Steigerwald	Partenstein	1864	
+1	31	5	746	Amend	Johann Peter	Partenstein			v	Maria	Breitenbach	Partenstein	1869	
+1	31	6	747	Amend	Johann Peter	Partenstein			v	Christina	Breitenbach	Partenstein	1908	
+1	31	7	748	Amend	Johann Vinzenz	Ruppertshütten			v	Sybilla	Englert	Ruppertshütten	1883	
+1	31	8	749	Amend	Joseph	Sendelbach			v	Barbara	Ruf	Sendelbach	1900	
+1	31	9	750	Anend	Josef Lorenz	Lohr/Main			v	Johanna	Endres	Rohrbach (Lohr/M.)	1913	
+1	31	10	751	Amend	Karl	Ruppertshütten			v	Margareta	Werthmann	Ruppertshütten	1900	
+1	31	11	752	Amend	Michael	Neuendorf			v	Franziska	Mergler	Hofststten	1828	
+1	32	1	753	Amend	Michael	Steinbach			v	Anna Margaretha	Geißler	Ansbach	1870	
+1	32	2	754	Amend	Michael	Partenstein			v	Katharina	Engelhardt	Gemünden (Partenstein)	1898	
+1	32	3	756	Amend	Michael	Sendelbach 	()	Lohr	v	Margareta 	Funsch	Windheim (Lohr)	1903	
+1	32	4	757	Amend	Johann Michael	Partenstein			v	Anna Katarina	Steigerwald	Partenstein	1874	
+1	32	5	758	Amend	Michael Karl	Partenstein			v	Elisabetha	Mehrlich	Partenstein	1905	
+1	32	6	759	Amend	Nikolaus	Steinfeld 			v	Anna Maria	Haas	Steinfeld	1904	
+1	32	7	760	Amend	Franz Nikolaus	Ruppertshütten			v	Veronika	Stürmer geb. Buchberger	Ruppersthütten	1905	
+1	32	8	761	Amend	Otto Michael	Steinfeld 			v	Augusta	Schuhmann	Steinfeld	1903	
+1	32	9	762	Amend	Peter	Partenstein			v	Elisabetha	Kratz	Mittelsinn	1876	
+1	32	10	763	Amend	Peter	Partenstein			v	Anna Marg. Elisab.	Kunkel	Partenstein	1906	
+1	32	11	764	Amend	Johann Peter	Partenstein			v	Elisab. Charl. Sus. Anna Margt.	Kunkel	Partenstein	1908	
+1	33	1	765	Amend	Philipp	Partenstein			v	Barbara Regina	Ehrlich	Partenstein	1839	
+1	33	2	766	Amend	Philipp	Partenstein			v	Katharina	Hohmann	Partenstein	1875	
+1	33	3	767	Amend	Philipp	Ruppertshütten			v	Ludwina	Weis	Ruppersthütten	1902	
+1	33	4	768	Amend	Philipp	Ruppertshütten			v	Margaretha	Welzenbach	Ruppersthütten	1911	
+1	33	5	769	Amend	Joh. Philipp	Partenstein			v	Anna Kath.	Kunkel	Partenstein	1896	
+1	33	6	770	Amend	Rochus	Ruppertshütten			v	Margaretha	Heck	Ruppersthütten	1871	
+1	33	7	771	Amend	Theodor	Partenstein			v	Elisabetha	Hartmann	Partenstein	1864	
+1	33	8	772	Amend	Valentin	Partenstein			v	Margaretha	Neuf	Partenstein	1877	
+1	33	9	773	Amend	Joh. Valentin	Partenstein			v	Mar. Elisabetha	Neuf	Partenstein	1899	
+1	33	10	774	Amend	Vinzenz	Ruppertshütten	()	(Mainz)	v	Theresia Monika	Weizenbach	Ruppersthütten (Mainz)	1907	
+1	33	11	775	Amend	Georg Franz	Lohr/M.			v	Katharina Elisabetha	Reinhart	Lohr/M.	1899	
+1	34	1	776	Amrheim	Adam Johann	Frankfurt/M.			v	Walpurgis	Rosh	Frankfurt/M.	1890	
+1	34	2	777	Amrheim	Adam	Wiesen			v	Margarete	Büdel	Wiesen	1894	
+1	34	3	778	Amrheim	Adolf	Rothenbuch			v	Anna Barbara	Olf	Glattbach	1870	
+1	34	4	779	Amrheim	Andreas	Frammersbach			v	Mariagatha	Wagner	Frammersbach	1857	
+1	34	5	780	Amrheim	Aloys	Frammersbach			v	Christina	Büdel	Frammersbach	1859	
+1	34	6	781	Amrheim	Aloys	Frammersbach			v	Louise	Goßmann	Frammersbach	1867	
+1	34	7	782	Amrheim	Alois	Frammersbach			v	Theresia	Eich	Frammersbach	1868	
+1	34	8	783	Amrheim	Anton	Frammersbach			v	Anna	Fleischmann	Forth/Erlangen	1899	
+1	34	9	784	Amrheim	Christian	Frammersbach			v	Maria Anna	Amrhein	Frammersbach	1863	
+1	34	10	785	Amrheim	Christian	Frammersbach			v	Christine Louise Anna	Hellmann	Brotherode	1884	
+1	34	11	786	Amrheim	Daniel	Habichsthal			v	Agnes	Steigerwald	Habichsthal	1839	
+1	35	1	787	Amrheim	Edmund	Frammersbach 	()	Aschaffenburg	v	Anna Bertha	Kranz	Glattbach (Aschaffenburg)	1903	
+1	35	2	788	Amrheim	Ernst	Frammersbach			v	Katharina	Knütel	Rieneck	1871	
+1	35	3	789	Amrheim	Ferdinand	Frammersbach			v	Maria Christiane	Güderpfennig	Herbede/b. Witten/Ruhr	1873	
+1	35	4	790	Amrheim	Florian	Frammersbach			v	Eva Rosina	Jost	Lohr	1913	
+1	35	5	791	Amrheim	Franz	Frammersbach			v	Anna Sophie	Brunner	Frammersbach	1844	
+1	35	6	792	Amrheim	Franz	Frammersbach			v	Corothea	Heinrich	Lettgenbrunn	1850	
+1	35	7	793	Amrheim	Franz	Rothenfels			v	Katharina	Ehehalt	Urspringen	1869	
+1	35	8	794	Amrheim	Franz	Rothenfels			v	Barbara	Lacker	Wolfsmünster	1877	
+1	35	9	795	Amrheim	Franz	Frammersbach			v	Anna Maria	Götz	Frammersbach (Mannheim)	1904	
+1	35	10	796	Amrheim	Franz Heinrich	Frammersbach			v	Josefa	Schwarzkopf	Frammersbach	1884	
+1	35	11	797	Amrheim	Franz Melchior	Frammersbach			v	Gertraud	Goßmann	Frammersbach	1880	
+1	36	1	798	Amrhein	Franz Michael	Frammersbach			v	Juliane	Konrad	Würzburg	1900	
+1	36	2	799	Amrhein	Franz Michael	Frammersbach			v	Margareta	Benkert	Veitschöchheim (Frankfurt/M.)	1905	
+1	36	3	800	Amrhein	Friedrich	Frammersbach			v	Maria Anna Karl		Frammersbach (Überseidlung nach Sdelsberg)	1839	
+1	36	4	801	Amrhein	Friedrich	Rothenfels			v	Anna	Werner	Rothenfels	1874	
+1	36	5	802	Amrhein	Friedrich Zacharias	Rothenfels			v	Maria Anna Pauline	Höhlein	Rothenfels	1894	
+1	36	6	803	Amrhein	Georg	Rothenfels			v	Ursula	Schwinn	Roßstadt	1883	
+1	36	7	804	Amrhein	Georg	Lohr			v	Margaretha	Och	Lohr/M.	1884	
+1	36	8	805	Amrhein	Balthasar	Frammersbach			v	Anna Maria	Nergart	Frammersbach	1850	
+1	36	9	806	Amrhein	Jakob	Frammersbach			v	Maria Barbara	Amrheim	Frammersbach	1853	
+1	36	10	807	Amrhein	Jakob	Wiesen			v	Anna Margaretha	Büdel	Wiesen	1867	
+1	36	11	808	Amrhein	Johann	Frammersbach			v	Barbara	Goßmann	Frammersbach	1864	
+1	37	1	809	Amrhein	Johann	Weibersbrunn			v			Rothenbuch	1841	(nur Übersiedlung nach Rolandsmühle/Gde
+1	37	2	810	Amrhein	Johann	Frammersbach			v	Barbara	Goßmann	Frammersbach	1859	
+1	37	3	811	Amrhein	Joh.	Frammersbach			v	Barbara	Goßmann	Frammersbach	1859	(Wiederverehelichg.)
+1	37	4	812	Amrhein	Johann	Frammersbach			v	Anna Maria	Büdel	Frammersbach	1862	
+1	37	5	813	Amrhein	Johann III	Rothenfels			v	Anna Maria	Ludwig	Karbach	1862	
+1	37	6	814	Amrhein	Johann	Frammersbach			v	Catharina Elisabetha	Stürz	Frankfurt/M.	1879	
+1	37	7	815	Amrhein	Johann	Wiesen			v	Katharina	Fleckenstein	Wiesen	1880	
+1	37	8	816	Amrhein	Johann	Frammersbach			v	Maria	Franz	Frammersbach	1895	
+1	37	9	817	Amrhein	Johann	Frammersbach			v	Maria Magdalena	Büdel	Frammersbach	1897	
+1	37	10	818	Amrhein	Johann Adam	Frammersbach			v	Klara	Fleckenstein	Wiesthal	1852	
+1	37	11	819	Amrhein	Joh. Adam									wie 818
+1	37	12	820	Amrhein	Johann Adam	Frammersbach			v	Maria Josephine	Weigand	Frammersbach	1894	
+1	38	1	821	Amrhein	Johann Adam Franz	Frammersbach			v	Josepha	Imhof	Frammersbach	1893	
+1	38	2	822	Amrhein	Johann Franz	Frammersbach			v	Maria Josepha	Rüth	Frammersbach	1911	
+1	38	3	823	Amrhein	Johann Georg	Wiesen			v	Gertraud	Fleckenstein geb. Büdel	Wiesen	1861	
+1	38	4	824	Amrhein	Johann Jakob	Frammersbach			v	Katharina	Stenger	Frammersbach	1847	
+1	38	5	825	Amrhein	Johann Josef Ludwig	Lohr			v	Anna Maria	Simonis	Ansbach	1894	
+1	38	6	826	Amrhein	Johann Kaspar	Frammersbach			v	Maria Elisabetha	Breitenbach	Frammersbach	1847	
+1	38	7	827	Amrhein	Johann Kaspar	Frammersbach 	()	Mannheim	v	Wilheimine Dorothea	Rappold	Finsterroth/Württ. (Mannheim)	1902	
+1	38	8	828	Amrhein	Josef	Lohr			v	Eva Rosina	Willner	Sendelbach	1869	
+1	38	9	829	Amrhein	Josef	Frammersbach			v	Viktoria	Hund	Hasloch	1873	
+1	38	10	830	Amrhein	Joseph	Frammersbach 	()	Augsbg.	v	Babette	Lindermayer	Lechhausen	1875	
+1	38	11	831	Amrhein	Josef	Frammersbach			v	Katharina	Bischof	Frammersbach	1897	
+1	39	1	832	Amrhein	Joseph	Frammersbach			v	Maria Anna	Staub	Frammersbach	1898	
+1	39	2	833	Amrhein	Joseph	Frammersbach			v	Gertraud	Anderlohr	Frammersbach	1900	
+1	39	3	834	Amrhein	Josef	Rothenfels			v	Anna	Grünerwald	Geisthal	1911	
+1	39	4	835	Amrhein	Josef Anton	Lohr			v	Margaretha Magdalena	Schecher	Lohr	1887	
+1	39	5	836	Amrhein	Julius	Frammersbach			v	Maria Anna	Kunkel	Frammersbach	1887	
+1	39	6	837	Amrhein	Johann Philipp	Frammersbach			v	Dorothea	Friedel	Frammersbach	1864	
+1	39	7	838	Amrhein	Johann Philipp	Frammersbach			v	Gertraud	Keßler	Frammersbach	1895	
+1	39	8	839	Amrhein	Karl	Rothenfels			v	Magdalena	Deppisch	Rothenfels	1867	
+1	39	9	840	Amrhein	Karl	Frammersbach			v	Luise Mathilde	Weigand	Frammersbach	1890	
+1	39	10	841	Amrhein	Karl	Frammersbach 	()	Frankfurt/M.	v	Maria	Maul	Frankfurt/M.	1899	
+1	39	11	842	Amrhein	Karl	Frammersbach 	()	Frankfurt/M.	v	Anna Katharina	Scharkopf	Lengfeld/Hessen (Frankfurt/M.)	1900	
+1	40	1	843	Amrhein	Karl Johann	Lohr 	()	Nürnberg	v	Frida	Hatzelmeyer	Nürnberg	1904	
+1	40	2	844	Amrhein	Karl Joseph	Weibersbrunn			v	Barbara	Franz	Frammersbach	1845	
+1	40	3	845	Amrhein	Kaspar	Frammersbach			v	Josepha	Haut	Frammersbach	1900	
+1	40	4	846	Amrhein	Leo	Wiesthal 	()	Frankfurt/M.	v	Josefa	Kunkel	Wiesthal	1893	
+1	40	5	847	Amrhein	Leonhard	Wiesen			v	Franziska	Englert	Nied	1900	
+1	40	6	848	Amrhein	Lorenz	Partenstein 	()	Mainz	v	Anna Maria	Mehlinger	Partenstein	1863	
+1	40	7	849	Amrhein	Lorenz	Frammersbach			v	Maria	Kißner	Frammersbach	1863	
+1	40	8	850	Amrhein	Lorenz	Partenstein			v	Anna Maria	Mehlinger	Kostheim	1864	
+1	40	9	851	Amrhein	Martin Thomas	Frammersbach			v	Maria Elisabetha	Franz	Frammersbach	1876	
+1	40	10	852	Amrhein	Martin	Frammersbach			v	Josepha	Herr	Frammersbach	1889	
+1	40	11	853	Amrhein	Johann Matthäus	Frammersbach			v	Maria	Waigand	Frammersbach	1837	
+1	40	12	854	Amrhein	Matthäus	Frammersbach			v	Josepha	Friedel	Frammersbach	1869	
+1	41	1	855	Amrhein	Max Balthasar	Frammersbach			v	Philippine	Rüth	Frammersbach	1891	
+1	41	2	856.1	Amrhein	Melchoir	Frammersbach							1835	
+1	41	2	856.2	Amrhein	Melchoir	Frammersbach			v		Witwe des Friederich Amrhein		1835	
+1	41	3	857	Amrhein	Melchoir	Frammersbach			v	Agatha	Imhof	Frammersbach	1859	
+1	41	4	858	Amrhein	Melchoir	Frammersbach			v	Gertraud	Keßler	Frammersbach	1864	
+1	41	5	859	Amrhein	Melchoir	Frammersbach			v	Anna Maria	Büttner	Waldaschall (Aschaffenburg)	1876	
+1	41	6	860	Amrhein	Melchoir	Frammersbach			v	Maria Klara	Hartmann	Frammersbach	1889	
+1	41	7	861	Amrhein	Michael	Frammersbach			v	Anna Maria	Friedel	Frammersbach	1860	
+1	41	8	862	Amrhein	Michael	Frammersbach			v	Margarethe Katharina	Meister	Frankfurt/M. (Bommersheim)	1870	
+1	41	9	863	Amrhein	Michael	Frammersbach			v	Franziska	Goßmann	Frammersbach	1896	
+1	41	10	864	Amrhein	Johann	Frammersbach			v	Elisabetha	Steigerwald	Frammersbach	1837	
+1	41	11	865	Amrhein	Nikolaus	Bergrothenfels			v	Maria	Roth	Bergrothenfels	1880	
+1	42	1	866	Arnheim	Peter	Wiesen			v	Katharina	Amberg	Rothenfels	1876	
+1	42	2	867.1	Arnheim	Phillipp	Rothenfels			v	Elisabetha	Würges	Rothenfels	1850	
+1	42	2	867.2	Arnheim	Phillipp	Rothenfels			wv	Katharina	Fleckenstein	Er	1850	
+1	42	3	868	Arnheim	Joh. Phillipp	Frammersbach			v	Magdalena	Franz	Frammersbach	1877	
+1	42	4	869	Arnheim	Stephan	Kleinlaudenbuch			v	Therese	Amrhein	Frammersbach	1848	
+1	42	5	870	Arnheim	Theodor	Wiesen			v	Maria	Büdelm	Wiesen	1894	
+1	42	6	871	Arnheim	Theodor	Wiesen			v	Klara	Amberg	Wiesen	1898	
+1	42	7	872	Arnheim	Thomas	Frammersbach			v	Maria	Friedel	Frammersbach	1838	
+1	42	8	873	Arnheim	Thomas	Frammersbach			v	Maria Franziska	Amrhein	Frammersbach	1908	
+1	42	9	874	Arnheim	Valtin	Frammersbach			v	Eva Dorothea	Staub	Frammersbach	1840	
+1	42	10	875	Arnheim	Wilhelm Joseph	Rothenfels 	wh	Hanau	v	Theresia	Dürz	Oberthürheim	1876	
+1	42	11	876	Arnheim	Wilhelm Andreas	Frammersbach			v	Katharina	Ihrig	Oberau	1874	
+1	43	1	877	Amrhein	Wilhelm Joseph	Frammersbach			v	Gertraud Kißner		Frammersbach	1899	
+1	43	2	878	Anderlohr	Alois	Frammersbach			v	Maria Elisabetha	Büdel	Frammersbach	1852	
+1	43	3	879	Anderlohr	Andreas	Ruppertshütten			v	Veronika	Fleckenstein	Ruppertshütten	1858	
+1	43	4	880	Anderlohr	Anton	Frammersbach			v	maria Helene	Schaller	Fürth	1888	
+1	43	5	881	Anderlohr	August	Frammersbach			v	Maria Barbara	Imeidoph	Frammersbach	1888	
+1	43	6	882	Anderlohr	Florian	Lohr			v	Josepha	Kauth	Lohr	1900	
+1	43	7	883	Anderlohr	Franz	Frammersbach			v	Elise	Eich	Frammersbach	1875	
+1	43	8	884	Anderlohr	Franz	Frammersbach			v	Josepha	Hornung	Frammersbach	1899	
+1	43	9	885	Anderlohr	Franz	Ruppertshütten			v	Martha	Rüppel	Ruppertshütten	1889	
+1	43	10	886	Anderlohr	Franz Jakob	Frammersbach			v	Katharina	Geßner	Edelbach	1847	
+1	43	11	887	Anderlohr	Franz Michael	Frammersbach			v	Maria Franziska	Goßmann		1898	
+1	44	1	888	Anderlohr	Friedrich	Frammersbach			v	Amalia	Büdel geb. Imhof	Frammersbach	1900	geb. Imhof
+1	44	2	889	Anderlohr	Friedrich Wilhelm	Frammersbach 	wh	Berlin)	v	Klara Alma Nanni	Schultze	Pankow/Krs. Niederberin (Preußen)	1907	
+1	44	3	890	Anderlohr	Georg Anton	Frammersbach			v	Elisabetha	Aul	Frammersbach	1839	
+1	44	4	891	Anderlohr	Jakob	Frammersbach			v	Maria Anna	Mill	Frammersbach	1852	
+1	44	5	892	Anderlohr	Jakob	Frammersbach			v	Gertraud Stumpf		Frammersbach	1856	
+1	44	6	893	Anderlohr	Johann	Frammersbach			v	Margaretha Konrad		Windheim (bisher. Wohnort: Marienbrunn und Lohr)	1888	
+1	44	7	894	Anderlohr	Johann	Frammersbach			v	Maria Eva	Kißner	Frammersbach	1862	
+1	44	8	895	Anderlohr	Johann	Frammersbach	wh	Aschaffenburg	v	Louise Elisabetha	Imhof	Frammersbach	1897	
+1	44	9	896	Anderlohr	Johann Ambros	Ruppertshütten			v	Georgina Kath.	Baumann	Partenstein	1887	
+1	44	10	897	Anderlohr	Johann Anton	Frammersbach			v	Maria Goßmann		Frammersbach	1859	
+1	45	1	898	Anderlohr	Johann Josef	Frammersbach			v	Emma Crezentia	Scharrer	Nürnberg	1905	
+1	45	2	899.1	Anderlohr	Johann Michel	Frammersbach			v	Maria Theresia	Kunkel	Frammersbach	1857	
+1	45	2	899.2	Anderlohr	Johann Michel	Frammersbach			v	Katharina	Goßmann		1857	
+1	45	3	900	Anderlohr	Johann Michel	Frammersbach			v	Katharina	Gosmann	Frammersbach	1855	
+1	45	4	901	Anderlohr	Josef	Frammersbach			v	Gertrud	Freese	Werl/Preussen	1906	
+1	45	5	902	Anderlohr	Martin	Frammersbach			v	Maria Josefa	Schwarzkopf	Frammersbach	1880	
+1	45	6	903	Anderlohr	Martin	Lohr			v	Franziska	Popp	Lohr	1899	
+1	45	7	904	Anderlohr	Martin	Lohr			v	Maria Anna	Herrmann	Steinfeld (bisher. wohnhaft in Lohr)	1906	
+1	45	8	905	Anderlohr	Michael	Frammersbach	wh	Neustadt/Main	v	Anna Maria	Lippus	Rodenbach	1898	
+1	45	9	906	Anderlohr	Michael	Frammersbach 			v	Maria Magdelena	Aull	Frammersbach	1907	
+1	45	10	907	Anderlohr	Michael Joseph	Lohr			v	Maria Margaretha	Frank	Hausen K. (biher. wohnh. in Urspringen)	1900	
+1	45	11	908	Anderlohr	Otto	Frammersbach			v	Charlotte	Meißner	Elberfeld	1903	
+1	46	1	909	Anderlohr	Peter	Frammersbach			v	Maria Anna	Popp	Lohr	1868	
+1	46	2	910	Anderlohr	Sebastian	Ruppertshütten			v	Theresia	Weis	Ruppertshütten	1858	
+1	46	3	911	Anderlohr	Thomas	Frammersbach			v	Gertude	Staub	Frammersbach	1851	
+1	46	4	912	Anderlohr	Wilhelm	Frammersbach			v	Agnes Maria	Büdel	Frammersbach	1912	
+1	46	5	913	Anderlohr	Valtin	Frammersbach			v	Maria Anna	Breitenbach	Frammersbach	1840	
+1	46	6	914	Anderlohr	Valentin	Frammersbach			v	Margaretha	Imhof	Frammersbach	1844	
+1	46	7	915	Anderlohr	Valtin	Frammersbach			v	Maria Anna	Schiffer	Frammersbach	1844	
+1	46	8	916	Andres	Anton	Obersinn			v	Eugenia	Hellmann	Mittelsinn	1872	
+1	46	9	917	Ansmann	Carl	Wiesthal			v	Maria Barbara	Gernert	Rottenbauser	1879	
+1	46	10	918	Ansmann	Franz	Wiesthal	wh	Frammersbach	v	Hedwig	Rüppel	Frammersbach	1875	
+1	46	11	919	Ansmann	Franz Joseph	Neuhütten			v	Paulina	Merz	Neuhütten	1862	date=1862/63
+1	46	12	920	Ansmann	Franz Joseph	Wiesthal			v	Maria Margaretha	Rieder	Windsheim	1906	
+1	47	1	921	Ansmann	Johann	Wiesthal			v	Carolina	Roth	Kempfenbrunn	1866	
+1	47	2	922	Ansmann	Johann	Wiesthal			v	Nathalie	Grimm	Wiesthal	1876	
+1	47	3	923	Ansmann	Johann Adam	Wiesthal			v	Regina	Grim	Wiesthal	1895	
+1	47	4	924	Ansmann	Johann Stephan	Wiesthal			v	Mari	Herbst	Niedermirsberg	1907	
+1	47	5	925	Ansmann	Karl	Wiesthal			v	Magdalena	Perr	Wiesthal	1867	
+1	47	6	926	Arnold	Friedrich	Rothenfels			v	Kunigunda	Herrmann	Bamberg	1897	
+1	47	7	927	Arnold	Heinrich	Partenstein			v	Anna Dorothea	Jakob	Rügheim	1885	
+1	47	8	928	Arnold	Heinrich Ignas	Lohr			v	Barbara Katharina	Albert	Frickenhausen/Bez.-Amt Ochsenfurt	1889	
+1	47	9	929	Arnold	Johann Anton	Lohr			v	Agnes	Reinhard	Lohr	1879	
+1	47	10	930	Auerbach	Andreas	Lohr			v	Katharina	Graf	Heinrichsthal	1902	
+1	47	11	931	Auerbach	Conrad	Lohr			v	Elisabetha	Amend	Lohr	1870	
+1	47	12	932	Auerbach	Johann	Lohr			v	Katharina Barbara	Ling	Lohr	1873	
+1	47	13	933	Auerbach	Johann	Lohr			v	Maria Rosalia	Wiesner	Sendelbach	1907	
+1	48	1	934	Auerbach	Valentin	Lohr			v	Maria Margaretha Antonia	Köhler	Partenstein	1874	
+1	48	2	935	Aulbach	Adam	Rothenbuch			v	Katharina	Stegmann	Rothenbuch	1870	
+1	48	3	936	Aulbach	Adam	Rothenbuch			v	Katharina	Englert	Rothenbuch	1886	
+1	48	4	937	Aulbach	Johann	Rastatt 	()	Rothenbuch	v	Karoline Elisabetha Margaretha	Sprenger	Rastatt	1895	
+1	48	5	938	Aulbach	Batthasar	Rothenbuch			v	Anna Eva	Karl	Rothenbuch	1855	
+1	48	6	939	Aulbach	Franz Josef	Rothenbuch			v	Elisabetha	Englert	Rothenbuch	1869	
+1	48	7	940	Aulbach	Franz Joseph	Rothenbuch			v	Anna Maria	Elzer	Rothenbuch	1874	
+1	48	8	941	Aulbach	Georg	Rothenbuch			v	Barbara	Wahl	Geislautern	1907	
+1	48	9	942	Aulbach	Johann Adam	Rothenbuch			v	Elisabetha	Englert	Rothenbuch	1839	
+1	48	10	943	Aulbach	Johann Josef	Rothenbuch			v	Katharina	Häuser	Rothenbuch	1869	
+1	48	11	944	Aulbach	Johann Theodor	Gailbach			v	Eva	Schmitt	Rodenbach	1856	
+1	48	12	945	Aulbach	Joseph	Rothenbuch			v	Theresia	Müller	Rothenbuch	1863	
+1	48	13	946	Aulbach	Josef	Rothenbuch			v	Kunigunda	Schuster	Rothenbuch	1885	
+1	49	1	947.1	Aulbach	Kilian	Rothenbuch			v	Rosina	Grimm	Rothenbuch	1867	
+1	49	1	947.1	Aulbach	Kilian	Rothenbuch			wv	Rosina	Kunkel	Waldaschaff	1867	
+1	49	2	948	Aulbach	Theodor	Gailbach	wh	Rodenbach	v	Eva	Schmitt	Rodenbach	1856	
+1	49	3	949	Aulbach	Theodor	Rodenbach			v	Barbara	Ulrich	Neuendorf	1870	
+1	49	4	950	Aulbach	Theodor	Gailbach	wh	Rodenbach	v	Barbara	Ulrich	Neuendorf	1870	
+1	49	5	951	Aulenbach	Johann	Rothenbuch			v	Eva Engelbertha	Balling	Rothenbuch	1904	
+1	49	6	952	Aul	Franz Josef	Wiesthal			v	Anna	Werner	Lohr	1868	
+1	49	7	953	Aul	Johann Georg	Frammersbach			v	Katharina	Desch	Burgjoß	1836	
+1	49	8	954.1	Aul	Johann	Frammersbach			v	Maria Anna	Goebel	Frammersbach	1828	
+1	49	8	954.2	Aul	Johann	Frammersbach			wv	Maria	Rüth	Frammersbach	1828	
+1	49	9	955	Aull	Johann	Frammersbach			v	Elisabetha	Anderlohr	Frammersbach	1847	
+1	49	10	956.1	Aull	Johann	Frammersbach			wv	Josefine	Sator	Roßbrunn (bis her. Wohnort: Lohr)	1868	
+1	49	10	956.2	Aull	Johann	Frammersbach			Ehefrau 1	Elisabetha	Staub	Roßbrunn (bis her. Wohnort: Lohr)	1868	 verstorbem
+1	50	1	957	Aull	Johann Adam	Halsbach	wh	Würzburg	v	Margarethe	Schmachtenberger	Eibelstadt	1869	
+1	50	2	958	Aull	Johann Georg	Frammersbach			v	Louise	Weis	Frammersbach	1861	
+1	50	3	959	Aull	Joseph	Sendelbach			wv	Eva	Heim	Seifriedsburg	1820	nach Auflösung des Verlöbisses mit Maria Dorothea 
+1	50	4	960	Aul	Lorenz Daniel	Frammersbach			v	Theresia	Steigerwald	Frammersbach	1847	
+1	50	5	961	Aul	Lorenz Daniel	Frammersbach			Eheleute: (Ansäaigmachung)	Eva 	geb. Büdel		1847	Sohn Lorenz Daniel Aul
+1	50	6	962	Aul	Johann Micahel	Frammersbach			v	Maria Barbara	Keßler	Frammersbach	1834	
+1	50	7	963	Aul	Micahel	Frammersbach			v	Maria	Vorbeck	Frammersbach	1847	
+1	50	8	964	Aul	Aloi	Frammersbach			v	Maria Franziska	Rüppel	Frammersbach	1871	
+1	50	9	965	Aul	Anton	Frammersbach			v	Katharina	Keßler	Frammersbach	1859	
+1	50	10	966	Aul	Anton	Frammersbach			v	Dorothea	Kunkel	Frammersbach	1874	
+1	50	11	967	Aul	August				v	Maria Mathilda	Franz	Frammersbach	1897	
+1	51	1	968	Aull	Augustin	Frammersbach			v	Katharina	Krebs	Wiesen	1856	
+1	51	2	969	Aull	Balthasar	Frammersbach			v	Gertraud	Waigand	Frammersbach	1861	
+1	51	3	970	Aull	Balthasar	Frammersbach			v	Maria Josepha	Rüth	Frammersbach	1890	
+1	51	4	971	Aull	Florian	Frammersbach			v	Theresia	Friedel	Frammersbach	1868	
+1	51	5	972.1	Aull	Florian	Frammersbach 	()	Metz	v	Christina Barbara	Hummelmann	Metz	1883	
+1	51	5	972.2	Aull	Florian	Frammersbach 	()	Metz	v	Catharina	Weppler		1874	
+1	51	6	973	Aull	Franz	Frammersbach			v	Othilia	Winter	Frammersbach	1897	
+1	51	7	974	Aull	Franz	Frammersbach			v	Katharina	Weigand	Frammersbach	1900	
+1	51	8	975	Aull	Franz	Frammersbach			v	Auguste Juliane	Schreiber	Lettgenbrunn	1894	
+1	51	9	976	Aull	Franz  Anton	Frammersbach			v	Martha Elisabetha	Ackermann	Elversdorf wohnhaft: Wiesbaden	1893	
+1	51	10	977	Aull	Franz  Josef	Frammersbach			v	Anna Franziska	Staub	Frammersbach	1890	
+1	51	11	978	Aull	Franz Leopold	Frammersbach			v	Mathilda	Franz	Frammersbach	1906	
+1	51	12	979	Aull	Franz Peter	Frammersbach			v	Maria	Kißner	Frammersbach	1915	
+1	52	1	980	Aull	Franz Wilhelm	Frammersbach	wh	Damm	v	Anna Maria Dorothea	Wolf	"Erlach, wohnhaft in Kitzingen"	1899	
+1	52	2	981	Aull	Friedrich	Frammersbach			v	Josefa	Anderlohr	Frammersbach	1886	
+1	52	3	982	Aull	Friedrich	Frammersbach			v	Maria Ann	Anderlohr	Frammersbach	1889	
+1	52	4	983	Aull	Johann	Frammersbach			Gesuch um Erweiterung einer Gastwirkskonzession				1837	
+1	52	5	984	Aull	Johann	Frammersbach			v	Anna Maria	Lutz	Kindsbach/Pfalz	1847	
+1	52	6	985	Aull	Johann	Frammersbach			Gesuch um Erweiterung einer Gastwirkskonzession				1861	
+1	52	7	986.1	Aull	Johann	Frammersbach			v	Eva Dorothea	Weigand	Frammersbach	1868	
+1	52	7	986.2	Aull	Johann	Frammersbach			wv	Franziska	Weigand	Frammersbach	1868	
+1	52	8	987	Aull	Johann	Frammersbach	wh	Straßburg (Elsaß)	v	Maria Franziska	Hummel	Heidelberg wohnhaft in Straßburg	1871	
+1	52	9	988	Aull	Johann	Frammersbach			v	Dorothea	Goßman	Frammersbach	1879	
+1	52	10	989	Aull	Johann	Frammersbach			v	Eva	Stenger	Frammersbach	1908	
+1	52	11	990	Aull	Johann Balthasar	Frammersbach			v	Eva	"Staub, Witwe"		1874	
+1	53	1	991	Aull	Johann Gg.	Frammersbach			v	Anna	Blau	Trier (bisher wohnhaft Paris)	1873	
+1	53	2	992	Aull	Johann Josef	Frammersbach			v	Maria Ann	"Wegner geb, Amrheim, Witwe"		1866	
+1	53	3	993.1	Aull	Johann Michael	Frammersbach			v	Marioa Ann	Goßmann	Frammersbach	1851	
+1	53	3	993.2	Aull	Johann Michael	Frammersbach			Ehenfrau 1	Maria  Ann	Wegner		1851	
+1	53	3	993.3	Aull	Johann Michael	Frammersbach			Ehenfrau 2	Maria Ann	Kißner		1851	
+1	53	4	994	Aull	Johann Michael	Frammersbach			v	Klara	Fiiedel	Frammersbach	1869	
+1	53	5	995	Aull	Johann Peter	Frammersbach			v	Maria Anna	Rüppel	Frammersbach	1858	
+1	53	6	996	Aull	Johann Peter	Frammersbach			v	Katharina	Amrheim	Frammersbach	1883	
+1	53	7	997.1	Aull	Joh. Philipp	Frammersbach			v	Barbara	Amond	Partenstein	1870	
+1	53	7	997.2	Aull	Joh. Philipp	Frammersbach			Ehenfrau 1.	Maria	Keßer		1870	
+1	53	8	998	Aull	Johann Philipp	Frammersbach			v	Elisabetha	Weis	Frammersbach	1858	
+1	53	9	999	Aull	Johann Philipp	Frammersbach			v	Gertraud	Goßmann	Frammersbach	1879	
+1	53	10	1000	Aull 	Johann Philipp	Frammersbach			v	Maria Josepha	Franz		1897	
+1	53	11	1001	Aull	Johann Wilhelm	Frammersbach			v	Apollonia Rosina	Sinsel	Oberndorf	1889	
+1	54	1	1002	Aull	Joseph	Frammersbach			v	Maria Rosa	Winter	Frammersbach	1895	
+1	54	2	1003	Aull	Josef	Frammersbach	wh	Göggingen	v	Johanna Kunigunde	Lang	Dettingen/Bezirk Alzenau	1908	
+1	54	3	1004	Aull	Joseph	Frammersbach			v	Magdelana Franziska	Franz	Frammersbach	1913	
+1	54	4	1005	Aull	Joseph Andreas	Frammersbach			v	Maria Josepha	Rüth	Frammersbach	1896	
+1	54	5	1006	Aull	Karl Philipp	Frammersbach			v	Maria Katharina	Uhl	Frammersbach	1908	
+1	54	6	1007	Aull	Kaspar	Frammersbach			v	Louise Franziska	Gefäll	Frammersbach	1894	
+1	54	7	1008	Aull	Daniel	Frammersbach			v	Theresia	Steigerwald	Frammersbach	1847	
+1	54	8	1009	Aull	Melchoir	Frammersbach			v	Maria	Mill	Frammersbach	1862	
+1	54	9	1010	Aull	Melchoir	Frammersbach			v	Maria Josefa	Kißner	Frammersbach	1879	
+1	54	10	1011	Aull	Michael	Frammersbach			v	Franziska	Breitenbach	Frammersbach	1870	
+1	54	11	1012	Aull	Michael Felix	Frammersbach			v	Maria Agatha	Armheim	Frammersbach	1886	
+1	55	1	1013	Aull	Nikolaus Joseph	Frammersbach			v	Maria Ann	Franz	Frammersbach	1858	
+1	55	2	1014	Aull	Nikolaus Joseph	Frammersbach			wie vor; (Gesuch zwecks Aus“ubung des Schunchmache				1862	
+1	55	3	1015	Aull	Peter	Frammersbach			v	Katharina	Aull	Frammersbach	1852	
+1	55	4	1016	Aull	Peter	Frammersbach			v	Therese	Goßmann	Frammersbach	1905	
+1	55	5	1017	Aull	Peter	Frammersbach				Elisabetha	Aull	Frammersbach	1908	
+1	55	6	1018	Aull	Peter	Frammersbach			v	Josefa	Imhof	Frammersbach	1911	
+1	55	7	1019	Aull	Philipp	Frammersbach			v	Maria	Friedel	Frammersbach	1859	
+1	55	8	1020	Aull	Philipp	Frammersbach			v	Maria	Keßler	Frammersbach	1856	
+1	55	9	1021	Aull	Philipp	Frammersbach				Elisabetha	Weis	Frammersbach	1858	
+1	55	10	1022	Aull	Philipp	Frammersbach			verehelichungsgesuch				1858	
+1	55	11	1023	Aull	Wilhelm	Frammersbach			v	Anna	Aull	Frammersbach	1896	
+1	55	12	1024	Aull	Wilhelm	Frammersbach			v	Johanna Eva	Hümlein	Windheim/b. Hafenlohr	1911	
+1	55	13	1025	Aulmich	Friedrich Bernhard	Lohr			v	Margaretha	Herget	Burgsinn bisher. Wohnort: Lohr	1883	
+1	56	1	1026	Aut	Franz Heinrich	Neustadt/M.			v	Maria Margareta	Arnold	Wipfeld (biher wohn.Würzburg)	1882	
+1	56	2	1027	Aut	Ludwig Heinrich	Neustadt/M.	wh	Würzburg	v	Josephina	Wagenbrenner	Würzburg	1908	
+1	56	3	1028	Auth	Andreas	Neustadt/M.			v	Barbara	Kern	Neustadt/M.	1862	
+1	56	4	1029	Auth	Franz Heinrich	Neustadt/M.			v	Maria Margaretha	Arnold	"Wipfeld, beide wohnhaft in Würzburg"	1883	
+1	56	5	1030	Auth	Gottfried	Neustadt/M.			v	Theresia Stephania Josefina	Rudolf	Neustadt/M.	1870	
+1	56	6	1031	Auth	Johann Anton	Neustadt/M.			v	Anna	Roth	Franenthal (Pfalz)	1870	
+1	56	7	1032	Auth	Jodef Gerhard	Neustadt/M.			v	Lisabetha	Kiefer	Recthenbach	1888	
+1	56	8	1033	Auth	Theodor	Neustadt/M.			v	Franziska	Thoma	Dettelbach	1864	
+1	56	9	1034	Bachmann	Andreas	Neuhütten			v	Maria Martha	Roth	Neuhütten	1854	
+1	56	10	1035	Bachmann	Anton	Wiesthal			v	Katharina	Emmerich	Oberbessenbach	1838	
+1	57	1	1036	Bachmann	Anton	Neuhütten			v	Apollonia	"Stenger, witwe geb Bachmann"	Neuhütten	1840	
+1	57	2	1037	Bachmann	Anton	Neuhütten			v	Katharina	Englert	Neuhütten	1856	
+1	57	3	1038	Bachmann	Arthur	Neuhütten	wh	Aschaffenburg	v	Apollonia	Wernig	Damm	1894	
+1	57	4	1039	Bachmann	Augustin	Neuhütten			v	Theresia	Englert	Neuhütten	1870	
+1	57	5	1040	Bachmann	Emil	Wiesthal			v	Maria	Kunkel	Wiesthal	1907	
+1	57	6	1041	Bachmann	Ferdinand	Rothenbuch	wh	Fraulbach	v	Anna Christine	Fertig	Haslooh	1892	
+1	57	7	1042	Bachmann	Florian	Neuhütten			v	Anna Maria	Stegmann	Rothenbuch	1870	
+1	57	8	1043	Bachmann	Florian	Neuhütten			v	Rosalie	Staph	Mönohberg (bisher wohn in Aschafenvurg)	1886	
+1	57	9	1044	Bachmann	Franz	Wiesthal			v	Josefa	Bopp	Wiesthal	1876	
+1	57	10	1045	Bachmann	Franz	Wiesthal			v	Rosalie	Merz	Wiesthal	1888	
+1	57	11	1046	Bachmann	Franz Anton	Neuhütten			v	Christina	Karl	Neuhütten	1839	
+1	57	12	1047	Bachmann	Franz Joseph	Neuhütten			v	Maria Katharina	Englert	Neuhütten	1902	
+1	58	1	1048	Bachmann	Franz Josef	Rothenfels	wo	Würzburg	v	Maria Elisabetha	Klug	Hörbach	1913	
+1	58	2	1049	Bachmann	Fridolin	Neuhütten	wo	Würzburg	v	Sabine	Völker	"Veishöchheim, Wohnort: Würzburg"	1877	
+1	58	3	1050	Bachmann	Georg	Neuhütten			v				1836	lesser Umschlag
+1	58	4	1051	Bachmann	Gustav	Neuhütten			v	Margaretha	Karl	Neuhütten	1854	
+1	58	5	1052.1	Bachmann	Ignaz	Neuhütten			Verlobung gelöst 	Theresia	Englert	Neuhütten	1867	
+1	58	6	1052.2	Bachmann	Ignaz	Neuhütten			v	Theresia	Steigerwald	Neuhütten	1867	
+1	58	7	1053	Bachmann	Jakob	Neuhütten			v	Tochter des Georg	Bachmann	Neuhütten	1861	
+1	58	8	1054	Bachmann	Johann	Wiesthal			v	Theresia	Kunkel	Wiesthal	1857	
+1	58	9	1055	Bachmann	Johann	Neuhütten			v	Justina	Kunkel	Heigembrücken	1900	
+1	58	10	1056	Bachmann	Johann Anton	Neuhütten			v	Martina	Lunkel	Neuhütten	1861	date=1861/62
+1	58	11	1057	Bachmann	Johann Wilhelm	Neuhütten			v	Mathilde	Wirzberger	Neuhütten	1874	
+1	58	12	1058	Bachmann	Joseph	Lohr			v	Anna Magdalena	Weyland	Frankenthal (Pfalz)	1908	
+1	59	1	1059	Bachmann	Joseph	Wiesthal			v	Susanna	Imhof	Wiesthal	1855	
+1	59	2	1060	Bachmann	Leopold	Neuhütten			v	Kreszenzia	Schopper	Neuhütten	1865	
+1	59	3	1061	Bachmann	Ludwig	Neuhütten			v	Theresia	Kunkel	Neuhütten	1871	
+1	59	4	1062	Bachmann	Sebastian Ludwig				v	Anna Maria	Madre	Rechtenbach	1881	
+1	59	5	1063	Bachmann	Martin	Neuhütten			v	Regina	Kunkel	Neuhütten	1839	
+1	59	6	1064	Bachmann	Maximilian	Neuhütten			v	Cölestina	Stenger	Neuhütten	1872	
+1	59	7	1065	Bachmann	Peter	Neuhütten			v	Margaretha	Stenger	Krommenthal	1841	
+1	59	8	1066	Bachmann	Peter	Neuhütten			v	Maria	Kunkel	Neuhütten	1850	
+1	59	9	1067	Bachmann	Philipp	Neuhütten			v	Genofeva	Bachmann	Neuhütten	1838	
+1	59	10	1068	Bachmann	Philipp	Neuhütten			Protokollauszug Pfarramt Wiesthal			Wiesthal	1836	
+1	59	11	1069	Bachmann	Philipp	Neuhütten			v	Theresi	Kunkel	Neuhütten	1857	
+1	59	12	1070	Bachmann	Sebastian	Wiestahl	wh	Oberzell/M.	v	Anna Barbara	Schmitt	Euerdorf (wohnhaft in Würzburg)	1890	
+1	60	1	1071	Bachmann	Sebastian Josef	Neuhütten			v	Rosalia	Wirtzberger	Neuhütten	1839	
+1	60	2	1072	Bachmann	Sylvester	Wiesthal			v	Klara	Hock	Wiesthal	1848	
+1	60	3	1073	Bachmann	Rochus	Neuhütten			v	Maria Christine	Bachmann	-	1841	
+1	60	4	1074	Bachmann	Rudolf	Neuhütten			v	Carolina	Stenger	Neuhütten	1872	
+1	60	5	1075	Bachmann	Rudolf	Wiesthal			v	Josefa	Fleckenstein	Wiesthal	1874	
+1	60	6	1076	Bachmann	Rudolf Leo	Lohr	wh	Aschaffenburg	v	Maria Margaretha	Bärtschi geb. Müller	Lützelflüh (Schweis) bisher wohnhaft: Aschaffenbur	1905	
+1	60	7	1077	Bachmann	Theodor	Neuhütten			v	Josepha	Kuhn	Neuhütten	1895	
+1	60	8	1078	Bachmann	Valtin	Neuhütten			v	Franziska	Albud	Oberndorf	1877	
+1	60	9	1079	Bachmann	Wolfgang	Wiestahl			v	Josefa	Wirzberger	Wiestahl	1879	
+1	60	10	1080	Back	August	Steinbach			v 	Josefa	Werthamnn	Ruppertshütten	1899	
+1	60	11	1081	Back	Georg	Rodenbach	wh	Lohr	v	Philomena	Englert	Rodenbach	1906	
+1	61	1	1082	Back	Johann	Steinbach			v	Anna	Rauch	Wiesenfeld	1898	
+1	61	2	1083	Back	Johann	Oberweissenbrunn			v	Christine	Back	Steinbach	1818	
+1	61	3	1084	Back	Joseph	Steinbach			v	Katharina	Biller	Backendorf bisher. Wohnort: Bamberg	1874	
+1	61	4	1085	Back	Josef	Steinbach	wh	Passau	v	Katharina	Bayer	"Untersteinbach, bisher. Wohnort: Bamberg"	1876	
+1	61	5	1086	Back	Jodef	Steinbach	wh	Lohr	v	Margartha	Kuhn	Waldzell	1899	
+1	61	6	1087	Back	Michael	Steinbach			v	Margartha	Scherg	Sendelbach	1814	
+1	61	7	1088	Back	Michael	Steinbach			v	Barbara	Glüber (Klüber)	Rügshofen	1859	
+1	61	8	1089	Back	Michael	Steinbach			v	Margartha	Kuhn	Neuendorf	1864	date=1864/65
+1	61	9	1090	Bock	August Wilhelm	Lohr			v	Maria Emma	Häckel	Werdau (Sachsen)	1895	
+1	61	10	1091	Badersbach	Anton	Steinfeld			v	Barbara	Schuhmann	Steinfeld	1858	
+1	61	11	1092	Badersbach	Barthel	Steinfeld			v	Maria	Scherg	Steinfeld	1861	
+1	61	12	1093	Badersbach	Franz Josef	Steinfeld			v	Franzika	Burkard	Steinfeld	1900	
+1	62	1	1094	Badersbach	Johann	Steinfeld			v	Barbar	Klüpfel	Steinfeld	1856	
+1	62	2	1095	Badersbach	Johann	Steinfeld			v	Juliana	Sachneider	Leoben/Steiermark(Österreich)	1858	
+1	62	3	1096	Badersbach	Carl	Steinfeld			v	Margarethe	Tröstl geb. Hafensteiner	"Hubenstein, zuletzt wohnhaft: Nürnberg"	1896	
+1	62	4	1097	Badersbach	Karl Johann	Steinfeld	wh	München	v	Susanna	Lau	"Haag/Bezirksamt Wasserburg, zuletzt wohnhaft: Münc"	1894	
+1	62	5	1098	Badersbach	Michael	Steinfeld			v	Katharina	BrÜckner geb. Schneider	Steinfeld	1885	
+1	62	6	1099	Badersbach	Leonhard Anselm Philipp	Steinfeld	wh	Nürnberg	v	Elisabetha	Strunz	Nürnberg	1907	
+1	62	7	1100.1	Badersbach	Sebastian	Steinfeld			v	Maria	Waßmann	Rohrbach;	1856	
+1	62	7	1100.2	Badersbach	Sebastian	Steinfeld			wv	Margaretha Christina	Kern	Massenbruch	1868	
+1	62	8	1101	Badersbach	Johann Theobald	Steinfeld			(Meisterannahme und Absässigmachung)				1834	
+1	62	9	1102	Badersbach	Theobald Johann	Steinfeld	wh	Nürnberg	v	Maria Karolina	Oertel	Nürnberg	1907	
+1	62	10	1103	Bätz	Julius	Waldzell			Verehelichung Bezirksamt Scheinfeld				1872	
+1	63	1	1104	Bätz	Philipp August	Waldzell	wh	Mainsondheim	v	Margaretha	Werner	Lohr	1875	
+1	63	2	1105	Baier	Ludwig Michael	Wernfeld			v	Barbara Johanna	Werthmann	Wiesenfeld	1898	
+1	63	3	1106	Bald	Benedikt Jodsef	Lohr			v	Agnes Wilhelmina	metzger	"Heppdiel/Bezirksamt Miltenberg, bisher wohnhaft: A"	1914	
+1	63	4	1107	Bald	Franz Christoph	Steinbach			v	Adelheitd	Brand	Steinbach	1836	
+1	63	5	1108	Bald	Franz	Sendelbach	wh	Aschaffenburg	v	Anna Maria	Diel	Sendelbach	1899	
+1	63	6	1109	Bald	Georg	Sendelbach			v	Anna Maria	Heidenfelder	Pflachsbach	1860	
+1	63	7	1110	Bald	Georg Nikolaus	Steinbach			v	Christina	Röther	Karsbach	1902	
+1	63	8	1111	Bald	Dr. Heinrich	Sendelbach			v	Johanna Sophia	Semmler	"Nürnberg, bisher wohnhaft: Aschaffenburg"	1869	
+1	63	9	1112	Bald	Heinrich	Sendelbach			v	Josepha	Schmiiner	Waldaschaff	1899	
+1	63	10	1113	Bald	Jörg	Steinbach			v	Maria Barbara	Brand	Steinbach	1820	
+1	63	11	1114	Bald	Michael	Steinbach			v	Theresia	Betz	Steinbach	1879	
+1	64	1	1115	Balo	Nikolau	Steinbach			v  	Barbara	Arnold	"Gössenheim, bisher. Wohnort: Steinbach"	1872	
+1	64	2	1116	Balo	Valentin	Sendelbach			v  	Rosine	Fleckenstein	"Steinfeld, wohnhaft: Lohr/M."	1898	
+1	64	3	1117	Balling	Adolf	Rothenbuch			v  	Veronika	Eich	Rothenbuch	1905	
+1	64	4	1118	Balling	August	Rothenbuch			v  	Margaretha	Hecker	Rothenbuch	1875	
+1	64	5	1119	Balling	Franz Heinrich	Rothenbuch			v  	Rosalia	Eich	Rothenbuch	1889	
+1	64	6	1120	Balling	Georg Heinrich	Rothenbuch			v  	Katharina	Spielmann	"Hobbach/Bezirksamt Obernburg, bisher wohnhaft: Fra"	1906	
+1	64	7	1121	Balling	Johann	Rothenbuch			v  	Eva	Noll	"Hobbach/Bezirksamt Obernburg, bisher wohnhaft: Fra"	1871	
+1	64	8	1122	Balling	Severin	Rothenbuch			v  	Ida	Maton	Rechtenbach	1908	
+1	64	9	1123	Bangert	Gottfried	Wiesen			v  	Regina	Englert	Wiesen	1887	
+1	64	10	1124	Bangert	Johann	Rothenfels			v  	Barbara	Ambach	Rothenfels	1889	
+1	64	11	1125	Bangert	Kaspar	Sendelbach			v  	Maria	Helferich	Steinbach	1856	
+1	64	12	1126	Bangert	Kornelius	Wiesen			v  	Gertraud	Hartmann	Wiesen	1903	
+1	65	1	1127	Bangert	Paul	Wiesen			v	Sophia	Englert	Wiesen	1895	
+1	65	2	1128	Bangert	Rudolf	Wiesen	wh	Frankfurt/M.	v	Magdalena	Römer	Hofheim	1893	
+1	65	3	1129	Bangert	Valentin	Sendelbach			v	Anna Maria	Schmitt	"Marienbrunn, bisher wohnhaft: Lohr/M."	1913	
+1	65	4	1130	Bany	Jakob	Reibreitenbach	/	Hessen	v	Barbara	Rüb	Waldzell	1878	
+1	65	5	1131	Bartel	Anton	Rechtenbach			v	Margaretha	Kretz	Rechtenbach	1861	
+1	65	6	1132	Bartel	August	Rechtenbach			v	Franziska	Schmitt	Rechtenbach	1908	
+1	65	7	1133	Bartel	Clemens	Rechtenbach			v	Augusta	Hartung	Rechtenbach	1899	
+1	65	8	1134	Bartel	Franz Josef	Rechtenbach	wh	Aschaffenburg	v	Margaretha	Deucker	"Staatsang. Preussen, bisher wohnhaft: Aschaffenbur"	1911	
+1	65	9	1135	Bartel	Friedrich	Rechtenbach			v	Apollonia	Vater	Rechtenbach	1866	
+1	65	10	1136	Bartel	Johann Georg	Rechtenbach			v	Walburgia	Ebel	Rechtenbach	1884	
+1	65	11	1137	Bartel	Leo	Rechtenbach			v	Magdelena Emilie	Kohl	Rechtenbach	1887	
+1	65	12	1138	Bartel	Michael	Rechtenbach			v	Katharina	Geist	Rechtenbach	1834	
+1	66	1	1139	Barthelmes	Peter	Oberelsbach			v	Margaretha	Riedmann	von der Erlenbacher Höfen/Kgl. Landgericht Karlsta	1905	
+1	66	2	1140	Bartel	Pius	Rechtenbach			v	Maria	Mairinger	"Schildern, bisher wohnhaft: Gelling"	1905	
+1	66	3	1141	Bartel	Richard	Rechtenbach	wh	Gelling(Österreich)	v	Karoline Sabine	Matre	Rechtenbach	1907	
+1	66	4	1142	Bartel	Wilhelm	Rechtenbach	wh	Hammelburg	v	Maria 	Schneider	Hammelburg	1885	
+1	66	5	1143	Bartel	Wilhelm	Rechtenbach			v	Anna Maria	Ihls	Rechtenbach	1875	
+1	66	6	1144	Barthelmes	Peter	Oberelsbach			v	Margaretha	Riedmann	Erlenbach	1835	
+1	66	7	1145	Bauer	Andreas	Frammersbach			v	Emilie Gertraud	Keßler	Frammersbach	1905	
+1	66	8	1146	Bauer	Bernard	Pflochsbach			v	Elisabetha	Christ	Pflochsbach	1885	
+1	66	9	1147	Bauer	Eduard	Rothenfels	wh	Frankfurt/M.	v	Katharina Margaretha	Steitz	Offenbach/M.	1897	
+1	66	10	1148	Bauer	Emil Heinrich	Pflochsbach			v	Rosa	Christ	Pflochsbach	1907	
+1	67	1	1149	Bauer	Lorenz	Langenprozelten			v	Barbara	Meder	Wernfeld	1867	
+1	67	2	1150	Bauer	Georg	Pflochsbach			v	Katharina	Schmitt	Unterwestern	1860	
+1	67	3	1151	Bauer	Joachim Alois	Rothenfels			v	Augusta Katharina	Zürn	Rothenfels	1896	
+1	67	4	1152	Bauer	Johann	Langenprozelten			v	Anna Maria	Oberth	Langenprozelten	1825	
+1	67	5	1153.1	Bauer	Johann	Langenprozelten			v	Kunigunde	Herold	Burgsinn	1850	
+1	67	5	1153.2	Bauer	Johann	Langenprozelten			1. Ehe mit	Anna Maria	Oberth			
+1	67	5	1153.3	Bauer	Johann	Langenprozelten			2. Ehe mit	Anna Maria	Pfölg?			
+1	67	6	1154	Bauer	Johann	Langenprozelten			v	Juliane	Kempf	Frankfurt/M.	1880	
+1	67	7	1155	Bauer	Johann Baptist	Langenprozelten	wh	Nordhausen	v	Antonie	Ziegler	"Staßfurt, wohnhaft: Magdburg"	1906	
+1	67	8	1156	Bauer	Joh. Georg	Rothenfels			v	Christina Maria	Grün	"Hof Erlenfurt, wohnhaft: Mainz"	1869	
+1	67	9	1157	Bauer	Johann Georg	Langenprozelten			v	Cäcilie	Hörning	"Pflochsbach, wohnhaft: Lohr"	1872	
+1	67	10	1158	Bauer	Johann Josef	Lohr			v	Karolina	Ewald	Lohrbach	1889	
+1	67	11	1159.1	Bauer	Johann Michael	Frammersbach			v	Maria Anna	Geis	Gössenheim	1868	
+1	67	11	1159.2	Bauer	Johann Michael	Frammersbach			wv	Barbara	Schneider	Gänheim	1872	
+1	67	11	1159.3	Bauer	Johann Michael	Frammersbach			Versehelichung mit	Margarethe	Sachs	Obersinn	1873	
+1	68	1	1160	Bauer	Johann Philipp	Frammersbach			v	Luise Katharina	Goßmann	Frammersbach	1905	
+1	68	2	1161	Bauer	Kiliab	Frammersbach			v 	Maria	Imhof	Frammersbach	1875	
+1	68	3	1162	Bauer	Leo	Frammersbach			v	Anna Maria	Erhst	"Heimatberechight in Preußen, bisher wohnhaft: Duis"	1908	
+1	68	4	1163	Bauer	Leo Ludwig	Lohr			v	Maria	Maier	Lohr/M.	1914	
+1	68	5	1164	Bauer	Lorenz	Frammersbach			v	Anna Maria	Goßmann	Frammersbach	1840	
+1	68	6	1165	Bauer	Melchior	Frammersbach			v	Elisabetha	Durchholz		1830	
+1	68	7	1166	Bauer	Michael	Bergrothenfels			wv	Maria Ann	Seiz	Fahr	1857	
+1	68	8	1167.1	Bauer	Michael	Bergrothenfels			v	Barbara Gertraud	Rösch	Bergrothenfels	1863	
+1	68	8	1167.2	Bauer	Michael	Bergrothenfels			wv	Katharina	Salzmann	Einsiedel	1867	
+1	68	9	1168	Bauer	Philipp	Bergrothenfels			v	Justine	Umscheid	Dorfprozelten	1877	
+1	68	10	1169	Bauer	Philipp	Langenprozelten			v	Veronkia	Fleckenstein	Langenprozelten	1896	
+1	68	11	1170	Bauer	Simon	Frammersbach			v	Maria Abba	Mähler	Wernfeld	1868	
+1	69	1	1171	Bauer	Simon	Frammersbach	wh	Aschafferburg	v	Maria	Höflich	Aschaffenburg	1904	
+1	69	2	1172	Baumann	Andreas	Bergrothenfels			v	Barbara	Gläser	Gröbenstädt	1904	
+1	69	3	1173	Baumann	Georg Damian	Retzstadt			v	Franziska	Hartmann	Partenstein	1863	
+1	69	4	1174	Baumann	Joseph	Bergrothenfels			v	Elisabetha	Hauck	Bergrothenfels	1896	
+1	69	5	1175.1	Baumann	Melchior	Frammersbach			wv	Joseph	Büdel	Frammersbach	1871	
+1	69	5	1175.2	Baumann	Melchior	Frammersbach			1. Ehe mit	Louise	Büdel	Frammersbach	1863	
+1	69	6	1176	Baumann	Simon	Bergrothenfels	wh	Würzburg	v	Maria Dorothea	Gehring	Röthlein/Bezirks Schweinfurt. bisher. Wohnort: Wür	1905	
+1	69	7	1177	Bayel	Konstantin	Bergrothenfels			v	Anna Maria	Mittenzwey	Gerolzhofen	1852	
+1	69	8	1178	Bayer	Adolf	Langenprozelten			v	Hedwig	Grim	Lohr/M.	1869	
+1	69	9	1179	Bayer	Andreas	Rothenfels			v	Eva Maria	Schubert	"Karbach, wohnhaft in Rothenfels"	1898	
+1	69	10	1180	Bayer	Bernhard	Lohr			v	Eva	Schmitt	Lohr/M.	1908	
+1	69	11	1181	Bayer	Ferdinand	Langenprozelten			v	Anna Maria Margaretha	Schmitt	"Münnerstadt, wohnhaft: Würzburg"	1872	
+1	70	1	1182	Becher	Georg	Partenstein			v  	Amalia	Weber	Retzbach	1869	
+1	70	2	1183	Becher	Johann	Rothenfels			v  	maria	Walthierer	Beilngries	1875	
+1	70	3	1184	Beck	Alois	Lohr/M.			v  	Johann Babetta	Schneyer	Lohr	1898	
+1	70	4	1185	Beck	Andreas	Lohr/M.			v  	Barbara	Göbel	Wermerichshausen	1905	
+1	70	5	1186	Beck	Andreas	Lohr/M.	wh	Mindelheim	v  	Mathilde	Lindauer	Landsberg	1915	
+1	70	6	1187	Beck	Josef	Lohr/M.			v  	Maria Franziska	Weber	Lohr/M.	1900	
+1	70	7	1188	Beck	Josef August	Lohr	wh	Wïrzburg	v  	Elisabetha	Elbert	Lohr	1903	
+1	70	8	1189	Beck	Karl	Frammersbach	wh	Würzburg	v  	Barbara	Kirchner	"Gemünden, wohnhaft: Würzburg"	1902	
+1	70	9	1190	Becker	Albin	Wiesen			v  	Maria Anna	Amberg	Wiesen	1895	
+1	70	10	1191	Becker	Anton	Wiesen			v  	Beata	Krebs	Wiesen	1905	
+1	70	11	1192	Becker	Franz Ludwig	Wiesen			v  	Anna Maria	Freund	Wiesen	1862	
+1	70	12	1193	Becker	Gregor	Wiesen			v  	Maria Thelka	Büdel	Wiesen	1895	
+1	71	1	1194	Becker	Gregor	Wiesen			v  	Gertraud	Krebs	Wiesen	1884	
+1	71	2	1195	Becker	Gregor	Wiesen			v  	Elisabetha maria	Thoma	Hofstadten	1895	
+1	71	3	1196	Becker	Konstantin	Wiesen			v  	Thekla	Elesser	Wiesen	1888	
+1	71	4	1197	Becker	Ludwig	Wiesen			v  	Anna Maria	Freund	Wiesen	1863	
+1	71	5	1198	Becker	Martin	Wiesen			v  	Katharina	Amberg	Wiesen	1863	
+1	71	6	1199	Becker	Michael Karl	Wiesen			v  	maria Barbara	Götz	Wiesen	1906	
+1	71	7	1200	Becker	Nikloaus	Wiesen			v  	Maria	Baumann	Wiesen (Frankfurt/M.)	1896	
+1	71	8	1201.1	Becker	Sebastian	Wiesen			v  	Margaretha	Amberg	Wiesen	1848	
+1	71	9	1201.2	Becker	Vinzens	Wiesen			v  	Margaretha	Elsesser	Wiesen	1830	number=1201.a
+1	71	10	1202	Behner	Johann	Partenstein			v  	Elisabetha	Imhof	Partenstein	1856	
+1	71	11	1203	Behringer	Joh. Michael	Gailsbach			v  	Elisabetha	Leppig	Stadtelhofen	1832	
+1	71	12	1204	Beifuß	Franz	Rothenfels			v  	Katharina Eva	Roth	"Erlangen, wohnhaft: Schnigling/Bez. Lohr"	1884	
+1	72	1	1205	Beifuß	Franz	Rothenfels			v	Juliana	Eder	Biburg	1895	
+1	72	2	1206	Beifuß	Johann	Rothenfels			v	Katharina	Kerber	Rothenfels	1851	
+1	72	3	1207	Beifuß	Johann Michael	Rothenfels			v	Katharina	Roth (laut Erklärung der Gemeindeverwaltung Rothen	"Bruck/Bez. Erlangem, wohnhaft: Fürth"	1908	
+1	72	4	1208	Beifuß	Michael	Rothenfels			v	Elisabetha Margarete	Hoffmann	"Schnigling, wohnhaft: in Doos/b. Nürnberg"	1883	
+1	72	5	1209	Beifuß	Philipp	Rothenfels			v	Margaretha	Schabel	Rothenfels	1855	
+1	72	6	1210	Beiweiler	Heinrich	Waldzell			Ansässigsmachung				1863	
+1	72	7	1211	Beld	Bernard	Steinfeld			v	Katharina	Scheiner	Steinfeld	1856	
+1	72	8	1212	Beld	Georg	Steinfeld			v	Anna Maria	Otter	Hausen	1847	
+1	72	9	1213	Beld	Georg	Steinfeld			v	Anna Maria	Büttner	Ansbach	1862	
+1	72	10	1214	Beld	Johann Christian	Steinfeld			v	Barbara Plautilla	Schebler	Steinfeld	1894	
+1	72	11	1215	Beld	Michael	Steinfeld			v	Barbara	Ziegler	Laudenbach	1868	
+1	73	1	1216	Beld	Theobald	Steinfeld			v	Maria Anna	Rüb geb Mähler	Wiesenfeld	1877	
+1	73	2	1217	Bendel	Joseph	Marktheidenfeld			v	Magdalena	Endres	Bergrothenfels	1840	
+1	73	3	1218	Berberich	Michael	Ohrenbach			v	Maria Anna	Bauer	Bergrothenfels	1855	
+1	73	4	1219	Bernard	Adam Joseph	Steinbach			v	Theresia	Schott	Steinbach	1869	
+1	73	5	1220	Bernard	Andres	Sackenbach			v	Barbara	Vormwald	Sackenbach	1898	
+1	73	6	1221.1	Bernard	Georg Anton	Rodenbach	wh	 Frankfurt/M.	v	Maria	Euler	"Steinau, wohnhaft: Frankfurt/M."	1898	
+1	73	6	1221.2	Bernard	Georg Anton	Rodenbach	wh	 Frankfurt/M.	1. Ehe mit	Elisabeth	Constanzia	Haussmann		
+1	73	7	1222	Bernard	Georg Joseph	Sackenbach			v	Barbara	Merz	Sackenbach	1885	
+1	73	8	1223.1	Bernard	Johann	Rodenbach			v	Margaretha	Hauch	Rodenbach	1840	
+1	73	8	1223.2	Bernard	Johann	Rodenbach			wv	Maria Anna	Werthmann	Ruppertshütten	1862	
+1	73	9	1224	Bernard	Johann	Rodenbach			v	Antonia	Merz	Rodenbach	1890	
+1	73	10	1225	Bernard	Adam	Sackenbach			v	Anna Maria	Schäfer	Sackenbach	1855	
+1	74	1	1226	Bernard	Johann Michael	Rodenbach			v	Agatha	Merz	Rodenbach	1877	
+1	74	2	1227	Bernard	Michael Joseph	Rodenbach			v	Katharina	Völker	Rodenbach	1840	
+1	74	3	1228	Bernard	Josef Georg	Sackenbach			v	Elisabetha	Hohe	"Zimmern, wohnhaft: Lohr"	1877	
+1	74	4	1229.1	Bernard	Michael	Partenstein			v	Maria Catharina	Zängel	Erlenbach	1858	
+1	74	4	1229.2	Bernard	Michael	Partenstein			wv	Anna Maria	Dees	Zenzleben	1873	
+1	74	5	1230	Bernard	Michael Joseph	Steinbach			v	Josepha	Emmerich	Steinbach	1893	
+1	74	6	1231	Bernard	Michael Josef	Steinbach			v	Maria	Emmerich	Steinbach	1902	
+1	74	7	1232	Bernard	Peter	Sackenbach			v	Magdalena	Vormwald	Sackenbach	1863	
+1	74	8	1233	Bernard	Peter Joseph	Sackenbach			v	Christina Karolina	Bernard	Sackenbach	1904	
+1	74	9	1234	Bernard	Sebastian	Sackenbach			v	Anna Maria	Höfling	Sackenbach	1856	
+1	74	10	1235	Bernard	Sebastian	Sackenbach			v	Gertraud	Hart	Sackenbach	1896	
+1	74	11	1236	Bernard	Valtin	Rodenbach			v	Eugenia Creszentia	Weyer	Neustadt/M.	1903	
+1	75	1	1237	Beringer	Michael				wv	Barbara	Freitag	Holsbach	1825	
+1	75	2	1238	Bernstein	August	Neustadt/M.			v	Paulina	Roth	Weiberbrunn	1872	
+1	75	3	1239	Berning	Johann Adam	Lohr			v	Karolina Josefa	Nickles	"Lohr, bisher wohnhaft: Stembach"	1913	
+1	75	4	1240	Bernsold	Joseph	Lohr			v	Auguste	Meßmer	Rieneck	1869	
+1	75	5	1241	Bernstein	Eduard	Rothenfels			v	Maria Elisabetha	Dittmann	Erlach	1907	
+1	75	6	1242	Bernstein	Franz	Neustadt/M.	wh	Glashütte	v	Johanna	Roth	Wiebersbrunn	1879	
+1	75	7	1243	Bernstein	Julius	Neusattel b.Elbogen (Böhmen)	auch  wo	Neustadt/M.	v	Elisabetha	Gunkel	"Breitenborn, wohnhaft: Granesau"	1879	
+1	75	8	1244	Bernstein	Georg Josef	Neustadt/M.			v	Johanna	Weigand	Rechtenbach	1906	
+1	75	9	1245	Bernstein	Gustav Otto	Neustadt/M.	wh	Wirges/Westerwald (Preußen)	v	Maria	Haas	"Weiherberg, wohnhaft: Wolfratshausen"	1899	
+1	75	10	1246	Bernstein	Hermann	Neustadt/M.	wh	Kirchweidach	v	Maria Luise	Geiselmann	Oberkirchberg	1908	
+1	76	1	1247	Bernstein	Joh. Georg	Einsiedel  	Gemeinde	Neustadt/M.	v	Margaretha	Vaeth	Esselbach	1864	
+1	76	2	1248	Berthold	Konrad	Partenstein			v	Anna Maria	Krimm	Partenstein	1861	
+1	76	3	1249	Beßinger	Georg	Rothenfels			v	Barbar	Hepp	Rothenfels	1876	
+1	76	4	1250	Beßinger	Georg Heinrich	Rothenfels			v	Anna	Fischer	Rothenfels	1879	
+1	76	5	1251	Beßinger	Georg Heinrich	Rothenfels			v	Margaretha Josepha Wilhelmina	Calmano	Oberursel	1904	
+1	76	6	1252	Beßinger	Georg Otto	Rothenfels			v	Helena	Börger	Wörth/Main	1908	
+1	76	7	1253.1	Beßinger	Heinrich	Rothenfels			v	Regina	Freund	Laubach	1860	date=1860/61
+1	76	7	1253.2	Beßinger	Heinrich	Rothenfels			wv	Margaretha	Stahl	Rothenburg (Tauber)	1865	
+1	76	8	1254.1	Beßinger (auch Bessinger)	Heinrich	Rothenfels			v	Wilhelmina Dorothea	Herter	Ebingen (Württemberg)	1875	
+1	76	8	1254.2	Beßinger (auch Bessinger)	Heinrich	Rothenfels			wv					2. Verehlichung
+1	76	9	1255	Beßinger	Michael Joseph	Rothenfels			v	Katharina	Weißenberger	Lohr	1848	
+1	76	10	1256	Betz	Adolf	Langenprozelten			v	Rosa	Ruppert	Langenprozelten	1893	
+1	77	1	1257	Betz	Adolf	Langenprozelten			v	Ottilia	Egert	Langenprozelten	1898	
+1	77	2	1258	Betz	Amilian	Langenprozelten 			v	Agathe	Ruppert	Langenprozelten	1897	
+1	77	3	1259	Betz	Johann Michael	Steinbach			v	Christina	Beinin [?]		1818	
+1	77	4	1260	Betz	Balthasar	Sendelbach	wh	Würzburg	v	Maria mathilda	Rüth	Sendelbach	1908	
+1	77	5	1261	Betz	Edmund	Langenprozelten	wh	Frankfurt/M.-Sachsenhau	v	Rosalia	Endres	"Achsheim, biher wohnhaft: Frankfurt/M."	1914	
+1	77	6	1262	Betz	Franz Michael	Langenprozelten			v	Anna Maria	Reinhard	Langenprozelten	1887	
+1	77	7	1263	Betz	Frriedrich	Langenprozelten			v	Anna	Wirthmann	Langenprozelten	1897	
+1	77	8	1264	Betz	Frriedrich	Langenprozelten			wv	Anna Maria	Scheller	Bibergau 	1905	v & Wiederverehelichung
+1	77	9	1265	Betz	Georg	Langenprozelten			v	Margaretha	Imhof	Langenprozelten	1848	
+1	77	10	1266	Betz	Georg	Langenprozelten			v	Anna Maria	"Ries, Witwe"		1858	
+1	77	11	1267	Betz	Georg	Langenprozelten			v	Margaretha	Schmitt	Langenprozelten	1859	
+1	78	1	1268	Betz	Johann	Langenprozelten			v	Anna Maria	Koch	Langenprozelten	1854	
+1	78	2	1269	Betz	Johann	Langenprozelten			v	Barbara	Höfling	Langenprozelten	1857	
+1	78	3	1270	Betz	Johann	Langenprozelten			v	Margaretha	Haberberger	Langenprozelten	1870	
+1	78	4	1271	Betz	Johann	Langenprozelten			v				1873	onhe Angeben
+1	78	5	1272	Betz	Johann	Langenprozelten			v	Maria	Haberberger	Langenprozelten	1881	
+1	78	6	1273	Betz	Johann	Langenprozelten			v	Katharina	Ruppert	Langenprozelten	1883	
+1	78	7	1274	Betz	Johann Josef	Langenprozelten			v	Maria	Kübert	Langenprozelten	1886	
+1	78	8	1275	Betz	Johann Nikolaus	Langenprozelten			v	Wug. Dorothea	Höfling	Langenprozelten	1897	
+1	78	9	1276	Betz	Johanna Otto	Langenprozelten			v	Maria Franziska	Oberst	Langenprozelten	1886	
+1	78	10	1277	Betz	Johanna Paul	Langenprozelten			v	Hedwig	Ruppertt	Langenprozelten	1893	
+1	78	11	1278	Betz	Kaspar	Halsbach			v	Margaretha	Joßberger	Halsbach	1818	
+1	79	1	1279	Betz	Ludwig	Halsbach	wh	Rumpernheim/Krs. Offenbach	v	Elisabetha	Walter geb. Krebs	Rumenheim	1899	
+1	79	2	1280	Betz	Michel	Steinbach			v	Anna Maria	Göswein	Steinbach	1821	
+1	79	3	1281	Betz	Michel	Langenprozelten			wv				1830	
+1	79	4	1282.1	Betz	Michael	Langenprozelten			v	Catharina	Kraft	Langenprozelten	1848	
+1	79	4	1282.2	Betz	Michael	Langenprozelten			wv	Eva	Höfling	Langenprozelten	1861	
+1	79	5	1283.1	Betz	Michael	Langenprozelten			v	Katharina Margaretha	Hegel	Langenprozelten	1862	
+1	79	5	1283.2	Betz	Michael	Langenprozelten			wv	Eva	Weßner	Langenprozelten	1874	
+1	79	6	1284	Betz	Michael	Langenprozelten			v	Anna	Layerer	Gerolzhofen	1862	
+1	79	7	1285	Betz	Michael	Langenprozelten			v	Katharina	Weßner	Langenprozelten	1869	
+1	79	8	1286	Betz	Michael	Steinbach			v	Adelheid	Klinger	Steinbach	1857	
+1	79	9	1287	Betz	Michael	Langenprozelten			v	Anna Maria	Herbach	Langenprozelten	1875	
+1	79	10	1288	Betz	Michael  Franz	Langenprozelten			v	Katharina	Ruppert verwitwete Katz [?]	Langenprozelten	1893	
+1	79	11	1289	Betz	Michael	Halsbach	wh	Würtzburg	v	Genovefa	Vornberger	Thüngersheim	1893	
+1	80	1	1290	Betz	Martin Josef	Langenprozelten			v	Maria	Breitenbach	Langenprozelten	1896	
+1	80	2	1291	Betz	Philipp	Langenprozelten			v	Magdelena	Egert	Langenprozelten	1866	
+1	80	3	1292	Betz	Philipp Theodor	Langenprozelten			v	Maria Mathilde	Reinhard	Langenprozelten	1889	
+1	80	4	1293	Betz	Richard	Langenprozelten			v	Maria Margaretha	Schmitt	Lohr	1902	
+1	80	5	1294	Betz	Theodor	Langenprozelten			v	Anna	Haberberger	Langenprozelten	1903	
+1	80	6	1295	Betz	Wilhelm	Langenprozelten			v	Liliane	Höfling	Langenprozelten	1899	
+1	80	7	1296	Beyfuß	Anton	Rothenfels			v	Elisabetha Maria	Ludwig	Rothenburg	1861	
+1	80	8	1297	Beyfuß 	Michael	Rothenfels			v	Elisabetha	Oho	Rüdesheim	1869	
+1	80	9	1298	Bibel (auch Biebel)	Alois	Lohr			v	Elisabetha	Roser	"Großsteinheim, wohnhaft: Lohr"	1871	
+1	80	10	1299	Biebel	Goerg	Sendelbach			v	Anna Maria Chridina	Müller	Sendelbach	1874	
+1	80	11	1300	Biebel	Heinrich	Sendelbach			v	Katharina	Rausch	Sendelbach	1886	
+1	81	1	1301	Bien	Georg	Langenprozelten			v	Anna Rosina	Höfling	Langenprozelten	1883	
+1	81	2	1302	Bils	August	Neustadt/M.			v	Eva	Becker	Obernau	1903	
+1	81	3	1303	Bils	Joseph	Neustadt/M.			v	Elisabetha	Völker	Neustadt/M.	1862	
+1	81	4	1304	Bils	Joseph	Erlach			v	Anna Gertaud	Schmitt	Eibelstadt	1893	
+1	81	5	1305	Bils	Josef August	Neustadt/Main			v	Anna Rosina	Fröhling	Goßmannsdorf	1898	
+1	81	6	1306	Bils	Josef August	Neustadt/Main 			v	Barbara	Kübert	Obernbreit	1900	
+1	81	7	1307	Bils	Franz Burkard	Neustadt/M.	wh	Ridene/Bez. Karlstadt	v	Genovefa Josepha	Strobel	Rieden	1912	
+1	81	8	1308	Bils	Gregor	Erlach			v	Barbara	Siegler	Wombach	1879	
+1	81	9	1309	Bils	Gregor Norbert	Neustadt/M.			v	Ernestina Emma	Greser	Erlach	1912	
+1	81	10	1310	Bils	Lorenz	Erlach			v	Barbara	"Bils geb. Siegler, Witew,"	Wombach	1887	
+1	81	11	1311	Bils	Lorenz Gregor	Erlach			v	Anna	Brönner	Erlach	1906	
+1	82	1	1312	Bils	Michel  II	Erlach			v	Margarethe	Endres	Zimmern	1863	
+1	82	2	1313	Bils	Michael Fridolin	Neustadt/M.			v	Adelheid	Ihis	Neustadt/Main	1885	
+1	82	3	1314	Bils	Theodor	Neustadt/M.			v	Katharina	Becker	Obernau wohnhaft: Höchst a.M.	1905	
+1	82	4	1315	Bindler	Jodef	Ansbach	wh	Neuzetliscg (Böhmen)	v	Maria Dorothea	Endreß	Billingshausen	1895	
+1	82	5	1316	Bippus	Andreas	Rodenbach			v	Anna Maria	Bippus		1828	
+1	82	6	1317	Bippus	Anton	Rodenbach			v	Maria	Emrich	Rodenbach	1886	
+1	82	7	1318	Bippus	Edmund	Rodenbach	wh	Hamburg	v	Amalie Christina	Stolle	Hamburg	1873	
+1	82	8	1319	Bippus	Franz	Rodenbach			v	Barbara	Englert	Rodenbach	1875	
+1	82	9	1320	Bippus	Franz Josef	Neustadt/Main			v	Barbara	Klotzbach	Neustadt/Main	1904	
+1	82	10	1321.1	Bippus	Johann Adam	Rodenbach			v	Anna Maria	Völker 		1850	(Auflösung des Vertrages)<annulment>
+1	82	10	1321.2	Bippus	Johann Adam	Rodenbach			v	Eva	Vogt	Rodenbach	1852	
+1	82	11	1322	Bippus	Johann Adam	Rodenbach			v	Eva	Vogt	Rodenbach	1852	(s. Nr. 1321)
+1	83	1	1323	Bippus	Joh. Adam	Rodenbach			v	Katharina	Zorn	Wiesenfeld	1859	
+1	83	2	1324	Bippus	Johann Josef	Rodenbach			v	Anna Maria Blum geb. End		Wernfeld	1870	
+1	83	3	1325	Bippus	Joh. Philipp	Rodenbach			v	Margarethe	Völker	Rodenbach	1828	date=1828/1830
+1	83	4	1326	Bippus	Otto	Rodenbach			v	Juliana	Völker	Rodenbach	1874	
+1	83	5	1327	Bischoff	Andreas Karl	Lohr/M.			v	Maria Rosina	Sans	"Köingsheim, Wohnhaft: Würtzburg"	1897	
+1	83	6	1328	Bischof	Chritian	Frammersbach			v	Katharina	Goßmann	Frammersbach	1895	
+1	83	7	1329	Bischoff	Eussbius	Frammersbach			v	Maria Elisabetha	Franz	Frammersbach	1911	
+1	83	8	1330	Bischof	Franz	Frammersbach			v	Maria Theresia	Wischert	"Rieneck, wohnhaft: Frammersbach"	1896	
+1	83	9	1331.1	Bischof	Franz Michael	Frammersbach			v	Dorothea	Indrivius [?]	Frammersbach	1872	
+1	83	9	1331.2	Bischof	Franz Michael	Frammersbach			v	Maria Jospha	Friedel	Frammersbach	1890	
+1	83	10	1332	Bischoff	Georg Anton	Neuhütten			v	Johanna Martha	Karl	Neuhütten	1908	
+1	83	11	1333	Bischoff	Joseph	Frammersbach			v	Dorothea	Hartmann	Frammersbach	1859	(1.  Ehe mit Maria Anna Weis)
+1	84	1	1334	Bischof	Joseph	Frammersbach			k				1848	(Konzessionsgesuch)
+1	84	2	1335	Bischof	Josef	Frammersbach			v	Franziska	Amrheim	Frammersbach	1870	
+1	84	3	1336	Burk	Joseph	Lohr/M.			v	Margaretha Josepha	Maier	Lohr	1869	
+1	84	4	1337	Bischoff	Michael	Frammersbach			v	Klara	Karl	Frammersbach	1902	
+1	84	5	1338	Bischof	Wilhelm	Frammersbach			v	Maria	Goßmann	Frammersbach	1897	
+1	84	6	1339	Bleß	Thomas	Rothenfels			v	Maria Anna Catharina	Schüppert	Hafenlohr	1862	
+1	84	7	1340	Blinzinger	Jacob	Willsbach			v	Babette	Schwind	Rothenfels	1863	
+1	84	8	1341	Blüm	Theodor	Langenprozelten			v	Barbara	Hock	Waldaschaff	1914	
+1	84	9	1342	Blum	Karl August Anton	Würzburg			v	Maria Margareta Clotilde	Ley	Rimpar	1885	
+1	84	10	1343	Blum	Nikolaus	Lohr			v	Maria Juliana	Geist	Rechenbach	1911	
+1	84	11	1344	Boeger	Sebastian	Pflochsbach			v	Margaretha	Heidenfelder	Pflochsbach	1864	
+1	84	12	1345	Bohlig	Hermann	Rothenbuch	wh	Schweinfurt	v	Elisabetha	Zehender	"Mitterteich, wohnhaft: Würzburg"	1878	
+1	85	1	1346	Bohlig	Melchior	Dittlofsroda	Geminde 	 Partenstein	v	Maria	Brietenbach	Partenstein	1864	
+1	85	2	1347	Bohlig	Valentin	Partenstein			v	Maria Anna	Glückmann	Winden	1897	
+1	85	3	1348	Boller	Joseph	Lohr			v	Amalie	Gerlach	Esselbach	1876	
+1	85	4	1349	Bollmann	Michael	Neuhütten			v	Mathilde Josefa	Kraus	Schweinfurt	1908	
+1	85	5	1350	Bollmann	Prosper	Neuhütten			v	Anna Maria	Schüttler	Wiesthal	1895	
+1	85	6	1351	Bonnländer	Johann	Münster			v	Johanna	Uebel	Hundsfeld	1836	
+1	85	7	1352	Bopp	Anton	Wiesthal			v	Barbara	Hock	Wiesthal	1840	
+1	85	8	1353	Bopp	Johann	Wiesthal			v	Susanna	Wirzberger	Wiesthal	1871	
+1	85	9	1354	Bopp	Michel	Wiesthal			v	Eva	Fleckenstein	Wiesthal	1841	
+1	85	10	1355	Bopp	Sebastian	Wiesthal			v	Franziska	Ehrlich	Wiesthal	1870	
+1	85	11	1356	Bopp	Sebastian	Wiesthal			v	Elisabetha	Fleckenstein	Königshofenm wohnhaft: Aschaffenvurg	1894	
+1	85	12	1357	Bopp	Wilhelm	Wiesthal			v	Magdalena	Illauer	Trailsdorf	1898	
+1	86	1	1358	Born	Adolf	Partenstein			v	Maria Margt. Barb.	Herbolsheimer	"Schnasenbach b. Scheinfeld, wohnhaft: Frammersbacher Markung"	1890	
+1	86	2	1359	Born	Adolf	Partenstein			v	Elisabetha	Mehrlich	Partenstein	1908	
+1	86	3	1360	Born	Conrad	Partenstein			v	Christina	Breitenbach	Partenstein	1854	
+1	86	4	1361	Born	Conrad	Partenstein			g				1868	Gesuch um Gastwirtschaftskonzession
+1	86	5	1362	Born	Kaspar Friedrich Nikolaus	Partenstein			v	Susanna	Seidenadel	"Weinheim, wohnhaft: Frankfurt/M."	1890	
+1	86	6	1363.1	Born	Heinrich	Partenstein			v	Anna Christine	Amend	Partenstein	1851	
+1	86	6	1363.2	Born	Heinrich	Partenstein			v	Karoline	Krug	Kempfenbrunn/Hessen	1839	"(1.Ehe mit Karoline Krug, Kempfenbrunn/Hessen)"
+1	86	7	1364	Born	Philipp Jakob	Partenstein			v	Theresia	Mehrlich	Partenstein	1855	
+1	86	8	1365	Born	Johann	Partenstein			v	Katharina	Lang	Partenstein	1854	
+1	86	9	1366	Born	Johann	Partenstein			v	Juliane	Henning	Partenstein	1854	
+1	86	10	1367	Born	Johann	Partenstein			v	Elisabetha	Mehrlich	Partenstein	1858	
+1	86	11	1368	Born	Johann	Partenstein			v	Josefine	Mehrlich	Partenstein	1862	
+1	87	1	1369	Born 	Johann	Partenstein			v	Elisabeth	Neuf	Partenstein	1869	
+1	87	2	1370	Born 	Johann	Partenstein			v	Elisabetha	Eisenacher	Partenstein	1880	
+1	87	3	1371	Born 	Johann	Partenstein			v	Anna Maria	Steigerwald	Partenstein	1893	
+1	87	4	1372	Born 	Johann	Partenstein			v	Anna Christina	Mehrlich	Partenstein	1839	
+1	87	5	1373	Born 	Johann Adolf	Partenstein			v	Anna Magdalena	Paulus	Schnodsenbach	1907	
+1	87	6	1374	Born 	Johann Adolf	Partenstein			v	Rosine	Frinzel	"Bischwind, wohnhaft: Schweinfurt"	1908	
+1	87	7	1375	Born 	Johann Adolf Alfred	Partenstein			v	Maria	Mehrlich	Partenstein	1904	
+1	87	8	1376	Born 	Johann  Christoph Jos.	Partenstein			v	Anna Margt.	Durchholz	"Rechtenbach, wohnhaft: Partenstein"	1897	
+1	87	9	1377	Born 	Johann Gustav	Partenstein			v	Christine	Steigerwald	Partenstein	1906	
+1	87	10	1378	Born 	Johann Heinrich	Partenstein			v	Anna	Mützel	Partenstein	1902	
+1	87	11	1379	Born 	Johann Heinrich	Partenstein			v	Christine	Breitenbach	Partenstein	1905	
+1	88	1	1380	Born	Jakob	Partenstein			v	Barbara	Mann	Partenstein	1886	
+1	88	2	1381	Born	Jakob	Partenstein			v	Maria	Merz	Sackenbach	1902	
+1	88	3	1382	Born	Joh. Konrad	Partenstein			v	Charlotte	Breitenbach	Partenstein	1893	
+1	88	4	1383	Born	Johann Michael	Partenstein			v	Christina Magdalena	Kunkel	Partenstein	1829	
+1	88	5	1384	Born	Johann Michael	Partenstein			v	Elisabetha Christina	Amend	Partenstein	1885	
+1	88	6	1385	Born	Johann Philipp	Partenstein			v	Christina	Steigerwald	Partenstein	1835	
+1	88	7	1386	Born	Joh. Theodor	Partenstein			v	Barbara	Mehrlich	Partenstein	1876	
+1	88	8	1387	Born	Joh. Theodor	Partenstein			v	Juliana	Platz	Partenstein	1887	
+1	88	9	1388	Born	Konrad	Partenstein			v	Maria Elisabetha	Schäfer	Kredenbach	1866	
+1	88	10	1389	Born	Conrad	Partenstein			v	Elisabetha	Neuf	Partenstein	1874	
+1	88	11	1390	Born	Michael	Partenstein			v	Theresia	Schwarz	Aschaffenburg	1903	
+1	89	1	1391	Born	Michael	Partenstein			v	Elisabetha	Amend	Partenstein	1907	
+1	89	2	1392	Born	Michael Roman	Partenstein			v	Barbara	Amend	Partenstein	1862	
+1	89	3	1393	Born	Peter	Partenstein			v	Elisabetha	Diller	Partenstein	1850	
+1	89	4	1394	Born	Peter Theodor	Partenstein			v	Barbara	Breitenbach	Partenstein	1890	
+1	89	5	1395	Born	Philipp	Partenstein			v	Margaretha	Steigerwald	Partenstein	1851	
+1	89	6	1396.1	Born	Philipp	Partenstein			v	Maria	Imhof	Partenstein	1858	
+1	89	7	1396.2	Born	Philipp	Partenstein			wv	Maria	Neuf	Partenstein	1863	
+1	89	8	1397	Born	Valtin	Partenstein			v	Elisabetha	Born	Partenstein	1858	
+1	89	9	1398	Born	Valtin	Partenstein			v	Christina	Born	Partenstein	1862	
+1	89	10	1399	Born	Valtin	Partenstein			v	Christina	Imhof	Partenstein	1887	
+1	89	11	1400	Born	Valentin	Partenstein	wh	Teterchen	v	Hulda	Streuber	"Weiden, wohnhaft: Lauterecken (Pfalz)"	1905	
+1	89	12	1401	Born	Wilhelm	Partenstein			v	Magdalena	Staub	Frammersbach	1883	
+1	90	1	1402	Botzler 	Hubert	Steinfeld			v	Maria	Willms	Lohr	1864	
+1	90	2	1403	Brand	Andreas	Steinbach			v	Katharina	Gerhard	Harrbach	1830	
+1	90	3	1404	Brand	Anton	Neustadt/Main			v	Anna Maria	Wolf	Neustadt/M.	1893	
+1	90	4	1405	Brand	Anton	Rieneck			v	Katharina	Faßnacht	Rieneck	1897	
+1	90	5	1406	Brand	Johann Agid	Neustadt/Main			v	Genovefa Katharina	Ruf	Neustadt/Main	1896	
+1	90	6	1407	Brand	"Karl August Ludwig, Dr."	Rothenbuch			v	Maria	Meyer	"Stadtamhof, wohnhaft: München"	1885	
+1	90	7	1408	Brand	Barthel	Neustadt/Main			v	Dorothea	Greßer	Neustadt/Main	1863	
+1	90	8	1409	Brand	Franz Gregor	Neustadt/Main			v	Margaretha Martina	Englert	Neustadt/Main	1898	
+1	90	9	1410	Braun	Braun Franz Joseph	Partenstein			v	Hedwig	Stürmer	Partenstein	1887	
+1	90	10	1411	Brand	Georg	Steinbach			v	Margaretha	Helferich	Steinbach	1858	
+1	90	11	1412	Brand	Georg	Lohr			v	Elisabetha	Fersch	"Erlenbach, wohnhaft: Lohr"	1895	
+1	90	12	1413	Brand	"Phil. Guido Kurt, Dr."	Rothenbuch	wh	München	v	Elsa  Klara	Hlatki	Stuttgart	1915	
+1	91	1	1414	Brand	Hermann Otto	Neustadt/Main	wh	Winterberg/Westfalen	v	Katharina	Kraus	"Kauth (Böhmen), wohnhaft: Winterberg/Westf."	1904	
+1	91	2	1415	Brand	Johann	Steinbach			v	Josepha	Klinger	Steinbach	1861	
+1	91	3	1416	Brand	Johann	Neustadt/Main							1864	Gesuch um Handelskonzession
+1	91	4	1417	Brand	Johann Baptist	Steinbach			v	Barbara	Eichling	Wiesenfeld	1889	
+1	91	5	1418	Brand	Johann Heinrich	Neustadt/Main			v	Elisabetha Katharina	Horn	Neustadt/Main	1913	
+1	91	6	1419	Brand	Johann Josef	Lohr			v	Elisabetha	Weigand	Recthenbach	1871	
+1	91	7	1420	Brand	Josef	Lohr	wh	Fechenhein	v	Babette	Weimert	Lohr/M. (Rheinböllen/Preussen)	1893	
+1	91	8	1421	Brand	Julius Nikolaus	Lohr/M.			v	Elisabeth Maria	Knapp	Lohr/M.	1897	
+1	91	9	1422	Brand	Martin	Neustadt/Main			v	Barbara Josepha 	Schlapp	Lohr	1857	
+1	91	10	1423	Brand	Michael III	Neustadt/Main			v	Anna Maria	Finn	Neustadt/Main	1858	
+1	91	11	1424	Brand	Michael Josef	Neustadt/Main			v	Margaretha	Brenner	"Richen/Hessen, wohnhaft: Neustadt/Main"	1885	
+1	92	1	1425	Brand	Nicolaus	Lohr			v	Elisabetha	Wenzel	"Zell, wohnhaft: Würzburg"	1869	
+1	92	2	1426	Brand	Peter	Neustadt/Main			v	Sophia	Eck	Rheinau (Unterelsaß)	1899	
+1	92	3	1427	Brand	Peter Andrea	Neustadt/M.			v	Cäcilia Philomela	Finn	Neustadt/M.	1876	
+1	92	4	1428	Brand	Peter Michael	Steinbach	wh	Himmelburg	v	Magdalena	Papst	Neumühle/Gemeinde Windheim	1898	
+1	92	5	1429	Brand	Sebastian	Sendelbach			v	Agnes	Ruf	Sendelbach	1874	
+1	92	6	1430	Brand	Sebastian	Lohr			v	Katharina Pauline	Rüb	Gemünden	1876	
+1	92	7	1431	Braun	Johann	Straßessenbach 	()	Rodenbach	v	Katharina	Höfling	Straßessenbach	1856	
+1	92	8	1432	Brauchart	Johann	Wernersdorf (Österreich)	wh	Lohr	v	Maria Dorothea	Bindler geb. Endres	"Innichen, wohnhaft: Lohr"	1906	
+1	92	9	1433.1	Braun	Joh. Georg	Partenstein			v	Maria Josefa	Krim	Partenstein	1855	
+1	92	9	1433.2	Braun	Joh. Georg	Partenstein			wv	Katharina Elisaberh	Schaefer	Poppenroth	1867	
+1	92	10	1434	Braunwarth	Andreas	Greussenheim			wv	Anna Maria	Lutz Wwe.	Bergrothenfels	1863	
+1	93	1	1435	Brühlmeyer	Johann Leonhard	Rothenfels/Main	wh	Amorbach	v	Anna Maria	Koch geb. Wild	Miltenberg	1899	
+1	93	2	1436	Brehm	Michael	Waldaschaff			Bürgeraufnahmegesuch für Lohr				1815	
+1	93	3	1437	Brehm	Friedrich	Lohr			v	Apollonia Margaretha Katharina	Reinhart	Lohr	1889	
+1	93	4	1438	Breidenbach	Anton	Wiesthal			aus (Nordamerika)				1860	
+1	93	5	1439	Breidenbach	Balthasar	Frammersbach			v	Maria Anna	Fleckenstein		1834	
+1	93	6	1440	Breidenbach	Johannes	Partenstein			v	Beate Chritina	Steigerwald	Partenstein	1831	
+1	93	7	1441	Breidenbach	Michael	Partenstein			Untertan- und Nachbarannahme				1831	
+1	93	8	1442.1	Breidenbach	Lorenz	Frammersbach			v	Maria Eva	Amrhein	Frammersbach	1829	
+1	93	8	1442.2	Breidenbach	Lorenz	Frammersbach			wv	Barbara	Goßmann	Frammersbach	1835	
+1	93	9	1443	Breitenbach	Abton	Langenprozelten			v	Barbara	Rüb	Langenprozelten	1893	
+1	93	10	1444	Breitenbach	Aloys	Frammersbach	wh	Höchst/M.	v	Ludovika	Breitenbach	"Frammersbach, wohnhaft: Frankfurt/M."	1894	
+1	93	11	1445	Breitenbach	Aloys	Frammersbach			v	Franziska	Aull	Frammersbach	1858	date=1858/61
+1	94	1	1446	Breitenbach	Eduard	Frammersbach			v	Maria Josepha	Rüppel	"Frammersbach, wohnhaft: Wombach"	1881	
+1	94	2	1447.1	Breitenbach	Elias	Langenprozelten			v	Ann Maria	Schraut	Langenprozelten	1831	
+1	94	3	1447.2	Breitenbach	Johann	Frammersbach			v	Ann Maria	Reif	Frammersbach	1831	# 1447a
+1	94	3	1448	Breitenbach	Ferdinand	Frammersbach			v	Anna Maria	Goßmann	Frammersbach	1839	
+1	94	4	1449	Breitenbach	Ferdinand	Frammersbach			v	Maria Anna	Vormwald	Frammersbach	1825	
+1	94	5	1450	Breitenbach	Franz	Frammersbach			v	Gertraud	Rüppel	Frammersbach	1840	
+1	94	6	1451	Breitenbach	Franz	Lohr und Rothenbuch			v	Cäcilia	Krimm	Rothenbuch	1874	
+1	94	7	1452	Breitenbach	Friedrich	Partenstein	wh	Simbach	v	Elisabeth	Kelnhofer	Simbach	1890	
+1	94	8	1453	Breitenbach	Franz	Langenprozelten			v	Eva Franziska	Ruppert	Langenprozelten	1893	
+1	94	9	1454	Breitenbach	Franz	Frammersbach			v	Maria	Büdel	Frammersbach	1907	
+1	95	1	1455	Breitenbach	Franz Josef	Frammersbach	wh	Frankfurt/M.	v	Karoline Barbara	Nill	"Ulm, wohnhaft: Frankfurt/M."	1902	
+1	95	2	1456.1	Breitenbach	Franz Leo	Frammersbach			v	Barbara	Trost	Thürgersheim	1875	
+1	95	2	1456.1	Breitenbach	Franz Leo	Frammersbach			wv	Johanna	Drechsler	"Waldershof, wohnhaft: München"	1879	
+1	95	3	1457	Breitenbach	Franz Wilhelm	Frammersbach	wh	München	v	Mathilde	Hahn geb. Weil	München	1883	
+1	95	4	1458	Breitenbach	Franz Stefan	Frammersbach			v	Franziska	Mill	Frammersbach	1905	
+1	95	5	1459	Breitenbach	Gabriel	Frammersbach			v	Gertraud	Karl	Frammersbach	1894	
+1	95	6	1460	Breitenbach	Georg	Neustadt/M.			k				1862	
+1	95	7	1461	Breitenbach	Georg Ludwig	Partenstein			v	Elisabetha	Steigerwald geb. Mehrlich	Partenstein	1863	
+1	95	8	1462	Breitenbach	Gustav	Langenprozelten			v	Isabe;;a	Hofmann	Langenprozelten	1906	
+1	95	9	1463.1	Breitenbach	Heinrich	Partenstein			v	Christina	Steigerwald	Partenstein	1853	
+1	95	9	1463.2	Breitenbach	Heinrich	Partenstein			wv	Charlotte Susanna	Born	Partenstein	1866	
+1	95	10	1464	Breitenbach	Heinrich	Partenstein			v	Margaretha	Meinhard	Feuchtwangen	1856	
+1	96	1	1465	Breitenbach	Johann Heinrich Louis	Partenstein			v	Susanna Babetta	Amond	Partenstein	1905	
+1	96	2	1466	Breitenbach	Jos. Heinrich	Partenstein			v	Anna Katharina	Steigerwald	Partenstein	1908	
+1	96	3	1467	Breitenbach	Jakob Johann Franz	Frammersbach			v	Gertraud	Weis	Frammersbach	1850	
+1	96	4	1468	Breitenbach	Jakob	Frammersbach			v	Josepha Franziska	Göbel	Frammersbach	1875	
+1	96	5	1469	Breitenbach	Jakob	Wiestahl			v	Maria Juliana Margaretha	Staab	Heienbrücken	1895	
+1	96	6	1470	Breitenbach	Jakob	Frammersbach			v	Josepha	Aull	Frammersbach	1898	
+1	96	7	1471	Breitenbach	Johann	Partenstein			v	Elisabetha	Breitenbach	Partenstein	1840	
+1	96	8	1472	Breitenbach	Johann	Partenstein			v	Barbara	Steigerwald	Partenstein	1853	
+1	96	9	1473	Breitenbach	Johann	Partenstein			v	Margaretha	Henning	Partenstein	1853	
+1	96	10	1474	Breitenbach	Johann	Partenstein			v	Christina	Henning	Partenstein	1856	
+1	96	11	1475	Breitenbach	Johann	Partenstein			v	Christina	Imhof	Partenstein	1854	
+1	97	1	1476	Breitenbach	Johannes	Partenstein			v	Christina	Steigerwald	Partenstein	1858	
+1	97	2	1477	Breitenbach	Johann	Frammersbach			v	Maria	Goßmann	Frammersbach	1861	
+1	97	3	1478.1	Breitenbach	Johann	Langenprozelten			v	Erna	Höfling	Langenprozelten	1862	
+1	97	3	1478.2	Breitenbach	Johann	Langenprozelten			wv	Elisabetha	Lacher	Wolfsmünster	1868	
+1	97	4	1479	Breidenbach 	Johann	Partenstein			v	Margaretha	Hübner	"Nennersdorf, wohnhaft: Würzburg"	1869	
+1	97	5	1480	Breitenbach	Michael	Partenstein			v	Margar. Elisabetha	Wunderlich		1875	
+1	97	6	1481	Breitenbach	Johann	Partenstein			v	Maria	Imhof	Partenstein	1879	
+1	97	7	1482	Breitenbach	Johann	Langenprozelten			v	Crezentia	Betz	Langenprozelten	1893	
+1	97	8	1483	Breitenbach	Johann	Partenstein			v	Maria	Imhof	Partenstein	1893	
+1	97	9	1484	Breitenbach	Johann	Partenstein			v	Anna Kath.	Brand	Partenstein	1896	
+1	97	10	1485	Breitenbach	Johann	Partenstein			v	Christina	Durchholz	Partenstein	1903	
+1	97	11	1486	Breitenbach	Johann	Frammersbach			v	Magdalena Elisabetha	Amrheim	Frammersbach	1908	
+1	98	1	1487	Breitenbach	Johann	Partenstein			v	Anna Mar. Ant.	Borger geb.M“uller	"Reichenbach (Hessen), wohnhaft: Partenstein"	1908	
+1	98	2	1488.1	Breitenbach	Johann Adam	Frammersbach			v	Eva	Nippel	Frammersbach	1829	
+1	98	3	1488.2	Bertel	Sebastian	Rechtenbach			v		Staub(anna Maria Junker)	Rechtenbach	1830	# 1488a
+1	98	3	1489	Breitenbach	Joh. Adam	Frammersbach			v	Gertraud	Wagner	Frammersbach	1860	date=1860/61
+1	98	4	1490	Breitenbach	Johhann Adolf	Partenstein	wh		v	Maria Anna	Zeller	"Gunzenbach b/Mömbris, wohnhaft: Aschaffenburg"	1884	
+1	98	5	1491	Breitenbach	Johhann Anton	Wiesenthal			v	Marianna	Kunkel	Heigenbrücken	1831	
+1	98	6	1492	Breitenbach	Johhann Anton	Frammersbach			v	Maria Anna	Inderweis	Frammersbach	1903	
+1	98	7	1493	Breitenbach	Johhann	Frammersbach			v	Makrina	Horn	"Puppertshütten, wohnhaft: Höchst/M."	1892	
+1	98	8	1494	Breitenbach	Johhann Franz	Langenprozelten			v	Auguste Emilie	Thorschmidt	Lunzenau/Sachsen	1864	
+1	98	9	1495.1	Breitenbach	Johhann Heinrich	Partenstein			v	Elisabetha	Among	Partenstein	1868	her Wiederverehelichung
+1	98	9	1495.2	Breitenbach	Johhann Heinrich	Partenstein			1.   Ege mit	Anna Christina	Imhof	Partenstein	1866	
+1	99	1	1496	Breitenbach	Johann Heinrich	Partenstein			v	Christine Caroline	Neuf	Partenstein	1871	
+1	99	2	1497	Breitenbach	Joh. Heinrich	Partenstein			v	Elisabetha	Steigerwald	Partenstein	1890	
+1	99	3	1498	Breitenbach	Johann Heinrich	Partenstein	wh	Hattersheim	v	Johannette Friederike	Jung	"Neuweilnau/LA. Usingen, wohnhaft: Hattersheim"	1900	
+1	99	4	1499	Breitenbach	Johann Jooseph	Frammersbach			v	Elisabetha	Weis Wwe geb. Vogt	Frammersbach	1862	
+1	99	5	1500	Breitenbach	Johann Michael	Frammersbach			v	Maria	Rüth	Frammersbach	1839	
+1	99	6	1501	Breitenbach	Johann Michael	Partenstein			v	Anna Gertraud	Born	Partenstein	1844	
+1	99	7	1502	Breitenbach	Johann Michael	Partenstein			v	Lisabetha	Imhof	Partenstein	1848	
+1	99	8	1503	Breitenbach	Johann Michael	Partenstein			v	Elenore	Mehrlich	Partenstein		
+1	99	9	1504	Breitenbach	Johann Michael	Frammersbach			v	Franziska	Weigand	Frammersbach	1879	
+1	99	10	1505	Breitenbach	Johann Mich.	Frammersbach			v	Maria Anna	Büdel	Frammersbach	1881	
+1	99	11	1506	Breitenbach	Johann Michael	Partenstein			v	Johanna	Amend	Partenstein	1890	
+1	100	1	1507	Breitenbach	Johann Michael	Partenstein	wh	Rosenbach	v	Eva Babette	Nesselhäuser	Ickelheim	1902	
+1	100	2	1508	Breitenbach	Johann Michael	Partenstein			v	Anna Augusta	Fleckenstein	Frammersbach	1905	
+1	100	3	1509	Breitenbach	Johann Nikolaus	Frammersbach			v	Franziska	Magin geb. Aull	Berghausen	1898	beide wohnhaft: München
+1	100	4	1510	Breitenbach	Johann Peter	Frammersbach			v	Anna Christina	Mehrlich	Partenstein	1840	
+1	100	5	1511	Breitenbach	Johann Peter	Partenstein			a				1847	Absässigmachunsgesuch
+1	100	6	1512	Breitenbach	Johann Theodor	Partenstein			v	Katharina	Krimm	Partenstein	1912	
+1	100	7	1513.1	Breitenbach	Johann Valentin	Partenstein			v	Anna Rosina	Schneider	Partenstein	1862	
+1	100	7	1513.2	Breitenbach	Johann Valentin	Partenstein			wv	Maria Catharina	Schneider	Partenstein	1871	
+1	100	8	1514	Breitenbach	Johann Valentin	Partenstein			v	Anna Maria	Kunkel	Partenstein	1907	
+1	100	9	1515	Breitenbach	Josef	Frammersbach			v	Anna Maria Franziska	Schäfer geb. Goßmann	Habichsthal	1871	
+1	100	10	1516	Breitenbach	Josef	Partenstein			v	Anna	Vaethjunker	Rechtenbach	1875	
+1	101	1	1517	Breitenbach	Jospeh	Frammersbach			v	Maria	Staub	Frammersbach	1875	
+1	101	2	1518	Breitenbach	Jospeh	Frammersbach			v	Kreszenz	Weißthanner	Gadsdorf	1903	
+1	101	3	1519	Breitenbach	Josef	Frammersbach			v	Katharina	von Recum	"Wattenheim, wohnhaft: Landshut"	1904	
+1	101	4	1520	Breitenbach	Josef	Langenprozelten			v	Thelka	Hofmann	Langenprozelten	1905	
+1	101	5	1521	Breitenbach	Josef Pius	Frammersbach			v	Katharina Melania	Breitenbach	Frammersbach	1887	
+1	101	6	1522	Breitenbach	Josef	Langenprozelten			v	Marharetha	Krug	Langenprozelten	1864	
+1	101	7	1523	Breitenbach	Karl	Wiesthal			v	Henriette	Schraut	Mühfelf	1874	
+1	101	8	1524	Breidenbach	Kaspar	Frammersbach			v	Regina	Mann	Heinrichsthal	1874	
+1	101	9	1525	Breitenbach	Kaspar	Biebrich			v	Anna Maria	Reiß	Biebrich	1896	
+1	101	10	1526	Breitenbach	Kilian	Wiesthal			v	Theresia	Klemmert	Wiesthal	1886	
+1	101	11	1527	Breitenbach	Joh. Konrad	Partenstein			v	Anna Margaretha	Born	Partenstein	1834	
+1	102	1	1528	Breitenbach	Leo	Wiesthal			v	Barbara	Merz	Wiesthal	1886	date=1886/87
+1	102	2	1529	Breitenbach	Maximilian	Frammersbach			v	Margaretha	Goßmann	Frammersbach	1913	
+1	102	3	1530	Breitenbach	Michael	Partenstein			v	Margaretha	Reuß	Partenstein	1828	
+1	102	4	1531	Breidenbach	Michael	Partenstein			v	Veronika	Breitenbach	Partenstein	1834	date=1834/37
+1	102	5	1532	Breitenbach	Michael	Partenstein			v	Christina	Neuf	Partenstein	1854	
+1	102	5	1532	Breitenbach	Michael	Partenstein			v	Leonora	Mehrlich		1854	before 1854
+1	102	6	1533	Breitenbach	Michael	Partenstein			v	Anna Margaretha	Imhof	Partenstein	1856	
+1	102	7	1534	Breitenbach	Michel	Partenstein			v	Charlotte	Born	Partenstein	1861	
+1	102	8	1535	Breitenbach	Michael	Partenstein			v	Margareta	Hergest	Lohrhaupten	1883	
+1	102	9	1536	Breitenbach	Michael	Partenstein	wh	Höcst/M.	v	Fran Elisabetha	Hofmann verw. Hentsch	"Zittau, wohnhaft: Höcst/M."	1912	
+1	102	10	1537	Breitenbach	Peter	Partenstein			v	Matha	Uhl	Rothenfels	1862	
+1	102	11	1538	Breitenbach	Peter	Rothenfels			v			Breitenbrunn/BA Martheidenfeld	1864	
+1	103	1	1539.1	Breitenbach	Peter	Partenstein			v	Margaretha	Breitenbach	Partenstein	1869	
+1	103	1	1539.2	Breitenbach	Peter	Partenstein			v	Elisabetha	Breitenbach	Partenstein	1869	(1.ehe mit …) before 1869
+1	103	2	1540	Breitenbach	Ferdinand Peter	Frammersbach			v	Agnes	Weigand	Frammersbach	1870	
+1	103	3	1541	Breitenbach	Peter	Partenstein			v	Anna	Born	Partenstein	1875	
+1	103	4	1542	Breitenbach	Peter	Partenstein			v	Maria	Mützel	Partenstein	1907	
+1	103	5	1543	Breitenbach	Peter	Partenstein			v	Margt.	Kreile	Partenstein	1907	
+1	103	6	1544	Breitenbach	Philipp Kaspar	Partenstein			v	Christina	Weigand	Partenstein	1858	
+1	103	7	1545	Breitenbach	Philipp	Partenstein			wv	Katharina	Breidenbach	Partenstein	1864	
+1	103	8	1546.1	Breitenbach	Philipp	Partenstein			v	Anna Katharina	Mützel	Partenstein	1866	
+1	103	8	1546.2	Breitenbach	Philipp	Partenstein			v	Anna Margaretha	Born	Partenstein	1868	
+1	103	9	1547	Breitenbach	Philipp Johann	Partenstein			v	Anna Sophie	Sippold	Mainbernheim	1885	
+1	103	10	1548	Breitenbach	Sebastian	Frammersbach			v	Maria Anna	Staub	Frammersbach	1834	
+1	103	11	1549	Breitenbach	Theodor	Langenprozelten			v	Margaretha Sophia	Reinhard	Langenprozelten	1896	
+1	104	1	1550	Breitenbach	Valentin	Partenstein			v	Margaretha	Mehrlich	Partenstein	1851	
+1	104	2	1551.1	Breitenbach	Valentin	Partenstein			v	Margaretha	Mehrlich	Partenstein	1851	
+1	104	2	1551.2	Breitenbach	Valentin	Partenstein			wv	Dorothea	Philipp Imhof’s Witwe	Partenstein	1862	
+1	104	3	1552	Breitenbach	Kilian Valentin	Würzburg			v	Anna	Popp	Würzburg	1898	
+1	104	4	1553	Breitenbach	Valentin	Partenstein			v	Maria Math.	Merz	Hessdorf	1903	
+1	104	5	1554	Breitenbach	Valentin	Partenstein			v	Anna Margt.	Breitenbach	Partenstein	1915	
+1	104	6	1555	Breitschafter	Andreas	Neustadt/Main			v	Elsie Antoinette	Müller	"Württenberg, bisher wohnhaft: Neustadt/Main"	1907	
+1	104	7	1556	Brenn	Heinrich	Richen			a				1866	Absässigmachung
+1	104	8	1557	Brethauser	Karl Friedrich Carl	Rupboden			v	Lioba	Roeder	Salmünster	1829	
+1	104	9	1558	Brönner	Andreas	Erlach			v	Katharina	Welpe	Erlach	1879	
+1	104	10	1559	Brönner	Alois	Lohr			v	Julia	Englert	Rodenbach	1874	
+1	104	11	1560	Brönner	Anton	Rodenbach			v	Maria Eva	Hörnes	Rodenbach	1854	
+1	105	1	1561	Brönner	Adam Joseph	Rodenbach			wv	Klara	Englert	Rodenbach	1862	
+1	105	2	1562	Brönner	Anton Benedikt	Neustadt/Main	wh	"Berlin, vormals Frankfurt 1/O."	v	Anna Wilhelmine Augusta	Lenz	"Brieskow, wohnhaft: Frankfurt a/O."	1895	
+1	105	3	1563	Brönner	Amandus Ludwig	Rothenbuch	wh		v	Helene Josefa	Bachmann geb. Dietz	Rothenbuch	1904	
+1	105	4	1564	Brönner	Anton Wilhelm	Rodenbach			v	Maria Amalia	Brönner	Rodenbach	1885	
+1	105	5	1565	Brönner	Andreas Korbinian	Neustadt/Main	wh	Würzburg	v	Katharina	Pfeuffer	"Bergheinfeld, wohnhaft: Würzburg"	1905	
+1	105	6	1566	Brönner	Benedikt	Neustadt			v	Dorothea	Brönner	Neustadt/Main	1854	
+1	105	7	1567	Brönner	Benedikt	Rodenbach			v	Josefa	Weigand	Frammersbach	1876	
+1	105	8	1568	Brönner	Georg Burkard	Erlach			v	Maria Margareta	Wolf	Erlach	1914	
+1	105	9	1569	Brönner	Bonaventure	Rodenbach			v	Anna Barbara	Dusel	Würzburg	1872	
+1	105	10	1570	Brönner	Franz	Erlach			v	Augusta	Wernig	Kleinwallstadt	1897	
+1	105	11	1571	Brönner	Franz	Lohr			wv	Katharina	Herold	Sackenbach	1875	
+1	106	1	1572	Brönner	Franz	Wombach			v	Elke  Minka	Herold	Tiefenbrunn	1914	
+1	106	2	1573	Brönner	Ferdinand	Neustadt			v	Regina	Müller	Erlenfurt/Gemeinde Rothenbuch	1874	
+1	106	3	1574	Brönner	Florian	Rodenbach	wh	Lohr	v	Regina	Warmuth	Lohr	1889	
+1	106	4	1575	Brönner	David	Rodenbach			v	Margaretha	Heidenfelder	Rodenbach	1891	date=1891/92
+1	106	5	1576	Brönner	Georg	Rodenbach			v	Margaretha	Schwab	Rodenbach	1859	
+1	106	6	1577	Brönner	Georg	Neustadt/M.			v	Amalia	Kern	Windheim	1872	
+1	106	7	1578	Brönner	Georg	Erlach			v	Barbara 	Endres	Erlabrunn	1894	
+1	106	8	1579	Brönner	Georg Adam	Rodenbach			v	Margaretha	Kresser	Rodenbach	1853	
+1	106	9	1580	Brönner	Georg Ernst Alois	Lohr/M.			v	Franziska Louise Julie	Veith	Würzburg	1883	
+1	106	10	1581	Brönner	Heinrich	Lohr/M.	wh	Niederrad	v	Regina	Schulter	Lohr/M.	1899	
+1	106	11	1582	Brönner	Georg Martin	Erlach			v	Barbara Philomena	Völker	Neustadt/M.	1896	
+1	107	1	1583	Brönner	Georg Michael	Rodenbach			Bescheiningung: Angeben zur Person				1815	
+1	107	2	1584	Brönner	Johannes	Rodenbach			Bescheiningung: Angeben zur Person				1815	
+1	107	3	1585	Brönner	Johann	Rodenbach			Nachbarannahme				1822	
+1	107	4	1586.1	Brönner	Johann	Rodenbach			v	Elisabetha	Ruppert	Rodenbach	1835	
+1	107	4	1586.2	Brönner	Johann	Rodenbach			wv	Barbara	Nätscher	Rodenbach	1854	
+1	107	5	1587	Brönner	Johann	Ruppertshütten			v	Agnes	Schlbert	Rengersbrunn	1852	
+1	107	6	1588.1	Brönner	Johann	Rodenbach			v	Eva	Imhof	Rodenbach	1856	
+1	107	6	1588.2	Brönner	Johann	Rodenbach			wv	Barbara	Kuhn	Sendelbach	1858	
+1	107	7	1589	Brönner	Johann Ägid	Neustadt/Main			v	Maria Elissabetha	Imhof	Neustadt/Main	1905	
+1	107	8	1590	Brönner	Johann Ägid	Neustadt/Main			v	Mathilde	Endres	Bergrothenfels	1906	
+1	107	9	1591	Brönner	Johann Gottfried	Neustadt/Main			v	Elisabetha	Salzmann	"Seiddenbuch/Hessen, wohnhaft: Fürstl. Glaghüttte Einsiedel/Gemeinde Neustadt/Main"	1878	
+1	107	10	1592	Brönner	Johann Josef	Neustadt/Main			v	Rosina	Weis	Bergrothenfels	1883	
+1	108	1	1593	Brönner	Johann Joseph	Neustadt/M.			v	Dorothea	Benedikt Brönner’s Witwe	Neustadt/M.	1863	
+1	108	2	1594	Brönner	Johann Karl	Lohr/Main	wh	Niederrad	v	Angelika	Bettenhausen	"Rechtebach/Krs. Eschwege, wohnhaft: Niederrad"	1884	
+1	108	3	1595	Brönner	Johann Karl	Lohr/Main	wh	Niederrad	v	Eva Jakobine	Gack	"Kulmbach, wohnhaft: Niederrad"	1896	
+1	108	4	1596	Brönner	Johann Michael	Rodenbach			Bescheiningung: Angaben zur Person				1815	
+1	108	5	1597.1	Brönner	Johann Michel	Rodenbach			v	Elishabetha	Heidenfelder	Rodenbach	1855	
+1	108	5	1597.2	Brönner	Johann Michel	Rodenbach			wv	Katharina	Fleck	Waldzell	1857	
+1	108	6	1598	Brönner	Joh. Philipp	Rodenbach			v	Franziska	Roth	(?)	1882	
+1	108	7	1599	Brönner	Jospeh	Rodenbach			v	Katharina	Maier Wwe.	Bischbrunnn/Landgemeinde Rothenbuch	1856	
+1	108	8	1600	Brönner	Jospeh	Rodenbach			v	Katharina	Maier	Bischbrunnn/Gemeinde Rodenbach	1867	date=1867/68
+1	108	9	1601	Brönner	Jospeh	Rodenbach			v	Elisabetha	Scherg geb. Merz Wwe.	Wombach	1876	
+1	108	10	1602	Brönner	Josef	Rodenbach	wh	Frankenthal	v	Katharina	Wolf	Frankenthal	1900	
+1	109	1	1603	Brönner	Joh. Philipp	Rodenbach			v	Franziska	Rothin	Rodenbach	1822	
+1	109	2	1604	Brönner	Karl	Rodenbach			k				1839	
+1	109	3	1605	Brönner	Karl Josef	Rodenbach			v	Josefa	Merz	Wiesthal	1875	
+1	109	4	1606	Brönner	Karl Josef	Rodenbach			v	Eva	Emrich		1821	
+1	109	5	1607	Brönner	Karl Ludwig	Rodenbach	wh	München	v	Anna Kunigunda	Roeschlau	Windsbach	1907	
+1	109	6	1608	Brönner	Karl Ludw.	Wombach			v	Paulina Latharina	Weis	Frammersbach	1911	
+1	109	7	1609	Brönner	Laurentius	Frammersbach			v	Gertraud	Amrhein	Frammersbach	1902	
+1	109	8	1610	Brönner	Bernhard	Lohr			v	Babetta Elisabetha	Remsberg	"Leipzip, biher. Wohnort: Sendelbach"	1879	
+1	109	9	1611	Brönner	Lorenz	Neustadt/M.			v	Anna Maria	Roth	Bergrothenfels	1871	
+1	109	10	1612	Brönner	Lorenz	Neustadt/M.			v	Maria Antonia	Stübing	Großlaudenbach	1878	
+1	109	11	1613	Brönner	Lorenz	Erlach			v	Eva Theresia	Brönner	Neustadt/M.	1898	
+1	110	1	1614	Brönner	Ludwig	Rodenbach			v	Anna Christina	Bernard	Rodenbach	1896	
+1	110	2	1615	Brönner	Markus	Rodenbach			v	Agnes	Herrmann	"Steinfeld, wohnhaft: Rodenbach"	1908	
+1	110	3	1616	Brönner	Michael	Erlach			v	Rosina	Ullrich	Erlach	1866	
+1	110	4	1617	Brönner	Michael Eduard	Erlach			v	Eva Margareta	Hart	Erlabrunn	1902	
+1	110	5	1618	Brönner	Michael Joseph	Rodenbach			a				1824	
+1	110	6	1619	Brönner	Michael Josef	Rodenbach			v	Katharina	Kopp	"Hörstein, bisher wohnhaft: Frankfurt/M."	1884	
+1	110	7	1620	Brönner	Michael Josef	Rodenbach			v	Anna Maria	Ruf	Pflochsbach	1889	date=1889/90
+1	110	8	1621	Brönner	Paul	Rodenbach	wh	Aschaffenburg	v	Anna Maria	Amrheim	"Waldaschaff, wohnhaft: Aschaffenburg"	1893	
+1	110	9	1622	Breitenbach	Peter	Partenstein			v	Elisabetha	Born	Partenstein	1848	
+1	110	10	1623	Brönner	Philipp	Rodenbach			v	Viktoria	Glück	Rodenbach	1871	
+1	110	11	1624	Brönner	Philipp	Rodenbach			wv	Margaretha	Fischer	Hofstetten	1876	
+1	111	1	1625	Brönner	Philipp	Rodenbach			v	Anna Maria Karolina	Hilpert	Maßenbuch	1880	
+1	111	2	1626	Brönner	Rochus	Rodenbach			v	Barbara	Schuhmann	Steinfeld	1861	
+1	111	3	1627	Brönner	Sebastian	Rodenbach			v	Anna Maria	Kresser	Rodenbach	1857	
+1	111	4	1628	Brönner	Simon Burkard	Erlach			v	Anna	Wiesmann	Wörth/Main	1905	
+1	111	5	1629	Brönner	Sebastian	Rodenbach	wh	Ulm/D.	v	Johann	Abt	Dietenheim	1913	
+1	111	6	1630	Brönner	Valentin	Rothenbuch			v	Josefa Theodora	Hasenstab	Rothenbuch	1905	
+1	111	7	1631	Brönner	Viktor	Rodenbach			v	Philippina Barbara	Liebel	Germersheim	1871	
+1	111	8	1632	Brönner	Wilhelm	Neustadt/Main			v	Barbara	Müller	Neustadt/Main	1874	
+1	111	9	1633	Brönner	Wilhelm Anton	Rodenbach			v	Karolina	Fleckenstein	"Erlach, wohnhaft: Lohr/M."	1894	
+1	111	10	1634.1	Brunk	Johann Caspar	Steinbach			v	Marianne	Möhler	Waldzell	1855	date=1955/56 (auch Brunn)
+1	111	10	1634.2	Brunn	Johann Caspar	Steinbach			v	Marianne	Möhler	Waldzell	1855	date=1955/56 (auch Brunn)
+1	111	11	1635	Brunn	Friedrich	Lohr/Main	wh	Kaiserslautern	v	Karolin	Schwarz	Mühlbach/BA. Homburg	1902	
+1	111	12	1635.1	Brunn	Adam	Waldzell			v	Sabina Magdalena	Stamm	Hausen	1859	
+1	112	1	1636	Brunn	Georg Jos.	Lohr/M.			k				1860	
+1	112	2	1637	Bauer	Joh. Georg	Lohr			a				1815	
+1	112	3	1638	Brunn	Joseph	Steinbach			a				1858	date=1858/59
+1	112	4	1639	Brunn	Anton (Mansdiet)	Lohr			v	Kunigunde	Etthöfer	"Margetschöchheim, wohnhaft: Gemünden"	1898	
+1	112	5	1640	Brunn	Michael Joseph	Lohr			v	Maria Apollonia	Hübner	Lohr/M.	1879	
+1	112	6	1641	Brunn	Thomas Johann	Lohr			v	Karolina	Kraft	"Langenprozelten, wohnhaft: Lohr"	1911	
+1	112	7	1642	Brunner	Franz	Frammersbach			v	Mathilde Josepha	Koch	"Wirtheim, wohnhaft: Altenburg /b. Orb"	1890	
+1	112	8	1643	Brunner	Franz Friedrich Wilhelm	Frammersbach	wh	Dresden	v	Maria Magdalena	Ebert	"Sachsen, wohnhaft: Großschachwitz"	1915	
+1	112	9	1644	Brunner	Franz Konrad Ludwig	Frammersbach			v	Mathilde Susanna	Koch	"Wirtheim, wohnhaft: Altenburg /b. Orb"	1890	
+1	112	10	1645.1	Brünner	Johann Georg	Nantenbach 	()	Windsheim	a				1859	(auch Brönner)
+1	112	10	1645.2	Brönner	Johann Georg	Nantenbach 	()	Windsheim	a				1859	(auch Brönner)
+1	112	11	1646	Brunner	Johann Maximiliab	Frammersbach	wh	Frankfurt/M.	v	Anna Maria	Roos	Frankfurt/M.	1894	
+1	113	1	1647	Brunner	Josef	Frammersbach			v	Agatha	Desch	Frammersbach	1858	
+1	113	2	1648	Brunner	Joseph	Frammersbach			v	Magdalena	Anderlohr	Frammersbach	1869	
+1	113	3	1649	Brunner	Karl 	Frammersbach			v	Barbara	Franz	Frammersbach	1889	
+1	113	4	1650	Brunner	Leo	Frammersbach			v	Maria Ann	Desch	Frammersbach	1847	
+1	113	5	1651	Brunner	Leo	Frammersbach			a				1860	
+1	113	6	1652	Brunner	Wilhelm	Frammersbach			v	Anna	Anderlohr	Frammersbach	1875	
+1	113	7	1653	Brunner	Wilhelm	Frammersbach			v	Katharina	Schwarz	"Lönigshofen a.d. Tauber, wohnhaft: Würzburg"	1880	
+1	113	8	1654	Brückner	Andreas	Steinfeld 			v	Elisabetha Katharina	Scheiner	Steinfeld	1974	
+1	113	9	1655	Brückner	Andreas	Lohr/M.			v	Anna  Margaetha	Lein	Lohr/Main	1895	
+1	113	10	1656	Brückner	Georg Philipp	Neustadt/Main	wh	Frankfurt/M.	v	Maria Barbara	Federer	"Ornbau, wohnhaft: Frankfurt/M."	1900	
+1	113	11	1657	Brückner	Johann	Halsbach			k				1867	
+1	113	12	1658	Brückner	Johann Edmund	Neustadt/Main			v	Eva	Stahl	Oberschwarzach (Obervolkach)	1896	
+1	114	1	1659	Brühlmayer	Johann	Rothenfels/Main	wh	Amorbach	v	Anna Maria	Kuch geb. Wild	Miltenberg	1899	
+1	114	2	1660	Buchberger	Anton Philipp	Ruppertshütten			v	Maria Anna	Weiß	Ruppertshütten	1875	
+1	114	3	1661	Buchberger	Anton Philipp	Ruppertshütten			v	Magdalena	Wenzel	Ruppertshütten	1886	
+1	114	4	1662	Buchberger	Bernard	Ruppertshütten			v	Magdalena	Rüppel	Ruppertshütten	1866	
+1	114	5	1663	Buchberger	Friedrich	Ruppertshütten	auch	Alberndorf / Ansbach	v	Theresia	Heßler	"Bernbeuren, wohnhaft: Alberndorf"	1874	
+1	114	6	1664	Buchberger	Georg	Ruppertshütten			v	Maria Anna	Heck	Ruppertshütten	1831	
+1	114	7	1664.01	Born	Heinrich	Partenstein			v	Barbara	Gabler		1831	1664 a
+1	114	8	1664.02	Büdel	Conrad	Wiesen			v	Maria Katharin	Götz	Wiesen	1831	1664 b
+1	114	9	1664.03	Born	Peter	Partenstein			v	Christina	Amend	Partenstein	1832	1664 c
+1	114	10	1664.04	Born	Johann	Partenstein			v	Margaretha	Mützel		1832	1664 d
+1	114	11	1664.05	Breitenbach	Heinrich	Partenstein			v	Anna Margaretha	Mehrlich	Partenstein	1832	1664 f
+1	115	1	1664.06	Bartel	Philipp	Rechtenbach			v	Anna Maria	Durchholz	Rechtenbach	1832	1664 f
+1	115	2	1664.07	Betz	Joh. Georg	Langenprozelten			v	Anna Maria	Hepp	Langenprozelten	1832	1664 g
+1	115	3	1664.08	Büdel	Johann Kaspar	Frammersbach			v	Maria Margaretha	Wenzel	Wohnroth	1832	1664 h
+1	115	4	1664.09	Bartel	Jpseph	Rechtenbach			v	Margaretha	Vater	Rechtenbach	1833	1664 i
+1	115	5	1664.1	Breidenvach	Johann	Partenstein			v	Anna Katharina	Neuf	Partenstein	1833	1664 j
+1	115	6	1664.11	Brönner	Johann Anton				v	Anna Maria	Nätscher	Rodenbach/Rothenbuch (?)	1833	1664 k
+1	115	7	1664.12	Betz	Johann Adam	Langenprozelten			v	Margaretha	Kuhn	Langenprozelten	1833	1664 l
+1	115	8	1664.13	Burger	Franz	Rechtenbach			v	Barbara	Hartmann	Rodenbach	1833	1664 m
+1	115	9	1664.14	Kempf	Revierförster	Langenprozelten			v	Clara	T(h)remer	Kothen	1833	1664 n
+1	115	10	1665	Buchberger	Johann	Ruppertshütten			v	Anna Maria	Horn	Ruppertshütten	1839	
+1	115	11	1666.1	Buchberger	Johann	Ruppertshütten			v	Gertraud	Mill	Frammersbach	1863	
+1	115	11	1666.2	Buchberger	Johann	Ruppertshütten			v	Gertraud	Miehl	Frammersbach	1863	
+1	116	1	1667	Buchberger	Johann	Ruppertshütten			v	Maria Theresia	Stürmer	Ruppertshütten	1912	
+1	116	2	1668	Buchberger	Johann Franz	Ruppertshütten			v	Katharina	Rüppel	Ruppertshütten (Frammersbach)	1851	
+1	116	3	1669	Buchberger	Julius	Ruppertshütten			v	Margaretha	Rützel	Ruppertshütten	1896	
+1	116	4	1670	Buchberger	Julius	Steinbach			v	Anna Katharina	Stickel	"Oberbaldingen, wohnhaft: Frankfurt/M."	1913	
+1	116	5	1671	Buchberger	Karl	Sackenback			v	Rosina	Rüfer	Sackenbach	1902	
+1	116	6	1672	Buchberger	Max	Ruppertshütten			v	Margaretha	Heck	Ruppertshütten	1886	
+1	116	7	1673	Buchberger	Michael	Ruppertshütten			v	Appollonia	Werthmann	Ruppertshütten	1906	
+1	116	8	1674	Buchberger	Philipp	Ruppertshütten			v	Gertraud	Hofmann	Ruppertshütten	1829	
+1	116	9	1675	Buchberger	Philipp	Ruppertshütten			v	Barbara	Werthmann	Ruppertshütten	1858	
+1	116	10	1676	Buchberger	Philipp	Ruppertshütten			v	Maria Anna Karolina	Müller	Dittigheim	1862	
+1	116	11	1677	Buchberger	Philipp	Ruppertshütten			v	Theresia 	Wenzel	Ruppertshütten	1864	
+1	117	1	1678	Buchberger	Philipp	Ruppertshütten			v	Klara	Buchberger	Ruppertshütten	1880	
+1	117	2	1679	Büdel	Adelbert	Oberköllnbach  	Ansässigmachung	Wiesen	v	Anna	Volk	St. Martin (Oberöstreich)	1864	
+1	117	3	1680	Büdel	Adelbert	Wiesen			v	Anna Margaretha	Büdel	Wiesen	1896	
+1	117	4	1681	Büdel	Adpf  Sebastian	Wiesen			v	Gertraud	Elesser geb. Büdel	Wiesen	1889	
+1	117	5	1682	Büdel	Albin	Krommenthal	wh	Habichsthal	v	Rosa Amalia	Friedel	Krommenthal	1908	
+1	117	6	1683	Büdel	Alois	Wiesen			v	Margaretha	Weigand	Habichsthal	1869	
+1	117	7	1684	Büdel	Anton	Frammersbach			v	Amalie	Eich	Krommenthal	1884	
+1	117	8	1685	Büdel	Anton	Frammersbach			v	Louise	Franz	Frammersbach	1886	
+1	117	9	1686	Büdel	Anton	Wiesen			v	Gertraud	Freund	Wiesen	1890	
+1	117	10	1687	Büdel	August	Habichsthal			v	Margaretha	Steigerwald	Habichsthal	1900	
+1	117	11	1688	Büdel	Augustin	Wiesen			v	Maria Agnes	Elesser	Wiesen	1849	
+1	117	2	1689	Büdel	Balthasar	Wiesen			v	Eva  Regina	"Büdel, Wwe. das Johann Philipp Elsäßer"	Wiesen	1858	date=1858/59
+1	118	1	1690	Büdel	Christian	Frammersbach			v	Gertrud	Rüth	Frammersbach	1830	
+1	118	2	1691.1	Büdel	Christian	Frammersbach			a				1850	
+1	118	2	1691.2	Büttel	Christian	Frammersbach			a				1850	
+1	118	3	1692	Büdel	Christian	Wiesen			v	Christina	Fleckenstein	Wiesen	1900	
+1	118	4	1693	Büdel	Eduard	Wiesen			v	Elisabetha	Reif	Wiesen	1851	
+1	118	5	1694	Büdel	Eustach	Frammersbach			v	Ludovika	Zimmermann	Frammersbach	1885	
+1	118	6	1695	Büdel	Franz	Frammersbach			v	Katharina	Goßmann	Frammersbach	1860	date=1860/61
+1	118	7	1696	Büdel	Franz	Wiesen			v	Katharina	Fleckenstein	Wiesen	1866	"date=1866, 1873/74"
+1	118	8	1697	Büdel	Franz	Wiesen			v	Katharina	Krebs	Wiesen	1885	
+1	118	9	1698	Büdel	Michae;	Frammersbach			v		"Wwe. Petronella Köhl, geb. Brechler"	Frankfurt/M.	1890	
+1	118	10	1699	Büdel	Lorenz	Frammersbach			v	Amalia	Büdel	Frammersbach	1897	
+1	118	11	1700	Büdel	Franz	Wiesen			v	Dorothea	Rothenbücher	Wiesthal	1906	
+1	118	12	1701	Büdel	Franz	Frammersbach			v	Josepha	Goßmann	Frammersbach	1907	
+1	119	1	1702	Büdel	Franz Alois	Wiesen			v	Franziska Katharina	Büdel	Wiesen	1895	
+1	119	2	1703	Büdel	Franz Joseph	Ruppertshütten			v	Maria	Wenzel	Ruppertshütten	1838	
+1	119	3	1704	Büdel	Franz Michael	Frammersbach			v	Dorothea	Imhof	Frammersbach	1855	
+1	119	4	1705	Büdel	Franz Wendelin	Frammersbach			v	Blanda	Eirich	Rohrbach	1898	
+1	119	5	1706	Büdel	Friedrich	Ruppertshütten			v	Barbara	Inderwies	Ruppertshütten	1840	
+1	119	6	1707	Büdel	Friedrich Joseph	Frammersbach			wv	Elisabetha Anna	Wagner	Frammersbach	1847	
+1	119	7	1708	Büdel	Friedrich Joseph	Frammersbach			v	Franziska	Weis	Frammersbach	1869	
+1	119	8	1709	Büdel	Franz	Wiesen			v	Margaretha	Franz	Wiesen	1833	
+1	119	9	1710	Büdel	Georg	Ruppertshütten			v	Kunigunda	Bippus	Rodenbach	1867	
+1	119	10	1711	Büdel	Gregor	Wiesen			v	Katharina	Fleckenstein	Wiesen	1859	
+1	119	11	1712	Büdel	Georg Anton	Frammersbach			v	Magdelena	Dietz	Schaafheim	1884	
+1	120	1	1713	Büdel	Gottfired	Wiesen			v	Katharina	Englert	Wiesen	1851	
+1	120	2	1714	Büdel	Hyronimus	Frammersbach			v	Margaretha	Eichelsbacher	"Hausen, wohnhaft: Niedernberg"	1876	date=1876/77
+1	120	3	1715	Büdel	Jacob	Wiesen			v	Katharina	Freund	Wiesen	1851	
+1	120	4	1716	Büdel	Jakob	Frammersbach			v	Maria	Goßmann	Frammersbach	1861	
+1	120	5	1717	Büdel	Jakob	Frammersbach			v	Maria	Goßmann	Frammersbach	1861	date=1861/62
+1	120	6	1718	Büdel	Jakob	Rettersbach	wh	Rodenbach	v	Rosina	Steger	Rodenbuch und Lohr/M.	1875	
+1	120	7	1719	Büdel	Jakob	Lohr			v	Amma Maria	Wirth	Lohr/M.	1892	
+1	120	8	1720	Büdel	Jakob	Wiesen			v	Hedwig	Amberg	Wiesen	1894	
+1	120	9	1721	Büdel	Johann	Wiesen			v	Anna Mairia	Reif	Wiesen	1858	
+1	120	10	1722	Büdel	Johann	Wiesen			wv 	Thekla	Büdel	Wiesen	1859	date=1859/60
+1	120	11	1723.1	Büdel	Johann	Frammersbach			wv	Elisabetha	Desch	Frammersbach	1861	
+1	120	11	1723.2	Büdel	Johann	Frammersbach			v	Maria	Goßmann	Frammersbach	1859	(1.  Ehe mit…)
+1	121	1	1724	Büdel	Johann Georg	Wiesen	wh	Würzburg	v	Wwe. Katharina	Ritz geb. Kuttendreier	Münch (Oberschleißheim)	1871	
+1	121	2	1725	Büdel	Johann	Wiesen			v	Katharina	Freund	Wiesen	1884	
+1	121	3	1726	Büdel	Johann	Habichsthal	wh	Lohr	v	Katharina Joseph	Väth	"Weibersbrunn, wh: Lohr"	1893	
+1	121	4	1727	Büdel	Johann Adam	Wiesen			v	Anna Margaretha	Freund	Wiesen	1847	
+1	121	5	1728.1	Büdel	Johann Adam	Frammersbach			v	Clara	Stadtmüller	Erlangung	1860	Gesuch zur Erlangung des Bürgerrechts in Altenburg
+1	121	5	1728.2	Büdel	Johann Adam	Frammersbach			v	Maria Anna	Büdel		1860	(1. Ehe mit
+1	121	6	1729	Büdel	Johann Adam	Frammersbach			v	Josepha	Weigand	Frammersbach	1883	
+1	121	7	1730	Büdel	Johann Anton	Wiesen			v	Anna Maria	Büdel	Wiesen	1848	
+1	121	8	1731	Büdel	Joh. Anton	Wiesen			v	Elissabetha	Krebs	Wiesen	1876	
+1	121	9	1732	Büdel	Joh. Damian	Wiesen			v	A.   Maria	Steigerwald	Wiesen	1824	
+1	121	10	1733	Büdel	Johann David	Frammersbach			v	Maria Anna	Imhof	Frammersbach	1893	
+1	121	11	1734	Büdel	Johann Franz	Frammersbach			v	Maria Gertraud	Aull	Frammersbach	1896	
+1	122	1	1735	Büdel	Johann Franz	Frammersbach			v	Wwe. Theresia	Goßmann geb. Aull	Frammersbach	1900	
+1	122	2	1736	Büdel	Johann Georg	Wiesen			v	Katharina	Reif	Wiesen	1851	
+1	122	3	1737	Büdel	Johann Georg	Wiesen			v	Agnes	Prasch	Wiesen	1869	
+1	122	4	1738.1	Büdel	Joh. Gottfried	Wiesen			v	Elisabetha	Büdel	Wiesen	1872	Stiefname
+1	122	4	1738.2	Krebs	Joh. Gottfried	Wiesen			v	Elisabetha	Büdel	Wiesen	1872	Geburtsname
+1	122	5	1739	Büdel	Johann Heinrich	Wiesen	wh	Altötting	v	Theresia	Ofenreiter	Unterneukirchen	1883	
+1	122	6	1740	Büdel	Johann Joseph	Wiesen			v	Barbara	Fleckenstein	Wiesen	1898	
+1	122	7	1741	Büdel	Johann Karl	Wiesen			v	Gertraud	Röcking	Wiesen	1872	
+1	122	8	1742	Büdel	Johann Kaspar	Frammersbach			v	Maria Gertraud	Kißner	Frammersbach	1876	
+1	122	9	1743	Büdel	Johann Matthäus	Wiesen			v	Thekla	Amberg	Wiesen	1885	
+1	122	10	1744	Büdel	Johann Melchor	Wiesen			v	Agatha	Schram	"Heinrichsthal, wohnhaft: Wiesen"	1877	
+1	122	11	1745	Büdel	Johann Michel	Frammersbach			v	Dorothea	Amrheim	Frammersbach	1828	
+1	122	12	1746	Büdel	Johann Michael	Frammersbach			v	Anna Maria	Münzenberger	Frammersbach	1857	
+1	123	1	1747	Büdel	Johann Michael	Frammersbach			v	Katharina	Goßmann	Frammersbach	1905	
+1	123	2	1748	Büdel	Johann Philipp	Frammersbach			v	Maria Josepha	Weigand	Frammersbach	1897	
+1	123	3	1749	Büdel	Joseph	Wiesen			v	Christina	Neumann	Wiesen	1835	
+1	123	4	1750	Büdel	Joseph	Wiesen			v	Agnes	Amberg	Wiesen	1871	
+1	123	5	1751	Büdel	Joseph	Wiesen			v	Maria Agnes	Elsesser	Wiesen	1885	
+1	123	6	1752	Büdel	Joseph	Wiesen			v	 Margaretha	Englert	Wiesen	1889	
+1	123	7	1753	Büdel	Joseph	Wiesen			v	Maria Katharina	Büdel	Wiesen	1890	
+1	123	8	1754	Büdel	Joseph	Frammersbach			v	Margaretha	Munchel	Haibach	1894	
+1	123	9	1755	Büdel	Joseph	Habichsthal			v	Thekla	Staab	Habichsthal	1897	
+1	123	10	1756	Büdel	Joseph Alois	Wiesen			v	Margaretha	Junker	Wiesen	1875	
+1	123	11	1757	Büdel	Karl	Wiesen			v	Maria	Rißberger	Wiesen	1903	
+1	123	12	1758	Büdel	Karl Sebastian	Wiesen	wh	Ludeigshafen/Rh.	v	Bertha	Schmitt	"Gauangelloch/BA Heidelberg, wohnhaft: Ludeigshafen/Rh."	1902	
+1	124	1	1759	Büdel	Kaspar	Frammersbach			a				1824	
+1	124	2	1760	Büdel	Leo	Wiesen			v	Mathilde	Elsesser	Wiesen	1885	
+1	124	3	1761	Büdel	Leo	Wiesen			v	maria Katharina	Amrheim	Wiesen	1899	
+1	124	4	1762	Büdel	Ludwig	Wiesen			v	maria	Kunkel	Frammersbach	1899	
+1	124	5	1763	Büdel	Martin	Wiesen			v	Barbara	Krebs	Wiesen	1853	
+1	124	6	1764	Büdel	Martin	Frammersbach			v	Maria Josepha	Desch	Frammersbach	1894	
+1	124	7	1765	Büdel	Martin	Frammersbach Wiesen			v	Amalia	Imhof 	Frammersbach	1890	
+1	124	8	1766	Büdel	Matthias	Wiesen			v	Margaretha	Büdel	Wiesen	1894	
+1	124	9	1767	Büdel	Mates	Wiesen			v	Katharina	Elsesser	Wiesen	1824	
+1	124	10	1768	Büdel	Mates	Wiesen			v	Maria Anna	Elsesser	Wiesen	1856	
+1	124	11	1769	Büdel	Matthäus	Wiesen			v	Anna Maria	Backer	Wiesen	1851	
+1	124	12	1770	Büdel	Matthäus	Frammersbach			v	Regina 	Rüppel	Frammersbach	1864	
+1	124	13	1771	Büdel	Matthäus	Wiesen			v	Sophia	Amberg	Wiesen	1905	
+1	125	1	1772	Büdel	Melchior	Wiesen			v	Margaretha	Elsesser	Wiesen	1838	
+1	125	2	1773	Büdel	Melchior	Wiesen			v	Regina	Steigerwald	Wiesen	1855	
+1	125	3	1774	Büdel	Melchior	Frammersbach			v	Maria Gertraud	Büdel	"Frammersbach, zuletzt: Frankfurt/M."	1914	
+1	125	4	1775	Büdel	Michael	Wiesen			v	Katharina	Krebs	Wiesen	1836	
+1	125	5	1776	Büdel	Michael	Frammersbach			v	Gertrude	Staab	Frammersbach	1851	
+1	125	6	1777	Büdel	Michael	Frammersbach			v	Elissabetha	Imhof	Frammersbach	1861	
+1	125	7	1778	Büdel	Michael	Frammersbach			v	Josepha	Amrheim	Frammersbach	1874	
+1	125	8	1779	Büdel	Michael	Wiesen			v	Maria	Amberg	Wiesen	1884	
+1	125	9	1780	Büdel	Michael	Frammersbach	wh	Haibach	v	Maria Cäzilia	Mungel	Haibach	1890	
+1	125	10	1781	Büdel	Michael	Frammersbach			v	Josefa	Goßmann	Frammersbach	1903	
+1	125	11	1782	Büdel	Michael	Wiesen			v	Rosa	Büdel	Wiesen	1905	
+1	125	12	1783	Büdel	Nikolaus	Wiesen			v	Anna Maria	Götz	Wiesen	1851	
+1	125	13	1784	Büdel	Otto	Wiesen			v	Dorothea	Metzler	Bergen/Krs. Hanau	1900	
+1	126	1	1785	Büdel	Otto	Wiesen			v	Anna	Fleckenstein	Wiesen	1904	
+1	126	2	1786	Büdel	Peter	Frammersbach			v	Maria Anna	Weigand	Frammersbach	1820	Vermögensschätzung
+1	126	3	1787	Büdel	Peter	Wiesen			v	Maria Magdalena	Stenger	"Frammersbach,  wohnhaft: Wiesen"	1911	
+1	126	4	1788	Büdel	Peter	Wiesen			v	Barbara Lidwina	Büdel	Wiesen	1914	
+1	126	5	1789	Büdel	Peter	Frammersbach			a				1830	
+1	126	6	1790	Büdel	Philipp	Wiesen			v	Lisabetha	geb KüppelBalthasar Winter’s Witwe	Frammersbach	1841	date=1841/42
+1	126	7	1791	Büdel	Philipp	Frammersbach			v	Gertraud	Anderlohr	Frammersbach	1880	
+1	126	8	1792	Büdel	Sebastian	Wiesen			v	Margaretha	Becker	Wiesen	1861	
+1	126	9	1793	Büdel	Sebastian	Wiesen			v	Maria Gertraud	Schnetter	Wiesen	1885	
+1	126	10	1794	Büdel	Sebastian	Wiesen			v	Maria Melania	Kilgenstein	Wiesen	1906	
+1	126	11	1795	Büdel	Sebastian	Wiesen			v	Maria Armalla	Kilgenstein	Wiesen	1914	
+1	126	12	1796	Büdel	Wilhelm	Wiesen			v	Luise	Imhof	Frammersbach	1887	
+1	127	1	1797	Büdel	Wilhelm	Wiesen			v	Anna Theresia	Hartmann	Wiesen	1906	
+1	127	2	1798	Büttner	Adam	Rothenbuch			v	Paulina Wilhelmina Charlotte	Dauer	"Schweindorf, wphnhaft: Rosenheim (auch München)"	1883	
+1	127	3	1799	Büttner	Ferdinand	Rothenbuch			v	Maria Anna	Orth	Rothenbuch	1847	
+1	127	4	1800	Büttner	Franz	Neuendorf			v	Monika	Welzbacher	"Mainschaff, wohnhaft: Aschaffenburg-Damm"	1906	
+1	127	5	1801	Büttner	Johann	Lohr/M.			v	Christiana	Durchholz	Rechtenbach	1898	
+1	127	6	1802	Büttner	Johann Michael	Kitzingen	wh	Lohr	v	Mathilde	Schneider	"Hausen, wohnhaft: Lohr/M.>"	1894	
+1	127	7	1803	Büttner	Joseph	Neuendorf			v	Maria Juliana	Nätscher	Wombach	1906	
+1	127	8	1804	Büttner	Leo	Langenprozelten			v	Maria Josefina	Spitznagel	Großmannsdorf	1903	
+1	127	9	1805	Büttner	Lorenz	Rothenbuch			v	karolina	Hasenstab	Rothenbuch	1874	
+1	127	10	1806	Büttner	Thaddäus	Hessenthal	wh	Lohr/M.	v	Maria Magdalena	Merz	Neuhütten	1874	
+1	127	11	1807	Büttner	Severin	Rothenbuch			v	Christina	Englerth	Rothenbuch	1869	
+1	127	12	1808	Buller	Friedrich	Neuhütten			v	Maria Magdalena	Kunkel	Neuhütten	1903	
+1	128	1	1809	Buller	Sylvester Ferdinand	Rothenbuch	wh	Lichtenau	v	Josefine Crescentia	Hasenstab	Rothenbuch	1893	
+1	128	2	1810	Burger	Caspar Joseph	Lohr	auch	Würzburg	v	Franziska Theresia Regina	Stein	Neuendorf	1879	
+1	128	3	1811	Burger	Georg	Partenstein			v	Theresia	Mehrlich	Partenstein	1903	
+1	128	4	1812	Burger	Joseph	Rodenbach			v	Cäcilia	Brönner	"Rodenbach, wohnhaft; Frankfurt/M."	1886	
+1	128	5	1813	Burk	Franz Joseph	Lohr/M.			v	Anna Eva	"Zeis, Wwe."	Lohr/M.	1884	
+1	128	6	1814	Burk	Franz Xaver	Lohr/M.			v	Elisabeth	Dildei	Lohr/M.	1896	
+1	128	7	1815	Burk	Friedrich	Lohr/M.			v	Barbara	Sommer	"Würzburg, wohnhaft: Unterdürrbach"	1897	
+1	128	8	1816	Burk	Friedrich	Lohr/M.	wh	Frankfurt/M.	v	Margaretha Gabriela	Schmitt	"Lohr, wohnhaft: Frankfurt/M."	1911	
+1	128	9	1817	Burk	Jakob	Lohr			v	Franziska	Tritschler	Lohr	1905	
+1	128	10	1818	Burk	Johann Jakob	Lohr/M.			v	Antonia	Lang	Lohr/M.	1899	
+1	128	11	1819	Burk	Johann Nikolaus	Lohr			v	Margaretha Katharina	Dittmeier	"Sachsenhein, wohnhaft: Gemünden"	1911	
+1	129	1	1820	Burk	Georg Josef	Lohr			v	Margaretha	Rehberger	Gemünden	1869	
+1	129	2	1821	Burk	Josef	Lohr			v	Veronika Josefa	Räck	Lohr	1890	
+1	129	3	1822	Burk	Michael	Lohr			v	Rosina Martha	Herrmann	Steinfeld	1911	
+1	129	4	1823	Burk	Peter	Lohr			v	Apollonia	Vogt	Gemünden	1889	
+1	129	5	1824	Burk	Philipp	Lohr			v	Elisabetha	Werth	Lohr/M.	1869	
+1	129	6	1825	Burk	Philipp	Lohr			v	Anna Katharina	Goßmann	Lohr	1894	
+1	129	7	1826	Burk	Philipp	Lohr/M.			v	Barbara	Hofmann	Lohr/M.	1897	
+1	129	8	1827	Burkard	Franz	Steinfeld			v	Apollonia	Hein	Steinfeld	1876	
+1	129	9	1828	Businger	Johann	Reichenau/Gemeinde Rupperthütten	wh	Gosseltshausen	v	Maria	Brückmaier	"Wolnzach, wohnhaft: Gosseltshausen"	1895	
+1	129	10	1829	Carl	Michael Josef	Lohr			v	Katharina Josefina	Dildei	Lohr	1906	
+1	129	11	1830	Caßimir	Phillip	Langenprozelten			k				1862	
+1	129	12	1831	Christ	Ambosius	Pflochsbach			v	Anna Maria	Braun	Frankfurt/M.	1892	
+1	130	1	1832	Christ	Anton	Pflochsbach			a				1866	
+1	130	2	1833	Christ	Anton II	Pflochsbach			v	Johanna	Christ	Pflochsbach	1878	
+1	130	3	1834	Christ	Augustin	Pflochsbach			v	Rosina Margaretha	Demuth	"Schnelldorf, bisher. Wohnort: Würzburg"	1895	
+1	130	4	1835	Christ	Balthasar	Pflochsbach			v	Dorothea	Glück	"Steinfeld, wohnhaft: Pflochsbach"	1863	
+1	130	5	1836	Christ	Bernard	Pflochsbach			v	Franzika	Wolf	Pflochsbach	1900	
+1	130	6	1837	Christ	Clemens	Pflochsbach			v	Elisabetha	Ruf (Witwe)	Pflochsbach	1878	
+1	130	7	1838	Christ	Clemens	Pflochsbach			v	Johanna	Christ Wiwe	Pflochsbach	1894	
+1	130	8	1839	Christ	Ferdinand	Pflochsbach			v	Anna Maria	Christ	Pflochsbach	1887	
+1	130	9	1840	Christ	Fridolin	Pflochsbach			v	Maria Agnes	Scherg	Pflochsbach	1907	
+1	130	10	1841	Christ	Georg	Pflochsbach			v	Anna Maria	Ruf	Pflochsbach	1859	
+1	130	11	1842	Christ	Georg	Pfaffenhausen/Amt Orb	wh	Sackenbach	v	Gertraud	Kunkel Wwe.	Sackenbach	1877	
+1	131	1	1843	Christ	Heinrich	Pflochsbach	wh	Köln-Nippes	v	Anna Sibilla	Helf	Köln	1898	
+1	131	2	1844	Christ	Johann Witwer (Christ III)	Pflochsbach			v	Sabina	Christ	Pflochsbach	1863	
+1	131	3	1845	Christ	Johann	Pflochsbach			v	Augusta	Christ	Pflochsbach	1904	
+1	131	4	1846	Christ	Johann Georg	Pflochsbach			v	Barbara Katharina	Hummel	"Wiesenfeld, bisher Wohnort: Pflochsbach"	1893	
+1	131	5	1847	Christ	Johann Peter	Pflochsbach			v	Katharina	Gruß	Pflochsbach	1874	
+1	131	6	1848	Christ	Josef	Pflochsbach			v	Rosina	Böger	Pflochsbach	1875	
+1	131	7	1849	Christ	Josef Anton	Pflochsbach			v	Eva Rosina	Chrisy	Pflochsbach	1875	
+1	131	8	1850	Christ	Julian	Pflochsbach			v	Josepha	Christ	Pflochsbach	1885	
+1	131	9	1851	Christ	Karl	Pflochsbach			v	Katharina	Heidenfelder	Pflochsbach	1858	
+1	131	10	1852	Christ	Karl	Pflochsbach			k				1863	
+1	131	11	1853	Christ	Karl Josef	Pflochsbach			v	Katharina	Christ	Pflochsbach	1875	
+1	131	12	1854	Christ	Michel	Pflochsbach			v	Aloisa	Gunkel	Wiesthal	1830	
+1	132	1	1855	Christ	Richard	Pflochsbach			v	Elisa	Schönmann	Pflochsbach	1905	
+1	132	2	1856	Christ	Wilhelm	Pflochsbach			v mit ww	Josefa	Kunkel geb Englert	Neuhütten	1893	
+1	132	3	1857	Christiansen	Karl Friedrich	Fensmark-Risler (Dänemark)	Wh	Lohr	v	Klara Josefa	Lorasch	Lohr	1908	
+1	132	4	1858	Clarenz	Franz Anton	Rechtenbach	Wh	München	v	Maria Eva Johanna	Dötsch	München (Würzburg)	1877	
+1	132	5	1859	Clarenz	Ludwig	Rechtenbach			v	Eva	Röder		1847	
+1	132	6	1860	Crämer	August	Lohr			v	Babette	Meinel	Lauf	1877	
+1	132	7	1861	Damm	Hienrich Joseph	Rechtenbach			v	Maria Angela	Weigand	Rechtenbach	1838	
+1	132	8	1862	Damm	Robert	Rothenbuch			v	Klara	Kullmann	Rothenbuch	1884	
+1	132	9	1863	Dauch	Franz	Rothenfels			Ansässigmachung				1854	
+1	132	10	1864	Dauch	Franz	Rothenfels			v	Babette	Koch	Hafenlohr	1855	
+1	132	11	1865	Dauch	Jakob	Lohr			v	Eva Rosina	Endres	Wombach	1869	
+1	133	1	1866	Dauch	Philipp	Rothenfels			v	Walburga	Schmitt	Höderthal	1855	Date=1855/57
+1	133	1.1	1866.1	Dauch	Philipp	Rothenfels			wv	Franziska	Hohe	Erlach	1867	
+1	133	2	1867	Dauch	Zacharias	Rothenfels			B	Kunigunda	Faulhaber	Böttigheim	1883	
+1	133	3	1868	Dauch	Friedrich Karl Zacharias	Rothenfels			v	Anna Maria	Hummel	Lengfurt	1895	
+1	133	4	1869	Daus	Christoph	Rechtenbach			v	Anna maria	Bartel	Rechtenbach	1866	
+1	133	5	1870	Daus	Clemens	Rodenbach	Wh	Frankfurt/M	v	Henriette	Berg	Frammersheim	1875	
+1	133	6	1871	Daus	Eduard	Rechtenbach			v	Anna	Hartung	Rechtenbach	1896	
+1	133	7	1872	Daus	Franz Jos.	Rechtenbach			v	Josephine	Madé	Rechtenbach	1895	
+1	133	8	1873	Daus	Johann	Rodenbach			v	Margaretha	Bippus	Rodenbach	1858	
+1	133	9	1874	Daus	Johann	Rechtenbach			v	Cäcilia	Hertaux	Rechtenbach	1851	
+1	133	10	1875	Daus	Johann	Rechtenbach			v	Sophia	Ihle	Rechtenbach	1855	
+1	133	11	1876	Daus	Johann Adam	Rechtenbach			v	Margaretha	Geist	Rechtenbach	1850	
+1	133	12	1877	Daus	Johann Sebastian	Rechtenbach			v	Mathilda Katharina	Durchholz	Rechtenbach	1885	
+1	134	1	1878	Daus	Joseph	Rechtenbach			v	Margaretha Agnes	Weigand	Rechtenbach	1889	
+1	134	2	1879	Daus	Lorenz	Rechtenbach	Wh	Fechenheim/M	v	Veronika	Hormung	Edelbach/BA Alzenau wh Fechenheim	1900	
+1	134	3	1880	Daus	Ludwig Christoph	Rechtenbach			v	Juliana	Daus	Rechtenbach	1893	
+1	134	4	1881	Daus	Michael	Rodenbach			v	Katharina	Schwab	Rodenbach	1860	
+1	134	5	1882.1	Daus	Ph. Ernst	Rechtenbach			v	Magdalena	Weigand	Rechtenbach	1850	
+1	134	5.1	1882.2	Daus	Ph. Ernst	Rechtenbach			wv	Anna Maria	Schneider	Mernes (Mörnes)	1861	
+1	134	6	1883	Dell	Johann	Frammersbach			v	Magdalena Augusta	Mill	Frammersbach	1908	
+1	134	7	1884	Dell	Wilhelm	Frammersbach			v	Anna Josephine	Brunner	Frammersbach	1902	
+1	134	8	1885	Demel	Anselm	Nantenbach			v	Witwe Margaretha	Nübert geb Wittig	Langenprozelten wh Nantenbach	1873	
+1	134	9	1886	Demel	Emanuel	Neuendorf/BA Lohr/M	Wh	Bayreuth	v	Anette	Maisel	Brandholz wh Bayreuth	1905	
+1	134	10	1887	Demel	Johann	Nantenbach			v	Susanna	Schmitt	Halsbach	1836	
+1	135	1	1888	Demling	Stephan	Erlach			v	Ursula	Hillenbrand	Dettelbach	1855	Date=1855/57
+1	135	2	1889	Deppisch	Joseph	Rothenfels			v	Anna	Amrhein	Rothenfels	1867	Date=1867/69
+1	135	3	1890	Desch	Anton	Frammersbach			v	Maria	Franz	Frammersbach	1828	
+1	135	4	1891	Desch	Balthasar	Frammersbach			k				1860	
+1	135	5	1892	Desch	Dominikus	Frammersbach			v	Magdalena	Rüth	Frammersbach	1824	
+1	135	6	1893	Desch	Franz	Frammersbach			v	Sabine	Keßer	Frammersbach	1866	
+1	135	7	1894	Desch	Franz Joseph	Frammersbach			v	Katharina	Amrhein	Frammersbach	1896	
+1	135	8	1895	Desch	Franz Michael	Frammersbach			v	Elisabetha	Elsesser	Frammersbach	1896	
+1	135	9	1896	Desch	Gabriel	Frammersbach			v	Margaretha	Imhof	Frammersbach	1847	
+1	135	10	1897	Desch	Gabriel	Frammersbach			v	Katharina	Vogt	Frammersbach	1848	
+1	135	11	1898	Desch	Gabriel	Frammersbach			v	Gertraud	Rüth	Frammersbach	1899	
+1	135	12	1899	Desch	Jacob	Frammersbach			v	Theresia	Bernard	Rodenbach	1877	
+1	136	1	1900	Desch	Johann	Frammersbach			k				1838	
+1	136	2.1	1901	Desch	Johann Adam	Frammersbach			wv	Dorothesa	Wagner	Frammersbach	1848	
+1	136	2.2	1901	Desch	Johann Adam	Frammersbach			1. ehe	Josepha	kirech	Frammersbach		
+1	136	3	1902	Desch	Johann Adam	Frammersbach			v	Katharina	Winter	Frammersbach	1865	
+1	136	4	1903	Desch	Johann Mich witwer	Frammersbach			V	Elisabetha	Rüth	Frammersbach	1877	
+1	136	5	1904	Desch	Johann Peter	Frammersbach			V	Barbara	Weis	Frammersbach	1830	
+1	136	6	1905	Desch	Joh. Joseph	Frammersbach			V	Gertraud	Steigerwald	Frammersbach	1840	
+1	136	7	1906	Desch	Lambertus	Frammersbach			V	Anna Maria	Kissner	Frammersbach	1857	
+1	136	8	1907	Desch	Matthäus	Frammersbach			V	Magdalena	Friedel	Frammersbach	1866	
+1	136	9	1908	Desch	Philipp	Frammersbach			V	Eva	Weis	Frammersbach	1882	
+1	136	10	1909	Desch	Wilhelm	Frammersbach			V	Maria Dorothea	Nöth	Frammersbach	1904	
+1	136	11	1910	Desch	Franz Joseph	Lohr			V	Anna Maria	Kunkel	Langenprozelten	1874	
+1	137	1	1911	Deuter	Valentin	Lohr			V	Maria Apollonia	Lippert	Lohr	1875	
+1	137	2	1912	Diel	Albert	Sendelbach	Wh	Ipsheim/BA Uffenheim	V	Hedwig Anna	Dumpert	Buttenheim wh Obernzenn/BA Uffheim	1811	
+1	137	3	1913	Diel	Alois	Sendelbach			V	Pauline	Wiesner	Sendelbach	1894	
+1	137	4	1914	Diel	Alois Josef	Sendelbach			V	Augusta	Schebler	Birkenfeld	1913	
+1	137	5	1915	Diel	Georg	Sendelbach			V	Klara	Brand	Sendelbach	1866	Date=1866/70
+1	137	6	1916	Diel	Geirg	Sendelbach			v	Barbara	Sopp	Lohr	1870	
+1	137	7	1917	Diel	Johann	Sendelbach			V	Apollonia	Hauck	Rettersheim	1868	Date=1868/73
+1	137	8	1918	Diel	Johann	Sendelbach			V	Maria Paulina	Imhof	Sendelbach	1904	
+1	137	9	1919	Diel	Johann	Sendelbach			wv	Amalia	Imhof	Sendelbach	1904	
+1	137	10	1920	Diel	Josef Anton	Sendelbach			v	Anna Maria	Hofmann	Zellingen	1898	
+1	137	11	1921	Diel	Michael	Sendelbach			v	Gertraud	Völker	Neustadt/M	1898	
+1	137	12	1922	Diel	Nikolaus	Sendelbach			v	Barbara	Knauer	Lohr/M	1897	
+1	138	1	1923	Diel	Sebastian	Sendelbach			V	Susanne	Völer	Pflochsbach	1872	
+1	138	2	1924	Diem	Georg	Pflochsbach	Wh	Lohr/M/	V	Emilie Katharina Maria	Biehler	Neunburg v.W.	1895	Wh Stadtamhoof
+1	138	3	1925	Diener	Anton	Rechtenbach (Heinrichsthal)			V	Liesabeta	Nollin	Rechtenbach	1815	
+1	138	4	1926	Diener	Anton	Heinrichsthal			v	Elisabetha	Nott Witwe	Rechtenbach	1822	
+1	138	5	1927	Diener	Anton	Heinrichsthal			v	Elisabetha	Nott	Rechtenbach	1830	
+1	138	6	1928	Dieterich	Georg witwer	Lohr			Wv	Apollonia	Zöller	Bürgstadt	1875	
+1	138	7	1929	Dieterich	Georg Anton	Langenprozelten			V	Margaretha	Wirthmann	Langenprozelten	1879	
+1	138	8	1930.1	Dieterich	Michel Anton	Langenprozelten			v	Maria Agnes	Dorr	Rengersbrunn	1850	
+1	138	9	1930.2	Dieterich	Michel Anton	Langenprozelten			Wv	Kath Elisabetha	Hartmann	Partenstein 	1858	
+1	138	10	1930.3	Dieterich	Michel Anton	Langenprozelten			Wv	Eva	Obert	Langenprozelten	1863	
+1	138	11	1931	Dieterich	Nicolaus Joseph	Sackenbach			V	Gertraud Lucia	Ullrich	Sackenbach	1862	
+1	138	12	1932.1	Dieterich	Sebastian	Halsbach			v	Christine	Eichmüller	Karbach	1867	
+1	138	13	1932.2	Dieterich	Sebastian	Halsbach			wv	Elisabetha	Riedmann	Umspringen	1867	
+1	139	1	1933	Dietrich	Sebastian Bernard	Halsbach			V	Katharina	Spall	Karbach	1878	
+1	139	2	1934	Dietrich	Adam Josef	Sackenbach			V	Maria Antonia	Bernard	Sackenbach	1880	
+1	139	3	1935	Dietrich	Andreas	Sackenbach			V	Dorothea	Hofmann	Sackenbach	1853	
+1	139	4	1936	Dietrich	Anton	Langenprozelten			V	Katharina	Herich	Langenprozelten	1844	
+1	139	5	1937	Dietrich	Anton	Rodenbach			V	Elisabetha	Heidenfelder	Rodenbach	1859	
+1	139	6	1938	Dietrich	Anton	Sackenbach			v	Gertraud Sophia	Dietrich	Sackenbach	1896	
+1	139	7	1939	Dietrich	Carl	Lohr/M			Wv	Elise Amalia Franziska	Brunner	Frammersbach	1880	
+1	139	8	1940	Dietrich	Cölestin	Lohr			V	Elisabetha	Fleckenstein	Lohr	1872	
+1	139	9	1941	Dietrich	Elias Adam	Langenprozelten			V	Josepha	Obert	Langenprozelten	1874	
+1	139	10	1942	Dietrich	Franz	Rodenbach			V	Elisabetha	Maier	Rodenbach Übersiedlung nach Schmerlenbach	1857	
+1	139	11	1943	Dietrich	Franz Anton	Rodenbach							1860	Veheleute Übersiedlung nach Schmerlenbach
+1	140	1	1944	Dietrich	Franz Joseph	Bergrothenfels	Wh	Bedheim	v	Maria Theresia	Zier (Sperr)	Windischeschenbach 	1888	Wh Bedheim bei Hildburghausen
+1	140	2	1945	Dietrich	Franz Joseph	Lohr			V	Paulina	Otter	Hausen K	1906	
+1	140	3	1946	Dietrich	Franz Michael	Langenprozelten			V	Katharina	Amend	Langenprozelten	1870	Wh Weickersgrüben
+														
+1	140	4	1946.1	Dietrich (Dittrich)	Michael	Langenprozelten			V	Dorothea	Plauding [?]	Langenprozelten	1830	
+1	140	5	1947	Dietrich	Georg	Sackenbach			V	Maria Eva	Merz	Sackenbach	1855	
+1	140	6	1948	Dietrich	Georg Adam	Langenprozelten	Wh	Offenbach	V	Elisabetha	Monzel	Dierscheid	1894	Wohnsitz: Trier
+1	140	7	1949	Dietrich	Georg Josef	Lohr			V	Catharina Agnes	Schenzler	Lohr/M.	1860	
+1	140	8	1950	Dietrich	Georg Franz	Sackenbach			V	Margaretha	Höfling	Lohr	1877	
+1	140	9	1951	Dietrich	Georg Josef	Sackenbach			V	Rosina	Dumrauf	Kirchschletten	1879	
+1	140	10	1952	Dietrich	Hieronymus	Langenprozelten			V	Margaretha	Obert	Langenprozelten	1904	
+1	141	1	1953	Dietrich	Jacob	Langfurt			V	Eva	Wittich	Sendelbach	1824	
+1	141	2	1954	Dietrich	Johann Nikolaus	Sackenbach			V	Eva Rosina	Merz	Sackenback	1855	
+1	141	3	1955	Dietrich	Johann	Rothenfels			V	Magdalena	Gehrig	Retzbach	1860	
+1	141	4	1956	Dietrich	Johann	Langenprozelten			V	Witwe Anna Maria	Ditterich		1865	
+1	141	5	1957	Dietrich	Johann Georg	Sackenbach			A				1823	
+1	141	6	1958	Dietrich	Johann Josef	Langenprozelten			V	Dorothea	Egert	Langenprozelten	1889	
+1	141	7	1959	Dietrich	Karl Johann	Lohr			V	Wilhelmina	Stum	Flaugen	1906	Wh Wombach
+1	141	8	1960	Dietrich	Kaspar	Rothenfels			wv	Theresia	Bischoff	Faulbach	1853	Weiderverehelichung)
+1	141	9	1961	Dietrich	Lorenz	Rothenfels			wv	Sabina	Ils	Rothenfels	1859	
+1	141	10	1962	Dietrich	Lorenz	Rothenfels			V	Katharina	Greß	Bergrothenfels	1862	
+1	141	11	1963	Dietrich	Martin J	Langenprozelten			V	Anna Maria Seubert		Zellingen	1856	
+1	141	12	1964	Dietrich	Melchior	Sackenbach			V	Benedikta	Höfling	Sackenbach	1866	
+1	142	1	1965	Dietrich	Michael	Sackenbach			a				1822	
+1	142	2	1966	Dietrich	Peter	Sackenbach			V	Rosa Maria	Merz	Sackenbach	1879	
+1	142	3	1967	Dietrich	Peter Jos.	Sackenbach			V	Margaretha	Schäfer	Sackenbach	1858	
+1	142	4	1968	Dietrich	Philipp Martin	Bergrothenfels			V	Elisabetha Ottilia	Hock geb Klopf Witwe	Bergrothenfels	1889	
+1	142	5	1969	Dietrich	Valentin	Sackenbach			V	Verena	Imhof	Sackenbach	1865	
+1	142	6	1970	Dietrich	Valentin	Sackenbach			V	Magdalena	Durchholz	Rechtenbach	1898	Wh Sackenbach
+1	142	7	1971	Dietrich	Wilhelm	Langenprozelten			V	Anna Maria	Amend	Partenstein	1902	
+1	142	8	1972	Dietrich	Wolfgang	Langenprozelten	Wh	Frankfurt/M	V	Johanna	"Kübert, dann Höfling"	Langenprozelten	1902	Wh Frankfurt/M
+1	142	9	1973	Dietrich	Zacharies	Rothenfels			V	Dorothea	Röder	Bergrothenfels	1859	
+1	142	10	1974	Dietz	Amandus	Krommenthal	Wh 	Bayreuth	V	Anna Maria Helena	Deinzer	Schonungen	1908	wh Schweinfurt
+1	143	1	1975	Dietz	Otto Bruno	Neuhütten	Wh	Germerscheim	V	Mathilde	Walter	Germerscheim	1898	
+1	143	2	1976	Dildei	Heinrich	Lohr			V	Johanna	Buckel	Fabrikschleichach	1890	Wh Würzburg
+1	143	3	1977	Dildei	Jakob	Lohr/Main			V	Elisabetha	Buckel	Fabrikschleichach/Gemeinde Karbach	1883	Auch Jakob Dildey 
+1	143	4	1978	Dildey	Adam	Lohr/M.			V	Victoria	Sebrich	Lohr	1886	Johann Anton
+1	143	5	1979	Dildey	Andreas	Lohr/M.			V	Margaretha Johanna	Schmitt	Lohr/M.	1904	
+1	143	6	1980	Dildey	Anton	Lohr			v	Margaretha	Mehrlich	Lohr	1873	
+1	143	7	1981	Dildey	Anton Jacob	Lohr	Wh	Würzburg	V	Anna	Langenberger	Würzburg	1908	
+1	143	8	1982	Dildey	Heinrich	Lohr			V	Ida Wilhelmina Elisabetha	Kramer	Hamburg	1913	
+1	143	9	1983	Dildey	Johann Georg	Lohr/M	Wh	Langenprozelten	V	Anna Mathilde	Maier	Lohr	1893	
+1	143	10	1984	Dildey	Michael	Lohr			V	Dorothea	Back	Lohr	1902	
+1	143	11	1985	Dildey	Michael Josef	Lohr			V	Louise Veronika	Reinhart	Lohr/M.	1895	
+1	144	1	1986	Dildey	Nicolaus	Lohr			V	Elisabetha	Hammer	Lohr	1877	
+1	144	2	1987	Dildey	Wilhelm	Lohr			V	Josefa	Knauer	Lohr	1904	
+1	144	3	1988	Diller	Johann Joseph	Partenstein			V	Katharina	Henning	Partenstein	1884	
+1	144	4	1989	Diller	Johann Joseph	Partenstein			v	Katharina	Diller	Partenstein	1867	
+1	144	5	1990	Diller	Peter	Partenstein			V	Christiana	Breitenbach	Partenstein	1839	
+1	144	6	1991	Diller	Peter	Partenstein			V	Maria Frederika	Born	Partenstein	1867	
+1	144	7	1992	Diranko(y)	Johann	Rothenfels			V	Barbara	Roth	Bergrothenfels	1858	DATE+1858/68
+1	144	8	1993	Diranko	Johann	Rothenfels			k				1862	
+1	144	9	1994	Diranko	Johann Witwer	Rothenfels			V	Margaretha	Roos	Oberndorf	1877	
+1	144	10	1995	Dyranko	Karl Alois	Rothenfels			V	Maria Josepha	Rung	Ramberg	1867	"Date-1867/68,Wh Lenhfurt,Würzburg"
+1	144	11	1996	Disteer	Franz	Lohr			V	Louise	Brigl	Unternbach	1895	Wh Augsburg
+1	145	1	1997	Distler	Peter Joseph	Lohr	Wh	Dürkheim	V 	Barbara Franziska	Schwind	Lohr	1900	
+1	145	2	1998	Dieterich	Joh. Niklaus	Sackenbach			A				1815	Ditterich
+1	145	3	1999	Ditterich	Philipp	Rothenfels			V	Sophia Theresia	Lang	Ruppertshütten	1877	
+1	145	4	2000	Ditterich	Georg	Sackenbach			V	Christina	Höfling	Lohr	1839	
+1	145	5	2001.1	Ditterich	Michael	Langenprozelten			V	Dorothea	Plauding	Langenprozelten	1830	
+1	145	6	2001.2	Ditterich	Adam Witwer	Halsbach			V	Barbara 	Bickler [?]		1819	
+1	145	7	2002	Dittmaier	Georg	Waldzell			V	Barbara	Broenner	Wolfsmünster	1867	
+1	145	8	2003	Dittmaier	Niklaus	Langenprozelten			V	Ottilie	Hirsch	Langenprozelten	1913	
+1	145	9	2004	Dittmaier	Peter	Halsbach			V	Maria	Riedmann	Halsbach	1855	
+1	145	10	2005	Dittmaier	Peter witer	Halsbach			V	Margaretha	Amend	Stadelhofen	1838	
+1	145	11	2006	Dittmaier	Peter				A				1867	
+1	145	12	2007	Dittmann	Heinrich	Erlach			V	Genovefa	Behl	Trennfeld	1907	
+1	146	1	2008	Dittmann	Lorenz	Erlach			V	Elisabetha	Fecher	Mainaschaff	1871	
+1	146	2	2009	Dörfel	Johann	Schwarzenbach	Wh	Rothenfels	V	Elisabetha	Lammerer 	Allersberg	1869	Genannt Geidl
+1	146	3	2010	Dorsch	Franz Anton	Kitzingen	Wh	Steinfeld	V	Karolina	Scheiner	Steinfeld	1877	
+1	146	4	2011	Dotter	Joseph Adolf	Lohr	Wh	Weisenburg	V	Philomena	Müller	Augsburg	1906	
+1	146	5	2012	Dreschel	Heinrich	Rothenbuch	Wh	Nürnberg	V	Johanna	Gruber	Rothenbuch	1875	Wh Nürnberg
+1	146	6	2013	Dreisbisch	Michael	Lohr			V	Victoria	Schulter	Lohr	1883	
+1	146	7	2014	Drissler	Franz	Lohr/Main			V	Maria Louise	Schoemann	Kleinrinderfeld	1880	wh Lohr
+1	146	8	2015	Drissler	Carl	Lohr	Wh	Gülingen/Württemberg	V	Magdalena Amalie Therese	Deckelmann	Würzburg	1886	
+1	146	9	2016	Droll	Franz	Duttenbrunn/BA Karlstadt			V	Eva	Mehler	Halsbach	1863	
+1	146	10	2017	Droll	Karl	Halsbach			V	Magdalena	Amend	Halsbach	1894	
+1	146	11	2018	Druschel	Anton	Wiesthal			V	Rosamunda	Englert	Wiesthal	1898	
+1	147	1	2019	Druschel	Franz	Wiesthal			V	Eva Rosina	Kunkel	Wiesthal	1871	
+1	147	2	2020	Druschel	Georg witwer	Habichsthal			V	Gisela	Rosth	Wiesthal	1885	
+1	147	3	2021	Druschel	Georg Adam	Wiesthal			V	Apolonia	Amrheim	Habichsthal	1886	
+1	147	4	2022	Druschel	Jacob	Wiesthal			V	Paulina	Stenger	Wiesthal	1908	
+1	147	5	2023	Druschel	Joseph	Wiesthal			V	Katharina	Ehrlich	Wiesthal	1908	
+1	147	6	2024	Druschel	Wilhelm	Wiesthal	Wh	Frankfurt/M	V	Eva	Kunkel	Wiesthal	1900	
+1	147	7	2025	Dünkel	Wilhelm	Partenstein			V	Margaretha	Schnetzer		1831	
+1	147	8	2026	Dünkel	Wilhelm	Partenstein	Wh	Untersendling	V	Barbara 	Friedrich	Augsburg	1869	Wh Untersendling
+1	147	9	2027	Dürr	Franz	Pflochsbach	Wh	Harlstadt	V	Anna Maria	Kiesel geb Hartmann	Duttenbrunn	1897	
+1	147	10	2028	Dürr	Johann	Pflochsbach			V	Elisabetha	Scherg	Pflochsbach	1863	
+1	147	11	2029	Dürrnagel	Joseph	Veitshöchheim			K	Anna	Gerhard	Veitshöchheim	1859	
+1	148	1	2030	Durchholz	Alois	Rechtenbach			V	Magdalena	Weigand	Rechtenbach	1908	
+1	148	2	2031	Durchholz	Ambrosius Friedrich	Rechtenbach			V	Karoline	Reich	Amberg	1872	
+1	148	3	2032	Durchholz	Anton	Rechtenbach			V	Agnes	Vorwald	Sackenbach	1865	
+1	148	4	2033	Durchholz	Anton	Rechtenbach			V	Regina	Madré	Rechtenbach	1871	
+1	148	5	2034	Durchholz	August	Rechtenbach			V	Ludwina	Ihls	Rechtenbach	1889	
+1	148	6	2035	Durchholz	Christoph	Rechtenbach			V	Walburga	Ihls	Rechtenbach	1872	
+1	148	7	2036	Durchholz	David Johann	Rechtenbach			V	Ida	Geist	Rechtenbach	1883	
+1	148	8	2037	Durchholz	Eduard	Rechtenbach	Wh	Würzburg	V	Johanna Matharina	Ott	Ostheim	1886	Wh: Würzburg
+1	148	9	2038	Durchholz	Eucharius	Rechtenbach	Wh	Lohr/M.	V	Maria Katharina	Spies	Schlammerdorf	1896	Wh: Lohr/M.
+1	148	10	2039	Durchholz	Franz	Rechtenbach			V	Katharina	Herteux	Rechtenbach	1840	
+1	148	11	2040	Durchholz	Franz	Rechtenbach			V	Anna Maria	Hehl	Rechtenbach	1871	
+1	149	1	2041	Durchholz	Franz Joseph	Rechtenbach			V	Anna Maria	Madré	Rechtenbach	1866	1866/75
+1	149	2	2042	Durchholz	Franz Joseph	Rechtenbach			v	Margaretha	Krimm wwe 	Partenstein	1884	Wh Rechtenbach
+1	149	2	2042	Durchholz	Franz Joseph				V #1	Elisabetha 	Durchholz			
+1	149	3	2043	Durchholz	Friedrich	Rechtenbach			V	Angelika	Damm	Rechtenbach	1858	
+1	149	4	2044	Durchholz	Gustav	Rechtenbach			V	Gertraud	Ebel	Rechtenbach	1907	
+1	149	5	2045	Durchholz	Heinrich	Rechtenbach			V	Maria Renate	Ebel	Rechtenbach	1835	
+1	149	6	2046	Durchholz	Johann	Rechtenbach			V	Elisabetha	Körner	Rothenbuch	1860	
+1	149	7	2047	Durchholz	Johann	Rechtenbach			V	Elisabetha	Herteux	Rothenbuch	1879	
+1	149	8	2048	Durchholz	Johann	Rechtenbach			V	Margaretha Viktoria	Kohl	Rechtenbach	1884	
+1	149	9	2049	Durchholz	Joh. Adm. III	Rechtenbach			V	Walburga	Durchholz	Rechtenbach	1864	
+1	149	10	2050	Durchholz	Joh. Adm	Rechtenbach			V	Maria Anna	Geist	Rechtenbach	1869	
+1	149	11	2051	Durchholz	Johann Adam	Rechtenbach			V	Elisabetha	Mähler	Rieneck	1881	Wh Rechtenbach früher Lohr
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+1	199	1	2586	Estenfelder	Jakob (Jacob)	Schwertel bei Frammersbach			v	Catharina	Fleckenstein	Wiesthal und Kookenruh b. Frammersbach	1858	Date=1859/60
+1	199	2	2587	Etzel	August	Rechtenbach			v	Anna Maria	Hehl	Rechtenbach	1904	
+1	199	3	2588	Etzel	Edmund	Sendelbach	Wh	Gaustadt	v	Barbara	Loch	Gaustadt	1896	Date=1896/97
+1	199	4	2589	Etzel	Johann	Rechtenbach			v	Josepha	Karl	Neuhütten	1863	
+1	199	5	2590	Etzel	Julius Lorenz	Rechtenbach	Wh	Lohr/M.	v	Regina Martha	Bohn	Aschaffenburg	1915	
+1	199	6	2591	Etzel	Michael	Rechtenbach	Wh	Granesau (Böhmen)	v	Rosa	Ko?i	"Horny Schota/polit. Bezirk: Ledetsch, wh Granesau"	1907	
+1	199	7	2592	Etzel	Ottmar	Sendelbach	Wh	Lohr	v	Agnes	Schwind	Lohr	1884	
+1	199	8	2593	Etzel	Peter	Edelbach			v	Katharina	Schreck	Rechtenbach	1828	
+1	199	9	2594	Etzel	Joseph Peter	Rechtenbach			v	Dorothea	Bald	Sendelbach	1859	
+1	199	10	2595	Etzel	Peter Joseph	Rechtenbach	G							G= Gesuch um Verleihung einer Scheiderkonzession und Ansässigmachung
+1	199	11	2596	Etzel	Sebastian	Rechtenbach			v	Elisabetha	Vater	Rechtenbach	1859	
+1	200	1	2597	Etzel	Stephan	Rechtenbach			v	Maria	Kranz	Partenstein	1902	
+1	200	2	2598	Ewald	August Lorenz	Lohr			v	Anna Josfine	Bald	Lohr	1909	
+1	200	3	2599	Ewald	Johann Fabian	Lahrbach b.Gersfeld	Wh	Lohr	v	Johanna Katharina	Handwerker	Lohr/M.	1880	
