@@ -1,0 +1,73 @@
+<FORM ID="F2501232" REV="1" NAME="1892 New York State Census">
+<FORM_TEXT>
+
+Page ____
+
+Enumeration of the Inhabitants living in the ____ Election District of the Town of ____, in the County of
+____, N. Y,, on , Feb. 16. 1892.
+Enumerator ____
+
+►Column Headings◄
+►un-numbered columns◄
+
+►1◄    NAME
+
+►2◄  Male or female.
+
+►3◄   AGE.
+
+►4◄   Color.
+
+►5◄   In What Country Born.
+
+►6◄   Citizen or alien.
+
+►7◄   OCCUPATION.
+
+►Blank Data Lines: 40◄
+
+►columns 1-7 repeat again on right side  yields 80 names per sheet◄
+
+</FORM_TEXT>
+
+===========================================DIV50==
+<FORM_DATA>
+
+1892 NY state                  | June 1, 1905    |
+County                         |                 |
+Page #                         |                 |
+Election District              |                 |
+Town                           |                 |
+Enumerator                     |                 |
+
+    Line #                     |                 |
+1   Name                       |                 |
+2   Sex                        |                 |
+3   Age                        |                 |
+4   Race                       |                 |
+5   Country of Birth           |                 |
+6   Citizen / alien            |                 |
+7   Trade or profession        |                 |
+
+</FORM_DATA>
+</FORM>
+
+===========================================DIV50==
+Codes:
+
+See "_info.txt" file for the key to the meaning of ► ◄ codes.
+
+===========================================DIV50==
+Notes:
+
+Ancestry's collection-
+https://www.ancestry.com/search/collections/catalog/?title=New%20york%20state%20census&location=35_2
+
+1892
+https://www.ancestry.com/search/collections/3212/
+
+===========================================DIV50==
+Examples:
+
+https://www.ancestry.com/imageviewer/collections/3212/images/41121_B125421-00069
+===========================================DIV50==

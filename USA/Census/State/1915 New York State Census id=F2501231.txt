@@ -1,13 +1,11 @@
-<FORM ID="F2501221" REV="2" NAME="1925 New York State Census">
+<FORM ID="F2501231" REV="1" NAME="1915 New York State Census">
 <FORM_TEXT>
+(C-2)
 
-COUNTY ____
-ORIGINAL
-Page ____
-State of New York, June 1, 1925.
+__►Original◄__ Page ____
 
 Enumeration of the Inhabitants of Block No. ____, Election District No. ____, Ward No. ____, City or Village ____
-Town ____, Assembly District No. ____
+Town ____, Assembly District No. ____, County ____, State of NEW YORK, June 1, 1915.
 Name of Institution ____
 Enumerator ____
 
@@ -20,10 +18,10 @@ PERMANENT RESIDENCE
 1b    House Number.
 
 NAME
-2    of each person whose usual place of abode on June 1, 1925, was in this family.
+2    of each person whose usual place of abode on June 1, 1915, was in this family.
      Enter surname first, then the given name and middle initial, if any.
-     Include every person living on June 1, 1925.
-     Omit children born since Jun 1, 1925.
+     Include every person living on June 1, 1915.
+     Omit children born since Jun 1, 1915.
 
 RELATION
 3    Relationship of each person to the head of the family
@@ -39,14 +37,13 @@ NATIVITY
 CITIZENSHIP
 8    Number of years in the United States.
 9    Citizen or alien.
-10   If naturalized, when and where.
 
 OCCUPATION
-11   Trade or profession of, or kind of work done by, each person enumerated.
-12   Class.
+10   Trade or profession of, or kind of work done by, each person enumerated.
+11   Class.
 
 FOR INMATES OF INSTITUTIONS, INFANTS UNDER ONE YEAR OF AGE
-13   If an inmate of an institution, enter the residence (borough, city or town, and county) given when admitted.
+12   If an inmate of an institution, enter the residence (borough, city or town, and county) given when admitted.
 
 ►Line number◄
 
@@ -57,7 +54,7 @@ FOR INMATES OF INSTITUTIONS, INFANTS UNDER ONE YEAR OF AGE
 ===========================================DIV50==
 <FORM_DATA>
 
-1925 NY state                  | June 1, 1925    |
+1915 NY state                  | June 1, 1915    |
 County                         |                 |
 Page #                         |                 |
 Block #                        |                 |
@@ -80,10 +77,9 @@ Enumerator                     |                 |
 7   Country of Birth           |                 |
 8   # yr. in USA               |                 |
 9   Citizen / alien            |                 |
-10  if naturalized, when where |                 |
-11  Trade or profession        |                 |
-12  Class                      |                 |
-13  Inmate or under 1yr        |                 |
+10  Trade or profession        |                 |
+11  Class                      |                 |
+12  Inmate or under 1yr        |                 |
 
 </FORM_DATA>
 </FORM>
@@ -96,18 +92,20 @@ See "_info.txt" file for the key to the meaning of ► ◄ codes.
 
 ===========================================DIV50==
 Notes:
-Column 13 data is not clear regarding infants.
+Column 12 data is not clear regarding infants.
+
+►Original◄  All sheets seen have handwritten text: Original.
 
 Ancestry's collection-
 https://www.ancestry.com/search/collections/catalog/?title=New%20york%20state%20census&location=35_2
 
-1925 NY
-https://www.ancestry.com/search/collections/2704/
-
+1915 NY
+https://www.ancestry.com/search/collections/2703/
 
 ===========================================DIV50==
 Examples:
 
-https://www.ancestry.com/imageviewer/collections/2704/images/32849_b094382-00004?usePUB=true&_phsrc=MXB758
+https://www.ancestry.com/discoveryui-content/view/5798113:2703
+https://www.ancestry.com/imageviewer/collections/2703/images/32848_B094031-00486?usePUB=true&usePUBJs=true&pId=5798113
 
 ===========================================DIV50==
