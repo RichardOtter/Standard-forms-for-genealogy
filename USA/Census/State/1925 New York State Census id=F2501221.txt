@@ -1,0 +1,129 @@
+<FORM ID="F2501221" REV="1" NAME="1925 New York State Census">
+<FORM_TEXT>
+
+COUNTY ____
+ORIGINAL
+Page ____
+State of New York, June 1, 1925.
+
+Enumeration of the Inhabitants of Block No. ____, Election District No. ____, Ward No. ____, City or Village ____
+Town ____, Assembly District No. ____
+Name of Institution ____
+Enumerator ____
+
+►Column Headings◄
+
+►Line number◄
+
+PERMANENT RESIDENCE
+Street.
+1    ____
+
+House Number.
+►un-numbered◄ ____
+
+NAME
+of each person whose usual place of abode on June 1, 1925, was in this family.
+Enter surname first, then the given name and middle initial, if any.
+Include every person living on June 1, 1925.
+Omit children born since Jun 1, 1925.
+2    ____
+
+RELATION
+Relationship of each person to the head of the family
+3    ____
+
+COLOR, SEX AND AGE
+Color or Race.
+4    ____
+
+Sex.
+5    ____
+
+Age at last birthday.
+6    ____
+
+NATIVITY
+If born in this country, write United States; if of foreign birth, write name of the country.
+7    ____
+
+CITIZENSHIP
+Number of years in the Unted States.
+8    ____
+
+Citizen or alien.
+9    ____
+
+If naturalized, when and where.
+10   ____
+
+OCCUPATION
+Trade or profession of, or kind of work done by, each person enumerated.
+11   ____
+
+Class.
+12   ____
+
+FOR INMATES OF INSTITUTIONS, INFANTS UNDER ONE YEAR OF AGE
+If an inmate of an institution, enter the residence (borough, city or town, and county) given when admitted.
+13   ____
+
+►Blank Data Lines 1-50◄
+
+</FORM_TEXT>
+
+===========================================DIV50==
+<FORM_DATA>
+
+1925 NY state                  | June 1, 1925    |
+County                         |                 |
+Page #                         |                 |
+Block #                        |                 |
+Election District              |                 |
+Ward #                         |                 |
+City or Village                |                 |
+Town                           |                 |
+Assembly District #            |                 |
+Name of Institution            |                 |
+Enumerator                     |                 |
+
+    Line #                     |                 |
+1   Street                     |                 |
+1-2 House #                    |                 |
+2   Name                       |                 |
+3   Relation                   |                 |
+4   Race                       |                 |
+5   Sex                        |                 |
+6   Age                        |                 |
+7   Country of Birth           |                 |
+8   # yr. in USA               |                 |
+9   Citizen / alien            |                 |
+10  if naturalized, when where |                 |
+11  Trade or profession        |                 |
+12  Class                      |                 |
+13  Inmate or infant lt 1yr    |                 |
+
+</FORM_DATA>
+</FORM>
+
+
+===========================================DIV50==
+Codes:
+
+See "_info.txt" file for the key to the meaning of ► ◄ codes.
+
+===========================================DIV50==
+Notes:
+Ancestry's collection-
+https://www.ancestry.com/search/collections/catalog/?title=New%20york%20state%20census&location=35_2
+
+https://www.ancestry.com/search/collections/2704/
+
+https://www.ancestry.com/search/collections/8940/
+
+===========================================DIV50==
+Examples:
+
+https://www.ancestry.com/imageviewer/collections/2704/images/32849_b094382-00004?usePUB=true&_phsrc=MXB758
+
+===========================================DIV50==
