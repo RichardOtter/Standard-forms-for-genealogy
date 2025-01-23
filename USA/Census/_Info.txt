@@ -1,4 +1,29 @@
 
+Forms explanation
+
+
+Form ID
+F<YY><MM><<DD><N>
+Indicates creation date and serial number for the form. The number is as small as possible. Uses 2 digit year. Does not need to sort 100 years from now.
+
+Rev
+integer
+
+Name
+Follow the existing pattern 
+
+If the data entry section is chnaged in a way that makes data ambiuous, change the Forn number, otherwise change only the Rev level.
+
+
+The doc is XML, so use ►◄ instead of <> for meta text.
+These chars should all be escaped. Many will not be requied, but it's safer.
+"   &quot;
+'   &apos;
+<   &lt;
+>   &gt;
+&   &amp;
+https://stackoverflow.com/questions/1091945/what-characters-do-i-need-to-escape-in-xml-documents
+
 Transcription issues
 
 The fields at the top of the forms are generally entered down left column,
@@ -29,7 +54,7 @@ and use correct line numbers in the bottom part. See example below.
 Example of multiple person household on one data extraction form.
 
 ===========================================DIV50==
-<FORM ID="2023-02-23-01" REV="1" NAME="1910 US Federal Census">
+<FORM ID="23022301" REV="1" NAME="1910 US Federal Census">
 <FORM_DATA>
 1910 US Federal Census
 
