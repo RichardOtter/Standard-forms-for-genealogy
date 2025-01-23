@@ -1,7 +1,7 @@
-<FORM ID="F2206231" REV="1" NAME="Manifest -20 col">
+<FORM ID="F2206231" REV="2" NAME="Manifest -20 col">
 <FORM_TEXT>
 
-►PAGE_BACK◄
+►PAGE_FRONT◄
 
 IMMIGRATION SERVICE
 Form 1500.
@@ -10,7 +10,7 @@ Form 1500.
 SALOON, CABIN, AND STEERAGE ALIENS MUST BE COMPLETELY NANIFESTED.
 THIS SHEET IS FOR STEERAGE PASSENGERS
 
-List or Manifest of Alien Immigrants for the Commissioner of Immigration.
+LIST OR MANIFEST OF ALIEN IMMIGRANTS FOR THE COMMISSIONER OF IMMIGRATION.
 
 Required by the regulations of the Secretary of the Treasury of the United States, under Act of Congress approved March 3, 1893, to be delivered to the Commissioner of Immigration by the Commanding
 Officer of any vessel having such passengers on board upon arrival at a port in the United States.
@@ -26,8 +26,8 @@ S.S. ____ sailing from ____, ____, 190____  Arriving at Port of ____, 190____
 2    NAME IN FULL.
 
 3    Age.
-       Yrs
-       Mos.
+3a     Yrs
+3b     Mos.
 
 4    Sex.
 
@@ -36,12 +36,12 @@ S.S. ____ sailing from ____, ____, 190____  Arriving at Port of ____, 190____
 6    Calling or Occupation.
 
 7    Able to
-       Read.
-       Write.
+7a     Read.
+7b     Write.
 
 8    Nationality.
-       Country.
-       * Race or People.
+8a     Country.
+8b     * Race or People.
 
 9    Last Residence.
 
@@ -68,7 +68,7 @@ S.S. ____ sailing from ____, ____, 190____  Arriving at Port of ____, 190____
 20   Deformed or Crippled. Nature and Cause.
 
 
-►30 numbered blank data lines◄
+►numbered blank data lines: 30◄
 
 * "Race or People" is to be determined by the stock from which they sprang and the language they speak. List of races will be found back of this sheet.
 
@@ -77,23 +77,109 @@ S.S. ____ sailing from ____, ____, 190____  Arriving at Port of ____, 190____
 
 ►PAGE_BACK◄
 
-Affidavit of Surgeon.
-I, ____ Surgeon of the ____, do
+Affidavit of the Master or Commanding Officer, or First or Second Officer.
+I, ____, of the ____, from, do
+solemnly, sincerely, and truly ____ that I have made a personal examination of each and all of the passengers
+named on the foregoing Lists or Manifest Sheets, ____ in number, and that I have caused the Surgeon of said
+vessel, sailing therewith, or the Surgeon employed by the owners thereof, to make a physical examination of each of said
+passengers, and that from my personal inspection and the report oof said Surgeon, I believe that no one of said passengers
+is an idiot or insane person, or a pauper, or likely to become a public charge, or suffering from a loathsome or dangerous
+contagious disease, or a person who has been convicted of a felony or other infamous crime or misdemeanor involving
+moral turpitude, or a polygamist, or under a contract or agreement, express or implied, to perform labor in the United
+States, except such as are expressly excepted under the law. And that also, according to the best of my knowledge and
+belief, the information in said Lists or Manifests, concerning each of said passengers named thereon, is correct and true.
 
-►TODO not done◄
+____
+____ Officer.
+
+Sworn to before me this ____ day of ____, 190____
+____
+Consul of the United States at ____
+
+* State whether master, First or Second Officer.
+
+3-3337
+
+Affidavit of Surgeon.
+I, ____, Surgeon of the ____, ____ do
+solemnly, sincerely, and truly ____ that I have had ____ years experience as a Physician
+and Surgeon and that I am entittled to practice as such by and under the authority of ____
+____, and I have made a personal examination of
+each of the passengers named herein, and thta the foregoing Lists or Manifest sheets, ____ in number, are, according
+to the best of my knowledge, and belief, full, correct, and tru in all particulars, relative to the mental and physical
+condition of such passengers.
+____
+Sworn to before me this ____ day of ____, 190____
+____
+Consul of the United States at ____
+
+* State whether Surgeon "sailing therewith" or "employed by the owner thereof," as the case may be.
+
+3-3337
+
+LIST OF RACES OR PEOPLES.
+African (black).
+Armenian.
+Bohemian.
+Bosnian.
+Bulgarian.
+Chinese.
+Croatian.
+Cuban.
+Dalmatian.
+Dutch.
+East Indian.
+English.
+Filipino.
+Finnish.
+Flemish.
+French.
+German.
+Greek.
+Hebrew.
+Herzegovinian.
+Irish.
+Italian (North).
+Italian (South).
+Japanese
+Korean.
+Lithuanian.
+Magyar.
+Mexican.
+Montenegrin.
+Moravian.
+Pacific Islander.
+Polish.
+Portugese.
+Romanian.
+Russina.
+Ruthenian (Russniak).
+Scandanavian (Norwgian, Danes, and Swedes).
+Scothch.
+Servian.
+Slovak.
+Slovenian.
+Spanish/
+Spanish-American.
+Syrian.
+Turkish.
+Welsh.
+West Indian.
+
+3-3337
 
 </FORM_TEXT>
 
 ===========================================DIV50==
 <FORM_DATA>
 
-S.S.                |         |
-Sailing from        |         |
-Departure date      |         |
-Arriving at         |         |
-Arrival date        |         |
-List                |         |
-Class               |         |
+S.S.                                    |         |
+Sailing from                            |         |
+Departure date                          |         |
+Arriving at                             |         |
+Arrival date                            |         |
+List                                    |         |
+Class                                   |         |
 
 1     No on List                        |         |
 2     Name in Full                      |         |
@@ -136,6 +222,9 @@ Examples:
 Ufer, Alma -Passenger List 1903.jpg
 Alma, Alwine, Anna, Rudolf, Walter
 https://www.ancestry.com/discoveryui-content/view/4003100365:7488
+
+front imgae 105
+back  imgae 106
 
 ===========================================DIV50==
 </FORM>

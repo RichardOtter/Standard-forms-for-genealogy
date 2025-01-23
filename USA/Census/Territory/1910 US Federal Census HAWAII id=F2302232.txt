@@ -1,4 +1,4 @@
-<FORM ID="F2302232" REV="1" NAME="1910 US Federal Census HAWAII">
+<FORM ID="F2302232" REV="2" NAME="1910 US Federal Census HAWAII">
 <FORM_TEXT>
 
 DEPARTMENT OF COMMERCE AND LABOR - BUREAU OF THE CENSUS
@@ -29,8 +29,8 @@ WARD OR DISTRICT OF CITY ____
      ►Line number◄
 
 LOCATION.
-     Street, avenue, road, etc.
-     House number (In cities or towns).
+0a   Street, avenue, road, etc.
+0b   House number (In cities or towns).
 1    Number of dwelling house in order of visitation.
 2    Number of family in order of visitation.
 
@@ -48,16 +48,17 @@ PERSONAL DESCRIPTION.
 7    Age at last birthday.
 8    Whether single, married, widowed or divorced.
 9    Number of years of present marriage.
-Mother of how many children.
-10   Number born.
-11   Number now living.
+
+     Mother of how many children.
+10     Number born.
+11     Number now living.
 
 NATIVITY.
 Place of birth of each person and parents of each person enumerated. If born in the United States,
 give the state or territory. If of foreign birth, give the country.
-12   Place of birth of this Person.
-13   Place of birth of Father of this person.
-14   Place of birth of Mother of this person.
+12     Place of birth of this Person.
+13     Place of birth of Father of this person.
+14     Place of birth of Mother of this person.
 
 CITIZENSHIP.
 15   Year of immigration to Hawaii, or other part of United States.
@@ -69,9 +70,10 @@ OCCUPATION.
 18   Trade or profession of, or particular kind of work done by this person, as spinner, salesman, laborer, etc.
 19   General nature of industry, business or establishment in which this person works, as cotton mill, dry-goods store, farm, etc.
 20   Whether an employer, employee, or working on own account.
-If an employee-
-21   Whether out of work on April 15, 1910.
-22   Number of weeks out of work during year 1909.
+
+     If an employee-
+21     Whether out of work on April 15, 1910.
+22     Number of weeks out of work during year 1909.
 
 EDUCATION.
 23   Whether able to read.
@@ -112,8 +114,8 @@ Enumeration Dist. No.        |          |
 Ward of city                 |          |
 
     Line #                   |          |
-A   Street                   |          |
-B   House #                  |          |
+0a  Street                   |          |
+0b  House #                  |          |
 1   Dwelling S#              |          |
 2   Family S#                |          |
 3   Name                     |          |

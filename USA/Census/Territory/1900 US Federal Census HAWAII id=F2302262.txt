@@ -1,4 +1,4 @@
-<FORM ID="F2302262" REV="1" NAME="1900 US Federal Census HAWAII">
+<FORM ID="F2302262" REV="2" NAME="1900 US Federal Census HAWAII">
 <FORM_TEXT>
 
 7-300.
@@ -7,13 +7,13 @@ Twelfth Census of the United States.
 CENSUS OF THE HAWAIIAN ISLANDS.
 SCHEDULE No. 1. - POPULATION
 
-          A  ►or B◄
+A  ►or B◄
 SHEET No. ____
 ____ DISTRICT
 SPECIAL AGENT No. ____
 
 E. D. 69
-          A  ►or B◄
+A  ►or B◄
 SHEET No. ____
 
 INHABITANTS IN ____ District, Island of ____.
@@ -23,12 +23,12 @@ Enumerated by me on the ____ day of June, 1900, ____, Special Agent.
 
 ►Column Headings◄
 
-     ►Line number◄
+►Line number◄
 
 LOCATION.
-  IN CITIES.
-     Street.
-     House number.
+     IN CITIES.
+0a     Street.
+0b     House number.
 1    Number of dwelling house, in the order of visitation.
 2    Number of family, in the order of visitation.
 
@@ -44,9 +44,11 @@ RELATION.
 PERSONAL DESCRIPTION.
 5    Race.
 6    Sex.
-  DATE OF BIRTH.
-7    Month.
-7    Year.
+
+     DATE OF BIRTH.
+7a     Month.
+7b     Year.
+
 8    Age at last birthday.
 9    Whether single, married, widowed, or divorced.
 10   Number of years married.

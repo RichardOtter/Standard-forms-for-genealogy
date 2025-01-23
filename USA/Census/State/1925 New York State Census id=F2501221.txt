@@ -1,4 +1,4 @@
-<FORM ID="F2501221" REV="1" NAME="1925 New York State Census">
+<FORM ID="F2501221" REV="2" NAME="1925 New York State Census">
 <FORM_TEXT>
 
 COUNTY ____
@@ -16,57 +16,38 @@ Enumerator ____
 ►Line number◄
 
 PERMANENT RESIDENCE
-Street.
-1    ____
+1a    Street.
+1b    House Number.
 
-House Number.
-►un-numbered◄ ____
 
 NAME
-of each person whose usual place of abode on June 1, 1925, was in this family.
-Enter surname first, then the given name and middle initial, if any.
-Include every person living on June 1, 1925.
-Omit children born since Jun 1, 1925.
-2    ____
+2    of each person whose usual place of abode on June 1, 1925, was in this family.
+     Enter surname first, then the given name and middle initial, if any.
+     Include every person living on June 1, 1925.
+     Omit children born since Jun 1, 1925.
 
 RELATION
-Relationship of each person to the head of the family
-3    ____
+3    Relationship of each person to the head of the family
 
 COLOR, SEX AND AGE
-Color or Race.
-4    ____
-
-Sex.
-5    ____
-
-Age at last birthday.
-6    ____
+4    Color or Race.
+5    Sex.
+6    Age at last birthday.
 
 NATIVITY
-If born in this country, write United States; if of foreign birth, write name of the country.
-7    ____
+7    If born in this country, write United States; if of foreign birth, write name of the country.
 
 CITIZENSHIP
-Number of years in the Unted States.
-8    ____
-
-Citizen or alien.
-9    ____
-
-If naturalized, when and where.
-10   ____
+8    Number of years in the United States.
+9    Citizen or alien.
+10   If naturalized, when and where.
 
 OCCUPATION
-Trade or profession of, or kind of work done by, each person enumerated.
-11   ____
-
-Class.
-12   ____
+11   Trade or profession of, or kind of work done by, each person enumerated.
+12   Class.
 
 FOR INMATES OF INSTITUTIONS, INFANTS UNDER ONE YEAR OF AGE
-If an inmate of an institution, enter the residence (borough, city or town, and county) given when admitted.
-13   ____
+13   If an inmate of an institution, enter the residence (borough, city or town, and county) given when admitted.
 
 ►Blank Data Lines 1-50◄
 
@@ -88,8 +69,8 @@ Name of Institution            |                 |
 Enumerator                     |                 |
 
     Line #                     |                 |
-1   Street                     |                 |
-1-2 House #                    |                 |
+1a  Street                     |                 |
+1b  House #                    |                 |
 2   Name                       |                 |
 3   Relation                   |                 |
 4   Race                       |                 |
@@ -101,7 +82,7 @@ Enumerator                     |                 |
 10  if naturalized, when where |                 |
 11  Trade or profession        |                 |
 12  Class                      |                 |
-13  Inmate or infant lt 1yr    |                 |
+13  Inmate or infts under 1yr  |                 |
 
 </FORM_DATA>
 </FORM>
@@ -114,6 +95,8 @@ See "_info.txt" file for the key to the meaning of ► ◄ codes.
 
 ===========================================DIV50==
 Notes:
+Column 13 data is not clear regarding infants.
+
 Ancestry's collection-
 https://www.ancestry.com/search/collections/catalog/?title=New%20york%20state%20census&location=35_2
 
