@@ -5,6 +5,8 @@ as viewed on Ancestry.com
 Database #1631
 Bavarian State Archives
 Ancestry.com. Bavaria, Germany, World War I Personnel Rosters, 1914-1918 [database on-line]. Lehi, UT, USA: Ancestry.com Operations, Inc., 2010.
+
+There is a blank row (from columns 2-10) below the row described by the column headings.
 </NOTES>
 
 <FORM_TEXT>
@@ -85,6 +87,7 @@ Translation by Google
 13. Military info- POW
 14. Conduct
 15. Remarks
+Space below row
 
 </FORM_DATA>
 </FORM>
