@@ -1,12 +1,15 @@
-
+<FORM ID="F251124" REV="1" NAME="Bavarian Military Rosters WWI">
+<NOTES>
 Kriegsstammrollen, 1914-1918. Bavarian State Archives. Department IV, War Archive, Munich.
-
 as viewed on Ancestry.com
 Database #1631
 Bavarian State Archives
 Ancestry.com. Bavaria, Germany, World War I Personnel Rosters, 1914-1918 [database on-line]. Lehi, UT, USA: Ancestry.com Operations, Inc., 2010.
+</NOTES>
 
-Column Headings
+<FORM_TEXT>
+
+►Column Headings◄
 
 1.   Laufende Nummer
 2.   Dienstgrad
@@ -23,8 +26,9 @@ Column Headings
 13.  Kommandos und besondere Dienstverhältnisse. Kriegsgefangenschaft.
 14.  Führung. Gerichtliche Bestrafungen Rehabilitierung.
 15.  Bemerkungen.
+</FORM_TEXT>
 
-
+<NOTES>
 As printed (includes hyphens)
 
 1.   Laufende Nummer
@@ -42,3 +46,45 @@ As printed (includes hyphens)
 13.  Komman= dos und besondere Dienst= verhältnisse. Kriegs= gefangenschaft.
 14.  Führung. Gericht= liche Be= strafungen Rehabili= tierung.
 15.  Bemerkungen.
+
+
+Translation by Google
+
+1. Serial Number
+2. Rank
+3. First and Last Names
+4. Religion
+5. Place (Administrative District) State of Birth | Date of Birth
+6. Social Status (Occupation, Profession) | Place of Residence
+7. First and Last Names of Spouse. Number of Children. Note that the applicant is single.
+8. First and Last Names, Occupation or Profession, and Place of Residence of Parents
+9. Unit (Company, Squadron)
+10. Service History: a) Previous, b) Post-Mobilization.
+11. Orders, Decorations, and Other Awards.
+12. Battles Participated in. Notable Commands.
+13. Commands and Special Service Conditions. Prisoner of War.
+14. Conduct. Judicial Punishments. Rehabilitation.
+15. Remarks.
+</NOTES>
+
+===========================================DIV50==
+<FORM_DATA>
+
+1.  Number
+2.  Rank
+3.  Name
+4.  Religion
+5.  Place & Date Birth
+6.  Occupation, Residence
+7.  Spouse: Name, Num.Children
+8.  Parents: Name,Occupation,Residence 
+9.  military grp
+10. Service History
+11. Military info medals
+12. Military info- battles
+13. Military info- POW
+14. Conduct
+15. Remarks
+
+</FORM_DATA>
+</FORM>
