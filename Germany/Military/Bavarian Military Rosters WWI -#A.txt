@@ -1,4 +1,4 @@
-<FORM ID="F251124" REV="1" NAME="Bavarian Military Rosters WWI">
+<FORM ID="F251124" REV="1" NAME="Bavarian Military Rosters WWI, Type=A">
 <NOTES>
 Kriegsstammrollen, 1914-1918. Bavarian State Archives. Department IV, War Archive, Munich.
 as viewed on Ancestry.com
