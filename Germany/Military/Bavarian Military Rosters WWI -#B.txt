@@ -1,0 +1,223 @@
+<FORM ID="F251125" REV="1" NAME="Bavarian Military Rosters WWI, Type=B">
+<NOTES>
+Kriegsstammrollen, 1914-1918. Bavarian State Archives. Department IV, War Archive, Munich.
+as viewed on Ancestry.com
+Database #1631
+Bavarian State Archives
+Ancestry.com. Bavaria, Germany, World War I Personnel Rosters, 1914-1918 [database on-line]. Lehi, UT, USA: Ancestry.com Operations, Inc., 2010.
+
+example   Otter, Ferdinand -#A
+Personal Description column has 8 lines printed in each of the 2 rows.
+Discharge column 14 has 3 lines printed in each of the 2 rows.
+Comments column 15 has 1 line printed in each of the 2 rows.
+
+</NOTES>
+
+<FORM_TEXT>
+
+►Column Headings◄
+
+1   Laufende Nr.
+2   Familien- und Vorname Dienstgrad
+3   Datum und Ort der Geburt
+4   Wohnsitz der Eltern oder des Vormundes | Aufenthaltsort des Soldaten vor dem Diensteintritt
+5   Religion | Ob verheiratet, Kinder
+6   Stand oder Gewerbe | Bestrafungen vor dem Diensteintritt
+7   Personal- Beschreibung (mit dem Soldbuch übereinstimmend) | Große: Gestalt: Kinn: Rase: Mund: Haar: Bart: Besondere kennzeichen:
+8   Ausgehoben (Aushebungs Bezirk, Vorstellungsliste) | Freiwillig eingetreten
+9   Datum des Diensteintritts | Datum der Vereidigung
+10  Dienst=Verhältnisse (Beförderungen, Versetzungen, Schießklasse, Schützenabzeichen)
+11  Orden und Ehrenzeichen | Feldzüge
+12  Verwundungen, Dienstbeschädigungen, Krankheiten
+13  Führung (Entlassung in die II. Klasse, Rehabilitierung) | Strafen, f. Strafbuch Nr.
+14  Datum u. Art des Abganges | Wohin entlassen? | Ort:  Bezirksamt:  Bez.+Kdo.:
+15  Bemerkungen, welche in den Militärpaß aufzunehmen sind und Personal-Notizen.| Stiefellange  em,  Weite
+
+</FORM_TEXT>
+
+===========================================DIV50==
+<NOTES>
+As printed, includes hyphens and new lines.
+
+1
+Laufende Nr.
+
+2
+Familien-
+und
+Vorname
+Dienstgrad
+
+3
+Datum
+und
+Ort
+der Geburt
+
+4
+Wohnsitz der
+Eltern oder des
+Vormundes
+----
+Aufenthaltsort
+des Soldaten
+vor dem
+Diensteintritt
+
+5
+Re=
+ligion
+----
+Ob
+verhei=
+ratet,
+Kinder
+
+6
+Stand
+oder
+Gewerbe
+----
+Bestrafungen
+vor dem
+Diensteintritt
+
+7
+Personal-
+Beschreibung
+(mit dem Soldbuch
+übereinstimmend)
+---- ----
+Große:
+Gestalt:
+Kinn:
+Rase:
+Mund:
+Haar:
+Bart:
+Besondere kenn=
+zeichen:
+
+8
+Ausgehoben
+(Aushebungs=
+Bezirk, Vor=
+stellungsliste)
+----
+Freiwillig
+eingetreten
+
+9
+Datum
+des
+Dienstein=
+tritts
+----
+Datum
+der
+Verei=
+digung
+
+10
+Dienst=Verhältnisse
+(Beförderungen, Ver=
+setzungen, Schießklasse,
+Schützenabzeichen)
+
+11
+Orden
+und
+Ehren=
+zeichen
+----
+Feldzüge
+
+12
+Verwundungen,
+Dienst=
+beschädigungen,
+Krankheiten
+
+13
+Führung
+(Entlassung in die
+II. Klasse,
+Rehabilitierung)
+----
+Strafen,
+f. Strafbuch Nr.
+
+14
+Datum
+u. Art
+des Ab=
+ganges
+----
+Wohin
+ent=
+lassen?
+---- ----
+Ort:
+Bezirksamt:
+Bez.+Kdo.:
+
+15
+Bemerkungen,
+welche in den Militär=
+paß aufzunehmen sind
+und Personal-Notizen.
+---- ----
+Stiefellange   em,  Weite
+
+===========================================DIV50==
+Translation by Google
+
+1 Serial No.
+2 Surname and first name, Rank
+3 Date and place of birth
+4 Residence of parents or guardian | Soldier's place of residence before entering service
+5 Religion | Marriage status, children
+6 Occupation or profession | Convictions before entering service
+7 Personal description (matching the pay book)
+8 Conscripted (conscription district, presentation list) | Enlisted voluntarily | Height: Shape: Chin: Race: Mouth: Hair: Beard: Distinguishing features:
+9 Date of entry into service | Date of swearing-in
+10 Service status (promotions, transfers, marksmanship class, marksmanship badge)
+11 Orders and decorations | Campaigns
+12 Wounds, service-related injuries, illnesses
+13 Conduct (discharge to the 2nd class, rehabilitation) | Convictions, see disciplinary record book no.
+14 Date and manner of discharge | Discharged to where?
+15 Remarks to be included in the military pass and personal notes. | Boot length  width
+
+</NOTES>
+
+===========================================DIV50==
+<FORM_DATA>
+
+1    Number
+2    Name / rank
+3    Place & Date Birth
+4    Parents: Name,Occupation,Residence, soldier's residence
+5    Religion / whether married, children
+6    Occupation | Convictions
+7    Personal description, 
+7a   height:
+7b   shape:
+7c   chin:
+7d   race:
+7e   mouth:
+7f   hair:
+7g   beard:
+7h   marks:
+8    Conscripted | Enlisted voluntarily
+9    Date of entry into service | Date of swearing-in
+10   Service status
+11   Orders and decorations
+12   Wounds, illnesses
+13   Conduct| Convictions
+14   Date and manner to where discharged
+15   Bemerkungen
+15a  Boot length  
+15b  width
+
+</FORM_DATA>
+</FORM>
