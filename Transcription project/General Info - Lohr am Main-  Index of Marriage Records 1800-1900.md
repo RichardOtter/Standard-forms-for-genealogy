@@ -1,6 +1,6 @@
-General Information for Lohr am Main marriage Records
+# General Information for Lohr am Main marriage Records
 
-LDS Catalog entry-
+## FamilySearch Catalog entry-
 
 https://www.familysearch.org/search/catalog/595427?availability=Family%20History%20Library
 
@@ -237,6 +237,7 @@ Index W-Z 1825-1915
 1691866	8178673	 On-Line:  https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS2T-4SXV-L?mode=g&cat=595427	
 
 
+## Notes
 ===============================
 
 Note clear what the Volume numbers on the films mean, perhaps original books records stored in.
@@ -245,9 +246,10 @@ This is referred to as the SAW Number.
 
 
 ===============================
+### Index of Record Index
 
-Index of Record Index\
-Created between 1977 and 1981.\
+Created between 1977 and 1981.
+
 The Index is split into 5 volumes; each page of index is numbered
 
 About 900 pages in total.  Volume# Page# (V#P#)
@@ -303,7 +305,7 @@ https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS2T-4SXV-L?mode=g&cat=595427
 
 
 
-Transcription project-
+## Transcription project-
 Transcribe all 900 pages of the typewritten index into a tabular text format.
 
 Current product-
