@@ -41,13 +41,16 @@ The Name should be descriptive and also similar to the file name.
 
 When creating a transcription, use this part of the full form file-
 
+```xml
 <FORM ID="F251124" REV="1" NAME="Bavarian Military Rosters WWI, Type=A">
 <FORM_DATA>
 data entry version of the form goes here
 </FORM_DATA>
 </FORM>
+```
 
 XML rules
+
 there are 2 forbidden characters in text
 < and & but they can be entered as &lt; and &amp;
 
@@ -55,3 +58,12 @@ there are 2 forbidden characters in text
 For including text that is not actually in the form or in the
 filled-out form, enclose the text in these special arrows-
  ► text ◄
+
+```xml
+  ►_       _◄       start and end of a blank space in a pre-printed form to be filled in by user.
+<s> </s>           start and end of strike-out text. Usually pre-printed text not applicable.
+                   start and end of text inserted by hand, but not in a blank.
+<stamp> </stamp> start and end of text stamped either in a blank or elsewhere onto the document
+<bk/>               a space on the form left blank
+<sig> </sig>   start and end of a signature
+```
