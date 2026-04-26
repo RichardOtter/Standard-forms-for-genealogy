@@ -1,0 +1,268 @@
+===========================================DIV50==
+Transcription by Richard J Otter
+
+===========================================DIV50==
+
+<FORM ID="F2604241" REV="1" NAME="Birth Certificate California 1997">
+<FORM_TEXT>
+
+CERTIFICATE OF LIVE BIRTH
+STATE OF CALIFORNIA
+USE BLACK INK ONLY
+STATE FILE NUMBER
+►_ _◄
+
+LOCAL REGISTRATION DISTRICT AND CERTIFICATE NUMBER
+►_ _◄
+
+THIS CHILD
+1A. NAME OF CHILD - FIRST (GIVEN)
+►_ _◄
+1B.  MIDDLE
+►_ _◄
+1C. LAST (FAMILY)
+►_ _◄
+2. SEX
+►_ _◄
+3A. THIS BIRTH, SINGLE, TWIN, ETC.
+►_ _◄
+3B. IF MULTIPLE, THIS CHILD, 1ST, 2ND, ETC.
+►_ _◄
+4A. DATE OF BIRTH - MM/DD/YY
+►_ _◄
+4B. HOUR - (24 HOUR CLOCK TIME)
+►_ _◄
+
+PLACE OF BIRTH
+5A. PLACE OF BIRTH - NAME OF HOSPITAL OR FACILITY
+►_ _◄
+5B. STREET ADDRESS -  STREET, NUMBER, OR LOCATION
+►_ _◄
+5C. CITY
+►_ _◄
+5D. COUNTY
+►_ _◄
+5E. PLANNED PLACE OF BIRTH
+►_ _◄
+
+FATHER OF CHILD
+6A. NAME OF FATHER - FIRST (GIVEN)
+►_ _◄
+6B. MIDDLE
+►_ _◄
+6C. LAST (FAMILY)
+►_ _◄
+7. STATE OF BIRTH
+►_ _◄
+8. DATE OF BIRTH
+►_ _◄
+
+MOTHER OF CHILD
+9A. NAME OF MOTHER - FIRST (GIVEN)
+►_ _◄
+9B. MIDDLE
+►_ _◄
+9C. LAST (FAMILY)
+►_ _◄
+10. STATE OF BIRTH
+►_ _◄
+11. DATE OF BIRTH
+►_ _◄
+
+INFORMANT CERTIFICATION
+I CERTIFY THAT I HAVE REVIEWED THE STATED INFORMATION AND THAT IT IS TRUE AND CORRECT TO THE BEST OF MY KNOWLEDGE.
+12A. PARENT OR OTHER INFORMANT - SUGNATURE
+►_ _◄
+12B. RELATIONSHIP TO CHILD
+►_ _◄
+12C. DATE SIGNED
+►_ _◄
+
+CERTIFICATION OF BIRTH
+I CERTIFY THAT THE CHILD WAS BORN ALIVE AT THE DATE, HOUR AND PLACE STATED.
+13A. ATTENDING PHYSICIAN - SIGNATURE - DEGREE OR TITLE
+►_ _◄
+13B. LICENSE NUMBER
+►_ _◄
+13C. DATE SIGNED
+►_ _◄
+13D. TYPED NAME, TITLE AND MAILING ADDRESS OF ATTENDANT
+►_ _◄
+14. TYPED NAME AND TITLE OF CERTIFIER IF OTHER THAN ATTENDANT
+►_ _◄
+
+LOCAL REGISTRAR
+15A. DATE OF DEATH
+►_ _◄
+15B. STATE FILE NO. (STATE USE ONLY)
+►_ _◄
+16. LOCAL REGISTRAR - SIGNATURE
+►_ _◄
+17. DATE ACCEPTED FOR REGISTRATION
+►_ _◄
+
+CONFIDENTIAL INFORMATION FOR PUBLIC HEALTH USE ONLY
+
+</FORM_TEXT>
+
+<NOTES>
+the remainder of the original document is not included on
+the certified short form copy, it includes-
+For mother & father- Social Security number, Job title, 
+field of employment, race, number of prenatal doctor visits
+</NOTES>
+
+===========================================DIV50==
+<FORM_DATA>
+
+STATE FILE NUMBER           
+CERTIFICATE NUMBER          
+1A. Name given              
+1B. Name middle             
+1C. Name family             
+2. Sex                      
+3a. Single, Twin, Etc.      
+3b. This Child, 1st Etc     
+4a. Date MM/DD/YY           
+4b. Hour                    
+5a. Place                   
+5b. Street Address          
+5c. City                    
+5d. County                  
+5e. Planned Place           
+
+6A. Father Name given       
+6B. Father Name middle      
+6C. Father Name family      
+7. State of Birth           
+8. Date of Birth            
+
+9A. Mother Name given       
+9B. Mother Name middle      
+9C. Mother Name family      
+10. State of Birth          
+11. Date of Birth           
+
+12a. Parent/Informant       
+12b. Relationship           
+12c. Date Signed            
+
+13a. Attending doctor       
+13b. License Number         
+13c. Date Signed            
+13d. Name Attendant         
+14. Name Of Certifier       
+
+15a. Date Of Death          
+15b. State File No.         
+16. Local Registrar         
+17. Date Accepted           
+</FORM_DATA>
+</FORM>
+
+===========================================DIV50==
+CERTIFICATE OF LIVE BIRTH
+STATE OF CALIFORNIA
+USE BLACK INK ONLY
+STATE FILE NUMBER
+<blank>
+
+LOCAL REGISTRATION DISTRICT AND CERTIFICATE NUMBER
+__1199761002637__
+
+THIS CHILD
+1A. NAME OF CHILD - FIRST (GIVEN)
+__JUSTIN__
+1B.  MIDDLE
+__ATSUSHI__
+1C. LAST (FAMILY)
+__OTTER__
+2. SEX
+__MALE__
+3A. THIS BIRTH, SINGLE, TWIN, ETC.
+__TWIN__
+3B. IF MULTIPLE, THIS CHILD, 1ST, 2ND, ETC.
+__1ST__
+4A. DATE OF BIRTH - MM/DD/YY
+__07/17/1997__
+4B. HOUR - (24 HOUR CLOCK TIME)
+__1618__
+PLACE OF BIRTH
+5A. PLACE OF BIRTH - NAME OF HOSPITAL OR FACILITY
+__ALTA BATES MEDICAL CENTER__
+5B. STREET ADDRESS -  STREET, NUMBER, OR LOCATION
+__2450 ASHBY AVENUE__
+5C. CITY
+__BERKELEY__
+5D. COUNTY
+__ALAMEDA__
+5E. PLANNED PLACE OF BIRTH
+__HOSPITAL__
+FATHER OF CHILD
+6A. NAME OF FATHER - FIRST (GIVEN)
+__RICHARD__
+6B. MIDDLE
+__J.__
+6C. LAST (FAMILY)
+__OTTER__
+7. STATE OF BIRTH
+__NY__
+8. DATE OF BIRTH
+__09/25/1955__
+MOTHER OF CHILD
+9A. NAME OF MOTHER - FIRST (GIVEN)
+__GLORIA__
+9B. MIDDLE
+__CHIEKO__
+9C. LAST (FAMILY)
+__SAITO__
+10. STATE OF BIRTH
+__HI__
+11. DATE OF BIRTH
+__08/10/1951__
+INFORMANT CERTIFICATION
+I CERTIFY THAT I HAVE REVIEWED THE STATED INFORMATION AND THAT IT IS TRUE AND CORRECT TO THE BEST OF MY KNOWLEDGE.
+12A. PARENT OR OTHER INFORMANT - SUGNATURE
+__Richard Otter <signature>__
+12B. RELATIONSHIP TO CHILD
+__FATHER__
+12C. DATE SIGNED
+__07/18/1997__
+CERTIFICATION OF BIRTH
+I CERTIFY THAT THE CHILD WAS BORN ALIVE AT THE DATE, HOUR AND PLACE STATED.
+13A. ATTENDING PHYSICIAN - SIGNATURE - DEGREE OR TITLE
+__James Sakamoto, Jr. <signature>__
+13B. LICENSE NUMBER
+__G-032924__
+13C. DATE SIGNED
+__7/21/97__
+13D. TYPED NAME, TITLE AND MAILING ADDRESS OF ATTENDANT
+__JAMES SAKAMOTO JR, MD, 2999 REGENT #701, BERKELEY__
+14. TYPED NAME AND TITLE OF CERTIFIER IF OTHER THAN ATTENDANT
+__-__
+LOCAL REGISTRAR
+15A. DATE OF DEATH
+__<blank>__
+15B. STATE FILE NO. (STATE USE ONLY)
+__<blank>__
+16. LOCAL REGISTRAR - SIGNATURE
+__Poki Namkung <signature>__
+17. DATE ACCEPTED FOR REGISTRATION
+__07/23/1997__
+
+CONFIDENTIAL INFORMATION FOR PUBLIC HEALTH USE ONLY
+<
+the rest of the original document is not included on the copy, it included-
+For mother & father-
+Social Security number, Job title, field of employment, race, number of prenatal doctor visits
+>
+
+69163
+This is to certify that this document is a true copy of the official record filed with the City of Berkeley.
+__Poki Namkung, MD, MPH__ Local Registrar and Health Officer.
+by: __Poki Namkung <signature>__
+DATE ISSUED  __JUL 29 1997__
+LOCAL REGISTRAR AND HEALTH OFFICER
+This copy not valid unless prepared on engraved border displaying seal and signature of Registrar.
+
+===========================================DIV50==

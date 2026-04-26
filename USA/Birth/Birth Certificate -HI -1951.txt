@@ -1,0 +1,204 @@
+<FORM ID="F2204011" REV="1" NAME="Birth Certificate HAWAII 1951">
+<FORM_TEXT>
+
+CERTIFICATE OF LIVE BIRTH
+TERRITORY OF HAWAII
+DEPARTMENT OF HEALTH
+BUREAU OF VITAL STATISTICS
+
+REGISTRAR'S No.
+►_ _◄
+
+BIRTH No.
+►_ _◄
+
+1. PLACE OF BIRTH
+1a. COUNTY
+►_ _◄
+1b. CITY OR TOWN
+(If outside corporate limits, write RURAL and give judicial district)
+►_ _◄
+1c FULL NAME OF HOSPITAL OR INSTITUTION 
+(IF NOT in hospital or institution, give street address or location)
+►_ _◄
+
+2. USUAL RESIDENCE OF MOTHER
+(Where does mother live?)
+2a. STATE
+►_ _◄
+2b. COUNTY
+►_ _◄
+2c. CITY OR TOWN
+(If outside corporate limits, write RURAL and give judicial district)
+►_ _◄
+2d. STREET ADDRESS
+(if rural, give location)
+►_ _◄
+
+3. CHILD'S NAME
+(Type or print)
+3a. (First)
+►_ _◄
+3b. (Middle)
+►_ _◄
+3c. (Last)
+►_ _◄
+4. SEX
+►_ _◄
+5a. THIS BIRTH
+SINGLE  ►CheckBox◄   TWIN  ►CheckBox◄   TRIPLET  ►CheckBox◄ 
+5b. IF TWIN OR TRIPLET
+(This child born)
+1ST  ►CheckBox◄   2ND  ►CheckBox◄   3RD  ►CheckBox◄ 
+6. DATE OF BIRTH
+(Month)  (Day)  (Year)
+►_ _◄
+
+FATHER OF CHILD
+7. FULL NAME
+7a. (First)
+►_ _◄
+7b. (Middle)
+►_ _◄
+7c. (Last)
+►_ _◄
+8. COLOR OR RACE
+►_ _◄
+9. AGE
+(at time of this birth)
+►_ _◄ YEARS
+10. BIRTHPLACE
+(District, county, state or foreign country)
+►_ _◄
+11a. USUAL OCCUPATION
+►_ _◄
+11b. KIND OF BUSINESS OR INDUSTRY
+►_ _◄
+
+MOTHER OF CHILD
+12. FULL NAME
+12a. (First)
+►_ _◄
+12b. (Middle)
+►_ _◄
+12c. (Last)
+►_ _◄
+13. COLOR OR RACE
+►_ _◄
+14. AGE
+(at time of this birth)
+►_ _◄ YEARS
+15. BIRTHPLACE
+(District, county, state or foreign country)
+►_ _◄
+16. CHILDREN PREVIOUSLY BORN TO THIS MOTHER
+(Do NOT include this child)
+16a. How many OTHER children are now living?
+►_ _◄
+16b. How many OTHER children were born alive but are now dead?
+►_ _◄
+16c. How many children were stillborn (born dead after 20 weeks pregnancy)?
+►_ _◄
+
+I hereby certify that this child was born alive on the date state above.
+AT ►_ _◄ M.
+
+18a. SIGNATURE
+►_ _◄
+
+18b. ATTENDANT AT BIRTH
+M.D. <checkbox/>  MIDWIFE <checkbox/>  OTHER (Specify) / ►_ _◄
+
+18c. ADDRESS
+►_ _◄
+
+18d. DATE SIGNED
+►_ _◄
+
+19. DATE REC'D BY LOCAL REG.
+►_ _◄
+
+20. REGISTRAR'S SIGNATURE
+►_ _◄
+
+DATE REC'D BY REG. GEN.
+►_ _◄
+
+21. DATE ON WHICH GIVEN NAME ADDED
+BY
+►_ _◄
+Deputy Registrar General
+
+</FORM_TEXT>
+
+<NOTES>
+===========================================DIV50==
+Codes:
+See "Standard Forms- how to use.md" for
+data entry guidelines.
+
+===========================================DIV50==
+Notes:
+
+===========================================DIV50==
+Examples:
+Gloria Saito -b1951
+
+===========================================DIV50==
+</NOTES>
+
+<FORM_DATA>
+0-0     Reg #                   
+0-1     Birth #                 
+
+1a      Birth County            
+1b      Birth City/town         
+1c      Birth Institution       
+2a      Mother State            
+2b      Mother County           
+2c      Mother City/town        
+2d      Mother Street addr      
+
+3a      Child Name first        
+3b      Child Name middle       
+3c      Child Name last         
+4       Sex                     
+5a      this birth              SINGLE / TWIN / TRIPLET
+5b      If multiple             1ST / 2ND / 3RD
+6       Birth date              
+
+7a      Father Name first       
+7b      Father Name middle      
+7c      Father Name last        
+8       Father Race             
+9       Father Age (yrs)        
+10      Father Birth place      
+11a     Father Occupation       
+11b     Father Industry         
+
+12a     Mother Name first       
+12b     Mother Name middle      
+12c     Mother Name last        
+13      Mother Race             
+14      Mother Age (yrs)        
+15      Mother Birth place      
+
+16a     # prev chill living     
+16b     # prev chill dead       
+16c     # prev stillborn        
+
+17      Informant Name          
+18      Birth time              
+
+18a     Certifier sig           
+18b     Attendant               MD / MIDWIFE / OTHER
+18c     Address                 
+18d     Date signed             
+19      Date rec'd Reg          
+20      Reg sig                 
+20-1    Date rec'd Gen Reg      
+21      Date given name add     
+
+</FORM_DATA>
+</FORM>
+

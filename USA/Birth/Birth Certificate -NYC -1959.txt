@@ -1,0 +1,151 @@
+<FORM ID="F2604025" REV="1" NAME="Birth Certificate NY,NY,US 1959">
+<FORM_TEXT>
+
+CERTIFICATE OF BIRTH
+
+FILED
+►_ _◄
+
+Certificate No.
+►_ _◄
+
+1. Full name of child (PRINT)
+First Name ►_ _◄
+Middle Name ►_ _◄
+Last Name ►_ _◄
+2. Sex ►_ _◄
+3. Number of children born of this pregnancy ►_ _◄
+4. If more than one, number of this child in order of birth ►_ _◄
+5. Date of child's birth
+(Month) ►_ _◄
+(Day) ►_ _◄
+(Year) ►_ _◄
+5a. Hour ►_ _◄ A.M.  P.M.
+6. PLACE OF BIRTH
+(a) NEW YORK CITY: 
+(b) Borough ►_ _◄
+(c) Name of Hospital or Institution ►_ _◄
+(d) If not in hospital, street address No. ►_ _◄
+
+7. USUAL RESIDENCE OF MOTHER:
+(a) State ►_ _◄
+(b) Co. ►_ _◄
+(c) City or Town ►_ _◄
+(d) No. ►_ _◄  Ave. St.
+
+FATHER
+8. Full Name ►_ _◄
+9. Color or race ►_ _◄
+10. Age at time of this birth ►_ _◄ (years)
+11. Birthplace (city or place and State, or country) ►_ _◄
+12a. Usual Occupation ►_ _◄
+12b. Kind of business or industry in which work was done ►_ _◄
+
+MOTHER
+13. Full maiden name
+14. Color or race ►_ _◄
+15. Age at time of this birth ►_ _◄ (years)
+16. Birthplace (city or place and State, or country) ►_ _◄
+17a. Total number of children BORN ALIVE PREVIOUS to this pregnancy ►_ _◄
+17b. Number of children born PREVIOUS to this pregnancy and NOW LIVING ►_ _◄
+
+I hereby certify that this child was born alive at the hour and on the date
+stated above, and that all the facts stated in this certificate and report
+of birth are true to the best of my knowledge, information and belief.
+
+(Signed) ►_ _◄   M.D.  R.N.  D.O.
+Address ►_ _◄
+Date of Report ►_ _◄
+
+Given name added from a supplemental report ►_ _◄
+
+Print here the mailing address of mother ==>
+Copy of this certificate will be mailed to her
+when it is filed with the Department of
+Health.
+
+Name ►_ _◄
+Address ►_ _◄
+City ►_ _◄
+Post Office Zone ►_ _◄
+State ►_ _◄
+
+BUREAU OF RECORDS AND STATISTICS
+DEPARTMENT OF HEALTH
+THE CITY OF NEW YORK
+
+</FORM_TEXT>
+
+<NOTES>
+===========================================DIV50==
+Codes:
+See "Standard Forms- how to use.md" for
+data entry guidelines.
+
+===========================================DIV50==
+Notes:
+
+===========================================DIV50==
+Examples:
+Mary Ann Otter -b1959
+
+===========================================DIV50==
+</NOTES>
+
+<FORM_DATA>
+0-0     Date filed                  
+0-1     Certificate No              
+
+1a  Child Nme First                 
+1b  Child Nme Middle                
+1c  Child Nme Last                  
+2   Child Sex                       
+
+3   # children born this preg.      
+4   number of this child            
+5-1 Birth Month                     
+5-2 Birth Day                       
+5-3 Birth Year                      
+5a  Birth Hour                      AM  PM
+
+6a  Birth Place City                New York City
+6b  Birth Place Borough             
+6c  Birth Place Hospital            
+6d  Birth Place street address      
+
+7a  Mother Residence State          
+7b  Mother Residence County         
+7c  Mother Residence City/Town      
+7d  Mother Residence Addr           
+
+FATHER
+8   Father Full Name                
+9   Father race                     
+10  Father Age                      
+11  Father Birthplace               
+12a Occupation                      
+12b Industry                        
+
+MOTHER
+13  Mother Full maiden name         
+14  Mother race                     
+15  Mother Age                      
+16  Mother Birthplace               
+17a. # prev. children               
+17b. # prev children alive          
+
+18  Attending                       M.D.  R.N.  D.O.
+19  Address                         
+20  Date of Report                  
+
+21  Given name added                
+
+22  Mother Name                     
+23  Mother Address                  
+24  Mother City                     
+25  Mother Post Office Zone         
+26  Mother State                    
+
+</FORM_DATA>
+</FORM>
+

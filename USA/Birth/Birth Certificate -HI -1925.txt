@@ -1,75 +1,81 @@
 <FORM ID="F2204011" REV="1" NAME="Birth Certificate HAWAII 1925">
+
 <FORM_TEXT>
 
 Certificate of Birth
 Territory of Hawaii
-Bureau of Vital Statistics B No 58558
+Bureau of Vital Statistics B No ►_ _◄
 Honolulu, T.H.
 
-I, the Registrar-General of Vital Statistics, do hereby certify the following to be a true and complete copy of the Certificate of Birth of
-____
-on file in the Bureau of Vital Statistics, Honolulu, office of the Board of Health of the Territory of Hawaii.
+I, the Registrar-General of Vital Statistics, do hereby certify the following 
+to be a true and complete copy of the Certificate of Birth of
+►_ _◄
+on file in the Bureau of Vital Statistics, Honolulu, office of the 
+Board of Health of the Territory of Hawaii.
 
 Place of Birth
-County of ____
-Township of ____
-Village of ____
-Vol. No. ____
-Registered No. ____
-Full Name of Child ____
-Sex of Child ____
-Legitimate? ____
-Twins, Triplet or other? ____
-Date of Birth ____
+County of ►_ _◄
+Township of ►_ _◄
+Village of ►_ _◄
+Vol. No. ►_ _◄
+Registered No. ►_ _◄
+Full Name of Child ►_ _◄
+Sex of Child ►_ _◄
+Legitimate? ►_ _◄
+Twins, Triplet or other? ►_ _◄
+Date of Birth ►_ _◄
 Father
-Full Name ____
-Residence ____
-Color or Race ____
-Age at last birthday ____ years
-Birthplace ____
-Occupation ____
+Full Name ►_ _◄
+Residence ►_ _◄
+Color or Race ►_ _◄
+Age at last birthday ►_ _◄ years
+Birthplace ►_ _◄
+Occupation ►_ _◄
 Mother
-Full Maiden Name ____
-Residence ____
-Color or Race ____
-Age at last birthday ____ years
-Birthplace ____
-Occupation ____
+Full Maiden Name ►_ _◄
+Residence ►_ _◄
+Color or Race ►_ _◄
+Age at last birthday ►_ _◄ years
+Birthplace ►_ _◄
+Occupation ►_ _◄
 
-Number of children born to this mother, including previous birth ____
-Number of children of this mother now living ____
+Number of children born to this mother, including previous birth ►_ _◄
+Number of children of this mother now living ►_ _◄
 
 Certificate of Attending Physician or Midwife
-I hereby certify that I attended the birth of this child, who was ____ at ____ on the date above stated.
-Signature ____
+I hereby certify that I attended the birth of this child, who was ►_ _◄ at ►_ _◄ on the date above stated.
+Signature ►_ _◄
 
 Informant
-Address ____
-Entered ____
-Filed ____
+Address ►_ _◄
+Entered ►_ _◄
+Filed ►_ _◄
 Territorial Board of Health
-
 
 </FORM_TEXT>
 
-===========================================DIV50==
-<FORM_DATA>
-
-</FORM_DATA>
-
+<NOTES>
 ===========================================DIV50==
 Codes:
-
-See "_info.txt" file for the key to the meaning of ► ◄ codes.
+See "Standard Forms- how to use.md" for
+data entry guidelines.
 
 ===========================================DIV50==
 Notes:
 
 ===========================================DIV50==
 Examples:
-
 Ethel Imai -b1925
 
 ===========================================DIV50==
+</NOTES>
+
+===========================================DIV50==
+<FORM_DATA>
+
+
+
+</FORM_DATA>
+
 </FORM>
 
