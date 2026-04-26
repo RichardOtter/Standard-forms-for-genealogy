@@ -17,6 +17,7 @@ This is a full template showing the XML elements
 <FORM ID="F251124" REV="1" NAME="Bavarian Military Rosters WWI, Type=A">
 
 <NOTES>
+distinguishing features etc
 </NOTES>
 
 <FORM_TEXT>
@@ -24,9 +25,21 @@ form text goes here
 </FORM_TEXT>
 
 <NOTES>
-</NOTES>
+===========================================DIV50==
+Codes:
+See "Standard Forms- how to use.md" for
+data entry guidelines.
 
 ===========================================DIV50==
+Notes:
+
+===========================================DIV50==
+Examples:
+[examples of form images that this applies to]
+
+===========================================DIV50==
+</NOTES>
+
 <FORM_DATA>
 data entry version of the form goes here
 </FORM_DATA>
@@ -54,21 +67,24 @@ data entry version of the form along with transcribed data goes here
 
 ## XML rules
 
-When the headers are included in the transcription, as reccomended, there is the implications that the full file or text follows the rules
+When the headers are included in the transcription, as recommended, there is the implications that the full file or text follows the rules
 of XML.
 If so, then there are 2 forbidden characters in text
 < and &. They should be entered as &lt; and &amp;
 
 ## Conventions
 
-Currently a missmash of XML and pseudo XML
+Currently, just pseudo XML. Some XML constructs used, bu <> replaced by ►◄.
 
 
-| Symbol      | Explanation                                                                   |
-| ----------- | ----------------------------------------------------------------------------- |
-| ►_       _◄ | start and end of a blank space in a pre-printed form to be filled in by user. |
-| \<s>    \</s>    | start and end of strike-out text. Usually pre-printed text not applicable.    |
-|  ►      ◄  |   start and end of text inserted by hand, but not in a form blank |
-| \<stamp>    \</stamp>  | start and end of text stamped either in a blank or elsewhere onto the document |
-| \<sig>   \</sig>     | start and end of a signature                                                   |
+| Symbol            | Explanation                                                                   |
+| ----------------- | ----------------------------------------------------------------------------- |
+| ►_ _◄             | start and end of a blank space in a pre-printed form to be filled in by user. |
+| ►blank◄           | shows a field was left blank. |
+| ►CheckBox◄        | an empty check box corresponding to the adjacent label text. The Form data listing should give the options as suggested input. User deletes non relevant text. |
+| ►s◄  ►/s◄         | start and end of strike-out text. Usually pre-printed text not applicable. 
+| ►stamp◄  ►/stamp◄ | start and end of text stamped either in a blank or elsewhere onto the document |
+| ►sig◄   ►/sig◄    |   start and end of a signature  |
+| ►   ◄             |          start and end of text inserted by hand, but not in a form blank |
+
 
