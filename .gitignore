@@ -2,7 +2,4 @@
 # files in this folder not in git
 _not_in_git/
 
-**/From Ancestry.com/
-**/From National Archives/
-
 .vscrof/_README.md
