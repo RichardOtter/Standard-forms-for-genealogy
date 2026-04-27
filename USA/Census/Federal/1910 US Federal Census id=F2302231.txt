@@ -1,4 +1,21 @@
 <FORM ID="F2302231" REV="1" NAME="1910 US Federal Census">
+<NOTES>
+===========================================DIV50==
+Codes:
+
+See "Standard Forms- how to use.md" file for the key to the meaning of ► ◄ codes.
+
+===========================================DIV50==
+Notes:
+
+===========================================DIV50==
+Examples:
+https://www.ancestry.com/discoveryui-content/view/6376140:7884
+https://www.familysearch.org/ark:/61903/3:1:33SQ-GRJ6-RY2?i=14
+
+===========================================DIV50==
+</ NOTES>
+
 <FORM_TEXT>
 
 DEPARTMENT OF COMMERCE AND LABOR - BUREAU OF THE CENSUS
@@ -150,19 +167,4 @@ B   House #                  |          |
 
 </FORM_DATA>
 
-===========================================DIV50==
-Codes:
-
-See "_info.txt" file for the key to the meaning of ► ◄ codes.
-
-===========================================DIV50==
-Notes:
-
-===========================================DIV50==
-Examples:
-
-https://www.ancestry.com/discoveryui-content/view/6376140:7884
-https://www.familysearch.org/ark:/61903/3:1:33SQ-GRJ6-RY2?i=14
-
-===========================================DIV50==
 </FORM>

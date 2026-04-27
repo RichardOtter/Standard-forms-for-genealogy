@@ -1,4 +1,49 @@
 <FORM ID="F2205142" REV="1" NAME="Manifest -37a col">
+<NOTES>
+===========================================DIV50==
+Codes:
+
+See "Standard Forms- how to use.md" file for the key to the meaning of ► ◄ codes.
+
+===========================================DIV50==
+Notes:
+
+National Archives: 1924-1948-immigration.pdf
+cols 14 and 18 differentiate -37a col and -37b col forms.
+
+
+===========================================DIV50==
+Examples:
+
+10 Sep 1934
+New York
+Erwin Heidenfelder, Mathilde, Otto
+https://www.ancestry.com/discoveryui-content/view/2017542193:7488
+
+13 Mar 1933
+New York
+Margareta Och
+https://www.ancestry.com/discoveryui-content/view/2015907405:7488
+
+29 May 1933
+New York
+Josef L H Och
+https://www.ancestry.com/discoveryui-content/view/2016113398:7488
+
+30 Aug 1940
+Los Angeles
+Herbert Atsushi Saito
+https://www.ancestry.com/discoveryui-content/view/2262210:7949
+
+14 Oct 1939
+Honolulu
+Kii Asano, Katsuko
+https://www.ancestry.com/discoveryui-content/view/830575:1502
+last unlabeled column on page 1 is labeled "U.S.Head Tax Collected"
+
+===========================================DIV50==
+</ NOTES>
+
 <FORM_TEXT>
 
 ►PAGE_FRONT◄ 
@@ -225,37 +270,6 @@ See "_info.txt" file for the key to the meaning of ► ◄ codes.
 ===========================================DIV50==
 Notes:
 
-National Archives: 1924-1948-immigration.pdf
-cols 14 and 18 differentiate -37a col and -37b col forms.
-
-===========================================DIV50==
-Examples:
-
-10 Sep 1934
-New York
-Erwin Heidenfelder, Mathilde, Otto
-https://www.ancestry.com/discoveryui-content/view/2017542193:7488
-
-13 Mar 1933
-New York
-Margareta Och
-https://www.ancestry.com/discoveryui-content/view/2015907405:7488
-
-29 May 1933
-New York
-Josef L H Och
-https://www.ancestry.com/discoveryui-content/view/2016113398:7488
-
-30 Aug 1940
-Los Angeles
-Herbert Atsushi Saito
-https://www.ancestry.com/discoveryui-content/view/2262210:7949
-
-14 Oct 1939
-Honolulu
-Kii Asano, Katsuko
-https://www.ancestry.com/discoveryui-content/view/830575:1502
-last unlabeled column on page 1 is labeled "U.S.Head Tax Collected"
 
 ===========================================DIV50==
 </FORM>

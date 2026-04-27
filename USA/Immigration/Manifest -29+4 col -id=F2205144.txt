@@ -1,6 +1,31 @@
 <FORM ID="F2205144" REV="1" NAME="Manifest -29+4 col">
+<NOTES>
+===========================================DIV50==
+Codes:
+
+See "Standard Forms- how to use.md" file for the key to the meaning of ► ◄ codes.
+
+===========================================DIV50==
+Notes:
+29 columns + extra 4 unnumbered columns appended
+National Archives: 1907-1917-immigration.pdf
+or
+National Archives: 1907-immigration.pdf
+what is the distinction? the 1907 form has pre-printed "7"
+
 
 Previous ID="2022-05-14-04"
+
+===========================================DIV50==
+Examples:
+
+8 Sep 1908
+Honolulu + 4 extra
+Kurisu, Satoru
+https://www.ancestry.com/discoveryui-content/view/16191201:1502
+
+===========================================DIV50==
+</ NOTES>
 
 <FORM_TEXT>
 
@@ -193,30 +218,6 @@ Class               |         |
 
 </FORM_DATA>
 
-===========================================DIV50==
-Codes:
-
-See "_info.txt" file for the key to the meaning of ► ◄ codes.
-
-===========================================DIV50==
-Notes:
-
-29 columns + extra 4 unnumbered columns appended
-National Archives: 1907-1917-immigration.pdf
-or
-National Archives: 1907-immigration.pdf
-what is the distinction? the 1907 form has pre-printed "7"
-
-
-===========================================DIV50==
-Examples:
-
-8 Sep 1908
-Honolulu + 4 extra
-Kurisu, Satoru
-https://www.ancestry.com/discoveryui-content/view/16191201:1502
-
-===========================================DIV50==
 </FORM>
 
 

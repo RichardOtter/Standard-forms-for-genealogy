@@ -1,4 +1,22 @@
 <FORM ID="F2303141" REV="1" NAME="1870 US Federal Census">
+<NOTES>
+===========================================DIV50==
+Codes:
+
+See "Standard Forms- how to use.md" file for the key to the meaning of ► ◄ codes.
+
+===========================================DIV50==
+Notes:
+
+===========================================DIV50==
+Examples:
+
+https://www.ancestry.com/discoveryui-content/view/23934206:7163
+https://www.familysearch.org/ark:/61903/1:1:M6K8-7BB
+
+===========================================DIV50==
+</ NOTES>
+
 <FORM_TEXT>
 
 ►Hand pointing right symbol◄ Inquires numbered 7, 16, and 17 are not to be asked in respect to infants. Inquiries numbered 11, 12, 15, 16, 17, 19, and 20 are
@@ -105,19 +123,4 @@ Ass't Marshal                 |         |
 
 </FORM_DATA>
 
-===========================================DIV50==
-Codes:
-
-See "_info.txt" file for the key to the meaning of ► ◄ codes.
-
-===========================================DIV50==
-Notes:
-
-===========================================DIV50==
-Examples:
-
-https://www.ancestry.com/discoveryui-content/view/23934206:7163
-https://www.familysearch.org/ark:/61903/1:1:M6K8-7BB
-
-===========================================DIV50==
 </FORM>

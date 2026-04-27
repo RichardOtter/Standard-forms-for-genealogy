@@ -1,4 +1,24 @@
 <FORM ID="F2303172" REV="1" NAME="Petition for Naturalization 1909">
+
+<NOTES>
+===========================================DIV50==
+Codes:
+
+See "Standard Forms- how to use.md" file for the key to the meaning of ► ◄ codes.
+
+===========================================DIV50==
+Notes:
+
+Naturalization / United States of America 
+used in 1921
+Petition for Naturalization
+
+===========================================DIV50==
+Examples:
+
+===========================================DIV50==
+</ NOTES>
+
 <FORM_TEXT>
 
 ►Page 1◄
@@ -170,27 +190,5 @@ ____
 ____
 
 </FORM_TEXT>
-
-===========================================DIV50==
-<FORM_DATA>
-
-</FORM_DATA>
-
-===========================================DIV50==
-Codes:
-
-See "_info.txt" file for the key to the meaning of ► ◄ codes.
-
-===========================================DIV50==
-Notes:
-
-Naturalization / United States of America 
-used in 1921
-Petition for Naturalization
-
-===========================================DIV50==
-Examples:
-
-===========================================DIV50==
 
 </FORM>

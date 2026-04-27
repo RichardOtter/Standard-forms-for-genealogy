@@ -1,4 +1,23 @@
 <FORM ID="F2302173" REV="1" NAME="Military Draft Card WW II -v 42-04-01">
+<NOTES>
+===========================================DIV50==
+Codes:
+
+See "Standard Forms- how to use.md" file for the key to the meaning of ► ◄ codes.
+
+===========================================DIV50==
+Notes:
+
+D.S.S. Form 1  (Revised 1-1-42)
+Case of preprinted text is not preserved. Most of it is large/small upper case.
+
+===========================================DIV50==
+Examples:
+
+Hohei Asano -b1900
+
+===========================================DIV50==
+</ NOTES>
 <FORM_TEXT>
 
 ►Page 1◄
@@ -150,24 +169,6 @@ Date of registration    ____
 <FORM_DATA>
 
 </FORM_DATA>
-
-===========================================DIV50==
-Codes:
-
-See "_info.txt" file for the key to the meaning of ► ◄ codes.
-
-===========================================DIV50==
-Notes:
-
-D.S.S. Form 1  (Revised 1-1-42)
-Case of preprinted text is not preserved. Most of it is large/small upper case.
-
-===========================================DIV50==
-Examples:
-
-Hohei Asano -b1900
-
-===========================================DIV50==
 
 </FORM>
 

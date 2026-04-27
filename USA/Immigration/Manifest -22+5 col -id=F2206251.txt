@@ -1,6 +1,28 @@
 <FORM ID="F2206251" REV="1" NAME="Manifest -22+5 col">
+<NOTES>
+===========================================DIV50==
+Codes:
+
+See "Standard Forms- how to use.md" file for the key to the meaning of ► ◄ codes.
+
+===========================================DIV50==
+Notes:
+Standard form: National Archives: 1903-1907-immigration.pdf
+22 columns main + 5 appended on right edge
 
 Previous ID="2022-06-25-01"
+
+===========================================DIV50==
+Examples:
+
+3 November 1906
+Honolulu  + 5 columns
+Saito, Shinichi b1889 -Passenger List 1906 -1of1 -ANCimg271.jpg
+https://www.ancestry.com/discoveryui-content/view/704521:1502
+
+===========================================DIV50==
+</ NOTES>
+
 
 <FORM_TEXT>
 
@@ -138,26 +160,5 @@ Class               |         |
 
 </FORM_DATA>
 
-===========================================DIV50==
-Codes:
-
-See "_info.txt" file for the key to the meaning of ► ◄ codes.
-
-===========================================DIV50==
-Notes:
-
-Standard form: National Archives: 1903-1907-immigration.pdf
-22 columns main + 5 appended on right edge
-
-
-===========================================DIV50==
-Examples:
-
-3 November 1906
-Honolulu  + 5 columns
-Saito, Shinichi b1889 -Passenger List 1906 -1of1 -ANCimg271.jpg
-https://www.ancestry.com/discoveryui-content/view/704521:1502
-
-===========================================DIV50==
 </FORM>
 

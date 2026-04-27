@@ -1,4 +1,27 @@
 <FORM ID="F2206231" REV="2" NAME="Manifest -20 col">
+
+<NOTES>
+===========================================DIV50==
+Codes:
+
+See "Standard Forms- how to use.md" file for the key to the meaning of ► ◄ codes.
+
+===========================================DIV50==
+Notes:
+
+===========================================DIV50==
+Examples:
+Ufer, Alma -Passenger List 1903.jpg
+Alma, Alwine, Anna, Rudolf, Walter
+https://www.ancestry.com/discoveryui-content/view/4003100365:7488
+
+front imgae 105
+back  imgae 106
+
+
+===========================================DIV50==
+</ NOTES>
+
 <FORM_TEXT>
 
 ►PAGE_FRONT◄
@@ -207,24 +230,4 @@ Class                                   |         |
 
 </FORM_DATA>
 
-===========================================DIV50==
-Codes:
-
-See "_info.txt" file for the key to the meaning of ► ◄ codes.
-
-
-===========================================DIV50==
-Notes:
-
-===========================================DIV50==
-Examples:
-
-Ufer, Alma -Passenger List 1903.jpg
-Alma, Alwine, Anna, Rudolf, Walter
-https://www.ancestry.com/discoveryui-content/view/4003100365:7488
-
-front imgae 105
-back  imgae 106
-
-===========================================DIV50==
 </FORM>

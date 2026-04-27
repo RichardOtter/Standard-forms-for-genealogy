@@ -1,4 +1,21 @@
 <FORM ID="F2302151" REV="1" NAME="1940 US Federal Census">
+<NOTES>
+===========================================DIV50==
+Codes:
+
+See "Standard Forms- how to use.md" file for the key to the meaning of ► ◄ codes.
+
+===========================================DIV50==
+Notes:
+
+===========================================DIV50==
+Examples:
+https://www.ancestry.com/discoveryui-content/view/4864839:2442
+https://www.familysearch.org/ark:/61903/3:1:3QS7-L9MR-CPTD
+
+===========================================DIV50==
+</ NOTES>
+
 <FORM_TEXT>
 
 Your report is required by Act of Congress. This Act makes also it unlawful for the Bureau to disclose any facts, including names or identity, from your census reports. Only sworn census employees will see your statements. Data
@@ -379,20 +396,5 @@ Enumerator                   |          |
 
 </FORM_DATA>
 
-===========================================DIV50==
-Codes:
-
-See "_info.txt" file for the key to the meaning of ► ◄ codes.
-
-===========================================DIV50==
-Notes:
-
-===========================================DIV50==
-Examples:
-
-https://www.ancestry.com/discoveryui-content/view/4864839:2442
-https://www.familysearch.org/ark:/61903/3:1:3QS7-L9MR-CPTD
-
-===========================================DIV50==
 </FORM>
 

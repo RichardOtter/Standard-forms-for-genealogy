@@ -1,6 +1,63 @@
 <FORM ID="F2205141" REV="1" NAME="Manifest -36 col">
+<NOTES>
+===========================================DIV50==
+Codes:
+
+See "Standard Forms- how to use.md" file for the key to the meaning of ► ◄ codes.
+
+===========================================DIV50==
+Notes:
+
+36 columns
+National Archives: 1924-1948-immigration.pdf    but with 36 columns  ???
 
 Previous ID="2022-05-14-01"
+
+===========================================DIV50==
+Examples:
+
+21 Dec 1926
+New York
+Erwin Heidenfelder, Mathilde, Otto
+https://www.ancestry.com/discoveryui-content/view/2039773842:7488
+
+10 Apr 1927
+New York
+Karl Endres, Johanna, Bertha
+https://www.ancestry.com/discoveryui-content/view/2039807440:7488
+
+2 Apr 1928
+New York
+Ludwig Heidenfelder
+https://www.ancestry.com/discoveryui-content/view/2004474558:7488
+
+26 Jun 1913
+New York
+Theresa Maier
+https://www.ancestry.com/discoveryui-content/view/4012509729:7488
+
+16 May 1927
+New York
+Leonard Schwab
+https://www.ancestry.com/discoveryui-content/view/2000308836:7488
+
+2 Sep 1929
+New York
+Margareta Och
+https://www.ancestry.com/discoveryui-content/view/2006718707:7488
+
+2 Apr 1928
+New York
+Mathilde Wetteskind
+https://www.ancestry.com/discoveryui-content/view/2004474559:7488
+
+16 Jun 1932
+Honolulu
+Tsuya Imai, Herbert
+https://www.ancestry.com/discoveryui-content/view/15751846:1502
+
+===========================================DIV50==
+</ NOTES>
 
 <FORM_TEXT>
 
@@ -213,61 +270,6 @@ Aliens              |         |
 
 </FORM_DATA>
 
-===========================================DIV50==
-Codes:
-
-See "_info.txt" file for the key to the meaning of ► ◄ codes.
-
-===========================================DIV50==
-Notes:
-
-36 columns
-National Archives: 1924-1948-immigration.pdf    but with 36 columns  ???
-
-===========================================DIV50==
-Examples:
-
-21 Dec 1926       
-New York
-Erwin Heidenfelder, Mathilde, Otto
-https://www.ancestry.com/discoveryui-content/view/2039773842:7488
-
-10 Apr 1927
-New York
-Karl Endres, Johanna, Bertha
-https://www.ancestry.com/discoveryui-content/view/2039807440:7488
-
-2 Apr 1928
-New York
-Ludwig Heidenfelder
-https://www.ancestry.com/discoveryui-content/view/2004474558:7488
-
-26 Jun 1913
-New York
-Theresa Maier
-https://www.ancestry.com/discoveryui-content/view/4012509729:7488
-
-16 May 1927
-New York
-Leonard Schwab
-https://www.ancestry.com/discoveryui-content/view/2000308836:7488
-
-2 Sep 1929
-New York
-Margareta Och
-https://www.ancestry.com/discoveryui-content/view/2006718707:7488
-
-2 Apr 1928
-New York
-Mathilde Wetteskind
-https://www.ancestry.com/discoveryui-content/view/2004474559:7488
-
-16 Jun 1932
-Honolulu
-Tsuya Imai, Herbert
-https://www.ancestry.com/discoveryui-content/view/15751846:1502
-
-===========================================DIV50==
 </FORM>
 
 

@@ -1,4 +1,21 @@
 <FORM ID="F2302261" REV="1" NAME="1900 US Federal Census">
+<NOTES>
+===========================================DIV50==
+Codes:
+
+See "Standard Forms- how to use.md" file for the key to the meaning of ► ◄ codes.
+
+===========================================DIV50==
+Notes:
+
+===========================================DIV50==
+Examples:
+https://www.ancestry.com/discoveryui-content/view/38928948:7602
+https://www.familysearch.org/ark:/61903/3:1:S3HT-DYK7-GC2?i=50
+
+===========================================DIV50==
+</ NOTES>
+
 <FORM_TEXT>
 
 7-224.
@@ -138,21 +155,5 @@ B   House #                   |         |
     Line #                    |         |
 
 </FORM_DATA>
-
-===========================================DIV50==
-Codes:
-
-See "_info.txt" file for the key to the meaning of ► ◄ codes.
-
-===========================================DIV50==
-Notes:
-
-===========================================DIV50==
-Examples:
-
-https://www.ancestry.com/discoveryui-content/view/38928948:7602
-https://www.familysearch.org/ark:/61903/3:1:S3HT-DYK7-GC2?i=50
-
-===========================================DIV50==
 
 </FORM>
