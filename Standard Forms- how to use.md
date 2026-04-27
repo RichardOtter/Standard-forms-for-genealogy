@@ -17,21 +17,8 @@ This is a full template showing the XML elements
 <FORM ID="F251124" REV="1" NAME="Bavarian Military Rosters WWI, Type=A">
 
 <NOTES>
+===========================================DIV50==
 distinguishing features etc
-</NOTES>
-
-<FORM_TEXT>
-form text goes here
-</FORM_TEXT>
-
-<NOTES>
-===========================================DIV50==
-Codes:
-See "Standard Forms- how to use.md" for
-data entry guidelines.
-
-===========================================DIV50==
-Notes:
 
 ===========================================DIV50==
 Examples:
@@ -39,6 +26,23 @@ Examples:
 
 ===========================================DIV50==
 </NOTES>
+
+<FORM_TEXT>
+form text goes here
+</FORM_TEXT>
+
+<NOTES_DATA>
+===========================================DIV50==
+Codes:
+See "Standard Forms- how to use.md" for
+data entry guidelines.
+
+===========================================DIV50==
+Notes:
+Help with entry form, abbreviations, etc
+
+===========================================DIV50==
+</NOTES_DATA>
 
 <FORM_DATA>
 data entry version of the form goes here
@@ -59,6 +63,19 @@ When creating a transcription, use this part of the full form file-
 
 ```xml
 <FORM ID="F251124" REV="1" NAME="Bavarian Military Rosters WWI, Type=A">
+<NOTES_DATA>
+===========================================DIV50==
+Codes:
+See "Standard Forms- how to use.md" for
+data entry guidelines.
+
+===========================================DIV50==
+Notes:
+Help with entry form, abbreviations, etc
+
+===========================================DIV50==
+</NOTES_DATA>
+
 <FORM_DATA>
 data entry version of the form along with transcribed data goes here
 </FORM_DATA>

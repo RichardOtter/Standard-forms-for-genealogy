@@ -1,0 +1,293 @@
+===========================================DIV50==
+Transcription by Richard J Otter
+
+===========================================DIV50==
+
+<FORM ID="F2604261" REV="1" NAME="Death Certificate California, US 2019">
+<NOTES>
+
+Example:
+Rose Otter b1919 -d2019
+
+</NOTES>
+<FORM_TEXT>
+ALAMEDA COUNTY HEALTH CARE SERVICES AGENCY
+PUBLIC HEALTH DEPARTMENT
+
+CERTIFICATE OF DEATH
+STATE OF CALIFORNIA
+USE BLACK INK ONLY / NO ERASURES, WHITEOUTS OR ALTERATIONS
+VS-AA (REV 3/06)
+
+STATE FILE NUMBER
+►_  _◄
+
+LOCAL REGISTRATION NUMBER
+►_  _◄
+
+DECEDENT'S PERSONAL DATA
+1. NAME OF DECEDENT - FIRST (Given) ►_  _◄
+2. MIDDLE ►_  _◄
+3. LAST (Family) ►_  _◄
+AKA. ALSO KNOWN AS - include full AKA (FIRST, MIDDLE, LAST) ►_  _◄
+4. DATE OF BIRTH mm/dd/ccyy ►_  _◄
+5. AGE Yrs. ►_  _◄
+IF UNDER ONE YEAR  Months ►_  _◄  Days ►_  _◄
+9. BIRTH STATE/FOREIGN COUNTRY ►_  _◄
+10. SOCIAL SECURITY NUMBER ►_  _◄
+11. EVER IN U.S. ARMED FORCES? ►CheckBox◄ YES   ►CheckBox◄ NO   ►CheckBox◄ UNK
+12. MARITAL STATUS/SRDP (at Time of Death) ►_  _◄
+7. DATE OF DEATH mm/dd/ccyy ►_  _◄
+8, HOUR (24 Hours) ►_  _◄
+13. EDUCATION - Highest Level Degree (see worksheet on back) ►_  _◄
+14/15. WAS DECEDENT HISPANIC/LATINO(A)/SPANISH? (If yes, see worksheet on back)
+►CheckBox◄ YES ►_  _◄   ►CheckBox◄ NO
+16. DECEDENT'S RACE - Up to 3 races may be listed (see worksheet) ►_  _◄
+17. USUAL OCCUPATION - Type of work for most of life. DO NO USE RETIRED ►_  _◄
+18. KIND OF BUSINESS OR INDUSTRY (r.g.. grocery store, road construction, employment agency) ►_  _◄
+19. YEARS IN OCCUPATION ►_  _◄
+
+USUAL RESIDENCE
+20. DECEDENT'S RESIDENCE (Street and number, or location)
+►_  _◄
+21. CITY
+►_  _◄
+22. COUNTY/PROVINCE
+►_  _◄
+23. ZIP CODE
+►_  _◄
+24. YEARS IN COUNTY
+►_  _◄
+25. STATE/FOREIGN COUNTRY
+►_  _◄
+
+INFORMANT
+26. INFORMANT"S NAME, RELATIONSHIP ►_  _◄
+27. INFORMANT'S MAILING ADDRESS (Street and number, or rural route number, city or town, state and zip)
+►_  _◄
+
+SPOUSE/SDRP AND PARENT INFORMATION
+28. NAME OF SURVIVING SPOUSE/SRDP -FIRST ►_  _◄
+29. MIDDLE ►_  _◄
+30. LAST (BIRTH NAME) ►_  _◄
+31. NAME OF FATHER/PARENT -FIRST ►_  _◄
+32. MIDDLE ►_  _◄
+33. LAST ►_  _◄
+34. BIRTH STATE ►_  _◄
+35. NAME OF MOTHER/PARENT -FIRST ►_  _◄
+36. MIDDLE ►_  _◄
+37. LAST ►_  _◄
+38. BIRTH STATE ►_  _◄
+
+FUNERAL DIRECTOR/LOCAL REGISTRAR
+39. DISPOSITION DATE (mm/dd/ccyy) ►_  _◄
+40. PLACE OF FINAL DISPOSITION ►_  _◄
+41. TYPE OF DISPOSITION(S) ►_  _◄
+42. SIGNATURE OF EMBALMER ►_  _◄
+43. LICENSE NUMBER ►_ - _◄
+44. NAME OF FUNERAL ESTABLISHMENT ►_  _◄
+45. LICENSE NUMBER ►_  _◄
+46. SIGNATURE OF LOCAL REGISTRAR ►_  _◄
+47. DATE mm/dd/ccyy ►_  _◄
+
+PLACE OF DEATH
+101. PLACE OF DEATH ►_  _◄
+102. IF HOSPITAL, SPECIFY ONE  ►CheckBox◄ IP   ►CheckBox◄ ER/OP   ►CheckBox◄ DOA
+103. IF OTHER THAN HOSPITAL, SPECIFY ONE  ►CheckBox◄ Nursing Home/LTC   ►CheckBox◄ Decedent's Home   ►CheckBox◄ Other
+104. COUNTY ►_  _◄
+105. FACILITY ADDRESS OR LOCATION WHERE FOUND (Street and number or location)
+►_  _◄
+106. CITY ►_  _◄
+
+CAUSE OF DEATH
+107 CAUSE OF DEATH
+Enter the chain of events- disease, injuries, or complications- that
+directly caused death.
+DO NOT enter terminal events such as cardiac arrest, respiratory arrest,
+ventricular fibrillation without showing the etiology. DO NOT ABBREVIATE.
+
+IMMEDIATE CAUSE (Final disease or condition resulting in death)
+Time interval Between Onset and Death
+(A)  ►_  _◄
+(AT) ►_  _◄
+
+ Sequentially list conditions, if any leading to the cause of on line A.
+(B)  ►_  _◄
+(BT) ►_  _◄
+
+(C)  ►_  _◄
+(CT) ►_  _◄
+
+LAST 
+(D)  ►_  _◄
+(DT) ►_  _◄
+
+108. DEATH REPORTED TO CORONER?
+ ►CheckBox◄ YES   ►CheckBox◄ NO     REFERRAL NUMBER ►_  _◄
+
+109. BIOPSY PERFORMED?
+ ►CheckBox◄ YES   ►CheckBox◄ NO
+
+110. AUTOPSY PERFORMED?
+ ►CheckBox◄ YES   ►CheckBox◄ NO
+
+111. USED IN DETERMINING CAUSE?
+ ►CheckBox◄ YES   ►CheckBox◄ NO
+
+112. OTHER SIGNIFICANT CONDITIONS CONTRIBUTING TO DEATH BUT NOT RESULTING IN THE UNDERLYING CAUSE GIVEN IN 107
+►_  _◄
+
+113. WAS OPERATION PERFORMED FOR ANY CONDITION IN ITEM 107 OR  112? (If yes, list type of operation and date.)
+►_  _◄
+
+114. I CERTIFY THAT TO THE BEST OF MY KNOWLEDGE DEATH OCCURRED AT THE HOUR, DATE, AND PLACE STATED FROM THE CAUSES STATED.
+(A) Decedent Attended Since
+►_  _◄ mm/dd/ccyy
+
+(B) Decedent Last Seen Alive
+►_  _◄ mm/dd/ccyy
+
+118. TYPE ATTENDING PHYSICIAN'S NAME. MAILING ADDRESS, ZIP CODE
+►_  _◄
+
+119. I CERTIFY THAT IN MY OPINION DEATH OCCURRED AT THE HOUR, DATE, AND PLACE STATED FROM THE CAUSES STATED.
+MANNER OF DEATH
+►CheckBox◄ Natural   ►CheckBox◄ Accident   ►CheckBox◄ Suicide
+                  ►CheckBox◄ Pending Investigation   ►CheckBox◄ Could not be determined
+
+120. INJURED AT WORK? ►CheckBox◄ YES   ►CheckBox◄ NO   ►CheckBox◄ UNK
+121. INJURY DATE mm/dd/ccyy ►_  _◄
+122. HOUR (24 Hours) ►_  _◄
+123. PLACE OF INJURY (e.g. home, construction site, wooded area, etc.) ►_  _◄
+124. DESCRIBE HOW INJURY OCCURRED (Events which resulted in injury) ►_  _◄
+125. LOCATION OF INJURY (Street and number, or location, and city, and zip) ►_  _◄
+126. SIGNATURE OF CORONER / DEPUTY CORONER ►_  _◄
+127. DATE  mm/dd/ccyy ►_  _◄
+128. TYPE NAME, TITLE OF CORONER / DEPUTY CORONER ►_  _◄
+
+STATE REGISTRAR
+A ►_  _◄
+B ►_  _◄
+C ►_  _◄
+D ►_  _◄
+E ►_  _◄
+FAX AUTH.# ►_  _◄
+CENSUS TRACT ►_  _◄
+
+</FORM_TEXT>
+
+<NOTES_DATA>
+===========================================DIV50==
+'De' = DECEDENT
+'In' = INFORMANT
+SDRP = State Registered Domestic Partner
+
+All dates are - mm/dd/ccyy = mm/dd/yyyy
+All times are 24 hr format
+===========================================DIV50==
+</NOTES_DATA>
+
+<FORM_DATA>
+
+STATE #                             
+LOCAL REG #                         
+
+1.  NAME De FIRST                   
+2.  NAME De MIDDLE                  
+3.  NAME De LAST                    
+3-1 AKA.                            
+4.  DATE OF BIRTH                  
+5.  AGE Yrs.                        
+5-1 IF UNDER                        months   days
+9.  BIRTH STATE/FOREIGN COUNTRY     
+10. SOCIAL SECURITY NUMBER          
+11. EVER IN U.S. ARMED FORCES?      yes/no
+12. MARITAL STATUS                  
+7. DATE OF DEATH mm/dd/ccyy         
+13. EDUCATION                       
+14/15. HISPANIC/LATINO(A)/SPANISH?  yes/no
+16. DECEDENT'S RACE -               
+17. USUAL OCCUPATION                
+18. KIND OF BUSINESS                
+19. YEARS IN OCCUPATION             
+
+
+20. DE'S RESIDENCE                  
+21. CITY                            
+22. COUNTY/PROVINCE                 
+23. ZIP CODE                        
+24. YEARS IN COUNTY                 
+25. STATE/FOREIGN COUNTRY           
+26. In'S NAME, RELATIONSHIP         
+27. INFORMANT'S ADDRESS             
+28. SURVIVING SPOUSE -FIRST         
+29. SURVIVING SPOUSE -MIDDLE        
+30. SURVIVING SPOUSE -LAST          
+31. FATHER -FIRST                   
+32. FATHER MIDDLE                   
+33. FATHER LAST                     
+34. BIRTH STATE                     
+35. MOTHER -FIRST                   
+36. MOTHER -MIDDLE                  
+37. MOTHER -LAST                    
+38. BIRTH STATE                     
+
+39. DISPOSITION DATE (mm/dd/ccyy)   
+40. PLACE OF FINAL DISPOSITION      
+41. TYPE OF DISPOSITION(S)          
+42. SIGNATURE OF EMBALMER           
+43. LICENSE NUMBER                  
+44. NAME OF FUNERAL ESTABLISHMENT   
+45. LICENSE NUMBER                  
+46. SIGNATURE OF LOCAL REGISTRAR    
+47. DATE mm/dd/ccyy                 
+
+101. PLACE OF DEATH                 
+102. IF HOSPITAL                    
+103. IF OTHER THAN HOSPITAL         
+104. COUNTY                         
+105. FACILITY ADDRESS               
+106. CITY                           
+
+
+107 CAUSE OF DEATH
+(A)                                 
+(AT)                                
+(B)                                 
+(BT)                                
+(C)                                 
+(CT)                                
+(D)                                 
+(DT)                                
+
+108. DEATH REPORTED TO CORONER?         yes/no
+109. BIOPSY PERFORMED?                  yes/no
+110. AUTOPSY PERFORMED?                 yes/no
+111. USED IN DETERMINING CAUSE?         yes/no
+112. OTHER SIGNIFICANT CONDITIONS       
+113. WAS OPERATION PERFORMED            
+114-A   Decedent Attended Since         
+114-B   Decedent Last Seen Alive        
+118. ATTENDING PHYSICIAN NAME.          
+119. MANNER OF DEATH                    
+120. INJURED AT WORK?                   
+121. INJURY DATE mm/dd/ccyy             
+122. HOUR (24 Hours)                    
+123. PLACE OF INJURY                    
+124. OW INJURY OCCURRED                 
+125. LOCATION OF INJURY                 
+126. SIGNATURE OF CORONER               
+127. DATE  mm/dd/ccyy                   
+128. TYPE NAME, CORONER                 
+A                                       
+B                                       
+C                                       
+D                                       
+E                                       
+FAX AUTH.#                              
+CENSUS TRACT                            
+
+</FORM_DATA>
+</FORM>
+
+===========================================DIV50==
