@@ -1,4 +1,16 @@
-<FORM ID="F2204011" REV="1" NAME="Birth Certificate HAWAII 1925">
+<FORM ID="F2604261" REV="1" NAME="Birth Certificate HAWAII 1925">
+<NOTES>
+===========================================DIV50==
+Codes:
+See "Standard Forms- how to use.md" for
+data entry guidelines.
+
+===========================================DIV50==
+Examples:
+Ethel Imai -b1925
+
+===========================================DIV50==
+<\ NOTES>
 
 <FORM_TEXT>
 
@@ -54,23 +66,12 @@ Territorial Board of Health
 
 </FORM_TEXT>
 
-<NOTES>
+<NOTES_DATA>
 ===========================================DIV50==
-Codes:
-See "Standard Forms- how to use.md" for
-data entry guidelines.
 
 ===========================================DIV50==
-Notes:
+</NOTES_DATA>
 
-===========================================DIV50==
-Examples:
-Ethel Imai -b1925
-
-===========================================DIV50==
-</NOTES>
-
-===========================================DIV50==
 <FORM_DATA>
 
 

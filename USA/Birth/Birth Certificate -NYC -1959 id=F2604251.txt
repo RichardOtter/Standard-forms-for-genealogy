@@ -1,4 +1,12 @@
-<FORM ID="F2604025" REV="1" NAME="Birth Certificate NY,NY,US 1959">
+<FORM ID="F2604251" REV="1" NAME="Birth Certificate NY,NY,US 1959">
+<NOTES>
+===========================================DIV50==
+Example:
+Mary Ann Otter -b1959
+
+===========================================DIV50==
+</ NOTES>
+
 <FORM_TEXT>
 
 CERTIFICATE OF BIRTH

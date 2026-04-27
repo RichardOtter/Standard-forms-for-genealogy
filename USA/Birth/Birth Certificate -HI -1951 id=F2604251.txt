@@ -1,4 +1,19 @@
-<FORM ID="F2204011" REV="1" NAME="Birth Certificate HAWAII 1951">
+<FORM ID="F2604251" REV="1" NAME="Birth Certificate HAWAII 1951">
+<NOTES>
+===========================================DIV50==
+Codes:
+See "Standard Forms- how to use.md" for
+data entry guidelines.
+
+===========================================DIV50==
+Examples:
+Gloria Saito -b1951
+
+===========================================DIV50==
+Examples:
+Gloria Saito -b1951
+</ NOTES>
+
 <FORM_TEXT>
 
 CERTIFICATE OF LIVE BIRTH
@@ -131,21 +146,11 @@ Deputy Registrar General
 
 </FORM_TEXT>
 
-<NOTES>
+<NOTES_DATA>
 ===========================================DIV50==
-Codes:
-See "Standard Forms- how to use.md" for
-data entry guidelines.
 
 ===========================================DIV50==
-Notes:
-
-===========================================DIV50==
-Examples:
-Gloria Saito -b1951
-
-===========================================DIV50==
-</NOTES>
+</NOTES_DATA>
 
 <FORM_DATA>
 0-0     Reg #                   
