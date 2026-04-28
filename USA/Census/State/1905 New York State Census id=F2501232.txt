@@ -1,4 +1,32 @@
 <FORM ID="F2501231" REV="1" NAME="1905 New York State Census">
+<NOTES_FORM>
+===========================================DIV50==
+Codes:
+See "Standard Forms- how to use.md" for
+data entry guidelines.
+
+===========================================DIV50==
+Notes:
+Column 12 data is not clear regarding infants.
+
+Some boroughs, such as Manhattan form (E-7a), have portion pre-printed on the form.
+
+Ancestry's collection-
+https://www.ancestry.com/search/collections/catalog/?title=New%20york%20state%20census&location=35_2
+
+1905 NY
+https://www.ancestry.com/search/collections/7364/
+
+===========================================DIV50==
+Examples:
+https://www.ancestry.com/imageviewer/collections/7364/images/004518298_00005
+
+===========================================DIV50==
+Examples:
+
+===========================================DIV50==
+</NOTES_FORM>
+
 <FORM_TEXT>
 (E-7f)
 
@@ -51,7 +79,11 @@ FOR INMATES OF INSTITUTIONS, INFANTS UNDER ONE YEAR OF AGE
 
 </FORM_TEXT>
 
+<NOTES_DATA>
 ===========================================DIV50==
+
+===========================================DIV50==
+</NOTES_DATA>
 <FORM_DATA>
 
 1905 NY state                  | June 1, 1905    |
@@ -83,28 +115,3 @@ Enumerator                     |                 |
 
 </FORM_DATA>
 </FORM>
-
-
-===========================================DIV50==
-Codes:
-
-See "_info.txt" file for the key to the meaning of ► ◄ codes.
-
-===========================================DIV50==
-Notes:
-Column 12 data is not clear regarding infants.
-
-Some boroughs, such as Manhattan form (E-7a), have portion pre-printed on the form.
-
-Ancestry's collection-
-https://www.ancestry.com/search/collections/catalog/?title=New%20york%20state%20census&location=35_2
-
-1905 NY
-https://www.ancestry.com/search/collections/7364/
-
-===========================================DIV50==
-Examples:
-
-https://www.ancestry.com/imageviewer/collections/7364/images/004518298_00005
-
-===========================================DIV50==

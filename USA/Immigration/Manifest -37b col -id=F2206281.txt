@@ -1,24 +1,19 @@
 <FORM ID="F2206281" REV="1" NAME="Manifest -37b col">
-<NOTES>
+<NOTES_FORM>
 ===========================================DIV50==
 Codes:
-
 See "Standard Forms- how to use.md" file for the key to the meaning of ► ◄ codes.
 
 ===========================================DIV50==
-Notes:
-
-37 columns
+Notes:37 columns
 National Archives: 1924-1948-immigration.pdf
 
 ===========================================DIV50==
 Examples:
-
 cols 14 and 18 differentiate -37a col and -37b col forms.
 
 ===========================================DIV50==
 Examples:
-
 combo 2-2
 27 Nov 1931
 Honolulu
@@ -26,7 +21,7 @@ Hana Yoshitake
 https://www.ancestry.com/discoveryui-content/view/2433282:1502
 
 ===========================================DIV50==
-</ NOTES>
+</NOTES_FORM>
 
 <FORM_TEXT>
 
@@ -43,9 +38,9 @@ This (white) sheet is for the listing of STEERAGE PASSENGERS ONLY
 
 The entries on this list shall be typewritten or printed.
 
-List ____
+List ►_ _◄
 
-S.S. ____ sailing from ____, ____, 19____, Arriving at Port of ____, 19____
+S.S. ►_ _◄ sailing from ►_ _◄, ►_ _◄, 19►_ _◄, Arriving at Port of ►_ _◄, 19►_ _◄
 
 ►Column Headings◄
 
@@ -152,9 +147,9 @@ S.S. ____ sailing from ____, ____, 19____, Arriving at Port of ____, 19____
 ►30 numbered blank data lines◄
 
 
-Total passengers    ____
-U.S. citizens       ____
-Aliens              ____
+Total passengers    ►_ _◄
+U.S. citizens       ►_ _◄
+Aliens              ►_ _◄
 
 * Permanent residence within the meaning of this manifest shall be actual or intended residence of one year or more.
 ‡ List of races will be found on back of this sheet.

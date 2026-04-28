@@ -1,23 +1,38 @@
 <FORM ID="F2303156" REV="1" NAME="Bekanntmachung Type 6">
+<NOTES_FORM>
+===========================================DIV50==
+Codes:
+See "Standard Forms- how to use.md" for
+data entry guidelines.
+
+===========================================DIV50==
+Notes:
+
+===========================================DIV50==
+Examples:
+
+===========================================DIV50==
+</NOTES_FORM>
+
 <FORM_TEXT>
 
 Bekanntmachung.
 
-Vor= und Zuname des Bräutigams  Herr         ____
-ob ledig oder verwittwet                     ____
-Stand                                        ____
-Religion                                     ____
-Wohnort                                      ____
-Heimath                                      ____
-geboren zu                                   ____.
-Sohn des (Name und Stand der Eltern)         ____
-beabsichtigt mit Fräulein (oder Frau ) Vor und Zuname der Braut     ____
-ob ledig oder verwittwet                    ____
-Religion                                    ____
-bisheriger Wohnort                          ____
-" Heimats                                   ____
-geboren zu                                  ____
-Tochter des  Name und Stand des Vaters und der Mutter          ____
+Vor= und Zuname des Bräutigams  Herr         ►_ _◄
+ob ledig oder verwittwet                     ►_ _◄
+Stand                                        ►_ _◄
+Religion                                     ►_ _◄
+Wohnort                                      ►_ _◄
+Heimath                                      ►_ _◄
+geboren zu                                   ►_ _◄.
+Sohn des (Name und Stand der Eltern)         ►_ _◄
+beabsichtigt mit Fräulein (oder Frau ) Vor und Zuname der Braut     ►_ _◄
+ob ledig oder verwittwet                    ►_ _◄
+Religion                                    ►_ _◄
+bisheriger Wohnort                          ►_ _◄
+" Heimats                                   ►_ _◄
+geboren zu                                  ►_ _◄
+Tochter des  Name und Stand des Vaters und der Mutter          ►_ _◄
 eine Ehe zu schliessen.
 
 Personen, welche gegen Schliesung dieser Ehe auf Grund zivilrechtlicher Bestim
@@ -27,37 +42,28 @@ Bekanntmachung
 an gerechnet, bie der unterzeichneten Geneinde-Ausschusse oder bei dem k.Bezirksamte:
 geltend zu machen.
 
-       den ____ten ____ 18____
+       den ►_ _◄ten ►_ _◄ 18►_ _◄
 Der Gemeinde-Ausschluß.
 
-Angeheftet am   ____ 18____
-Ubgenommen an   ____ 18____
+Angeheftet am   ►_ _◄ 18►_ _◄
+Ubgenommen an   ►_ _◄ 18►_ _◄
 
 Die unterzeichnete Gemeinde-Verwaltung  bestätigt, daß die vorstehende Bekanntmachung  10 Tage in der Gemeinde öffentlich angeheftet war.
 Zugleich wird bemerrt, daß sein Einspruch bei der unterzeichneten Gemeinde=Verwaltung  erhoben wurde.
 
-        den  ____ten ____ 18____
+        den  ►_ _◄ten ►_ _◄ 18►_ _◄
 Der Gemeinde-Ausschlus
-
 
 </FORM_TEXT>
 
+<NOTES_DATA>
 ===========================================DIV50==
-<FORM_DATA>
 
+===========================================DIV50==
+</NOTES_DATA>
+
+<FORM_DATA>
 
 </FORM_DATA>
 
-===========================================DIV50==
-Codes:
-
-See "_info.txt" file for the key to the meaning of ► ◄ codes.
-
-===========================================DIV50==
-Notes:
-
-===========================================DIV50==
-Examples:
-
-===========================================DIV50==
 </FORM>

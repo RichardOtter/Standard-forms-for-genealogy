@@ -16,7 +16,7 @@ This is a full template showing the XML elements
 ```xml
 <FORM ID="F251124" REV="1" NAME="Bavarian Military Rosters WWI, Type=A">
 
-<NOTES>
+<NOTES_FORM>
 ===========================================DIV50==
 distinguishing features etc
 
@@ -25,7 +25,7 @@ Examples:
 [examples of form images that this applies to]
 
 ===========================================DIV50==
-</NOTES>
+</NOTES_FORM>
 
 <FORM_TEXT>
 form text goes here
@@ -33,11 +33,7 @@ form text goes here
 
 <NOTES_DATA>
 ===========================================DIV50==
-Codes:
-See "Standard Forms- how to use.md" for
-data entry guidelines.
 
-===========================================DIV50==
 Notes:
 Help with entry form, abbreviations, etc
 
@@ -47,7 +43,9 @@ Help with entry form, abbreviations, etc
 <FORM_DATA>
 data entry version of the form goes here
 </FORM_DATA>
+
 </FORM>
+
 ```
 
 Each form has an ID. The ID should be unique.

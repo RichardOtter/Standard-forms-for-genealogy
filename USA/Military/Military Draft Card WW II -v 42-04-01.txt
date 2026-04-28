@@ -1,42 +1,38 @@
 <FORM ID="F2302173" REV="1" NAME="Military Draft Card WW II -v 42-04-01">
-<NOTES>
+<NOTES_FORM>
 ===========================================DIV50==
 Codes:
-
 See "Standard Forms- how to use.md" file for the key to the meaning of ► ◄ codes.
 
 ===========================================DIV50==
-Notes:
-
-D.S.S. Form 1  (Revised 1-1-42)
+Notes:D.S.S. Form 1  (Revised 1-1-42)
 Case of preprinted text is not preserved. Most of it is large/small upper case.
 
 ===========================================DIV50==
 Examples:
-
 Hohei Asano -b1900
 
 ===========================================DIV50==
-</ NOTES>
+</NOTES_FORM>
 <FORM_TEXT>
 
 ►Page 1◄
 REGISTRATION CARD-(Men born on or after April 28, 1877 and on or before February 16, 1897)
 
 Serial Number
-    U ____
+    U ►_ _◄
 
 ORDER NUMBER
-   ____
+   ►_ _◄
 
 
 1.  Name (Print)
-    ____
+    ►_ _◄
   (First)  Middle)  (Last)
 
 
 2.  Place of Residence (Print) 
-      ____
+      ►_ _◄
   (Number and street)  (Town, township, village, or city)  (County)  (State)
 
   (THE PLACE OF RESIDENCE GIVEN ON THE LINE ABOVE WILL DETERMINE LOCAL BOARD
@@ -44,45 +40,45 @@ ORDER NUMBER
 
 
 3.  Mailing Address
-      ____
+      ►_ _◄
   (Mailing address if other that place indicated on line 2. If same insert word same)
 
 
 4.  Telephone 
-    ____
-    ____
+    ►_ _◄
+    ►_ _◄
   (Exchange)  (Number)
 
 
 5.  Age in Years
-    ____
+    ►_ _◄
     Date of Birth
-    ____
+    ►_ _◄
   (Mo.) (Day) (Yr.)
 
 
 6.  Place of Birth
-    ____
+    ►_ _◄
   (Town or county)
-    ____
+    ►_ _◄
   (State or country)
 
 
 7.  Name and Address of Person Who Will Always Know Your Address
-    ____
+    ►_ _◄
 
 
 8.  Employer's Name and Address
-    ____
+    ►_ _◄
 
 
 9.  Place of Employment or Business
-    ____
+    ►_ _◄
   (Number and street or R.F.D number)  (Town)  (County)  (State)
 
 
 I Affirm That I Have Verified Above Answers and That They Are True.
-    ____
+    ►_ _◄
   (Registrant's signature)  
 
 
@@ -96,64 +92,64 @@ REGISTRAR'S REPORT
 DESCRIPTION OF REGISTRANT
 
 RACE
-White     ____
-Negro     ____
-Oriental  ____
-Indian    ____
-Filipino  ____
+White     ►_ _◄
+Negro     ►_ _◄
+Oriental  ►_ _◄
+Indian    ►_ _◄
+Filipino  ►_ _◄
 
 HEIGHT (Approx.)
-    ____
+    ►_ _◄
 
 WEIGHT (Approx.)
-    ____
+    ►_ _◄
 
 EYES
-Blue   ____
-Gray   ____
-Hazel  ____
-Brown  ____
-Black  ____
+Blue   ►_ _◄
+Gray   ►_ _◄
+Hazel  ►_ _◄
+Brown  ►_ _◄
+Black  ►_ _◄
 
 HAIR
-Blonde ____
-Red    ____
-Brown  ____
-Black  ____
-Gray   ____
-Bald   ____
+Blonde ►_ _◄
+Red    ►_ _◄
+Brown  ►_ _◄
+Black  ►_ _◄
+Gray   ►_ _◄
+Bald   ►_ _◄
 
 COMPLEXION
-Sallow       ____
-Light        ____
-Ruddy        ____
-Dark         ____
-Freckled     ____
-Light brown  ____
-Dark brown   ____
-Black        ____
+Sallow       ►_ _◄
+Light        ►_ _◄
+Ruddy        ►_ _◄
+Dark         ►_ _◄
+Freckled     ►_ _◄
+Light brown  ►_ _◄
+Dark brown   ►_ _◄
+Black        ►_ _◄
 
 
-Other obvious physical characteristics that will aid in identification ____
-    ____
-    ____
+Other obvious physical characteristics that will aid in identification ►_ _◄
+    ►_ _◄
+    ►_ _◄
 
 
 I certify that my answers are true; that the person registered has read or has had
 read to him his own answers; that I have witnessed his signature or mark and that
 all of his answers of which I have knowledge are true; except as follows: 
-    ____
-    ____
+    ►_ _◄
+    ►_ _◄
 
-    ____
+    ►_ _◄
   (Signature of registrar)
 
 
-Registrar for Local Board    ____
+Registrar for Local Board    ►_ _◄
   (Number)  (City or county)  (State)
 
 
-Date of registration    ____
+Date of registration    ►_ _◄
 
 ►printed box to contain stamp◄
   (STAMP OF LOCAL BOARD)

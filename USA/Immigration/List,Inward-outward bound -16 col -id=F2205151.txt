@@ -1,8 +1,7 @@
 <FORM ID="F2205151" REV="1" NAME="List,Inward-outward bound -16 col">
-<NOTES>
+<NOTES_FORM>
 ===========================================DIV50==
 Codes:
-
 See "Standard Forms- how to use.md" file for the key to the meaning of ► ◄ codes.
 
 ===========================================DIV50==
@@ -21,7 +20,7 @@ Herbert Saito
 https://www.ancestry.com/discoveryui-content/view/15508191:1502
 
 ===========================================DIV50==
-</ NOTES>
+</NOTES_FORM>
 
 <FORM_TEXT>
 
@@ -43,9 +42,9 @@ foreign port, a port of continental United States, or a port of another insular 
 instructions printed on back hereof; and lists or manifests must be delivered or mailed to the immigrations officials as soon as possible following the departure of the vessel, or in any event not to exceed 60 days therefrom,
 by the master, commanding officer, resident agent of any vessel having such passengers on board.
 
-List ____
+List ►_ _◄
 
-S.S. ____     Passengers sailing from ____, ____, 19____        Bound for Port of ____
+S.S. ►_ _◄     Passengers sailing from ►_ _◄, ►_ _◄, 19►_ _◄        Bound for Port of ►_ _◄
 
 All passengers (aliens and citizens) should answer questions 2 to 6.
 All aliens, and such citizens as intend to reside permanently in a foreign country, should answer questions 7 to 14.
@@ -122,15 +121,15 @@ LIST OF RACES OR PEOPLES
 
 SUMMARY OF PASSENGERS AS TO CLASSES
                     Aliens        Citizens
-First Class          ____            ____
-Second Class         ____            ____
-Third Class          ____            ____
+First Class          ►_ _◄            ►_ _◄
+Second Class         ►_ _◄            ►_ _◄
+Third Class          ►_ _◄            ►_ _◄
 Cabin
 Tourist
-    Total            ____            ____
-Men                  ____            ____
-Women                ____            ____
-Children             ____            ____
+    Total            ►_ _◄            ►_ _◄
+Men                  ►_ _◄            ►_ _◄
+Women                ►_ _◄            ►_ _◄
+Children             ►_ _◄            ►_ _◄
 
 
 </FORM_TEXT>

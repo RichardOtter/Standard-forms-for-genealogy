@@ -1,8 +1,7 @@
 <FORM ID="F2205161" REV="1" NAME="List,US Citizens -08 col">
-<NOTES>
+<NOTES_FORM>
 ===========================================DIV50==
 Codes:
-
 See "Standard Forms- how to use.md" file for the key to the meaning of ► ◄ codes.
 
 ===========================================DIV50==
@@ -21,7 +20,7 @@ Hedwig Ufer
 https://www.ancestry.com/discoveryui-content/view/2006773170:7488
 
 ===========================================DIV50==
-</ NOTES>
+</NOTES_FORM>
 
 <FORM_TEXT>
 
@@ -36,9 +35,9 @@ IMMIGRATION SERVICE
 LIST OF UNITED STATES CITIZENS
 (FOR THE IMMIGRATION AUTHORITIES)
 
-Number ____
+Number ►_ _◄
 
-S.S. ____ sailing from ____, ____, 19____, Arriving at Port of ____, 19____
+S.S. ►_ _◄ sailing from ►_ _◄, ►_ _◄, 19►_ _◄, Arriving at Port of ►_ _◄, 19►_ _◄
 
 ►Column Headings not numbered◄
 

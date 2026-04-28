@@ -1,52 +1,9 @@
 <FORM ID="F2303151" REV="1" NAME="Bekanntmachung Type 1">
-<FORM_TEXT>
-
-Bekanntmachung
-Vor= und Zuname des Bräutigams:	Herr ____
-ob ledig oder verwittwet ____
-Stand  ____
-Religion  ____
-Wohnort  ____
-Heimath  ____
-geboren zu  ____
-Sohn des (Name und Stand der Eltern)  ____
-beabsichtigt mit Fräulein (oder Frau)  ____
-Vor= und Zuname der Braut  ____
-ob ledig oder verwittwet  ____
-Religion  ____
-bisheriger Wohnort  ____
-    ""         Heimath  ____
-geboren zu  ____
-Tochter des  ____
-Name und Stand des Vaters und der Mutter
-  ____
-
-eine Ehe zu Schliessen.
-
-Personen, welche gegen Schliesung dieser Ehe auf Grund civilrechlicher Bestim=
-mungen Einspruch erheben wollen, haben Ihren Einspruch binnen 10 Tagen, von der Anheftung dieser
-Bekanntmachung an gerechnet, bei der unterzeichteten Gemeinde-Aussschusse oder bei dem f. Bezirts=
-Amte ____ gelend zu machen.
-____ den ____18____
-II. Wiedervorlage nach 10 Tagen mit dieser attestirten Bekanntmachung.
-G. m. o.
-Commission.
-
-►8 rows of fine print◄
-
-
-</FORM_TEXT>
-
-===========================================DIV50==
-<FORM_DATA>
-
-
-</FORM_DATA>
-
+<NOTES_FORM>
 ===========================================DIV50==
 Codes:
-
-See "_info.txt" file for the key to the meaning of ► ◄ codes.
+See "Standard Forms- how to use.md" for
+data entry guidelines.
 
 ===========================================DIV50==
 Notes:
@@ -55,4 +12,53 @@ Notes:
 Examples:
 
 ===========================================DIV50==
+</NOTES_FORM>
+
+<FORM_TEXT>
+
+Bekanntmachung
+Vor= und Zuname des Bräutigams:	Herr ►_ _◄
+ob ledig oder verwittwet ►_ _◄
+Stand  ►_ _◄
+Religion  ►_ _◄
+Wohnort  ►_ _◄
+Heimath  ►_ _◄
+geboren zu  ►_ _◄
+Sohn des (Name und Stand der Eltern)  ►_ _◄
+beabsichtigt mit Fräulein (oder Frau)  ►_ _◄
+Vor= und Zuname der Braut  ►_ _◄
+ob ledig oder verwittwet  ►_ _◄
+Religion  ►_ _◄
+bisheriger Wohnort  ►_ _◄
+    ""         Heimath  ►_ _◄
+geboren zu  ►_ _◄
+Tochter des  ►_ _◄
+Name und Stand des Vaters und der Mutter
+  ►_ _◄
+
+eine Ehe zu Schliessen.
+
+Personen, welche gegen Schliesung dieser Ehe auf Grund civilrechlicher Bestim=
+mungen Einspruch erheben wollen, haben Ihren Einspruch binnen 10 Tagen, von der Anheftung dieser
+Bekanntmachung an gerechnet, bei der unterzeichteten Gemeinde-Aussschusse oder bei dem f. Bezirts=
+Amte ►_ _◄ gelend zu machen.
+►_ _◄ den ►_ _◄18►_ _◄
+II. Wiedervorlage nach 10 Tagen mit dieser attestirten Bekanntmachung.
+G. m. o.
+Commission.
+
+►8 rows of fine print◄
+
+</FORM_TEXT>
+
+<NOTES_DATA>
+===========================================DIV50==
+
+===========================================DIV50==
+</NOTES_DATA>
+
+<FORM_DATA>
+
+</FORM_DATA>
+
 </FORM>

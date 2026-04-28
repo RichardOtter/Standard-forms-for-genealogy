@@ -1,5 +1,12 @@
 <FORM ID="F251124" REV="1" NAME="Bavarian Military Rosters WWI, Type=A">
-<NOTES>
+<NOTES_FORM>
+===========================================DIV50==
+Codes:
+See "Standard Forms- how to use.md" for
+data entry guidelines.
+
+===========================================DIV50==
+Notes:
 Kriegsstammrollen, 1914-1918. Bavarian State Archives. Department IV, War Archive, Munich.
 as viewed on Ancestry.com
 Database #1631
@@ -7,30 +14,8 @@ Bavarian State Archives
 Ancestry.com. Bavaria, Germany, World War I Personnel Rosters, 1914-1918 [database on-line]. Lehi, UT, USA: Ancestry.com Operations, Inc., 2010.
 
 There is a blank row (from columns 2-10) below the row described by the column headings.
-</NOTES>
 
-<FORM_TEXT>
-
-►Column Headings◄
-
-1.   Laufende Nummer
-2.   Dienstgrad
-3.   Vor und Zunamen
-4.   Religion
-5.   Ort (Verwaltungsbezirk) Bundesstaat der Geburt | Datum der Geburt
-6.   Lebensstellung (Stand, Gewerbe) | Wohnort
-7.   Vor- und Familiennamen der Ehegattin. Zahl der Kinder. Bermerk, daß der Betressende ledig ist.
-8.   Vor- und Familiennamen Stand oder Gewerbe und Wohnort der Eltern
-9.   Truppenteil  (Kompagnie, Eskadron)
-10.  Dienstverhältnisse: a) frühere, b) nach Eintritt der Mobilmachung.
-11.  Orden, Ehrenzeichen und sonstige Auszeichnungen.
-12.  Mitgemachte Gefechte. Bemerkenswerte Leitungen.
-13.  Kommandos und besondere Dienstverhältnisse. Kriegsgefangenschaft.
-14.  Führung. Gerichtliche Bestrafungen Rehabilitierung.
-15.  Bemerkungen.
-</FORM_TEXT>
-
-<NOTES>
+===========================================DIV50==
 As printed (includes hyphens)
 
 1.   Laufende Nummer
@@ -67,9 +52,37 @@ Translation by Google
 13. Commands and Special Service Conditions. Prisoner of War.
 14. Conduct. Judicial Punishments. Rehabilitation.
 15. Remarks.
-</NOTES>
 
 ===========================================DIV50==
+</NOTES_FORM>
+
+<FORM_TEXT>
+
+►Column Headings◄
+
+1.   Laufende Nummer
+2.   Dienstgrad
+3.   Vor und Zunamen
+4.   Religion
+5.   Ort (Verwaltungsbezirk) Bundesstaat der Geburt | Datum der Geburt
+6.   Lebensstellung (Stand, Gewerbe) | Wohnort
+7.   Vor- und Familiennamen der Ehegattin. Zahl der Kinder. Bermerk, daß der Betressende ledig ist.
+8.   Vor- und Familiennamen Stand oder Gewerbe und Wohnort der Eltern
+9.   Truppenteil  (Kompagnie, Eskadron)
+10.  Dienstverhältnisse: a) frühere, b) nach Eintritt der Mobilmachung.
+11.  Orden, Ehrenzeichen und sonstige Auszeichnungen.
+12.  Mitgemachte Gefechte. Bemerkenswerte Leitungen.
+13.  Kommandos und besondere Dienstverhältnisse. Kriegsgefangenschaft.
+14.  Führung. Gerichtliche Bestrafungen Rehabilitierung.
+15.  Bemerkungen.
+</FORM_TEXT>
+
+<NOTES_DATA>
+===========================================DIV50==
+
+===========================================DIV50==
+</NOTES_DATA>
+
 <FORM_DATA>
 
 1.  Number

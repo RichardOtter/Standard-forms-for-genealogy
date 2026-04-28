@@ -1,8 +1,7 @@
 <FORM ID="F2206251" REV="1" NAME="Manifest -22+5 col">
-<NOTES>
+<NOTES_FORM>
 ===========================================DIV50==
 Codes:
-
 See "Standard Forms- how to use.md" file for the key to the meaning of ► ◄ codes.
 
 ===========================================DIV50==
@@ -14,14 +13,13 @@ Previous ID="2022-06-25-01"
 
 ===========================================DIV50==
 Examples:
-
 3 November 1906
 Honolulu  + 5 columns
 Saito, Shinichi b1889 -Passenger List 1906 -1of1 -ANCimg271.jpg
 https://www.ancestry.com/discoveryui-content/view/704521:1502
 
 ===========================================DIV50==
-</ NOTES>
+</NOTES_FORM>
 
 
 <FORM_TEXT>
@@ -33,9 +31,9 @@ LIST OR MANIFEST OF ALIEN IMMIGRANTS FOR THE U.S IMMIGRATION OFFICER AT PORT OF 
 Required by the regulations of the Secretary of the Treasury of the United States, under Act of Congress approved March 3, 1903, to be delivered to the U.S. Immigration Officer by the Commanding Officer of any
 vessel having such passengers on board upon arrival at a port in the United States.
 
-List ____
+List ►_ _◄
 
-S.S. ____ sailing from ____, ____, 190____  Arriving at Port of ____, 190____
+S.S. ►_ _◄ sailing from ►_ _◄, ►_ _◄, 190►_ _◄  Arriving at Port of ►_ _◄, 190►_ _◄
 
 ►Column Headings◄
 

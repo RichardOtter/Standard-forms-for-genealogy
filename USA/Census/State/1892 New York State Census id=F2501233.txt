@@ -1,11 +1,27 @@
 <FORM ID="F2501232" REV="1" NAME="1892 New York State Census">
+<NOTES>
+===========================================DIV50==
+Notes:
+Ancestry's collection-
+https://www.ancestry.com/search/collections/catalog/?title=New%20york%20state%20census&location=35_2
+
+1892
+https://www.ancestry.com/search/collections/3212/
+
+===========================================DIV50==
+Examples:
+https://www.ancestry.com/imageviewer/collections/3212/images/41121_B125421-00069
+
+===========================================DIV50==
+</NOTES_FORM>
+
 <FORM_TEXT>
 
-Page ____
+Page ►_ _◄
 
-Enumeration of the Inhabitants living in the ____ Election District of the Town of ____, in the County of
-____, N. Y,, on , Feb. 16. 1892.
-Enumerator ____
+Enumeration of the Inhabitants living in the ►_ _◄ Election District of the Town of ►_ _◄, in the County of
+►_ _◄, N. Y,, on , Feb. 16. 1892.
+Enumerator ►_ _◄
 
 ►Column Headings◄
 ►un-numbered columns◄
@@ -30,44 +46,30 @@ Enumerator ____
 
 </FORM_TEXT>
 
+<NOTES_DATA>
 ===========================================DIV50==
+
+===========================================DIV50==
+</NOTES_DATA>
+
 <FORM_DATA>
 
-1892 NY state                  | June 1, 1905    |
-County                         |                 |
-Page #                         |                 |
-Election District              |                 |
-Town                           |                 |
-Enumerator                     |                 |
+1892 NY state                  | June 1, 1905    |
+County                         |                 |
+Page #                         |                 |
+Election District              |                 |
+Town                           |                 |
+Enumerator                     |                 |
 
     Line #                     |                 |
 1   Name                       |                 |
 2   Sex                        |                 |
 3   Age                        |                 |
 4   Race                       |                 |
-5   Country of Birth           |                 |
+5   Country of Birth           |                 |
 6   Citizen / alien            |                 |
 7   Trade or profession        |                 |
 
 </FORM_DATA>
 </FORM>
 
-===========================================DIV50==
-Codes:
-
-See "_info.txt" file for the key to the meaning of ► ◄ codes.
-
-===========================================DIV50==
-Notes:
-
-Ancestry's collection-
-https://www.ancestry.com/search/collections/catalog/?title=New%20york%20state%20census&location=35_2
-
-1892
-https://www.ancestry.com/search/collections/3212/
-
-===========================================DIV50==
-Examples:
-
-https://www.ancestry.com/imageviewer/collections/3212/images/41121_B125421-00069
-===========================================DIV50==

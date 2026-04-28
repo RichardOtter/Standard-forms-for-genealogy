@@ -1,8 +1,7 @@
 <FORM ID="F2205143" REV="1" NAME="Manifest -29 col">
-<NOTES>
+<NOTES_FORM>
 ===========================================DIV50==
 Codes:
-
 See "Standard Forms- how to use.md" file for the key to the meaning of ► ◄ codes.
 
 ===========================================DIV50==
@@ -17,7 +16,6 @@ Previous ID="2022-05-14-03"
 
 ===========================================DIV50==
 Examples:
-
 21 Aug 1910
 New York
 Lina Stamm
@@ -34,7 +32,7 @@ Theresia Maier
 https://www.ancestry.com/discoveryui-content/view/4012509729:7488
 
 ===========================================DIV50==
-</ NOTES>
+</NOTES_FORM>
 
 
 <FORM_TEXT>
@@ -45,7 +43,7 @@ Form 500 B
 Department of Commerce and Labor
 IMMIGRATION SERVICE
 
-List ____
+List ►_ _◄
 
 SALOON, CANOIN, AND STEERAGE ALIENS MUST BE COMPLETELY MANIFESTED       THIS SHEET IS FOR STEERAGE PASSENGERS
 
@@ -53,7 +51,7 @@ LIST OR MANIFEST OF ALIEN PASSENGERS FOR THE UNITED STATES IMMIGRATION OFFICER A
 
 Required by the regulations of the Secretary of Commerce and Labor of the United States, under Act of Congress approved February 20, 1907, to be delivered the United States Immigration Officer by the Commanding Officer of any vessel having such passengers on board upon arrival at a port in the United States.
 
-S.S. ____ sailing from ____, ____, 190____, Arriving at Port of ____, ____, 190____
+S.S. ►_ _◄ sailing from ►_ _◄, ►_ _◄, 190►_ _◄, Arriving at Port of ►_ _◄, ►_ _◄, 190►_ _◄
 
 ►Column Headings◄
 

@@ -1,21 +1,22 @@
 <FORM ID="F2604251" REV="1" NAME="Birth Certificate NY,NY,US 1959">
-<NOTES>
+<NOTES_FORM>
+===========================================DIV50==
+Codes:
+See "Standard Forms- how to use.md" for
+data entry guidelines.
+
 ===========================================DIV50==
 Example:
 Mary Ann Otter -b1959
 
 ===========================================DIV50==
-</ NOTES>
+</NOTES_FORM>
 
 <FORM_TEXT>
 
 CERTIFICATE OF BIRTH
-
-FILED
-►_ _◄
-
-Certificate No.
-►_ _◄
+FILED ►_ _◄
+Certificate No. ►_ _◄
 
 1. Full name of child (PRINT)
 First Name ►_ _◄
@@ -84,76 +85,65 @@ THE CITY OF NEW YORK
 
 </FORM_TEXT>
 
-<NOTES>
+<NOTES_DATA>
 ===========================================DIV50==
-Codes:
-See "Standard Forms- how to use.md" for
-data entry guidelines.
 
 ===========================================DIV50==
-Notes:
-
-===========================================DIV50==
-Examples:
-Mary Ann Otter -b1959
-
-===========================================DIV50==
-</NOTES>
+</NOTES_DATA>
 
 <FORM_DATA>
-0-0     Date filed                  
-0-1     Certificate No              
+0-0     Date filed                  |
+0-1     Certificate No              |
+1a  Child Nme First                 |
+1b  Child Nme Middle                |
+1c  Child Nme Last                  |
+2   Child Sex                       |
 
-1a  Child Nme First                 
-1b  Child Nme Middle                
-1c  Child Nme Last                  
-2   Child Sex                       
+3   # children born this preg.      |
+4   number of this child            |
+5-1 Birth Month                     |
+5-2 Birth Day                       |
+5-3 Birth Year                      |
+5a  Birth Hour                      |AM  PM
 
-3   # children born this preg.      
-4   number of this child            
-5-1 Birth Month                     
-5-2 Birth Day                       
-5-3 Birth Year                      
-5a  Birth Hour                      AM  PM
+6a  Birth Place City                |New York City
+6b  Birth Place Borough             |
+6c  Birth Place Hospital            |
+6d  Birth Place street address      |
 
-6a  Birth Place City                New York City
-6b  Birth Place Borough             
-6c  Birth Place Hospital            
-6d  Birth Place street address      
-
-7a  Mother Residence State          
-7b  Mother Residence County         
-7c  Mother Residence City/Town      
-7d  Mother Residence Addr           
+7a  Mother Residence State          |
+7b  Mother Residence County         |
+7c  Mother Residence City/Town      |
+7d  Mother Residence Addr           |
 
 FATHER
-8   Father Full Name                
-9   Father race                     
-10  Father Age                      
-11  Father Birthplace               
-12a Occupation                      
-12b Industry                        
+8   Father Full Name                |
+9   Father race                     |
+10  Father Age                      |
+11  Father Birthplace               |
+12a Occupation                      |
+12b Industry                        |
 
 MOTHER
-13  Mother Full maiden name         
-14  Mother race                     
-15  Mother Age                      
-16  Mother Birthplace               
-17a. # prev. children               
-17b. # prev children alive          
+13  Mother Full maiden name         |
+14  Mother race                     |
+15  Mother Age                      |
+16  Mother Birthplace               |
+17a. # prev. children               |
+17b. # prev children alive          |
 
-18  Attending                       M.D.  R.N.  D.O.
-19  Address                         
-20  Date of Report                  
+18  Attending                       |M.D.  R.N.  D.O.
+19  Address                         |
+20  Date of Report                  |
 
-21  Given name added                
+21  Given name added                |
 
-22  Mother Name                     
-23  Mother Address                  
-24  Mother City                     
-25  Mother Post Office Zone         
-26  Mother State                    
+22  Mother Name                     |
+23  Mother Address                  |
+24  Mother City                     |
+25  Mother Post Office Zone         |
+26  Mother State                    |
 
 </FORM_DATA>
-</FORM>
 
+</FORM>

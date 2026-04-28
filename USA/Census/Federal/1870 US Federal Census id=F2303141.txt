@@ -1,8 +1,7 @@
 <FORM ID="F2303141" REV="1" NAME="1870 US Federal Census">
-<NOTES>
+<NOTES_FORM>
 ===========================================DIV50==
 Codes:
-
 See "Standard Forms- how to use.md" file for the key to the meaning of ► ◄ codes.
 
 ===========================================DIV50==
@@ -10,24 +9,23 @@ Notes:
 
 ===========================================DIV50==
 Examples:
-
 https://www.ancestry.com/discoveryui-content/view/23934206:7163
 https://www.familysearch.org/ark:/61903/1:1:M6K8-7BB
 
 ===========================================DIV50==
-</ NOTES>
+</NOTES_FORM>
 
 <FORM_TEXT>
 
 ►Hand pointing right symbol◄ Inquires numbered 7, 16, and 17 are not to be asked in respect to infants. Inquiries numbered 11, 12, 15, 16, 17, 19, and 20 are
 
-Page No. ____
-Supervisor's Dist. No. ____
-Enumeration Dist. No. ____
+Page No. ►_ _◄
+Supervisor's Dist. No. ►_ _◄
+Enumeration Dist. No. ►_ _◄
 
-SCHEDULE 1. - Inhabitants in ____, in the County of ____, State
-of ____, enumerated by me on the ____ day of ____, 1870.
-Post Office: ____    ____, Ass't Marshal.
+SCHEDULE 1. - Inhabitants in ►_ _◄, in the County of ►_ _◄, State
+of ►_ _◄, enumerated by me on the ►_ _◄ day of ►_ _◄, 1870.
+Post Office: ►_ _◄    ►_ _◄, Ass't Marshal.
 
 ►Column Headings◄
 
@@ -77,15 +75,20 @@ CONSTITUTIONAL RELATIONS.
 
 ►40 Blank Numbered Data Lines◄
 
-     No. of dwellings, ____            No. of white females, ____              No. of males, foreign born, ____
-►d_'No. of'◄ families, ____      ►d_'No. of'◄ colored males, ____  ►d_'No. of'◄ females, ►d_'foreign born'◄ ____
-►d_'No. of'◄ white males, ____ ►d_'No. of colored'◄ females, ____                       ►d_'No. of'◄ blind, ____
+     No. of dwellings, ►_ _◄            No. of white females, ►_ _◄              No. of males, foreign born, ►_ _◄
+►d_'No. of'◄ families, ►_ _◄      ►d_'No. of'◄ colored males, ►_ _◄  ►d_'No. of'◄ females, ►d_'foreign born'◄ ►_ _◄
+►d_'No. of'◄ white males, ►_ _◄ ►d_'No. of colored'◄ females, ►_ _◄                       ►d_'No. of'◄ blind, ►_ _◄
 
-No. of insane, ____
+No. of insane, ►_ _◄
 
 </FORM_TEXT>
 
+<NOTES_DATA>
 ===========================================DIV50==
+
+===========================================DIV50==
+</NOTES_DATA>
+
 <FORM_DATA>
 
 Page No.                      |         |

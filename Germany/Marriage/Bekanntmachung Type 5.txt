@@ -1,76 +1,78 @@
 <FORM ID="F2303155" REV="1" NAME="Bekanntmachung Type 5">
-<FORM_TEXT>
-
-Bekanntmachung.
-
-Vor= und Zuname des Bräutigams:       Herr ______
-ob ledig oder verwittwet                   ______
-Stand                                      ______
-Religion                                   ______
-Wohnort                                    ______
-heimath                                    ______
-geboren zu                                 ______
-Sohn des (Name und Stand der Eltern)       ______
-
-beabsichtigt mit Fräulein (oder Frau)
-Vor= und Zuname der Braut                  ______
-ob ledig oder verwitwet                   ______
-Religion                                   ______
-bisheriger Wohnort                         ______
-    ""     heimath                         ______
-geboren zu                                 ______
-Tochter des                                ______
-Name und Stand des Vaters und der Mutter   ______
-
-   eine Ehe zu schliessen.
-
-   Personen, welche gegen Schliessung dieser Ehe auf Grund civilrechtlicher Berstim=
-mungen Einspruch erheben wollen, haben ihren Einspruch binnen 10 Tage, von der Anheftung dieser
-Bekanntmachung an gerechnet, bei der unterzeichneten Gemeinde=Verwaltung oder bei dem k. Bezirts=
-Amte ______ geltend zu machen.
-
-______ den ______ ten ______ 18______
-
-        Die Gemeinde=Verwaltung.
-
-
-Angeheftet am ______ 18______
-Abgenommen am ______ 18______
-
-   Die unterzeichnete Gemeinde=Verwaltung bestätigt, daß die vorsthende Bekanntmachung 10 Tage
-in der Gemeinde öffentlich angheftet war.
-Zugleich wird bemerkt, daß kein Einspruch bei der unterzeichnete Gemeindeverwaltung erhoben wurde.
-
-______ den ______ ten ______ 18______
-
-        Die Gemeinde=Verwaltung.
-
-
-
-</FORM_TEXT>
-
-===========================================DIV50==
-<FORM_DATA>
-
-
-</FORM_DATA>
-
+<NOTES_FORM>
 ===========================================DIV50==
 Codes:
-
-See "_info.txt" file for the key to the meaning of ► ◄ codes.
+See "Standard Forms- how to use.md" for
+data entry guidelines.
 
 ===========================================DIV50==
 Notes:
 
 ===========================================DIV50==
 Examples:
-
 6502    Otter, Michael, Waldzell, verehel. mit 
         Katharina Schürger, Waldzell                   1870
 6502-06 DGS-008113665 img-0474 .jpg
 https://www.familysearch.org/ark:/61903/3:1:3Q9M-CSV3-GSBY-D?i=473&cat=595427
 
+===========================================DIV50==
+</NOTES_FORM>
+
+<FORM_TEXT>
+
+Bekanntmachung.
+
+Vor= und Zuname des Bräutigams:       Herr ►_ _◄
+ob ledig oder verwittwet                   ►_ _◄
+Stand                                      ►_ _◄
+Religion                                   ►_ _◄
+Wohnort                                    ►_ _◄
+heimath                                    ►_ _◄
+geboren zu                                 ►_ _◄
+Sohn des (Name und Stand der Eltern)       ►_ _◄
+
+beabsichtigt mit Fräulein (oder Frau)
+Vor= und Zuname der Braut                  ►_ _◄
+ob ledig oder verwitwet                    ►_ _◄
+Religion                                   ►_ _◄
+bisheriger Wohnort                         ►_ _◄
+    ""     heimath                         ►_ _◄
+geboren zu                                 ►_ _◄
+Tochter des                                ►_ _◄
+Name und Stand des Vaters und der Mutter   ►_ _◄
+
+   eine Ehe zu schliessen.
+
+   Personen, welche gegen Schliessung dieser Ehe auf Grund civilrechtlicher Berstim=
+mungen Einspruch erheben wollen, haben ihren Einspruch binnen 10 Tage, von der Anheftung dieser
+Bekanntmachung an gerechnet, bei der unterzeichneten Gemeinde=Verwaltung oder bei dem k. Bezirts=
+Amte ►_ _◄ geltend zu machen.
+
+►_ _◄ den ►_ _◄ ten ►_ _◄ 18►_ _◄
+
+        Die Gemeinde=Verwaltung.
+
+Angeheftet am ►_ _◄ 18►_ _◄
+Abgenommen am ►_ _◄ 18►_ _◄
+
+   Die unterzeichnete Gemeinde=Verwaltung bestätigt, daß die vorsthende Bekanntmachung 10 Tage
+in der Gemeinde öffentlich angheftet war.
+Zugleich wird bemerkt, daß kein Einspruch bei der unterzeichnete Gemeindeverwaltung erhoben wurde.
+
+►_ _◄ den ►_ _◄ ten ►_ _◄ 18►_ _◄
+
+        Die Gemeinde=Verwaltung.
+
+</FORM_TEXT>
+
+<NOTES_DATA>
+===========================================DIV50==
 
 ===========================================DIV50==
+</NOTES_DATA>
+
+<FORM_DATA>
+
+</FORM_DATA>
+
 </FORM>

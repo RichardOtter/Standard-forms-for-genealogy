@@ -1,8 +1,7 @@
 <FORM ID="F2206261" REV="1" NAME="Manifest -33 col">
-<NOTES>
+<NOTES_FORM>
 ===========================================DIV50==
 Codes:
-
 See "Standard Forms- how to use.md" file for the key to the meaning of ► ◄ codes.
 
 ===========================================DIV50==
@@ -17,7 +16,6 @@ Previous ID="2022-06-26-01"
 
 ===========================================DIV50==
 Examples:
-
 12 Nov 1923
 New York
 Lina Lieblein, Walter, Leiselotte, Josef, + Frieda Seufert, Hilde, Leiselotte
@@ -49,7 +47,7 @@ Tsuya Imai
 https://www.ancestry.com/discoveryui-content/view/16406280:1502
 
 ===========================================DIV50==
-</ NOTES>
+</NOTES_FORM>
 
 
 <FORM_TEXT>
@@ -72,9 +70,9 @@ This (yellow) sheet is for the listing of SECOND-CABIN PASSENGERS ONLY
 This (white) sheet is for the listing of STEERAGE PASSENGERS ONLY
 ►----------------------------◄ 
 
-List ____
+List ►_ _◄
 
-S.S. ____ Passengers sailing from ____, ____, 19____, Arriving at Port of ____, ____, 19____
+S.S. ►_ _◄ Passengers sailing from ►_ _◄, ►_ _◄, 19►_ _◄, Arriving at Port of ►_ _◄, ►_ _◄, 19►_ _◄
 
 ►Column Headings◄
 
@@ -172,9 +170,9 @@ S.S. ____ Passengers sailing from ____, ____, 19____, Arriving at Port of ____, 
 ►30 numbered blank data lines◄
 
 
-Total passengers  ____
-U.S. citizens     ____
-Aliens            ____
+Total passengers  ►_ _◄
+U.S. citizens     ►_ _◄
+Aliens            ►_ _◄
 
 
 * Permanent residence within the meaning of this manifest shall be actual or intended residence of one year or more.

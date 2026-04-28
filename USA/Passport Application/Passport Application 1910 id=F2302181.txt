@@ -1,59 +1,56 @@
 <FORM ID="F2302181" REV="1" NAME="Passport Application for Naturalized Citizen">
-<NOTES>
+<NOTES_FORM>
 ===========================================DIV50==
 Codes:
-
 See "Standard Forms- how to use.md" file for the key to the meaning of ► ◄ codes.
 
 ===========================================DIV50==
 Notes:
-
 US Passport Application for Naturalized Citizen
 used in 1910
 
 ===========================================DIV50==
 Examples:
-
 Max Stamm -b1880
 https://www.familysearch.org/ark:/61903/3:1:3QS7-89DD-LFDN?i=117
 
 ===========================================DIV50==
-</ NOTES>
+</NOTES_FORM>
 
 <FORM_TEXT>
 
 >DJLI.-K
 Application for Passport, Naturalized Citizen.-162
 [edition of July, 1888)			Julian Blumberg, Printer, Publisher and Mfg. Stationer, 23 Grand St, N.Y.
-No.     ____        Issued    ____
+No.     ►_ _◄        Issued    ►_ _◄
 
 
     United States of America
-State of ____
-County of ____    SS.
+State of ►_ _◄
+County of ►_ _◄    SS.
 
-I, ____ a NATURALIZED AN LOYAL
+I, ►_ _◄ a NATURALIZED AN LOYAL
 CITIZEN OF THE UNITED STATES, do hereby apply to the Department of State at Washington for a 
-passport for myself and wife, and my minor children as follows: ____
-born at ____ on the ____ day of ____ 1____, and
-    ____
-    ____
-    ____
+passport for myself and wife, and my minor children as follows: ►_ _◄
+born at ►_ _◄ on the ►_ _◄ day of ►_ _◄ 1►_ _◄, and
+    ►_ _◄
+    ►_ _◄
+    ►_ _◄
 
-In support of the above application, I do solemnly swear that I was born at ____
- ____ in ____ on or about the ____
-day of ____ 18____, that I emigrated to the United States, sailing on board
-the ____, from ____, on or about the ____ day
-of ____; that I resided ____ years, uninterruptedly, in the United States,
-from ____ to ____ at ____; that I was naturalized as a 
-citizen of the United States before the ____ Court of ____
-at ____, on the ____ day of ____ 1____, as
+In support of the above application, I do solemnly swear that I was born at ►_ _◄
+ ►_ _◄ in ►_ _◄ on or about the ►_ _◄
+day of ►_ _◄ 18►_ _◄, that I emigrated to the United States, sailing on board
+the ►_ _◄, from ►_ _◄, on or about the ►_ _◄ day
+of ►_ _◄; that I resided ►_ _◄ years, uninterruptedly, in the United States,
+from ►_ _◄ to ►_ _◄ at ►_ _◄; that I was naturalized as a 
+citizen of the United States before the ►_ _◄ Court of ►_ _◄
+at ►_ _◄, on the ►_ _◄ day of ►_ _◄ 1►_ _◄, as
 shown by the accompanying Certificate of Naturalization, that I am the IDENTICAL PERSON described
 in said Certificate; that I am domiciled in the United States, my permanent residence being at
- ____ in the State of ____
-where I follow the occupation of ____; that I am about to go abroad
-temporarily; and that I intend to return to the United States ____
- ____, with the purpose of residing and performing the duties of citizenship therein.
+ ►_ _◄ in the State of ►_ _◄
+where I follow the occupation of ►_ _◄; that I am about to go abroad
+temporarily; and that I intend to return to the United States ►_ _◄
+ ►_ _◄, with the purpose of residing and performing the duties of citizenship therein.
 
 
     OATH OF ALLEGIANCE
@@ -62,32 +59,32 @@ States against all enemies, foreign and domestic; and I will bear true faith and
 and, that I take this obligation freely, without any mental reservation or purpose of evasion; So
 Help Me God.
 
-Sworn to before me, this ____ day
-of ____ 190____
-  ____
+Sworn to before me, this ►_ _◄ day
+of ►_ _◄ 190►_ _◄
+  ►_ _◄
 
 
     Notary Public
     DESCRIPTION OF APPLICANT.
-Age:         ____ years                          Mouth:      ____
-Stature:     ____ feet,  ____ inches, Eng.       Chin:       ____
-Forehead:    ____                                Hair:       ____
-Eyes:        ____                                Complexion: ____
-Nose:        ____                                Face:       ____
+Age:         ►_ _◄ years                          Mouth:      ►_ _◄
+Stature:     ►_ _◄ feet,  ►_ _◄ inches, Eng.       Chin:       ►_ _◄
+Forehead:    ►_ _◄                                Hair:       ►_ _◄
+Eyes:        ►_ _◄                                Complexion: ►_ _◄
+Nose:        ►_ _◄                                Face:       ►_ _◄
 
     IDENTIFICATION.
-    ____, 190____
-I hereby certify that I know the above named ____
+    ►_ _◄, 190►_ _◄
+I hereby certify that I know the above named ►_ _◄
 personally, and know him to be the identical person referred to in the within described Certificate of
 Naturalization, and that the facts stated in his affidavit are true to the best of my knowledge and belief.
-        ►signature◄  ____
-[Address of Witness] ____
+        ►signature◄  ►_ _◄
+[Address of Witness] ►_ _◄
 
 
 Applicant desires passport sent to following address:
-    ____
-    ____
-    ____
+    ►_ _◄
+    ►_ _◄
+    ►_ _◄
 
 When husband, wife, minor children and servants expect to travel together, as single passport for the whole will suffice.
 For any other person in the party a separate passport will be required.
@@ -95,7 +92,12 @@ Address "Department of State, Passport Division." Washington, D.C.
 
 </FORM_TEXT>
 
+<NOTES_DATA>
 ===========================================DIV50==
+
+===========================================DIV50==
+</NOTES_DATA>
+
 <FORM_DATA>
 
 </FORM_DATA>

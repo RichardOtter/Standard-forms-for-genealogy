@@ -1,9 +1,8 @@
 <FORM ID="F2303131" REV="1" NAME="1880 US Federal Census">
 
-<NOTES>
+<NOTES_FORM>
 ===========================================DIV50==
 Codes:
-
 See "Standard Forms- how to use.md" file for the key to the meaning of ► ◄ codes.
 
 ===========================================DIV50==
@@ -16,25 +15,25 @@ https://www.ancestry.com/discoveryui-content/view/20320820:6742
 https://www.ancestry.com/discoveryui-content/view/6413727:6742
 
 ===========================================DIV50==
-</ NOTES>
+</NOTES_FORM>
 
 <FORM_TEXT>
 
 [7-296.]
 ►Page letter: A, B, C or D◄
 
-Page No. ____
-Supervisor's Dist. No. ____
-Enumeration Dist. No. ____
+Page No. ►_ _◄
+Supervisor's Dist. No. ►_ _◄
+Enumeration Dist. No. ►_ _◄
 
 Note A.- The Census Year begins June 1, 1879, and ends May 31, 1880.
 Note B.- All persons will be included in the Enumeration who were living on the 1st day of June, 1880. No others will. Children BORN SINCE
 June 1, 1880, will be OMITTED. Members of families who have DIED SINCE June 1, 1880, will be INCLUDED.
 Note C.- Questions Nos. 13, 14, 22 and 23 are not to be asked in respect to persons under 10 years of age.
 
-SCHEDULE 1. - Inhabitants in ____, in the County of ____, State of ____
-enumerated by me on the ____ day of June, 1880.
-____ Enumerator.
+SCHEDULE 1. - Inhabitants in ►_ _◄, in the County of ►_ _◄, State of ►_ _◄
+enumerated by me on the ►_ _◄ day of June, 1880.
+►_ _◄ Enumerator.
 
 ►Column Headings◄
 
@@ -101,7 +100,11 @@ Note G.- In column 7 an abbreviation in the month may be used, as Jan., Apr., De
 
 </FORM_TEXT>
 
+<NOTES_DATA>
 ===========================================DIV50==
+
+===========================================DIV50==
+</NOTES_DATA>
 <FORM_DATA>
 
 Page No.                      |         |

@@ -1,8 +1,7 @@
 <FORM ID="F2302261" REV="1" NAME="1900 US Federal Census">
-<NOTES>
+<NOTES_FORM>
 ===========================================DIV50==
 Codes:
-
 See "Standard Forms- how to use.md" file for the key to the meaning of ► ◄ codes.
 
 ===========================================DIV50==
@@ -14,7 +13,7 @@ https://www.ancestry.com/discoveryui-content/view/38928948:7602
 https://www.familysearch.org/ark:/61903/3:1:S3HT-DYK7-GC2?i=50
 
 ===========================================DIV50==
-</ NOTES>
+</NOTES_FORM>
 
 <FORM_TEXT>
 
@@ -23,20 +22,20 @@ https://www.familysearch.org/ark:/61903/3:1:S3HT-DYK7-GC2?i=50
 TWELFTH CENSUS OF THE UNITED STATES.
 SCHEDULE No. 1. - POPULATION
 
-State ____
-County ____
-Supervisor's District No. ____
-Enumeration District No. ____
+State ►_ _◄
+County ►_ _◄
+Supervisor's District No. ►_ _◄
+Enumeration District No. ►_ _◄
           A  ►or B◄ 
-Sheet No. ____
+Sheet No. ►_ _◄
 
-Township or other division of county, ____
+Township or other division of county, ►_ _◄
 (Insert name of township, town, precinct, district, or other civil division, as the case may be. See instructions.)
-Name of institution, ____
-Name of incorporated city, town, or village, within the above-named division, ____
+Name of institution, ►_ _◄
+Name of incorporated city, town, or village, within the above-named division, ►_ _◄
 (Insert proper name and also name of class, as city, village, town, or borough. See instructions.)
-Ward of city, ____
-Enumerated by me on the ____ day of June, 1900, ____, Enumerator.
+Ward of city, ►_ _◄
+Enumerated by me on the ►_ _◄ day of June, 1900, ►_ _◄, Enumerator.
 
 ►Column Headings◄
 
@@ -105,7 +104,11 @@ OWNERSHIP OF HOME.
 
 </FORM_TEXT>
 
+<NOTES_DATA>
 ===========================================DIV50==
+
+===========================================DIV50==
+</NOTES_DATA>
 <FORM_DATA>
 
 State                         |         |

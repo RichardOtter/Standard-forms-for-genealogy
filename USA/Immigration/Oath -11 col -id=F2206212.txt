@@ -1,24 +1,21 @@
 <FORM ID="F2206212" REV="1" NAME="Oath -11 col">
-<NOTES>
+<NOTES_FORM>
 ===========================================DIV50==
 Codes:
-
 See "Standard Forms- how to use.md" file for the key to the meaning of ► ◄ codes.
 
 ===========================================DIV50==
 Notes:
-
 11 unnumbered columns
 Steamship company form
 
 ===========================================DIV50==
 Examples:
-
 Satoru Kurisu   15 Sep 1908
 https://www.ancestry.com/discoveryui-content/view/2362628:1502
 
 ===========================================DIV50==
-</ NOTES>
+</NOTES_FORM>
 
 <FORM_TEXT>
 
@@ -35,7 +32,7 @@ Department of Commerce and Labor
 TOYO KISEN KAISHA
 
 OATH TO INWARD PASSENGER LIST
-I,  ____, Master of the ____, do solemnly, sincerely and truly swear that the 
+I,  ►_ _◄, Master of the ►_ _◄, do solemnly, sincerely and truly swear that the 
 following List or Manifest, subscribed by me and now delivered to the Collector of Customs of this ►?◄ and correct LIST OF ALL THE PASSENGERS taken on
 board the said vessel at any foreign port or place and destined for, or in transit through, the United States that the said list specifies separately the cabin passengers and the
 immigrant passengers or passengers other than cabin passenger, ►?◄ age, (if a child eight years or under) sex, married or single, whether a citizen of the United
@@ -43,15 +40,15 @@ States, the port of embarkation, and the number of pieces of baggage belonging t
 specifies the location of the compartment or space occupied by each of such passengers during the voyage; and, if any passenger died on the voyage, this List specifies the
 name, age, and cause of death of each deceased passenger. So help me God.
 
-Port of ____
-Sworn to, before me, this ____ day
-of ____, 190____
-____
+Port of ►_ _◄
+Sworn to, before me, this ►_ _◄ day
+of ►_ _◄, 190►_ _◄
+►_ _◄
 Deputy Collector of Customs
 
-List of all Passengers taken on board the ____
-(burthen ____ tons), whereof ____ is Master,
-from ____, and destined for or in transit through, the United States.
+List of all Passengers taken on board the ►_ _◄
+(burthen ►_ _◄ tons), whereof ►_ _◄ is Master,
+from ►_ _◄, and destined for or in transit through, the United States.
 
 ►Column Headings not numbered◄
 

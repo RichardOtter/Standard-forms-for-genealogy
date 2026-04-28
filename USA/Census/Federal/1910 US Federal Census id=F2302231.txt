@@ -1,8 +1,7 @@
 <FORM ID="F2302231" REV="1" NAME="1910 US Federal Census">
-<NOTES>
+<NOTES_FORM>
 ===========================================DIV50==
 Codes:
-
 See "Standard Forms- how to use.md" file for the key to the meaning of ► ◄ codes.
 
 ===========================================DIV50==
@@ -14,7 +13,7 @@ https://www.ancestry.com/discoveryui-content/view/6376140:7884
 https://www.familysearch.org/ark:/61903/3:1:33SQ-GRJ6-RY2?i=14
 
 ===========================================DIV50==
-</ NOTES>
+</NOTES_FORM>
 
 <FORM_TEXT>
 
@@ -22,23 +21,23 @@ DEPARTMENT OF COMMERCE AND LABOR - BUREAU OF THE CENSUS
 THIRTEENTH CENSUS OF THE UNITED STATES: 1910 - POPULATION
 s11-3211
 
-STATE ____
-COUNTY ____
-TOWNSHIP OR OTHER DIVISION OF COUNTY ____
+STATE ►_ _◄
+COUNTY ►_ _◄
+TOWNSHIP OR OTHER DIVISION OF COUNTY ►_ _◄
 (Insert proper name and also name of class, as township, town, precinct, district, hundred, beat, etc. See instructions.)
-NAME OF INSTITUTION ____
+NAME OF INSTITUTION ►_ _◄
 (Inset name of institution, if any, and indicate the lines on which the entries are made. See instructions.)
 
-NAME OF INCORPORATED PLACE ____
+NAME OF INCORPORATED PLACE ►_ _◄
 (Insert proper name and also name of class, as city, village, town, or borough. See instructions.)
 
-SHEET NO. ____
+SHEET NO. ►_ _◄
 
-SUPERVISOR'S DISTRICT NO. ____
-ENUMERATION DISTRICT NO. ____
-WARD OF CITY ____
+SUPERVISOR'S DISTRICT NO. ►_ _◄
+ENUMERATION DISTRICT NO. ►_ _◄
+WARD OF CITY ►_ _◄
 
-ENUMERATED BY ME ON THE ____ DAY OF ____, 1910. ____, ENUMERATOR.
+ENUMERATED BY ME ON THE ►_ _◄ DAY OF ►_ _◄, 1910. ►_ _◄, ENUMERATOR.
 
 
 ►Column Headings◄
@@ -113,7 +112,12 @@ OWNERSHIP OF HOME.
 
 </FORM_TEXT>
 
+<NOTES_DATA>
 ===========================================DIV50==
+
+===========================================DIV50==
+</NOTES_DATA>
+
 <FORM_DATA>
 
 State                        |          |

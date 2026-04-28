@@ -1,8 +1,7 @@
 <FORM ID="F2302262" REV="2" NAME="1900 US Federal Census HAWAII">
-<NOTES>
+<NOTES_FORM>
 ===========================================DIV50==
 Codes:
-
 See "Standard Forms- how to use.md" file for the key to the meaning of ► ◄ codes.
 
 ===========================================DIV50==
@@ -13,7 +12,7 @@ Examples:
 https://www.ancestry.com/discoveryui-content/view/74605957:7602
 
 ===========================================DIV50==
-</ NOTES>
+</NOTES_FORM>
 
 <FORM_TEXT>
 
@@ -24,18 +23,18 @@ CENSUS OF THE HAWAIIAN ISLANDS.
 SCHEDULE No. 1. - POPULATION
 
 A  ►or B◄
-SHEET No. ____
-____ DISTRICT
-SPECIAL AGENT No. ____
+SHEET No. ►_ _◄
+►_ _◄ DISTRICT
+SPECIAL AGENT No. ►_ _◄
 
 E. D. 69
 A  ►or B◄
-SHEET No. ____
+SHEET No. ►_ _◄
 
-INHABITANTS IN ____ District, Island of ____.
-Name of Institution ____
+INHABITANTS IN ►_ _◄ District, Island of ►_ _◄.
+Name of Institution ►_ _◄
 
-Enumerated by me on the ____ day of June, 1900, ____, Special Agent.
+Enumerated by me on the ►_ _◄ day of June, 1900, ►_ _◄, Special Agent.
 
 ►Column Headings◄
 
@@ -108,7 +107,12 @@ OWNERSHIP OF HOME.
 
 </FORM_TEXT>
 
+<NOTES_DATA>
 ===========================================DIV50==
+
+===========================================DIV50==
+</NOTES_DATA>
+
 <FORM_DATA>
 
 Sheet No.                     |         |
@@ -158,4 +162,3 @@ B   House #                   |         |
 </FORM_DATA>
 
 </FORM>
-

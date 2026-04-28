@@ -1,8 +1,7 @@
 <FORM ID="F2302162" REV="1" NAME="1930 US Federal Census HAWAII">
-<NOTES>
+<NOTES_FORM>
 ===========================================DIV50==
 Codes:
-
 See "Standard Forms- how to use.md" file for the key to the meaning of ► ◄ codes.
 
 ===========================================DIV50==
@@ -14,7 +13,7 @@ https://www.ancestry.com/discoveryui-content/view/104003072:6224
 https://www.familysearch.org/ark:/61903/3:1:33S7-9RZL-L3M?i=44
 
 ===========================================DIV50==
-</ NOTES>
+</NOTES_FORM>
 
 <FORM_TEXT>
 
@@ -25,20 +24,20 @@ DEPARTMENT OF COMMERCE - BUREAU OF THE CENSUS
 FIFTEENTH CENSUS OF THE UNITED STATES: 1930
 POPULATION - HAWAII
 
-County ____
-Island ____
-Institution ____
+County ►_ _◄
+Island ►_ _◄
+Institution ►_ _◄
 (Inset name of institution, if any, and indicate the lines on which the entries are made. See instructions.)
 
-Election District ____
-City, town or village ____
+Election District ►_ _◄
+City, town or village ►_ _◄
 
-Enumeration District No. ____
-Representative District No. ____
-Precinct No. ____
-Enumerated by me on ____, 1930, ____, Enumerator.
+Enumeration District No. ►_ _◄
+Representative District No. ►_ _◄
+Precinct No. ►_ _◄
+Enumerated by me on ►_ _◄, 1930, ►_ _◄, Enumerator.
 
-Sheet No. ____
+Sheet No. ►_ _◄
 
 ►Column Headings◄
 
@@ -115,7 +114,12 @@ E    CODE (For office use only.)
 
 </FORM_TEXT>
 
+<NOTES_DATA>
 ===========================================DIV50==
+
+===========================================DIV50==
+</NOTES_DATA>
+
 <FORM_DATA>
 
 County                       |          |
@@ -164,5 +168,3 @@ Sheet No.                    |          |
 </FORM_DATA>
 
 </FORM>
-
-

@@ -1,8 +1,7 @@
 <FORM ID="F2302151" REV="1" NAME="1940 US Federal Census">
-<NOTES>
+<NOTES_FORM>
 ===========================================DIV50==
 Codes:
-
 See "Standard Forms- how to use.md" file for the key to the meaning of ► ◄ codes.
 
 ===========================================DIV50==
@@ -14,7 +13,7 @@ https://www.ancestry.com/discoveryui-content/view/4864839:2442
 https://www.familysearch.org/ark:/61903/3:1:3QS7-L9MR-CPTD
 
 ===========================================DIV50==
-</ NOTES>
+</NOTES_FORM>
 
 <FORM_TEXT>
 
@@ -397,4 +396,3 @@ Enumerator                   |          |
 </FORM_DATA>
 
 </FORM>
-

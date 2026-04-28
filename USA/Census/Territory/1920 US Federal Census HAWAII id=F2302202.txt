@@ -1,9 +1,8 @@
 <FORM ID="F2302202" REV="1" NAME="1920 US Federal Census HAWAII">
 
-<NOTES>
+<NOTES_FORM>
 ===========================================DIV50==
 Codes:
-
 See "Standard Forms- how to use.md" file for the key to the meaning of ► ◄ codes.
 
 ===========================================DIV50==
@@ -15,7 +14,7 @@ https://www.ancestry.com/discoveryui-content/view/56173532:6061
 https://www.familysearch.org/ark:/61903/3:1:33S7-9RN2-F4?i=36
 
 ===========================================DIV50==
-</ NOTES>
+</NOTES_FORM>
 
 <FORM_TEXT>
 
@@ -25,21 +24,21 @@ DEPARTMENT OF COMMERCE - BUREAU OF THE CENSUS
 FOURTEENTH CENSUS OF THE UNITED STATES: 1920 
 POPULATION - HAWAII
 
-COUNTY ____
-ISLAND ____
-DISTRICT ____
+COUNTY ►_ _◄
+ISLAND ►_ _◄
+DISTRICT ►_ _◄
 
-NAME OF INSTITUTION ____
+NAME OF INSTITUTION ►_ _◄
 (Inset name of institution, if any, and indicate the lines on which the entries are made. See instructions.)
 
-NAME OF CITY, TOWN OR VILLAGE ____
+NAME OF CITY, TOWN OR VILLAGE ►_ _◄
 (Insert proper name and, also, correct designation of place, as city, town, or village. See instructions.)
-ENUMERATED BY ME ON THE ____ DAY OF ____, 1920. ____, ENUMERATOR.
+ENUMERATED BY ME ON THE ►_ _◄ DAY OF ►_ _◄, 1920. ►_ _◄, ENUMERATOR.
 
-SHEET NO. ____
+SHEET NO. ►_ _◄
 
-ENUMERATION DISTRICT NO. ____
-WARD OR DISTRICT OF CITY ____
+ENUMERATION DISTRICT NO. ►_ _◄
+WARD OR DISTRICT OF CITY ►_ _◄
 
 ►Column Headings◄
 
@@ -106,7 +105,12 @@ OCCUPATION.
 
 </FORM_TEXT>
 
+<NOTES_DATA>
 ===========================================DIV50==
+
+===========================================DIV50==
+</NOTES_DATA>
+
 <FORM_DATA>
 
 County                       |          |
@@ -155,4 +159,3 @@ Ward or district             |          |
 </FORM_DATA>
 
 </FORM>
-

@@ -1,41 +1,56 @@
 <FORM ID="F2303153" REV="1" NAME="Bekanntmachung Type 3">
+<NOTES_FORM>
+===========================================DIV50==
+Codes:
+See "Standard Forms- how to use.md" for
+data entry guidelines.
+
+===========================================DIV50==
+Notes:
+
+===========================================DIV50==
+Examples:
+
+===========================================DIV50==
+</NOTES_FORM>
+
 <FORM_TEXT>
 
 ►page 1◄
 
 Bekanntmachung.
 
-Vor= und Zuname des Bräutigams: Herr   ____
-Religion:   ____
-Ort, Tag Monat u. Jahr der Geburt:    geboren zu   ____
-Civilstand  (ob ledig, verwittwet oder geschieden):   ____
-Stand oder Gewerbe:   ____
-Wohnort:    wohnhaft zu   ____
-Heimat:	Heimathberechtigt in   ____
+Vor= und Zuname des Bräutigams: Herr   ►_ _◄
+Religion:   ►_ _◄
+Ort, Tag Monat u. Jahr der Geburt:    geboren zu   ►_ _◄
+Civilstand  (ob ledig, verwittwet oder geschieden):   ►_ _◄
+Stand oder Gewerbe:   ►_ _◄
+Wohnort:    wohnhaft zu   ►_ _◄
+Heimat:	Heimathberechtigt in   ►_ _◄
 Sohn des*)    Sohn des
-Vor= und Zuname des Vaters:   ____
-Stand:   ____
-Wohnort oder Sterbeort:   ____
+Vor= und Zuname des Vaters:   ►_ _◄
+Stand:   ►_ _◄
+Wohnort oder Sterbeort:   ►_ _◄
 und dessen Ehefrau (Wittwe):  und dessen
-Angabe, ob am Leben oder versterben:   ____
-Vor= und Zuname:   ____
-Wohnort, wenn Wittwe:   ____
+Angabe, ob am Leben oder versterben:   ►_ _◄
+Vor= und Zuname:   ►_ _◄
+Wohnort, wenn Wittwe:   ►_ _◄
 beabsichtigt mit (Fräulein, Frau):
-Vor= und Zuname der Braut:   ____
-Religion:   ____
-Ort, Tag, Monatr und Jahr der Geburt:  geboren   ____
-Civilstand	(ob ledig,verwittwet oder gesliieden):   ____
-Stand oder Gewerbe:   ____
-bisheriger Wohnort:	bisher wohnhaft in   ____
-bisheriger Heimath:	bisher Heimathberechtigt zu   ____
+Vor= und Zuname der Braut:   ►_ _◄
+Religion:   ►_ _◄
+Ort, Tag, Monatr und Jahr der Geburt:  geboren   ►_ _◄
+Civilstand	(ob ledig,verwittwet oder gesliieden):   ►_ _◄
+Stand oder Gewerbe:   ►_ _◄
+bisheriger Wohnort:	bisher wohnhaft in   ►_ _◄
+bisheriger Heimath:	bisher Heimathberechtigt zu   ►_ _◄
 Tochter des *)   Tochter des
-Vor= und Zuname des Vaters:   ____
-Stand:   ____
-Wohnor oder Sterbeort:   ____
+Vor= und Zuname des Vaters:   ►_ _◄
+Stand:   ►_ _◄
+Wohnor oder Sterbeort:   ►_ _◄
 und dessen Ehefrau (Wittwe):    und dessen
-Angabe, ob am Leben oder verstorben:   ____
-Vor= und Zuname:   ____
-Wohnort, wenn Wittwe:   ____
+Angabe, ob am Leben oder verstorben:   ►_ _◄
+Vor= und Zuname:   ►_ _◄
+Wohnort, wenn Wittwe:   ►_ _◄
 eine Ehe zu schließen.
 
 –––––––––––
@@ -46,43 +61,34 @@ eine Ehe zu schließen.
 Personen, welche gegen Schliesung dieser Ehe auf Grund zivilrechtlicher Bestim
 mungen Einspruch erheben wollen, haben ihren Einspruch binnen 10 Tagen, von der Anheftung dieser
 Bekanntmachung an gerechnet, bie der unterzeichneten Geneinde-Verwaltung oder bei dem königlichen
-Bezirksamte:   ____   geltend zu machen
-____ den ____ 18____
+Bezirksamte:   ►_ _◄   geltend zu machen
+►_ _◄ den ►_ _◄ 18►_ _◄
 
 Die Gemeinde=Verwaltung
 
-Angeheftet am ____18____
-Abgenommen an ____18____
+Angeheftet am ►_ _◄18►_ _◄
+Abgenommen an ►_ _◄18►_ _◄
 
 Die unterzeichnete Gemeinde=Verwaltung bestätigt, daß die vorsthende Bekanntmachung
 10 Tage in der Gemeinde öffentlich angeheftet war.
 Zugleich wird bemerkt, daß kein Einspruch bei der unterzeichneten Gemeinde-Verwaltung
 erhoben wurde, --- welcher
- ____ den ____ten ____ 18____
+ ►_ _◄ den ►_ _◄ten ►_ _◄ 18►_ _◄
 
 Die Gemeinde-Verwaltung
 
-Berechnet. Gebuhren-Register Nr.____
-
+Berechnet. Gebuhren-Register Nr.►_ _◄
 
 </FORM_TEXT>
 
+<NOTES_DATA>
 ===========================================DIV50==
-<FORM_DATA>
 
+===========================================DIV50==
+</NOTES_DATA>
+
+<FORM_DATA>
 
 </FORM_DATA>
 
-===========================================DIV50==
-Codes:
-
-See "_info.txt" file for the key to the meaning of ► ◄ codes.
-
-===========================================DIV50==
-Notes:
-
-===========================================DIV50==
-Examples:
-
-===========================================DIV50==
 </FORM>

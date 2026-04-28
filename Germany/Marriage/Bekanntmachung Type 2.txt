@@ -1,58 +1,9 @@
 <FORM ID="F2303152" REV="1" NAME="Bekanntmachung Type 2">
-<FORM_TEXT>
-
-Bekanntmachung.
-Vor= und Zuname des Bräutigams Herr
-ob ledig oder verwittwet
-Stand                   ____
-Religion                   ____ 
-Wohnort                   ____
-Heimath                   ____
-geboren zu                   ____
-Sohn des (Name und Stand der Eltern)                   ____
-beabsichtigt mit Fräulein (oder Frau)
-Vor= und Zuname der Braut                   ____
-ob ledig oder verwittwet                   ____
-Religion                   ____
-bisheriger Wohnort                   ____
-" Heimath                   ____
-geboren zu                   ____
-Tochter des                   ____
-Name und Stand des Vatters und der Mutter
-
-eine Ehe zu schließen.
-Personen, welche gegen Schließung dieser Ehe auf Grund civilrechtlicher Bestimmungen
-Einspruch erheben wollen, haben ihren Einspruch binnen 10 Tagen von der Anheftung dieser Be=
-kanntmachung an gerechnet, bei der unterzeichneten Gemeinde=Verwaltung oder bei dem f. Bezirts=Amte
-____ geltend zu machen
-____ den ____ten ____ 188____
-
-Die Gemeinde=Verwaltung.
-
-Angeheftet am ____ 188____
-bgenommen am ____ 188____
-
-Die unterzeichnete Gemeinde=Verwaltung bestätigt, daß die vorstesrende Bekanntmachung 10 Tage
-in der Gemeinde öffentlich angeheftet war.
-Zuglich wird bemekt, daß kein Einspruch bei der unterzeichneten Gemeinde=Verwaltung erhoben wurde.
-
-____ den _____ ten ____ 18____
-
-Die Gemeinde=Verwaltung.
-
-
-</FORM_TEXT>
-
-===========================================DIV50==
-<FORM_DATA>
-
-
-</FORM_DATA>
-
+<NOTES_FORM>
 ===========================================DIV50==
 Codes:
-
-See "_info.txt" file for the key to the meaning of ► ◄ codes.
+See "Standard Forms- how to use.md" for
+data entry guidelines.
 
 ===========================================DIV50==
 Notes:
@@ -61,4 +12,60 @@ Notes:
 Examples:
 
 ===========================================DIV50==
+</NOTES_FORM>
+
+<FORM_TEXT>
+
+Bekanntmachung.
+Vor= und Zuname des Bräutigams Herr
+ob ledig oder verwittwet
+Stand                   ►_ _◄
+Religion                   ►_ _◄ 
+Wohnort                   ►_ _◄
+Heimath                   ►_ _◄
+geboren zu                   ►_ _◄
+Sohn des (Name und Stand der Eltern)                   ►_ _◄
+beabsichtigt mit Fräulein (oder Frau)
+Vor= und Zuname der Braut                   ►_ _◄
+ob ledig oder verwittwet                   ►_ _◄
+Religion                   ►_ _◄
+bisheriger Wohnort                   ►_ _◄
+" Heimath                   ►_ _◄
+geboren zu                   ►_ _◄
+Tochter des                   ►_ _◄
+Name und Stand des Vatters und der Mutter
+
+eine Ehe zu schließen.
+Personen, welche gegen Schließung dieser Ehe auf Grund civilrechtlicher Bestimmungen
+Einspruch erheben wollen, haben ihren Einspruch binnen 10 Tagen von der Anheftung dieser Be=
+kanntmachung an gerechnet, bei der unterzeichneten Gemeinde=Verwaltung oder bei dem f. Bezirts=Amte
+►_ _◄ geltend zu machen
+►_ _◄ den ►_ _◄ten ►_ _◄ 188►_ _◄
+
+Die Gemeinde=Verwaltung.
+
+Angeheftet am ►_ _◄ 188►_ _◄
+bgenommen am ►_ _◄ 188►_ _◄
+
+Die unterzeichnete Gemeinde=Verwaltung bestätigt, daß die vorstesrende Bekanntmachung 10 Tage
+in der Gemeinde öffentlich angeheftet war.
+Zuglich wird bemekt, daß kein Einspruch bei der unterzeichneten Gemeinde=Verwaltung erhoben wurde.
+
+►_ _◄ den ►_ _◄_ ten ►_ _◄ 18►_ _◄
+
+Die Gemeinde=Verwaltung.
+
+
+</FORM_TEXT>
+
+<NOTES_DATA>
+===========================================DIV50==
+
+===========================================DIV50==
+</NOTES_DATA>
+<FORM_DATA>
+
+
+</FORM_DATA>
+
 </FORM>

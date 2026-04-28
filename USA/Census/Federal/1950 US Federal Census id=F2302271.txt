@@ -1,8 +1,7 @@
 <FORM ID="F2302271" REV="1" NAME="1950 US Federal Census">
-<NOTES>
+<NOTES_FORM>
 ===========================================DIV50==
 Codes:
-
 See "Standard Forms- how to use.md" file for the key to the meaning of ► ◄ codes.
 
 ===========================================DIV50==
@@ -13,7 +12,7 @@ Examples:
 https://www.ancestry.com/discoveryui-content/view/134462486:62308
 
 ===========================================DIV50==
-</ NOTES>
+</NOTES_FORM>
 
 <FORM_TEXT>
 

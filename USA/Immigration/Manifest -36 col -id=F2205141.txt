@@ -1,21 +1,17 @@
 <FORM ID="F2205141" REV="1" NAME="Manifest -36 col">
-<NOTES>
+<NOTES_FORM>
 ===========================================DIV50==
 Codes:
-
 See "Standard Forms- how to use.md" file for the key to the meaning of ► ◄ codes.
 
 ===========================================DIV50==
-Notes:
-
-36 columns
+Notes:36 columns
 National Archives: 1924-1948-immigration.pdf    but with 36 columns  ???
 
 Previous ID="2022-05-14-01"
 
 ===========================================DIV50==
 Examples:
-
 21 Dec 1926
 New York
 Erwin Heidenfelder, Mathilde, Otto
@@ -57,7 +53,7 @@ Tsuya Imai, Herbert
 https://www.ancestry.com/discoveryui-content/view/15751846:1502
 
 ===========================================DIV50==
-</ NOTES>
+</NOTES_FORM>
 
 <FORM_TEXT>
 
@@ -69,7 +65,7 @@ Immigration Service
 
 The entries on this list shall be typewritten or printed.
 
-List ____ ►on left hand page◄
+List ►_ _◄ ►on left hand page◄
 
 LIST OR MANIFEST OF ALIEN PASSENGERS FOR THE UNITED STATES IMMIGRATION OFFICER AT PORT OF ARRIVAL 
 
@@ -81,7 +77,7 @@ This (yellow) sheet is for the listing of SECOND-CABIN PASSENGERS ONLY
 This (white) sheet is for the listing of STEERAGE PASSENGERS ONLY
 ►----------------------------◄ 
 
-S.S. ____ Passengers sailing from ____, ____, 19____          Arriving at Port of ____, ____, 19____
+S.S. ►_ _◄ Passengers sailing from ►_ _◄, ►_ _◄, 19►_ _◄          Arriving at Port of ►_ _◄, ►_ _◄, 19►_ _◄
 
 ►Column Headings◄
 
@@ -181,15 +177,15 @@ S.S. ____ Passengers sailing from ____, ____, 19____          Arriving at Port o
 
 36   Marks of identification
 
-List ____  ►on right hand page◄
+List ►_ _◄  ►on right hand page◄
 
 
 ►30 numbered blank data lines◄
 
 
-Total passengers    ____
-U.S. citizens       ____
-Aliens              ____
+Total passengers    ►_ _◄
+U.S. citizens       ►_ _◄
+Aliens              ►_ _◄
 
 * Permanent residence within the meaning of this manifest shall be actual or intended residence of one year or more.
 ‡ List of races will be found on back of this sheet.

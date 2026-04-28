@@ -4,12 +4,13 @@ Transcription by Richard J Otter
 ===========================================DIV50==
 
 <FORM ID="F2604263" REV="1" NAME="Death Certificate California, US 2019">
-<NOTES>
-
+<NOTES_FORM>
+===========================================DIV50==
 Example:
 Rose Otter b1919 -d2019
+===========================================DIV50==
+</NOTES_FORM>
 
-</NOTES>
 <FORM_TEXT>
 ALAMEDA COUNTY HEALTH CARE SERVICES AGENCY
 PUBLIC HEALTH DEPARTMENT
@@ -189,103 +190,102 @@ All times are 24 hr format
 
 <FORM_DATA>
 
-STATE #                             
-LOCAL REG #                         
+0-0 STATE #                         |
+0-1 LOCAL REG #                     |
+1.  NAME De FIRST                   |
+2.  NAME De MIDDLE                  |
+3.  NAME De LAST                    |
+3-1 AKA.                            |
+4.  DATE OF BIRTH                   |
+5.  AGE Yrs.                        |
+5-1 IF UNDER                        |months   days
+9.  BIRTH STATE/FOREIGN COUNTRY     |
+10. SOCIAL SECURITY NUMBER          |
+11. EVER IN U.S. ARMED FORCES?      |yes/no
+12. MARITAL STATUS                  |
+7. DATE OF DEATH mm/dd/ccyy         |
+13. EDUCATION                       |
+14/15. HISPANIC/LATINO(A)/SPANISH?  |yes/no
+16. DECEDENT'S RACE -               |
+17. USUAL OCCUPATION                |
+18. KIND OF BUSINESS                |
+19. YEARS IN OCCUPATION             |
 
-1.  NAME De FIRST                   
-2.  NAME De MIDDLE                  
-3.  NAME De LAST                    
-3-1 AKA.                            
-4.  DATE OF BIRTH                  
-5.  AGE Yrs.                        
-5-1 IF UNDER                        months   days
-9.  BIRTH STATE/FOREIGN COUNTRY     
-10. SOCIAL SECURITY NUMBER          
-11. EVER IN U.S. ARMED FORCES?      yes/no
-12. MARITAL STATUS                  
-7. DATE OF DEATH mm/dd/ccyy         
-13. EDUCATION                       
-14/15. HISPANIC/LATINO(A)/SPANISH?  yes/no
-16. DECEDENT'S RACE -               
-17. USUAL OCCUPATION                
-18. KIND OF BUSINESS                
-19. YEARS IN OCCUPATION             
 
+20. DE'S RESIDENCE                  |
+21. CITY                            |
+22. COUNTY/PROVINCE                 |
+23. ZIP CODE                        |
+24. YEARS IN COUNTY                 |
+25. STATE/FOREIGN COUNTRY           |
+26. In'S NAME, RELATIONSHIP         |
+27. INFORMANT'S ADDRESS             |
+28. SURVIVING SPOUSE -FIRST         |
+29. SURVIVING SPOUSE -MIDDLE        |
+30. SURVIVING SPOUSE -LAST          |
+31. FATHER -FIRST                   |
+32. FATHER MIDDLE                   |
+33. FATHER LAST                     |
+34. BIRTH STATE                     |
+35. MOTHER -FIRST                   |
+36. MOTHER -MIDDLE                  |
+37. MOTHER -LAST                    |
+38. BIRTH STATE                     |
 
-20. DE'S RESIDENCE                  
-21. CITY                            
-22. COUNTY/PROVINCE                 
-23. ZIP CODE                        
-24. YEARS IN COUNTY                 
-25. STATE/FOREIGN COUNTRY           
-26. In'S NAME, RELATIONSHIP         
-27. INFORMANT'S ADDRESS             
-28. SURVIVING SPOUSE -FIRST         
-29. SURVIVING SPOUSE -MIDDLE        
-30. SURVIVING SPOUSE -LAST          
-31. FATHER -FIRST                   
-32. FATHER MIDDLE                   
-33. FATHER LAST                     
-34. BIRTH STATE                     
-35. MOTHER -FIRST                   
-36. MOTHER -MIDDLE                  
-37. MOTHER -LAST                    
-38. BIRTH STATE                     
+39. DISPOSITION DATE (mm/dd/ccyy)   |
+40. PLACE OF FINAL DISPOSITION      |
+41. TYPE OF DISPOSITION(S)          |
+42. SIGNATURE OF EMBALMER           |
+43. LICENSE NUMBER                  |
+44. NAME OF FUNERAL ESTABLISHMENT   |
+45. LICENSE NUMBER                  |
+46. SIGNATURE OF LOCAL REGISTRAR    |
+47. DATE mm/dd/ccyy                 |
 
-39. DISPOSITION DATE (mm/dd/ccyy)   
-40. PLACE OF FINAL DISPOSITION      
-41. TYPE OF DISPOSITION(S)          
-42. SIGNATURE OF EMBALMER           
-43. LICENSE NUMBER                  
-44. NAME OF FUNERAL ESTABLISHMENT   
-45. LICENSE NUMBER                  
-46. SIGNATURE OF LOCAL REGISTRAR    
-47. DATE mm/dd/ccyy                 
-
-101. PLACE OF DEATH                 
-102. IF HOSPITAL                    
-103. IF OTHER THAN HOSPITAL         
-104. COUNTY                         
-105. FACILITY ADDRESS               
-106. CITY                           
+101. PLACE OF DEATH                 |
+102. IF HOSPITAL                    |
+103. IF OTHER THAN HOSPITAL         |
+104. COUNTY                         |
+105. FACILITY ADDRESS               |
+106. CITY                           |
 
 
 107 CAUSE OF DEATH
-(A)                                 
-(AT)                                
-(B)                                 
-(BT)                                
-(C)                                 
-(CT)                                
-(D)                                 
-(DT)                                
+(A)                                     
+(AT)                                    
+(B)                                     
+(BT)                                    
+(C)                                     
+(CT)                                    
+(D)                                     
+(DT)                                    
 
-108. DEATH REPORTED TO CORONER?         yes/no
-109. BIOPSY PERFORMED?                  yes/no
-110. AUTOPSY PERFORMED?                 yes/no
-111. USED IN DETERMINING CAUSE?         yes/no
-112. OTHER SIGNIFICANT CONDITIONS       
-113. WAS OPERATION PERFORMED            
-114-A   Decedent Attended Since         
-114-B   Decedent Last Seen Alive        
-118. ATTENDING PHYSICIAN NAME.          
-119. MANNER OF DEATH                    
-120. INJURED AT WORK?                   
-121. INJURY DATE mm/dd/ccyy             
-122. HOUR (24 Hours)                    
-123. PLACE OF INJURY                    
-124. OW INJURY OCCURRED                 
-125. LOCATION OF INJURY                 
-126. SIGNATURE OF CORONER               
-127. DATE  mm/dd/ccyy                   
-128. TYPE NAME, CORONER                 
-A                                       
-B                                       
-C                                       
-D                                       
-E                                       
-FAX AUTH.#                              
-CENSUS TRACT                            
+108. DEATH REPORTED TO CORONER?         |yes/no
+109. BIOPSY PERFORMED?                  |yes/no
+110. AUTOPSY PERFORMED?                 |yes/no
+111. USED IN DETERMINING CAUSE?         |yes/no
+112. OTHER SIGNIFICANT CONDITIONS       |
+113. WAS OPERATION PERFORMED            |
+114-A   Decedent Attended Since         |
+114-B   Decedent Last Seen Alive        |
+118. ATTENDING PHYSICIAN NAME.          |
+119. MANNER OF DEATH                    |
+120. INJURED AT WORK?                   |
+121. INJURY DATE mm/dd/ccyy             |
+122. HOUR (24 Hours)                    |
+123. PLACE OF INJURY                    |
+124. OW INJURY OCCURRED                 |
+125. LOCATION OF INJURY                 |
+126. SIGNATURE OF CORONER               |
+127. DATE  mm/dd/ccyy                   |
+128. TYPE NAME, CORONER                 |
+A                                       |
+B                                       |
+C                                       |
+D                                       |
+E                                       |
+FAX AUTH.#                              |
+CENSUS TRACT                            |
 
 </FORM_DATA>
 </FORM>

@@ -1,4 +1,28 @@
 <FORM ID="F2501221" REV="2" NAME="1925 New York State Census">
+
+<NOTES_FORM>
+===========================================DIV50==
+Codes:
+See "Standard Forms- how to use.md" for
+data entry guidelines.
+
+===========================================DIV50==
+Notes:
+Column 13 data is not clear regarding infants.
+
+Ancestry's collection-
+https://www.ancestry.com/search/collections/catalog/?title=New%20york%20state%20census&location=35_2
+
+1925 NY
+https://www.ancestry.com/search/collections/2704/
+
+===========================================DIV50==
+Examples:
+https://www.ancestry.com/imageviewer/collections/2704/images/32849_b094382-00004?usePUB=true&_phsrc=MXB758
+
+===========================================DIV50==
+</NOTES_FORM>
+
 <FORM_TEXT>
 
 COUNTY ____
@@ -54,7 +78,12 @@ FOR INMATES OF INSTITUTIONS, INFANTS UNDER ONE YEAR OF AGE
 
 </FORM_TEXT>
 
+<NOTES_DATA>
 ===========================================DIV50==
+
+===========================================DIV50==
+</NOTES_DATA>
+
 <FORM_DATA>
 
 1925 NY state                  | June 1, 1925    |
@@ -88,26 +117,3 @@ Enumerator                     |                 |
 </FORM_DATA>
 </FORM>
 
-
-===========================================DIV50==
-Codes:
-
-See "_info.txt" file for the key to the meaning of ► ◄ codes.
-
-===========================================DIV50==
-Notes:
-Column 13 data is not clear regarding infants.
-
-Ancestry's collection-
-https://www.ancestry.com/search/collections/catalog/?title=New%20york%20state%20census&location=35_2
-
-1925 NY
-https://www.ancestry.com/search/collections/2704/
-
-
-===========================================DIV50==
-Examples:
-
-https://www.ancestry.com/imageviewer/collections/2704/images/32849_b094382-00004?usePUB=true&_phsrc=MXB758
-
-===========================================DIV50==

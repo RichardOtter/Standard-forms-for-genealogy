@@ -2,8 +2,25 @@
 Transcription by Richard J Otter
 
 ===========================================DIV50==
-
 <FORM ID="F2604271" REV="1" NAME="Birth Certificate CA,USA 1997">
+<NOTES_FORM>
+===========================================DIV50==
+Codes:
+See "Standard Forms- how to use.md" for
+data entry guidelines.
+
+===========================================DIV50==
+Examples:
+===========================================DIV50==
+Notes
+the remainder of the original document is not included on
+the certified short form copy, it includes-
+For mother & father- Social Security number, Job title, 
+field of employment, race, number of prenatal doctor visits
+
+===========================================DIV50==
+</NOTES_FORM>
+
 <FORM_TEXT>
 
 CERTIFICATE OF LIVE BIRTH
@@ -71,7 +88,7 @@ MOTHER OF CHILD
 
 INFORMANT CERTIFICATION
 I CERTIFY THAT I HAVE REVIEWED THE STATED INFORMATION AND THAT IT IS TRUE AND CORRECT TO THE BEST OF MY KNOWLEDGE.
-12A. PARENT OR OTHER INFORMANT - SUGNATURE
+12A. PARENT OR OTHER INFORMANT - SIGNATURE
 ►_ _◄
 12B. RELATIONSHIP TO CHILD
 ►_ _◄
@@ -105,58 +122,57 @@ CONFIDENTIAL INFORMATION FOR PUBLIC HEALTH USE ONLY
 
 </FORM_TEXT>
 
-<NOTES>
-the remainder of the original document is not included on
-the certified short form copy, it includes-
-For mother & father- Social Security number, Job title, 
-field of employment, race, number of prenatal doctor visits
-</NOTES>
+<NOTES_DATA>
+===========================================DIV50==
 
 ===========================================DIV50==
+</ NOTES_DATA>
+
 <FORM_DATA>
 
-STATE FILE NUMBER           
-CERTIFICATE NUMBER          
-1A. Name given              
-1B. Name middle             
-1C. Name family             
-2. Sex                      
-3a. Single, Twin, Etc.      
-3b. This Child, 1st Etc     
-4a. Date MM/DD/YY           
-4b. Hour                    
-5a. Place                   
-5b. Street Address          
-5c. City                    
-5d. County                  
-5e. Planned Place           
+STATE FILE NUMBER           |
+CERTIFICATE NUMBER          |
+1A. Name given              |
+1B. Name middle             |
+1C. Name family             |
+2. Sex                      |
+3a. Single, Twin, Etc.      |
+3b. This Child, 1st Etc     |
+4a. Date MM/DD/YY           |
+4b. Hour                    |
+5a. Place                   |
+5b. Street Address          |
+5c. City                    |
+5d. County                  |
+5e. Planned Place           |
 
-6A. Father Name given       
-6B. Father Name middle      
-6C. Father Name family      
-7. State of Birth           
-8. Date of Birth            
+6A. Father Name given       |
+6B. Father Name middle      |
+6C. Father Name family      |
+7. State of Birth           |
+8. Date of Birth            |
 
-9A. Mother Name given       
-9B. Mother Name middle      
-9C. Mother Name family      
-10. State of Birth          
-11. Date of Birth           
+9A. Mother Name given       |
+9B. Mother Name middle      |
+9C. Mother Name family      |
+10. State of Birth          |
+11. Date of Birth           |
 
-12a. Parent/Informant       
-12b. Relationship           
-12c. Date Signed            
+12a. Parent/Informant       |
+12b. Relationship           |
+12c. Date Signed            |
 
-13a. Attending doctor       
-13b. License Number         
-13c. Date Signed            
-13d. Name Attendant         
-14. Name Of Certifier       
+13a. Attending doctor       |
+13b. License Number         |
+13c. Date Signed            |
+13d. Name Attendant         |
+14. Name Of Certifier       |
 
-15a. Date Of Death          
-15b. State File No.         
-16. Local Registrar         
-17. Date Accepted           
+15a. Date Of Death          |
+15b. State File No.         |
+16. Local Registrar         |
+17. Date Accepted           |
+
 </FORM_DATA>
-</FORM>
 
+</FORM>

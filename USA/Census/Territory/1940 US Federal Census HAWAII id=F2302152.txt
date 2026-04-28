@@ -1,8 +1,7 @@
 <FORM ID="F2302152" REV="1" NAME="1940 US Federal Census HAWAII">
-<NOTES>
+<NOTES_FORM>
 ===========================================DIV50==
 Codes:
-
 See "Standard Forms- how to use.md" file for the key to the meaning of ► ◄ codes.
 
 ===========================================DIV50==
@@ -14,7 +13,7 @@ https://www.ancestry.com/discoveryui-content/view/78948371:2442
 https://www.familysearch.org/ark:/61903/3:1:3QS7-L9MB-LCVF
 
 ===========================================DIV50==
-</ NOTES>
+</NOTES_FORM>
 
 <FORM_TEXT>
 
@@ -247,7 +246,12 @@ Public emergency employment (WPA, NYA, CCC, etc,)          E
 
 </FORM_TEXT>
 
+<NOTES_DATA>
 ===========================================DIV50==
+
+===========================================DIV50==
+</NOTES_DATA>
+
 <FORM_DATA>
 
 County                       |          |
@@ -298,6 +302,3 @@ Sheet No.                    |          |
 </FORM_DATA>
 
 </FORM>
-
-
-

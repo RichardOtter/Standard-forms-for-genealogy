@@ -1,5 +1,5 @@
 <FORM ID="F251125" REV="1" NAME="Bavarian Military Rosters WWI, Type=B">
-<NOTES>
+<NOTES_FORM>
 Kriegsstammrollen, 1914-1918. Bavarian State Archives. Department IV, War Archive, Munich.
 as viewed on Ancestry.com
 Database #1631
@@ -11,32 +11,7 @@ Personal Description column has 8 lines printed in each of the 2 rows.
 Discharge column 14 has 3 lines printed in each of the 2 rows.
 Comments column 15 has 1 line printed in each of the 2 rows.
 
-</NOTES>
-
-<FORM_TEXT>
-
-►Column Headings◄
-
-1   Laufende Nr.
-2   Familien- und Vorname Dienstgrad
-3   Datum und Ort der Geburt
-4   Wohnsitz der Eltern oder des Vormundes | Aufenthaltsort des Soldaten vor dem Diensteintritt
-5   Religion | Ob verheiratet, Kinder
-6   Stand oder Gewerbe | Bestrafungen vor dem Diensteintritt
-7   Personal- Beschreibung (mit dem Soldbuch übereinstimmend) | Große: Gestalt: Kinn: Rase: Mund: Haar: Bart: Besondere kennzeichen:
-8   Ausgehoben (Aushebungs Bezirk, Vorstellungsliste) | Freiwillig eingetreten
-9   Datum des Diensteintritts | Datum der Vereidigung
-10  Dienst=Verhältnisse (Beförderungen, Versetzungen, Schießklasse, Schützenabzeichen)
-11  Orden und Ehrenzeichen | Feldzüge
-12  Verwundungen, Dienstbeschädigungen, Krankheiten
-13  Führung (Entlassung in die II. Klasse, Rehabilitierung) | Strafen, f. Strafbuch Nr.
-14  Datum u. Art des Abganges | Wohin entlassen? | Ort:  Bezirksamt:  Bez.+Kdo.:
-15  Bemerkungen, welche in den Militärpaß aufzunehmen sind und Personal-Notizen.| Stiefellange  em,  Weite
-
-</FORM_TEXT>
-
 ===========================================DIV50==
-<NOTES>
 As printed, includes hyphens and new lines.
 
 1
@@ -188,9 +163,37 @@ Translation by Google
 14 Date and manner of discharge | Discharged to where?
 15 Remarks to be included in the military pass and personal notes. | Boot length  width
 
-</NOTES>
+===========================================DIV50==
+</NOTES_FORM>
+
+<FORM_TEXT>
+
+►Column Headings◄
+
+1   Laufende Nr.
+2   Familien- und Vorname Dienstgrad
+3   Datum und Ort der Geburt
+4   Wohnsitz der Eltern oder des Vormundes | Aufenthaltsort des Soldaten vor dem Diensteintritt
+5   Religion | Ob verheiratet, Kinder
+6   Stand oder Gewerbe | Bestrafungen vor dem Diensteintritt
+7   Personal- Beschreibung (mit dem Soldbuch übereinstimmend) | Große: Gestalt: Kinn: Rase: Mund: Haar: Bart: Besondere kennzeichen:
+8   Ausgehoben (Aushebungs Bezirk, Vorstellungsliste) | Freiwillig eingetreten
+9   Datum des Diensteintritts | Datum der Vereidigung
+10  Dienst=Verhältnisse (Beförderungen, Versetzungen, Schießklasse, Schützenabzeichen)
+11  Orden und Ehrenzeichen | Feldzüge
+12  Verwundungen, Dienstbeschädigungen, Krankheiten
+13  Führung (Entlassung in die II. Klasse, Rehabilitierung) | Strafen, f. Strafbuch Nr.
+14  Datum u. Art des Abganges | Wohin entlassen? | Ort:  Bezirksamt:  Bez.+Kdo.:
+15  Bemerkungen, welche in den Militärpaß aufzunehmen sind und Personal-Notizen.| Stiefellange  em,  Weite
+
+</FORM_TEXT>
+
+<NOTES_DATA>
+===========================================DIV50==
 
 ===========================================DIV50==
+</NOTES_DATA>
+
 <FORM_DATA>
 
 1    Number
@@ -220,4 +223,5 @@ Translation by Google
 15b  width
 
 </FORM_DATA>
+
 </FORM>

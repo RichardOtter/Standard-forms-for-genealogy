@@ -1,9 +1,8 @@
 <FORM ID="F2206202" REV="1" NAME="Manifest -21a col">
 
-<NOTES>
+<NOTES_FORM>
 ===========================================DIV50==
 Codes:
-
 See "Standard Forms- how to use.md" file for the key to the meaning of ► ◄ codes.
 
 ===========================================DIV50==
@@ -18,7 +17,7 @@ Heiji Asano, Riu, Yasubei, Nihei
 https://www.ancestry.com/discoveryui-content/view/652893:1502
 
 ===========================================DIV50==
-</ NOTES>
+</NOTES_FORM>
 
 <FORM_TEXT>
 
@@ -30,9 +29,9 @@ LIST OR MANIFEST OF ALIEN IMMIGRANTS FOR THE COMMISSIONER OF IMMIGRATION
 
 Required by the regulations of the Secretary of the Treasury of the United States, under Act of Congress approved March 3, 1893, to be delivered to the Commissioner or Immigration by the Commanding Officer of any vessel having such passengers on board, upon arrival at a port in the United States.
 
-List No. ____
+List No. ►_ _◄
 
-S.S. ____ sailing from ____, ____, 1____  arriving at Port of ____, 1____ 
+S.S. ►_ _◄ sailing from ►_ _◄, ►_ _◄, 1►_ _◄  arriving at Port of ►_ _◄, 1►_ _◄ 
 
 ►Column Headings◄
 
