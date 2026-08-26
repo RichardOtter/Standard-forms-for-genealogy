@@ -12,11 +12,12 @@ integer
 Name
 Follow the existing pattern 
 
-If the data entry section is chnaged in a way that makes data ambiuous, change the Forn number, otherwise change only the Rev level.
+If the data entry section is changed in a way that makes data ambiguous, change
+the Form number, otherwise change only the Rev level.
 
 
 The doc is XML, so use ►◄ instead of <> for meta text.
-These chars should all be escaped. Many will not be requied, but it's safer.
+These chars should all be escaped. Many will not be required, but it's safer.
 "   &quot;
 '   &apos;
 <   &lt;

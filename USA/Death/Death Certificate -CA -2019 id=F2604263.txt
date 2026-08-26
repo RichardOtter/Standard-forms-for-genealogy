@@ -3,18 +3,16 @@ Transcription by Richard J Otter
 
 ===========================================DIV50==
 
-<FORM ID="F2604263" REV="1" NAME="Death Certificate California, US 2019">
+<FORM ID="F2604263" REV="1" NAME="Death Certificate -California, US -2019">
 <NOTES_FORM>
 ===========================================DIV50==
 Example:
+Alban Otter -b1927 -d2006
 Rose Otter b1919 -d2019
 ===========================================DIV50==
 </NOTES_FORM>
 
 <FORM_TEXT>
-ALAMEDA COUNTY HEALTH CARE SERVICES AGENCY
-PUBLIC HEALTH DEPARTMENT
-
 CERTIFICATE OF DEATH
 STATE OF CALIFORNIA
 USE BLACK INK ONLY / NO ERASURES, WHITEOUTS OR ALTERATIONS
@@ -39,7 +37,7 @@ IF UNDER ONE YEAR  Months ►_  _◄  Days ►_  _◄
 11. EVER IN U.S. ARMED FORCES? ►CheckBox◄ YES   ►CheckBox◄ NO   ►CheckBox◄ UNK
 12. MARITAL STATUS/SRDP (at Time of Death) ►_  _◄
 7. DATE OF DEATH mm/dd/ccyy ►_  _◄
-8, HOUR (24 Hours) ►_  _◄
+8. HOUR (24 Hours) ►_  _◄
 13. EDUCATION - Highest Level Degree (see worksheet on back) ►_  _◄
 14/15. WAS DECEDENT HISPANIC/LATINO(A)/SPANISH? (If yes, see worksheet on back)
 ►CheckBox◄ YES ►_  _◄   ►CheckBox◄ NO
@@ -141,6 +139,9 @@ LAST
 113. WAS OPERATION PERFORMED FOR ANY CONDITION IN ITEM 107 OR  112? (If yes, list type of operation and date.)
 ►_  _◄
 
+113a.  IF FEMALE, PREGNANT IN LAST YEAR
+ ►CheckBox◄ YES   ►CheckBox◄ NO  ►CheckBox◄ UNK
+
 114. I CERTIFY THAT TO THE BEST OF MY KNOWLEDGE DEATH OCCURRED AT THE HOUR, DATE, AND PLACE STATED FROM THE CAUSES STATED.
 (A) Decedent Attended Since
 ►_  _◄ mm/dd/ccyy
@@ -203,7 +204,8 @@ All times are 24 hr format
 10. SOCIAL SECURITY NUMBER          |
 11. EVER IN U.S. ARMED FORCES?      |yes/no
 12. MARITAL STATUS                  |
-7. DATE OF DEATH mm/dd/ccyy         |
+7. DATE OF DEATH                    |
+8. HOUR                             |
 13. EDUCATION                       |
 14/15. HISPANIC/LATINO(A)/SPANISH?  |yes/no
 16. DECEDENT'S RACE -               |
@@ -232,7 +234,7 @@ All times are 24 hr format
 37. MOTHER -LAST                    |
 38. BIRTH STATE                     |
 
-39. DISPOSITION DATE (mm/dd/ccyy)   |
+39. DISPOSITION DATE                |
 40. PLACE OF FINAL DISPOSITION      |
 41. TYPE OF DISPOSITION(S)          |
 42. SIGNATURE OF EMBALMER           |
@@ -240,7 +242,7 @@ All times are 24 hr format
 44. NAME OF FUNERAL ESTABLISHMENT   |
 45. LICENSE NUMBER                  |
 46. SIGNATURE OF LOCAL REGISTRAR    |
-47. DATE mm/dd/ccyy                 |
+47. DATE                            |
 
 101. PLACE OF DEATH                 |
 102. IF HOSPITAL                    |
@@ -251,14 +253,14 @@ All times are 24 hr format
 
 
 107 CAUSE OF DEATH
-(A)                                     
-(AT)                                    
-(B)                                     
-(BT)                                    
-(C)                                     
-(CT)                                    
-(D)                                     
-(DT)                                    
+(A)                                 |
+(AT)                                |
+(B)                                 |
+(BT)                                |
+(C)                                 |
+(CT)                                |
+(D)                                 |
+(DT)                                |
 
 108. DEATH REPORTED TO CORONER?         |yes/no
 109. BIOPSY PERFORMED?                  |yes/no
@@ -266,6 +268,7 @@ All times are 24 hr format
 111. USED IN DETERMINING CAUSE?         |yes/no
 112. OTHER SIGNIFICANT CONDITIONS       |
 113. WAS OPERATION PERFORMED            |
+113a IF FEMALE, PREGNANT IN LAST YEAR   |
 114-A   Decedent Attended Since         |
 114-B   Decedent Last Seen Alive        |
 118. ATTENDING PHYSICIAN NAME.          |
